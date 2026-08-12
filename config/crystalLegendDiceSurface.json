@@ -1,0 +1,188 @@
+{
+  "data": [
+    {
+      "des": "無任何效果。",
+      "name": "空",
+      "iconID": 1,
+      "id": 100,
+      "paramType": 0,
+      "relateStateID": 0
+    },
+    {
+      "des": "造成X點傷害。",
+      "name": "攻擊",
+      "iconID": 2,
+      "id": 1,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "獲得X點護盾。",
+      "name": "防禦",
+      "iconID": 3,
+      "id": 2,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "恢復X點生命值。",
+      "name": "恢復",
+      "iconID": 4,
+      "id": 3,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即重新投擲當前手上的所有骰子。",
+      "name": "重骰",
+      "iconID": 5,
+      "id": 4,
+      "paramType": 0,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即抽取X個骰子。",
+      "name": "抽取",
+      "iconID": 6,
+      "id": 5,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即失去X點生命值。",
+      "name": "傷口",
+      "iconID": 13,
+      "id": 6,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "消耗當前準備進行的攻擊傷害值，全部轉變為獲得護盾值。（不包含能力增幅形成的傷害）",
+      "name": "佯攻",
+      "iconID": 14,
+      "id": 7,
+      "paramType": 0,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即降低敵方25%即將造成的攻擊傷害，重複X次。",
+      "name": "削弱",
+      "iconID": 17,
+      "id": 8,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即降低敵方50%的當前護盾值，重複X次。",
+      "name": "溶解",
+      "iconID": 18,
+      "id": 9,
+      "paramType": 1,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即獲得X層【電氣】。",
+      "name": "蓄電",
+      "iconID": 10,
+      "id": 10,
+      "paramType": 1,
+      "relateStateID": 4
+    },
+    {
+      "des": "立即將當前【電氣】層數乘以X倍。",
+      "name": "超載",
+      "iconID": 10,
+      "id": 11,
+      "paramType": 2,
+      "relateStateID": 4
+    },
+    {
+      "des": "消耗當前的【電氣】層數，全部轉變為X倍的攻擊傷害值。",
+      "name": "雷刃",
+      "iconID": 11,
+      "id": 12,
+      "paramType": 2,
+      "relateStateID": 4
+    },
+    {
+      "des": "立即獲得X層【力量】。",
+      "name": "力量",
+      "iconID": 7,
+      "id": 13,
+      "paramType": 1,
+      "relateStateID": 1
+    },
+    {
+      "des": "立即獲得X層【架勢】。",
+      "name": "架勢",
+      "iconID": 8,
+      "id": 14,
+      "paramType": 1,
+      "relateStateID": 2
+    },
+    {
+      "des": "立即獲得X層【成長】。",
+      "name": "成長",
+      "iconID": 9,
+      "id": 15,
+      "paramType": 1,
+      "relateStateID": 3
+    },
+    {
+      "des": "消耗當前已擁有和即將獲得的護盾值，全部轉變為攻擊傷害值。（不包含能力增幅形成的護盾）",
+      "name": "化勁",
+      "iconID": 15,
+      "id": 16,
+      "paramType": 0,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即獲得X層【殘像】。",
+      "name": "殘像",
+      "iconID": 16,
+      "id": 17,
+      "paramType": 1,
+      "relateStateID": 5
+    },
+    {
+      "des": "立即向敵方施加X層【感染】。",
+      "name": "感染",
+      "iconID": 23,
+      "id": 18,
+      "paramType": 1,
+      "relateStateID": 17
+    },
+    {
+      "des": "立即獲得X層【伏擊】。",
+      "name": "暗算",
+      "iconID": 21,
+      "id": 19,
+      "paramType": 1,
+      "relateStateID": 18
+    },
+    {
+      "des": "將敵方意圖中即將恢復的生命值和獲得的護甲值轉變為向對方施加對應層數的感染。",
+      "name": "變異",
+      "iconID": 22,
+      "id": 20,
+      "paramType": 0,
+      "relateStateID": 0
+    },
+    {
+      "des": "立即獲得X層【礦脈】。",
+      "name": "礦脈",
+      "iconID": 25,
+      "id": 21,
+      "paramType": 1,
+      "relateStateID": 20
+    },
+    {
+      "des": "立即獲得X層【閃耀】。",
+      "name": "閃耀",
+      "iconID": 26,
+      "id": 22,
+      "paramType": 1,
+      "relateStateID": 21
+    }
+  ]
+}

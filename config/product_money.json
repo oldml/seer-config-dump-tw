@@ -1,0 +1,456 @@
+{
+  "root": {
+    "item": [
+      {
+        "name": "1鑽石",
+        "itemID": [
+          5
+        ],
+        "gold": 1,
+        "price": 5,
+        "productID": 200000,
+        "vip": 1
+      },
+      {
+        "name": "10鑽石",
+        "itemID": [
+          5
+        ],
+        "gold": 10,
+        "price": 50,
+        "productID": 200001,
+        "vip": 1
+      },
+      {
+        "name": "50鑽石",
+        "itemID": [
+          5
+        ],
+        "gold": 50,
+        "price": 250,
+        "productID": 200002,
+        "vip": 1
+      },
+      {
+        "name": "補價鑽石",
+        "itemID": [
+          5
+        ],
+        "gold": 1,
+        "price": 5,
+        "productID": 200003,
+        "vip": 1
+      },
+      {
+        "name": "2019暑期尊享特權月卡",
+        "itemID": [
+          1720383
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200004,
+        "vip": 1
+      },
+      {
+        "name": "購買lv1鑽石金卡",
+        "itemID": [
+          1720761
+        ],
+        "gold": 1,
+        "price": 70,
+        "productID": 200005,
+        "vip": 1
+      },
+      {
+        "name": "購買lv2鑽石金卡",
+        "itemID": [
+          1720762
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200006,
+        "vip": 1
+      },
+      {
+        "name": "購買lv3鑽石金卡",
+        "itemID": [
+          1720763
+        ],
+        "gold": 1,
+        "price": 330,
+        "productID": 200007,
+        "vip": 1
+      },
+      {
+        "name": "購買lv4鑽石金卡",
+        "itemID": [
+          1720764
+        ],
+        "gold": 1,
+        "price": 490,
+        "productID": 200008,
+        "vip": 1
+      },
+      {
+        "name": "購買lv5鑽石金卡",
+        "itemID": [
+          1720765
+        ],
+        "gold": 1,
+        "price": 490,
+        "productID": 200009,
+        "vip": 1
+      },
+      {
+        "name": "2020寒假尊享特權月卡",
+        "itemID": [
+          1721181
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200010,
+        "vip": 1
+      },
+      {
+        "name": "2020暑期尊享特權月卡",
+        "itemID": [
+          1722273
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200011,
+        "vip": 1
+      },
+      {
+        "name": "2021寒假尊享特權月卡",
+        "itemID": [
+          1723208
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200012,
+        "vip": 1
+      },
+      {
+        "name": "2021暑假尊享特權月卡",
+        "itemID": [
+          1723851
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200013,
+        "vip": 1
+      },
+      {
+        "name": "2022寒假尊享特權月卡",
+        "itemID": [
+          1724325
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200014,
+        "vip": 1
+      },
+      {
+        "name": "2022暑假尊享特權月卡",
+        "itemID": [
+          1724679
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200015,
+        "vip": 1
+      },
+      {
+        "name": "2023寒假尊享特權月卡",
+        "itemID": [
+          1725007
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200016,
+        "vip": 1
+      },
+      {
+        "name": "2023暑假尊享特權月卡",
+        "itemID": [
+          1725374
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200035,
+        "vip": 1
+      },
+      {
+        "name": "2024寒假尊享特權月卡",
+        "itemID": [
+          1725735
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200036,
+        "vip": 1
+      },
+      {
+        "name": "2024暑假尊享特權月卡",
+        "itemID": [
+          1726101
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200037,
+        "vip": 1
+      },
+      {
+        "name": "2025寒假尊享特權月卡",
+        "itemID": [
+          1726804
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200041,
+        "vip": 1
+      },
+      {
+        "name": "購買進階版戰令",
+        "itemID": [
+          1725143
+        ],
+        "gold": 1,
+        "price": 390,
+        "productID": 200031,
+        "vip": 1
+      },
+      {
+        "name": "購買至尊版戰令",
+        "itemID": [
+          1725144
+        ],
+        "gold": 1,
+        "price": 690,
+        "productID": 200032,
+        "vip": 1
+      },
+      {
+        "name": "進階版升級至尊版戰令",
+        "itemID": [
+          1725158
+        ],
+        "gold": 1,
+        "price": 300,
+        "productID": 200034,
+        "vip": 1
+      },
+      {
+        "name": "升級進階【星際通行證】",
+        "itemID": [
+          1726720
+        ],
+        "gold": 1,
+        "price": 390,
+        "productID": 200038,
+        "vip": 1
+      },
+      {
+        "name": "升級至尊【星際通行證】",
+        "itemID": [
+          1726721
+        ],
+        "gold": 1,
+        "price": 690,
+        "productID": 200039,
+        "vip": 1
+      },
+      {
+        "name": "優惠升級至尊【星際通行證】",
+        "itemID": [
+          1726722
+        ],
+        "gold": 1,
+        "price": 300,
+        "productID": 200040,
+        "vip": 1
+      },
+      {
+        "name": "星際密令禮包",
+        "itemID": [
+          1726842
+        ],
+        "gold": 1,
+        "price": 33,
+        "productID": 200048,
+        "vip": 1
+      },
+      {
+        "name": "抗性培養禮包",
+        "itemID": [
+          1726843
+        ],
+        "gold": 1,
+        "price": 100,
+        "productID": 200049,
+        "vip": 1
+      },
+      {
+        "name": "精靈養成禮包",
+        "itemID": [
+          1726844
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200050,
+        "vip": 1
+      },
+      {
+        "name": "賽爾號精靈：孫悟空",
+        "itemID": [
+          1726922
+        ],
+        "gold": 1,
+        "price": 500,
+        "productID": 200051,
+        "vip": 1
+      },
+      {
+        "name": "賽爾號精靈：二郎神（特性升級版）",
+        "itemID": [
+          1726923
+        ],
+        "gold": 1,
+        "price": 500,
+        "productID": 200052,
+        "vip": 1
+      },
+      {
+        "name": "賽爾號皮膚：齊天大聖·孫悟空",
+        "itemID": [
+          1726924
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200053,
+        "vip": 1
+      },
+      {
+        "name": "賽爾號皮膚：降魔神君·二郎神",
+        "itemID": [
+          1726925
+        ],
+        "gold": 1,
+        "price": 250,
+        "productID": 200054,
+        "vip": 1
+      },
+      {
+        "name": "新兵特權",
+        "itemID": [
+          1727062
+        ],
+        "gold": 1,
+        "price": 33,
+        "productID": 200055,
+        "vip": 1
+      },
+      {
+        "name": "購買精靈心願單禮包（小）",
+        "itemID": [
+          1727132
+        ],
+        "gold": 1,
+        "price": 50,
+        "productID": 200056,
+        "vip": 1
+      },
+      {
+        "name": "購買精靈心願單禮包（中）",
+        "itemID": [
+          1727133
+        ],
+        "gold": 1,
+        "price": 70,
+        "productID": 200057,
+        "vip": 1
+      },
+      {
+        "name": "購買精靈心願單禮包（大）",
+        "itemID": [
+          1727134
+        ],
+        "gold": 1,
+        "price": 200,
+        "productID": 200058,
+        "vip": 1
+      },
+      {
+        "name": "星際特權憑證",
+        "itemID": [
+          1727135
+        ],
+        "gold": 1,
+        "price": 100,
+        "productID": 200059,
+        "vip": 1
+      },
+      {
+        "name": "尊享特權鑽石月卡",
+        "itemID": [
+          1727260
+        ],
+        "gold": 1,
+        "price": 330,
+        "productID": 200060,
+        "vip": 1
+      },
+      {
+        "name": "限時秒殺紅蓮之誓·安卡史詩皮膚",
+        "itemID": [
+          1727392
+        ],
+        "gold": 1,
+        "price": 70,
+        "productID": 200061,
+        "vip": 1
+      },
+      {
+        "name": "解鎖巴姆的寶藏",
+        "itemID": [
+          1727476
+        ],
+        "gold": 1,
+        "price": 90,
+        "productID": 200062,
+        "vip": 1
+      },
+      {
+        "name": "購買閃耀徽章進階版",
+        "itemID": [
+          1727499
+        ],
+        "gold": 1,
+        "price": 150,
+        "productID": 200063,
+        "vip": 1
+      },
+      {
+        "name": "星鑽",
+        "itemID": [
+          1727555
+        ],
+        "gold": 1,
+        "price": 5,
+        "productID": 200064,
+        "vip": 1
+      },
+      {
+        "name": "限時秒殺辰坤星魂史詩皮膚",
+        "itemID": [
+          1727569
+        ],
+        "gold": 1,
+        "price": 70,
+        "productID": 200065,
+        "vip": 1
+      }
+    ]
+  }
+}

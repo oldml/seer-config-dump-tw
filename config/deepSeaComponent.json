@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "7",
+      "battleUseID": 0,
+      "firstTalkID": 461,
+      "id": 1,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "7",
+      "battleUseID": 0,
+      "firstTalkID": 462,
+      "id": 2,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "2_3",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 463,
+      "id": 3,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "3_2",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 464,
+      "id": 4,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "4_1",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 465,
+      "id": 5,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "5_1",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 466,
+      "id": 6,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "6_2",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 467,
+      "id": 7,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "7_3",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 468,
+      "id": 8,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "8_1",
+      "type": "1",
+      "battleUseID": 0,
+      "firstTalkID": 469,
+      "id": 9,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 470,
+      "id": 11,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 12,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 13,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 14,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 15,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 16,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 17,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 18,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "",
+      "rewardDrop": "",
+      "type": "4",
+      "battleUseID": 0,
+      "firstTalkID": 0,
+      "id": 19,
+      "monsterID": 0,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "探索進度和背包採集內容已經自動更新，長按【確認】可以立即返航，也可以選擇離開繼續探索。",
+      "rewardDrop": "",
+      "type": "5",
+      "battleUseID": 0,
+      "firstTalkID": 471,
+      "id": 20,
+      "monsterID": 5821,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【淵水母·悅】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19054,
+      "firstTalkID": 472,
+      "id": 21,
+      "monsterID": 4790,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【淵水母·鬱】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19055,
+      "firstTalkID": 473,
+      "id": 22,
+      "monsterID": 4791,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【淵水母·怒】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19056,
+      "firstTalkID": 474,
+      "id": 23,
+      "monsterID": 4792,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【海天使】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*3）",
+      "rewardDrop": "1_3",
+      "type": "2",
+      "battleUseID": 19057,
+      "firstTalkID": 475,
+      "id": 24,
+      "monsterID": 4789,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【羅亞】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19058,
+      "firstTalkID": 0,
+      "id": 25,
+      "monsterID": 936,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【萊格】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19059,
+      "firstTalkID": 0,
+      "id": 26,
+      "monsterID": 562,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【菲菲】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19060,
+      "firstTalkID": 0,
+      "id": 27,
+      "monsterID": 1110,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【埃森】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19061,
+      "firstTalkID": 0,
+      "id": 28,
+      "monsterID": 602,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【電雪球】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19062,
+      "firstTalkID": 0,
+      "id": 29,
+      "monsterID": 734,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【斯比亞】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19063,
+      "firstTalkID": 0,
+      "id": 30,
+      "monsterID": 730,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【閃光邁邁】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19064,
+      "firstTalkID": 0,
+      "id": 31,
+      "monsterID": 1333,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【努迪】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19065,
+      "firstTalkID": 476,
+      "id": 32,
+      "monsterID": 4794,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【波魯】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19066,
+      "firstTalkID": 477,
+      "id": 33,
+      "monsterID": 4795,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【基亞】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*3）",
+      "rewardDrop": "1_3",
+      "type": "2",
+      "battleUseID": 19067,
+      "firstTalkID": 478,
+      "id": 34,
+      "monsterID": 4796,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【諾瑪】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*1）",
+      "rewardDrop": "1_1",
+      "type": "2",
+      "battleUseID": 19068,
+      "firstTalkID": 0,
+      "id": 35,
+      "monsterID": 4786,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【閃光邁恩】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19069,
+      "firstTalkID": 0,
+      "id": 36,
+      "monsterID": 1706,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【依盧】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19070,
+      "firstTalkID": 0,
+      "id": 37,
+      "monsterID": 219,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【扎克】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19071,
+      "firstTalkID": 0,
+      "id": 38,
+      "monsterID": 217,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【派諾】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19072,
+      "firstTalkID": 0,
+      "id": 39,
+      "monsterID": 971,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "捕獲到【奎尼】的蹤跡，是否進入精靈對戰？（注意，戰鬥結束後，當前位置的精靈會消失，戰鬥勝利後可獲得【深海挑戰證明】*2）",
+      "rewardDrop": "1_2",
+      "type": "2",
+      "battleUseID": 19073,
+      "firstTalkID": 0,
+      "id": 40,
+      "monsterID": 370,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "龐大的【布貝巴拉】在這裡等待著挑戰，所有渺小的海洋生物無法撼動他海中霸主的事實。（戰鬥勝利後可獲得【深海挑戰證明】*5）",
+      "rewardDrop": "1_5",
+      "type": "3",
+      "battleUseID": 19074,
+      "firstTalkID": 0,
+      "id": 41,
+      "monsterID": 4780,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "龐大的【鞘盾龍魚】在這裡等待著挑戰，所有渺小的海洋生物無法撼動他海中霸主的事實。（戰鬥勝利後可獲得【深海挑戰證明】*5）",
+      "rewardDrop": "1_5",
+      "type": "3",
+      "battleUseID": 19075,
+      "firstTalkID": 0,
+      "id": 42,
+      "monsterID": 4782,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "龐大的【斯弗洛浦亞】在這裡等待著挑戰，所有渺小的海洋生物無法撼動他海中霸主的事實。（戰鬥勝利後可獲得【深海挑戰證明】*5）",
+      "rewardDrop": "1_5",
+      "type": "3",
+      "battleUseID": 19076,
+      "firstTalkID": 0,
+      "id": 43,
+      "monsterID": 4783,
+      "originalState": 0
+    },
+    {
+      "monsterTxt": "龐大的【諾爾瑪羅】在這裡等待著挑戰，所有渺小的海洋生物無法撼動他海中霸主的事實。（戰鬥勝利後可獲得【深海挑戰證明】*5）",
+      "rewardDrop": "1_5",
+      "type": "3",
+      "battleUseID": 19077,
+      "firstTalkID": 0,
+      "id": 44,
+      "monsterID": 4784,
+      "originalState": 0
+    }
+  ]
+}

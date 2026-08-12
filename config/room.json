@@ -1,0 +1,616 @@
+{
+  "data": [
+    {
+      "name": "默認房型",
+      "floorPutDefaultPos": [
+        500,
+        350
+      ],
+      "playerPos": [
+        173,
+        338
+      ],
+      "wallPutDefaultPos": [
+        330,
+        100
+      ],
+      "id": 500001,
+      "vipOnly": 0
+    },
+    {
+      "name": "塞西利亞基地",
+      "floorPutDefaultPos": [
+        500,
+        370
+      ],
+      "playerPos": [
+        400,
+        350
+      ],
+      "wallPutDefaultPos": [
+        700,
+        130
+      ],
+      "id": 500002,
+      "vipOnly": 0
+    },
+    {
+      "name": "克洛斯基地",
+      "floorPutDefaultPos": [
+        500,
+        350
+      ],
+      "playerPos": [
+        180,
+        300
+      ],
+      "wallPutDefaultPos": [
+        580,
+        70
+      ],
+      "id": 500003,
+      "vipOnly": 0
+    },
+    {
+      "name": "太空基地",
+      "floorPutDefaultPos": [
+        470,
+        350
+      ],
+      "playerPos": [
+        130,
+        240
+      ],
+      "wallPutDefaultPos": [
+        100,
+        80
+      ],
+      "id": 500004,
+      "vipOnly": 0
+    },
+    {
+      "name": "阿爾法星基地",
+      "floorPutDefaultPos": [
+        440,
+        380
+      ],
+      "playerPos": [
+        850,
+        280
+      ],
+      "wallPutDefaultPos": [
+        620,
+        50
+      ],
+      "id": 500005,
+      "vipOnly": 0
+    },
+    {
+      "name": "海洋星基地",
+      "floorPutDefaultPos": [
+        470,
+        370
+      ],
+      "playerPos": [
+        420,
+        130
+      ],
+      "wallPutDefaultPos": [
+        760,
+        50
+      ],
+      "id": 500006,
+      "vipOnly": 1
+    },
+    {
+      "name": "雙子貝塔星基地",
+      "floorPutDefaultPos": [
+        400,
+        350
+      ],
+      "playerPos": [
+        420,
+        460
+      ],
+      "wallPutDefaultPos": [
+        780,
+        180
+      ],
+      "id": 500007,
+      "vipOnly": 0
+    },
+    {
+      "name": "帕諾太空基地",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        240,
+        420
+      ],
+      "wallPutDefaultPos": [
+        480,
+        180
+      ],
+      "id": 500008,
+      "vipOnly": 1
+    },
+    {
+      "name": "火山星基地",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        480,
+        220
+      ],
+      "wallPutDefaultPos": [
+        350,
+        80
+      ],
+      "id": 500009,
+      "vipOnly": 0
+    },
+    {
+      "name": "千年赫星基地",
+      "floorPutDefaultPos": [
+        350,
+        300
+      ],
+      "playerPos": [
+        250,
+        250
+      ],
+      "wallPutDefaultPos": [
+        250,
+        60
+      ],
+      "id": 500010,
+      "vipOnly": 1
+    },
+    {
+      "name": "雲霄星基地",
+      "floorPutDefaultPos": [
+        437,
+        350
+      ],
+      "playerPos": [
+        475,
+        340
+      ],
+      "wallPutDefaultPos": [
+        400,
+        74
+      ],
+      "id": 500011,
+      "vipOnly": 0
+    },
+    {
+      "name": "斯諾星基地",
+      "floorPutDefaultPos": [
+        357,
+        310
+      ],
+      "playerPos": [
+        250,
+        250
+      ],
+      "wallPutDefaultPos": [
+        360,
+        39
+      ],
+      "id": 500012,
+      "vipOnly": 1
+    },
+    {
+      "name": "赫爾卡基地",
+      "floorPutDefaultPos": [
+        235,
+        355
+      ],
+      "playerPos": [
+        730,
+        330
+      ],
+      "wallPutDefaultPos": [
+        600,
+        88
+      ],
+      "id": 500013,
+      "vipOnly": 0
+    },
+    {
+      "name": "武鬥場基地",
+      "floorPutDefaultPos": [
+        477,
+        369
+      ],
+      "playerPos": [
+        477,
+        369
+      ],
+      "wallPutDefaultPos": [
+        165,
+        88
+      ],
+      "id": 500014,
+      "vipOnly": 1
+    },
+    {
+      "name": "露希歐基地",
+      "floorPutDefaultPos": [
+        190,
+        270
+      ],
+      "playerPos": [
+        477,
+        260
+      ],
+      "wallPutDefaultPos": [
+        300,
+        35
+      ],
+      "id": 500015,
+      "vipOnly": 0
+    },
+    {
+      "name": "賽爾歷40年紀念基地",
+      "floorPutDefaultPos": [
+        485,
+        360
+      ],
+      "playerPos": [
+        485,
+        360
+      ],
+      "wallPutDefaultPos": [
+        300,
+        110
+      ],
+      "id": 500016,
+      "vipOnly": 1
+    },
+    {
+      "name": "賽爾號啟航周年版",
+      "floorPutDefaultPos": [
+        485,
+        350
+      ],
+      "playerPos": [
+        485,
+        360
+      ],
+      "wallPutDefaultPos": [
+        485,
+        210
+      ],
+      "id": 500017,
+      "vipOnly": 0
+    },
+    {
+      "name": "賽爾號2周年紀念基地",
+      "floorPutDefaultPos": [
+        485,
+        350
+      ],
+      "playerPos": [
+        485,
+        360
+      ],
+      "wallPutDefaultPos": [
+        485,
+        210
+      ],
+      "id": 500018,
+      "vipOnly": 0
+    },
+    {
+      "name": "聖誕紀念小屋",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        680,
+        160
+      ],
+      "wallPutDefaultPos": [
+        480,
+        60
+      ],
+      "id": 500019,
+      "vipOnly": 0
+    },
+    {
+      "name": "三周年紀念基地小屋",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        150,
+        490
+      ],
+      "wallPutDefaultPos": [
+        670,
+        100
+      ],
+      "id": 500020,
+      "vipOnly": 0
+    },
+    {
+      "name": "聖誕水晶宮",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        670,
+        100
+      ],
+      "id": 500021,
+      "vipOnly": 0
+    },
+    {
+      "name": "四周年紀念基地",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        370,
+        90
+      ],
+      "id": 500022,
+      "vipOnly": 0
+    },
+    {
+      "name": "聖誕遊樂園",
+      "floorPutDefaultPos": [
+        580,
+        300
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500023,
+      "vipOnly": 0
+    },
+    {
+      "name": "野營樂園",
+      "floorPutDefaultPos": [
+        580,
+        300
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500024,
+      "vipOnly": 0
+    },
+    {
+      "name": "螢火之境",
+      "floorPutDefaultPos": [
+        580,
+        300
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500025,
+      "vipOnly": 0
+    },
+    {
+      "name": "十周年派對",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        110,
+        100
+      ],
+      "id": 500026,
+      "vipOnly": 0
+    },
+    {
+      "name": "星願水晶宮",
+      "floorPutDefaultPos": [
+        580,
+        300
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500027,
+      "vipOnly": 0
+    },
+    {
+      "name": "星空遨遊小屋",
+      "floorPutDefaultPos": [
+        480,
+        400
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500028,
+      "vipOnly": 0
+    },
+    {
+      "name": "動力時代基地",
+      "floorPutDefaultPos": [
+        580,
+        300
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500029,
+      "vipOnly": 0
+    },
+    {
+      "name": "曲徑通幽",
+      "floorPutDefaultPos": [
+        480,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500030,
+      "vipOnly": 0
+    },
+    {
+      "name": "12周年紀念基地",
+      "floorPutDefaultPos": [
+        580,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500031,
+      "vipOnly": 0
+    },
+    {
+      "name": "超時空基地",
+      "floorPutDefaultPos": [
+        395,
+        355
+      ],
+      "playerPos": [
+        110,
+        210
+      ],
+      "wallPutDefaultPos": [
+        788,
+        322
+      ],
+      "id": 500830,
+      "vipOnly": 0
+    },
+    {
+      "name": "星辰遠航基地",
+      "floorPutDefaultPos": [
+        580,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500032,
+      "vipOnly": 0
+    },
+    {
+      "name": "夢星閣",
+      "floorPutDefaultPos": [
+        580,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500033,
+      "vipOnly": 0
+    },
+    {
+      "name": "帕諾之巔",
+      "floorPutDefaultPos": [
+        580,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500034,
+      "vipOnly": 0
+    },
+    {
+      "name": "露希歐印象",
+      "floorPutDefaultPos": [
+        580,
+        350
+      ],
+      "playerPos": [
+        500,
+        400
+      ],
+      "wallPutDefaultPos": [
+        480,
+        100
+      ],
+      "id": 500035,
+      "vipOnly": 0
+    }
+  ]
+}

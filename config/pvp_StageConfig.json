@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "bossIntro": "熟練應用屬性克制關係，快速擊敗對方精靈吧！",
+      "firstReward": "1_1706927_100",
+      "monsterName": "屬性進攻面的合理運用",
+      "fightMonsterIndexs": [
+        1
+      ],
+      "id": 1,
+      "index": 1,
+      "monsterId": 3291,
+      "order": 1,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "熟練應用屬性克制關係，保證己方精靈的生存吧！",
+      "firstReward": "1_1706928_50",
+      "monsterName": "屬性防守面的合理運用",
+      "fightMonsterIndexs": [
+        2,
+        3
+      ],
+      "id": 2,
+      "index": 1,
+      "monsterId": 3414,
+      "order": 2,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "技能石在戰局中往往有著出其不意的作用，來了解下他們的用法吧！",
+      "firstReward": "1_1706927_100",
+      "monsterName": "技能石的合理運用",
+      "fightMonsterIndexs": [
+        4
+      ],
+      "id": 3,
+      "index": 1,
+      "monsterId": 4422,
+      "order": 3,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "賽爾號中存在部分精靈，能夠對於某一類型的傷害擁有很強的抵抗能力。嘗試活用不同類型的傷害突破對方的兩隻防禦型精靈吧！",
+      "firstReward": "1_1706928_50",
+      "monsterName": "攻擊傷害、固定傷害與百分比傷害的作用",
+      "fightMonsterIndexs": [
+        5,
+        6
+      ],
+      "id": 4,
+      "index": 1,
+      "monsterId": 4496,
+      "order": 4,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "真實傷害是賽爾號中最有效的輸出手段，不會受到任何傷害減免效果的影響！",
+      "firstReward": "1_1706927_100",
+      "monsterName": "真實傷害的作用",
+      "fightMonsterIndexs": [
+        7
+      ],
+      "id": 5,
+      "index": 1,
+      "monsterId": 4500,
+      "order": 5,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "能力等級的提升能夠為精靈帶來直觀的進攻、防守與機動性能力的全面提升，一些精靈的專屬特性擁有自動提升能力等級的效果，這為他們賦予了更快的成型節奏。",
+      "firstReward": "1_1706928_50",
+      "monsterName": "能力提升的作用",
+      "fightMonsterIndexs": [
+        8
+      ],
+      "id": 6,
+      "index": 1,
+      "monsterId": 3291,
+      "order": 6,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "與能力提升不同的是，能力下降除了增幅傷害外，還能通過減少對手技能命中率來進行干擾！",
+      "firstReward": "1_1706927_200",
+      "monsterName": "能力下降的作用",
+      "fightMonsterIndexs": [
+        9
+      ],
+      "id": 7,
+      "index": 1,
+      "monsterId": 4126,
+      "order": 7,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "己方精靈的能力提升與對方精靈的能力下降雖然有著很多正面作用，但也同樣可能被對方利用。",
+      "firstReward": "1_1706928_100",
+      "monsterName": "能力等級的雙刃劍效應",
+      "fightMonsterIndexs": [
+        10,
+        11
+      ],
+      "id": 8,
+      "index": 1,
+      "monsterId": 4511,
+      "order": 8,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "控制類異常狀態能夠很直觀的為己方精靈賺取回合差，有時甚至可以起到逆屬性克制反殺的效果。",
+      "firstReward": "1_1706927_200",
+      "monsterName": "控制類異常狀態的運用",
+      "fightMonsterIndexs": [
+        12
+      ],
+      "id": 9,
+      "index": 1,
+      "monsterId": 4430,
+      "order": 9,
+      "UserInfoID": 124951
+    },
+    {
+      "bossIntro": "弱化類異常狀態帶來的收益雖不如控制類異常那麼直觀，但其干擾作用同樣不可忽視。",
+      "firstReward": "1_1706928_100",
+      "monsterName": "弱化類異常狀態的運用",
+      "fightMonsterIndexs": [
+        13
+      ],
+      "id": 10,
+      "index": 1,
+      "monsterId": 4387,
+      "order": 10,
+      "UserInfoID": 124951
+    }
+  ]
+}

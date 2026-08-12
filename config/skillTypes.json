@@ -1,0 +1,1340 @@
+{
+  "root": {
+    "item": [
+      {
+        "att": "",
+        "cn": "草",
+        "en": [
+          "grass"
+        ],
+        "id": 1,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "水",
+        "en": [
+          "water"
+        ],
+        "id": 2,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "火",
+        "en": [
+          "fire"
+        ],
+        "id": 3,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "飛行",
+        "en": [
+          "flying"
+        ],
+        "id": 4,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "電",
+        "en": [
+          "electric"
+        ],
+        "id": 5,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "機械",
+        "en": [
+          "steel"
+        ],
+        "id": 6,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "地面",
+        "en": [
+          "ground"
+        ],
+        "id": 7,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "普通",
+        "en": [
+          "normal"
+        ],
+        "id": 8,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "冰",
+        "en": [
+          "ice"
+        ],
+        "id": 9,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "超能",
+        "en": [
+          "psychic"
+        ],
+        "id": 10,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "戰鬥",
+        "en": [
+          "fight"
+        ],
+        "id": 11,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "光",
+        "en": [
+          "light"
+        ],
+        "id": 12,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "暗影",
+        "en": [
+          "dark"
+        ],
+        "id": 13,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "神秘",
+        "en": [
+          "myth"
+        ],
+        "id": 14,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "龍",
+        "en": [
+          "dragon"
+        ],
+        "id": 15,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "聖靈",
+        "en": [
+          "saint"
+        ],
+        "id": 16,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "次元",
+        "en": [
+          "dimension"
+        ],
+        "id": 17,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "遠古",
+        "en": [
+          "ancient"
+        ],
+        "id": 18,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "邪靈",
+        "en": [
+          "demon"
+        ],
+        "id": 19,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "自然",
+        "en": [
+          "nature"
+        ],
+        "id": 20,
+        "is_dou": 0
+      },
+      {
+        "att": "1 10",
+        "cn": "草 超能",
+        "en": [
+          "grass",
+          "psychic"
+        ],
+        "id": 21,
+        "is_dou": 1
+      },
+      {
+        "att": "1 11",
+        "cn": "草 戰鬥",
+        "en": [
+          "grass",
+          "fight"
+        ],
+        "id": 22,
+        "is_dou": 1
+      },
+      {
+        "att": "1 13",
+        "cn": "草 暗影",
+        "en": [
+          "grass",
+          "dark"
+        ],
+        "id": 23,
+        "is_dou": 1
+      },
+      {
+        "att": "2 10",
+        "cn": "水 超能",
+        "en": [
+          "water",
+          "psychic"
+        ],
+        "id": 24,
+        "is_dou": 1
+      },
+      {
+        "att": "2 13",
+        "cn": "水 暗影",
+        "en": [
+          "water",
+          "dark"
+        ],
+        "id": 25,
+        "is_dou": 1
+      },
+      {
+        "att": "2 15",
+        "cn": "水 龍",
+        "en": [
+          "water",
+          "dragon"
+        ],
+        "id": 26,
+        "is_dou": 1
+      },
+      {
+        "att": "3 4",
+        "cn": "火 飛行",
+        "en": [
+          "fire",
+          "flying"
+        ],
+        "id": 27,
+        "is_dou": 1
+      },
+      {
+        "att": "3 15",
+        "cn": "火 龍",
+        "en": [
+          "fire",
+          "dragon"
+        ],
+        "id": 28,
+        "is_dou": 1
+      },
+      {
+        "att": "3 10",
+        "cn": "火 超能",
+        "en": [
+          "fire",
+          "psychic"
+        ],
+        "id": 29,
+        "is_dou": 1
+      },
+      {
+        "att": "4 10",
+        "cn": "飛行 超能",
+        "en": [
+          "flying",
+          "psychic"
+        ],
+        "id": 30,
+        "is_dou": 1
+      },
+      {
+        "att": "12 4",
+        "cn": "光 飛行",
+        "en": [
+          "flying",
+          "light"
+        ],
+        "id": 31,
+        "is_dou": 1
+      },
+      {
+        "att": "4 15",
+        "cn": "飛行 龍",
+        "en": [
+          "flying",
+          "dragon"
+        ],
+        "id": 32,
+        "is_dou": 1
+      },
+      {
+        "att": "5 3",
+        "cn": "電 火",
+        "en": [
+          "electric",
+          "fire"
+        ],
+        "id": 33,
+        "is_dou": 1
+      },
+      {
+        "att": "5 9",
+        "cn": "電 冰",
+        "en": [
+          "electric",
+          "ice"
+        ],
+        "id": 34,
+        "is_dou": 1
+      },
+      {
+        "att": "5 11",
+        "cn": "電 戰鬥",
+        "en": [
+          "electric",
+          "fight"
+        ],
+        "id": 35,
+        "is_dou": 1
+      },
+      {
+        "att": "13 5",
+        "cn": "暗影 電",
+        "en": [
+          "electric",
+          "dark"
+        ],
+        "id": 36,
+        "is_dou": 1
+      },
+      {
+        "att": "6 7",
+        "cn": "機械 地面",
+        "en": [
+          "steel",
+          "ground"
+        ],
+        "id": 37,
+        "is_dou": 1
+      },
+      {
+        "att": "6 10",
+        "cn": "機械 超能",
+        "en": [
+          "steel",
+          "psychic"
+        ],
+        "id": 38,
+        "is_dou": 1
+      },
+      {
+        "att": "6 15",
+        "cn": "機械 龍",
+        "en": [
+          "steel",
+          "dragon"
+        ],
+        "id": 39,
+        "is_dou": 1
+      },
+      {
+        "att": "7 15",
+        "cn": "地面 龍",
+        "en": [
+          "ground",
+          "dragon"
+        ],
+        "id": 40,
+        "is_dou": 1
+      },
+      {
+        "att": "11 7",
+        "cn": "戰鬥 地面",
+        "en": [
+          "ground",
+          "fight"
+        ],
+        "id": 41,
+        "is_dou": 1
+      },
+      {
+        "att": "7 13",
+        "cn": "地面 暗影",
+        "en": [
+          "ground",
+          "dark"
+        ],
+        "id": 42,
+        "is_dou": 1
+      },
+      {
+        "att": "9 15",
+        "cn": "冰 龍",
+        "en": [
+          "ice",
+          "dragon"
+        ],
+        "id": 43,
+        "is_dou": 1
+      },
+      {
+        "att": "9 12",
+        "cn": "冰 光",
+        "en": [
+          "ice",
+          "light"
+        ],
+        "id": 44,
+        "is_dou": 1
+      },
+      {
+        "att": "9 13",
+        "cn": "冰 暗影",
+        "en": [
+          "ice",
+          "dark"
+        ],
+        "id": 45,
+        "is_dou": 1
+      },
+      {
+        "att": "10 9",
+        "cn": "超能 冰",
+        "en": [
+          "psychic",
+          "ice"
+        ],
+        "id": 46,
+        "is_dou": 1
+      },
+      {
+        "att": "11 3",
+        "cn": "戰鬥 火",
+        "en": [
+          "fight",
+          "fire"
+        ],
+        "id": 47,
+        "is_dou": 1
+      },
+      {
+        "att": "11 13",
+        "cn": "戰鬥 暗影",
+        "en": [
+          "fight",
+          "dark"
+        ],
+        "id": 48,
+        "is_dou": 1
+      },
+      {
+        "att": "12 14",
+        "cn": "光 神秘",
+        "en": [
+          "light",
+          "myth"
+        ],
+        "id": 49,
+        "is_dou": 1
+      },
+      {
+        "att": "13 14",
+        "cn": "暗影 神秘",
+        "en": [
+          "dark",
+          "myth"
+        ],
+        "id": 50,
+        "is_dou": 1
+      },
+      {
+        "att": "14 10",
+        "cn": "神秘 超能",
+        "en": [
+          "myth",
+          "psychic"
+        ],
+        "id": 51,
+        "is_dou": 1
+      },
+      {
+        "att": "16 12",
+        "cn": "聖靈 光",
+        "en": [
+          "saint",
+          "light"
+        ],
+        "id": 52,
+        "is_dou": 1
+      },
+      {
+        "att": "4 14",
+        "cn": "飛行 神秘",
+        "en": [
+          "flying",
+          "myth"
+        ],
+        "id": 53,
+        "is_dou": 1
+      },
+      {
+        "att": "7 10",
+        "cn": "地面 超能",
+        "en": [
+          "ground",
+          "psychic"
+        ],
+        "id": 54,
+        "is_dou": 1
+      },
+      {
+        "att": "13 15",
+        "cn": "暗影 龍",
+        "en": [
+          "dark",
+          "dragon"
+        ],
+        "id": 55,
+        "is_dou": 1
+      },
+      {
+        "att": "16 13",
+        "cn": "聖靈 暗影",
+        "en": [
+          "saint",
+          "dark"
+        ],
+        "id": 56,
+        "is_dou": 1
+      },
+      {
+        "att": "18 11",
+        "cn": "遠古 戰鬥",
+        "en": [
+          "ancient",
+          "fight"
+        ],
+        "id": 57,
+        "is_dou": 1
+      },
+      {
+        "att": "3 14",
+        "cn": "火 神秘",
+        "en": [
+          "myth",
+          "fire"
+        ],
+        "id": 58,
+        "is_dou": 1
+      },
+      {
+        "att": "12 11",
+        "cn": "光 戰鬥",
+        "en": [
+          "light",
+          "fight"
+        ],
+        "id": 59,
+        "is_dou": 1
+      },
+      {
+        "att": "14 11",
+        "cn": "神秘 戰鬥",
+        "en": [
+          "myth",
+          "fight"
+        ],
+        "id": 60,
+        "is_dou": 1
+      },
+      {
+        "att": "17 11",
+        "cn": "次元 戰鬥",
+        "en": [
+          "dimension",
+          "fight"
+        ],
+        "id": 61,
+        "is_dou": 1
+      },
+      {
+        "att": "19 14",
+        "cn": "邪靈 神秘",
+        "en": [
+          "demon",
+          "myth"
+        ],
+        "id": 62,
+        "is_dou": 1
+      },
+      {
+        "att": "18 15",
+        "cn": "遠古 龍",
+        "en": [
+          "ancient",
+          "dragon"
+        ],
+        "id": 63,
+        "is_dou": 1
+      },
+      {
+        "att": "12 17",
+        "cn": "光 次元",
+        "en": [
+          "light",
+          "dimension"
+        ],
+        "id": 64,
+        "is_dou": 1
+      },
+      {
+        "att": "18 16",
+        "cn": "遠古 聖靈",
+        "en": [
+          "ancient",
+          "saint"
+        ],
+        "id": 65,
+        "is_dou": 1
+      },
+      {
+        "att": "2 11",
+        "cn": "水 戰鬥",
+        "en": [
+          "water",
+          "fight"
+        ],
+        "id": 66,
+        "is_dou": 1
+      },
+      {
+        "att": "5 15",
+        "cn": "電 龍",
+        "en": [
+          "electric",
+          "dragon"
+        ],
+        "id": 67,
+        "is_dou": 1
+      },
+      {
+        "att": "12 3",
+        "cn": "光 火",
+        "en": [
+          "light",
+          "fire"
+        ],
+        "id": 68,
+        "is_dou": 1
+      },
+      {
+        "att": "12 13",
+        "cn": "光 暗影",
+        "en": [
+          "light",
+          "dark"
+        ],
+        "id": 69,
+        "is_dou": 1
+      },
+      {
+        "att": "19 15",
+        "cn": "邪靈 龍",
+        "en": [
+          "demon",
+          "dragon"
+        ],
+        "id": 70,
+        "is_dou": 1
+      },
+      {
+        "att": "18 14",
+        "cn": "遠古 神秘",
+        "en": [
+          "ancient",
+          "myth"
+        ],
+        "id": 71,
+        "is_dou": 1
+      },
+      {
+        "att": "6 17",
+        "cn": "機械 次元",
+        "en": [
+          "steel",
+          "dimension"
+        ],
+        "id": 72,
+        "is_dou": 1
+      },
+      {
+        "att": "11 15",
+        "cn": "戰鬥 龍",
+        "en": [
+          "fight",
+          "dragon"
+        ],
+        "id": 73,
+        "is_dou": 1
+      },
+      {
+        "att": "11 20",
+        "cn": "戰鬥 自然",
+        "en": [
+          "fight",
+          "nature"
+        ],
+        "id": 74,
+        "is_dou": 1
+      },
+      {
+        "att": "19 6",
+        "cn": "邪靈 機械",
+        "en": [
+          "demon",
+          "steel"
+        ],
+        "id": 75,
+        "is_dou": 1
+      },
+      {
+        "att": "5 17",
+        "cn": "電 次元",
+        "en": [
+          "electric",
+          "dimension"
+        ],
+        "id": 76,
+        "is_dou": 1
+      },
+      {
+        "att": "18 3",
+        "cn": "遠古 火",
+        "en": [
+          "ancient",
+          "fire"
+        ],
+        "id": 77,
+        "is_dou": 1
+      },
+      {
+        "att": "16 11",
+        "cn": "聖靈 戰鬥",
+        "en": [
+          "saint",
+          "fight"
+        ],
+        "id": 78,
+        "is_dou": 1
+      },
+      {
+        "att": "16 17",
+        "cn": "聖靈 次元",
+        "en": [
+          "saint",
+          "dimension"
+        ],
+        "id": 79,
+        "is_dou": 1
+      },
+      {
+        "att": "16 5",
+        "cn": "聖靈 電",
+        "en": [
+          "saint",
+          "electric"
+        ],
+        "id": 80,
+        "is_dou": 1
+      },
+      {
+        "att": "18 7",
+        "cn": "遠古 地面",
+        "en": [
+          "ancient",
+          "ground"
+        ],
+        "id": 81,
+        "is_dou": 1
+      },
+      {
+        "att": "18 1",
+        "cn": "遠古 草",
+        "en": [
+          "ancient",
+          "grass"
+        ],
+        "id": 82,
+        "is_dou": 1
+      },
+      {
+        "att": "20 15",
+        "cn": "自然 龍",
+        "en": [
+          "nature",
+          "dragon"
+        ],
+        "id": 83,
+        "is_dou": 1
+      },
+      {
+        "att": "9 14",
+        "cn": "冰 神秘",
+        "en": [
+          "ice",
+          "myth"
+        ],
+        "id": 84,
+        "is_dou": 1
+      },
+      {
+        "att": "4 13",
+        "cn": "飛行 暗影",
+        "en": [
+          "flying",
+          "dark"
+        ],
+        "id": 85,
+        "is_dou": 1
+      },
+      {
+        "att": "9 3",
+        "cn": "冰 火",
+        "en": [
+          "ice",
+          "fire"
+        ],
+        "id": 86,
+        "is_dou": 1
+      },
+      {
+        "att": "9 4",
+        "cn": "冰 飛行",
+        "en": [
+          "ice",
+          "flying"
+        ],
+        "id": 87,
+        "is_dou": 1
+      },
+      {
+        "att": "20 16",
+        "cn": "自然 聖靈",
+        "en": [
+          "nature",
+          "saint"
+        ],
+        "id": 88,
+        "is_dou": 1
+      },
+      {
+        "att": "222 16",
+        "cn": "混沌 聖靈",
+        "en": [
+          "chaos",
+          "saint"
+        ],
+        "id": 89,
+        "is_dou": 1
+      },
+      {
+        "att": "18 19",
+        "cn": "遠古 邪靈",
+        "en": [
+          "ancient",
+          "demon"
+        ],
+        "id": 90,
+        "is_dou": 1
+      },
+      {
+        "att": "20 9",
+        "cn": "自然 冰",
+        "en": [
+          "nature",
+          "ice"
+        ],
+        "id": 91,
+        "is_dou": 1
+      },
+      {
+        "att": "222 13",
+        "cn": "混沌 暗影",
+        "en": [
+          "chaos",
+          "dark"
+        ],
+        "id": 92,
+        "is_dou": 1
+      },
+      {
+        "att": "222 11",
+        "cn": "混沌 戰鬥",
+        "en": [
+          "chaos",
+          "fight"
+        ],
+        "id": 93,
+        "is_dou": 1
+      },
+      {
+        "att": "222 10",
+        "cn": "混沌 超能",
+        "en": [
+          "chaos",
+          "psychic"
+        ],
+        "id": 94,
+        "is_dou": 1
+      },
+      {
+        "att": "16 10",
+        "cn": "聖靈 超能",
+        "en": [
+          "saint",
+          "psychic"
+        ],
+        "id": 95,
+        "is_dou": 1
+      },
+      {
+        "att": "222 7",
+        "cn": "混沌 地面",
+        "en": [
+          "chaos",
+          "ground"
+        ],
+        "id": 96,
+        "is_dou": 1
+      },
+      {
+        "att": "13 19",
+        "cn": "暗影 邪靈",
+        "en": [
+          "dark",
+          "demon"
+        ],
+        "id": 97,
+        "is_dou": 1
+      },
+      {
+        "att": "222 18",
+        "cn": "混沌 遠古",
+        "en": [
+          "chaos",
+          "ancient"
+        ],
+        "id": 98,
+        "is_dou": 1
+      },
+      {
+        "att": "222 19",
+        "cn": "混沌 邪靈",
+        "en": [
+          "chaos",
+          "demon"
+        ],
+        "id": 99,
+        "is_dou": 1
+      },
+      {
+        "att": "16 7",
+        "cn": "聖靈 地面",
+        "en": [
+          "saint",
+          "ground"
+        ],
+        "id": 100,
+        "is_dou": 1
+      },
+      {
+        "att": "3 13",
+        "cn": "火 暗影",
+        "en": [
+          "fire",
+          "dark"
+        ],
+        "id": 101,
+        "is_dou": 1
+      },
+      {
+        "att": "12 10",
+        "cn": "光 超能",
+        "en": [
+          "light",
+          "psychic"
+        ],
+        "id": 102,
+        "is_dou": 1
+      },
+      {
+        "att": "6 11",
+        "cn": "機械 戰鬥",
+        "en": [
+          "steel",
+          "fight"
+        ],
+        "id": 103,
+        "is_dou": 1
+      },
+      {
+        "att": "4 5",
+        "cn": "飛行 電",
+        "en": [
+          "flying",
+          "electric"
+        ],
+        "id": 104,
+        "is_dou": 1
+      },
+      {
+        "att": "222 4",
+        "cn": "混沌 飛行",
+        "en": [
+          "chaos",
+          "flying"
+        ],
+        "id": 105,
+        "is_dou": 1
+      },
+      {
+        "att": "222 15",
+        "cn": "混沌 龍",
+        "en": [
+          "chaos",
+          "dragon"
+        ],
+        "id": 106,
+        "is_dou": 1
+      },
+      {
+        "att": "222 3",
+        "cn": "混沌 火",
+        "en": [
+          "chaos",
+          "fire"
+        ],
+        "id": 107,
+        "is_dou": 1
+      },
+      {
+        "att": "16 3",
+        "cn": "聖靈 火",
+        "en": [
+          "saint",
+          "fire"
+        ],
+        "id": 108,
+        "is_dou": 1
+      },
+      {
+        "att": "7 14",
+        "cn": "地面 神秘",
+        "en": [
+          "ground",
+          "myth"
+        ],
+        "id": 109,
+        "is_dou": 1
+      },
+      {
+        "att": "222 17",
+        "cn": "混沌 次元",
+        "en": [
+          "chaos",
+          "dimension"
+        ],
+        "id": 110,
+        "is_dou": 1
+      },
+      {
+        "att": "222 9",
+        "cn": "混沌 冰",
+        "en": [
+          "chaos",
+          "ice"
+        ],
+        "id": 111,
+        "is_dou": 1
+      },
+      {
+        "att": "20 14",
+        "cn": "自然 神秘",
+        "en": [
+          "nature",
+          "myth"
+        ],
+        "id": 112,
+        "is_dou": 1
+      },
+      {
+        "att": "226 19",
+        "cn": "虛空 邪靈",
+        "en": [
+          "void",
+          "demon"
+        ],
+        "id": 113,
+        "is_dou": 1
+      },
+      {
+        "att": "226 222",
+        "cn": "虛空 混沌",
+        "en": [
+          "void",
+          "chaos"
+        ],
+        "id": 114,
+        "is_dou": 1
+      },
+      {
+        "att": "16 224",
+        "cn": "聖靈 輪迴",
+        "en": [
+          "saint",
+          "samsara"
+        ],
+        "id": 115,
+        "is_dou": 1
+      },
+      {
+        "att": "2 17",
+        "cn": "水 次元",
+        "en": [
+          "water",
+          "dimension"
+        ],
+        "id": 116,
+        "is_dou": 1
+      },
+      {
+        "att": "16 14",
+        "cn": "聖靈 神秘",
+        "en": [
+          "saint",
+          "myth"
+        ],
+        "id": 117,
+        "is_dou": 1
+      },
+      {
+        "att": "6 14",
+        "cn": "機械 神秘",
+        "en": [
+          "steel",
+          "myth"
+        ],
+        "id": 118,
+        "is_dou": 1
+      },
+      {
+        "att": "2 14",
+        "cn": "水 神秘",
+        "en": [
+          "water",
+          "myth"
+        ],
+        "id": 119,
+        "is_dou": 1
+      },
+      {
+        "att": "17 15",
+        "cn": "次元 龍",
+        "en": [
+          "dimension",
+          "dragon"
+        ],
+        "id": 120,
+        "is_dou": 1
+      },
+      {
+        "att": "20 10",
+        "cn": "自然 超能",
+        "en": [
+          "nature",
+          "psychic"
+        ],
+        "id": 121,
+        "is_dou": 1
+      },
+      {
+        "att": "5 6",
+        "cn": "電 機械",
+        "en": [
+          "electric",
+          "steel"
+        ],
+        "id": 122,
+        "is_dou": 1
+      },
+      {
+        "att": "14 224",
+        "cn": "神秘 輪迴",
+        "en": [
+          "myth",
+          "samsara"
+        ],
+        "id": 123,
+        "is_dou": 1
+      },
+      {
+        "att": "2 6",
+        "cn": "水 機械",
+        "en": [
+          "water",
+          "steel"
+        ],
+        "id": 124,
+        "is_dou": 1
+      },
+      {
+        "att": "3 6",
+        "cn": "火 機械",
+        "en": [
+          "fire",
+          "steel"
+        ],
+        "id": 125,
+        "is_dou": 1
+      },
+      {
+        "att": "1 6",
+        "cn": "草 機械",
+        "en": [
+          "grass",
+          "steel"
+        ],
+        "id": 126,
+        "is_dou": 1
+      },
+      {
+        "att": "18 5",
+        "cn": "遠古 電",
+        "en": [
+          "ancient",
+          "electric"
+        ],
+        "id": 127,
+        "is_dou": 1
+      },
+      {
+        "att": "16 4",
+        "cn": "聖靈 飛行",
+        "en": [
+          "saint",
+          "flying"
+        ],
+        "id": 128,
+        "is_dou": 1
+      },
+      {
+        "att": "18 6",
+        "cn": "遠古 機械",
+        "en": [
+          "ancient",
+          "steel"
+        ],
+        "id": 129,
+        "is_dou": 1
+      },
+      {
+        "att": "18 12",
+        "cn": "遠古 光",
+        "en": [
+          "ancient",
+          "light"
+        ],
+        "id": 130,
+        "is_dou": 1
+      },
+      {
+        "att": "",
+        "cn": "王",
+        "en": [
+          "king"
+        ],
+        "id": 221,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "混沌",
+        "en": [
+          "chaos"
+        ],
+        "id": 222,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "神靈",
+        "en": [
+          "deity"
+        ],
+        "id": 223,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "輪迴",
+        "en": [
+          "samsara"
+        ],
+        "id": 224,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "蟲",
+        "en": [
+          "insect"
+        ],
+        "id": 225,
+        "is_dou": 0
+      },
+      {
+        "att": "",
+        "cn": "虛空",
+        "en": [
+          "void"
+        ],
+        "id": 226,
+        "is_dou": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "data": [
+    {
+      "TeamTaskDescription": "接收到求救訊號，有星球陷入了危機之中，需要派遣人員去營救",
+      "TeamTaskName": "落難星球大拯救",
+      "TeamTaskBaseReward": [
+        1722814,
+        7,
+        1,
+        25000,
+        1400352,
+        50000
+      ],
+      "TeamTaskExtraReward": [
+        1722814,
+        7,
+        1,
+        25000,
+        1400352,
+        50000
+      ],
+      "TeamTaskRecommendPets": [
+        3320,
+        3430,
+        3451,
+        3602,
+        3965
+      ],
+      "id": 1,
+      "TeamTaskDispatchTime": 6000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 1
+    },
+    {
+      "TeamTaskDescription": "得到情報在遙遠的星系中出現了珍惜的資源，需要派遣人員去搜集資源",
+      "TeamTaskName": "稀有資源搜尋",
+      "TeamTaskBaseReward": [
+        1722814,
+        6,
+        1,
+        20000,
+        1400352,
+        40000
+      ],
+      "TeamTaskExtraReward": [
+        1722814,
+        4,
+        1,
+        20000,
+        1400352,
+        40000
+      ],
+      "TeamTaskRecommendPets": [
+        3360,
+        3422,
+        3464,
+        3818,
+        3872
+      ],
+      "id": 2,
+      "TeamTaskDispatchTime": 6000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 1
+    },
+    {
+      "TeamTaskDescription": "接到任務需要護送一隊重要的人員前往其他星球，需要派遣人員隨行",
+      "TeamTaskName": "護送重要人員",
+      "TeamTaskBaseReward": [
+        1722814,
+        5,
+        1,
+        15000,
+        1400352,
+        30000
+      ],
+      "TeamTaskExtraReward": [
+        1722814,
+        3,
+        1,
+        15000,
+        1400352,
+        30000
+      ],
+      "TeamTaskRecommendPets": [
+        3612,
+        3616,
+        3865,
+        3902,
+        3971
+      ],
+      "id": 3,
+      "TeamTaskDispatchTime": 6000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 1
+    },
+    {
+      "TeamTaskDescription": "其他星球上舉行了盛大的活動，需要人員保障安全",
+      "TeamTaskName": "進行安保工作",
+      "TeamTaskBaseReward": [
+        1722814,
+        4,
+        1,
+        10000,
+        1400352,
+        20000
+      ],
+      "TeamTaskExtraReward": [
+        1722814,
+        2,
+        1,
+        10000,
+        1400352,
+        20000
+      ],
+      "TeamTaskRecommendPets": [
+        3360,
+        3402,
+        3498,
+        3572,
+        3633
+      ],
+      "id": 4,
+      "TeamTaskDispatchTime": 6000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 1
+    },
+    {
+      "TeamTaskDescription": "飛船外部艙室發生了故障，需要派遣人員進行維修工作",
+      "TeamTaskName": "飛船維修",
+      "TeamTaskBaseReward": [
+        1722814,
+        2,
+        1,
+        5000,
+        1400352,
+        10000
+      ],
+      "TeamTaskExtraReward": [
+        1722814,
+        2,
+        1,
+        5000,
+        1400352,
+        10000
+      ],
+      "TeamTaskRecommendPets": [
+        3730,
+        3765,
+        3833,
+        3852,
+        3924
+      ],
+      "id": 5,
+      "TeamTaskDispatchTime": 6000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 1
+    },
+    {
+      "TeamTaskDescription": "傳聞在南瓜山谷的深處，有一座古堡，裡面經常發生靈異事件。能否請你派遣一些精靈去查探一下？如果古堡是安全的話，可以考慮打造成一座主題樂園哦。",
+      "TeamTaskName": "鬧鬼的城堡",
+      "TeamTaskBaseReward": [
+        1722814,
+        20,
+        1,
+        80000,
+        3,
+        20000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        1,
+        300079,
+        2,
+        1723855,
+        4400
+      ],
+      "TeamTaskRecommendPets": [
+        4056,
+        4205,
+        3473,
+        3531,
+        2455
+      ],
+      "id": 6,
+      "TeamTaskDispatchTime": 7200,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 2
+    },
+    {
+      "TeamTaskDescription": "爆破先鋒想要為布姆舉辦一場寵物派對，場地、飲料、食物、音樂都準備好了，就是缺一些寵物。你能找一些寵物借給爆破先鋒嗎？",
+      "TeamTaskName": "布姆派對",
+      "TeamTaskBaseReward": [
+        1722814,
+        20,
+        1,
+        80000,
+        3,
+        20000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        1,
+        300079,
+        2,
+        1723855,
+        4400
+      ],
+      "TeamTaskRecommendPets": [
+        4267,
+        4164,
+        4044,
+        3761,
+        2663
+      ],
+      "id": 7,
+      "TeamTaskDispatchTime": 7200,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 2
+    },
+    {
+      "TeamTaskDescription": "羅格星系最著名的培訓班招生了，培訓班可以迅速有效的提高學習成績。為此，我們需要你幫忙請一些學霸，啊不，一些學生來作為培訓班的模範生。",
+      "TeamTaskName": "賽輔導",
+      "TeamTaskBaseReward": [
+        1722814,
+        20,
+        1,
+        80000,
+        3,
+        20000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        1,
+        300079,
+        2,
+        1723855,
+        4400
+      ],
+      "TeamTaskRecommendPets": [
+        4195,
+        4015,
+        3822,
+        3209,
+        3589
+      ],
+      "id": 8,
+      "TeamTaskDispatchTime": 7200,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 2
+    },
+    {
+      "TeamTaskDescription": "不是所有精靈都吃穿不愁的，精靈也要吃飯，不工作就沒飯吃。最近懷特星的礦洞又開始招工了，要不要來上班？沒有休息的那種。",
+      "TeamTaskName": "打工快樂",
+      "TeamTaskBaseReward": [
+        1722814,
+        25,
+        1,
+        90000,
+        3,
+        40000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        2,
+        300079,
+        3,
+        1723855,
+        6500
+      ],
+      "TeamTaskRecommendPets": [
+        4281,
+        4282,
+        3316,
+        2730,
+        3630
+      ],
+      "id": 9,
+      "TeamTaskDispatchTime": 10800,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 3
+    },
+    {
+      "TeamTaskDescription": "風沁最近很惆悵，因為除了她自己，別人吃了她做的料理都會進入異常狀態。你能不能帶一些真正的料理給風沁嘗嘗，讓她了解什麼才是廚藝。",
+      "TeamTaskName": "特級廚師",
+      "TeamTaskBaseReward": [
+        1722814,
+        25,
+        1,
+        90000,
+        3,
+        40000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        2,
+        300079,
+        3,
+        1723855,
+        6500
+      ],
+      "TeamTaskRecommendPets": [
+        4256,
+        4191,
+        4076,
+        4077,
+        2064
+      ],
+      "id": 10,
+      "TeamTaskDispatchTime": 10800,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 3
+    },
+    {
+      "TeamTaskDescription": "難得挽塵星天空晴朗，沐浴在午後溫暖的陽光下品茶是多麼的愜意啊。不過蜜雪兒一個人未免有些孤單，不如找幾位閨蜜一起陪陪她吧。是閨蜜，不是鐵皮。",
+      "TeamTaskName": "閨蜜下午茶",
+      "TeamTaskBaseReward": [
+        1722814,
+        25,
+        1,
+        90000,
+        3,
+        40000
+      ],
+      "TeamTaskExtraReward": [
+        300701,
+        2,
+        300079,
+        3,
+        1723855,
+        6500
+      ],
+      "TeamTaskRecommendPets": [
+        3812,
+        3703,
+        3832,
+        3919,
+        3921
+      ],
+      "id": 11,
+      "TeamTaskDispatchTime": 10800,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 3
+    },
+    {
+      "TeamTaskDescription": "秋洛田野發生了嚴重的蟲害，再這樣下去，田地裡的莊稼都會被吃光了。我們需要用更厲害的蟲群首領消滅這些小蟲子。你說剩下這些蟲群首領怎麼辦？這不是還有你嘛。",
+      "TeamTaskName": "滅蟲行動",
+      "TeamTaskBaseReward": [
+        1722814,
+        30,
+        1,
+        100000,
+        3,
+        60000
+      ],
+      "TeamTaskExtraReward": [
+        300070,
+        1,
+        300018,
+        5,
+        1723855,
+        8700
+      ],
+      "TeamTaskRecommendPets": [
+        3595,
+        3599,
+        3605,
+        3609,
+        3618
+      ],
+      "id": 12,
+      "TeamTaskDispatchTime": 18000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 4
+    },
+    {
+      "TeamTaskDescription": "「她離開的時候是冬天，麥田裡一片灰白。我第一次發現麥田可以是這樣。」\\n「我沒有說再見，我什麼也沒說。」\\n「結果其實不重要，因為我們沒有結果。」\\n「這幾個老頭在說什麼呢？」",
+      "TeamTaskName": "那年十八",
+      "TeamTaskBaseReward": [
+        1722814,
+        30,
+        1,
+        100000,
+        3,
+        60000
+      ],
+      "TeamTaskExtraReward": [
+        300070,
+        1,
+        300018,
+        5,
+        1723855,
+        8700
+      ],
+      "TeamTaskRecommendPets": [
+        4227,
+        3915,
+        3739,
+        3215,
+        3405
+      ],
+      "id": 13,
+      "TeamTaskDispatchTime": 18000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 4
+    },
+    {
+      "TeamTaskDescription": "馬戲團途徑楓曳鎮之後，有好幾位演員吃壞了肚子，無法上場演出了。請你派出幾位臨時演員頂替他們出演吧，表演是非常安全的，你不用擔心演員有生命危險。",
+      "TeamTaskName": "螢光馬戲團",
+      "TeamTaskBaseReward": [
+        1722814,
+        30,
+        1,
+        100000,
+        3,
+        60000
+      ],
+      "TeamTaskExtraReward": [
+        300070,
+        1,
+        300018,
+        5,
+        1723855,
+        8700
+      ],
+      "TeamTaskRecommendPets": [
+        3837,
+        3789,
+        4063,
+        4232,
+        4217
+      ],
+      "id": 14,
+      "TeamTaskDispatchTime": 18000,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 4
+    },
+    {
+      "TeamTaskDescription": "無敵的宇宙聖皇在激烈的巔峰聖戰中鏖戰了許多日子，現在他決定給自己放個假。但是他還沒決定放多久的假，這取決於陪他一起度假的朋友們了。你覺得這個假期多長才合適呢？",
+      "TeamTaskName": "悠長假期",
+      "TeamTaskBaseReward": [
+        1722814,
+        35,
+        1,
+        110000,
+        3,
+        80000
+      ],
+      "TeamTaskExtraReward": [
+        300070,
+        1,
+        1200444,
+        1,
+        1723855,
+        11000
+      ],
+      "TeamTaskRecommendPets": [
+        4152,
+        4193,
+        4034,
+        3701,
+        4273
+      ],
+      "id": 15,
+      "TeamTaskDispatchTime": 32400,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 5
+    },
+    {
+      "TeamTaskDescription": "大家對萊達宇宙的龍族都十分感興趣，可是都沒有親眼見過。你能不能請萊達龍裔到賽爾宇宙來，讓大家見識見識？你說請他們很困難？我們是看得起你才拜託你的，請你不要不識抬舉。",
+      "TeamTaskName": "萊達龍裔",
+      "TeamTaskBaseReward": [
+        1722814,
+        35,
+        1,
+        110000,
+        3,
+        80000
+      ],
+      "TeamTaskExtraReward": [
+        300070,
+        1,
+        1400152,
+        1,
+        1723855,
+        11000
+      ],
+      "TeamTaskRecommendPets": [
+        4038,
+        4122,
+        4175,
+        4264,
+        4325
+      ],
+      "id": 16,
+      "TeamTaskDispatchTime": 32400,
+      "TeamTaskNeedPetNum": 5,
+      "TeamTaskStar": 5
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "describe": "登錄遊戲",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 10,
+      "go": 0,
+      "id": 1,
+      "time": 1,
+      "userinfo": 203861,
+      "value": 1
+    },
+    {
+      "describe": "星願好禮許願2次",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 20,
+      "go": 111100,
+      "id": 2,
+      "time": 1,
+      "userinfo": 203862,
+      "value": 2
+    },
+    {
+      "describe": "和平星鬥技場參與1次",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 30,
+      "go": 113050,
+      "id": 3,
+      "time": 1,
+      "userinfo": 203863,
+      "value": 1
+    },
+    {
+      "describe": "參與1次競技/狂野/專家模式非練習賽巔峰對戰",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 40,
+      "go": 200000,
+      "id": 4,
+      "time": 1,
+      "userinfo": 203864,
+      "value": 1
+    },
+    {
+      "describe": "和平星鬥技場達成A或以上評分1次",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 100,
+      "go": 113050,
+      "id": 1001,
+      "time": 0,
+      "userinfo": 129801,
+      "value": 1
+    },
+    {
+      "describe": "累積7日每日鑽石任務活躍度達到40",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 200,
+      "go": 271100,
+      "id": 1002,
+      "time": 0,
+      "userinfo": 129802,
+      "value": 7
+    },
+    {
+      "describe": "通關或掃蕩任意每周資源副本5次",
+      "timeend": "0",
+      "timelimit": "0",
+      "timestart": "0",
+      "exp": 200,
+      "go": 162000,
+      "id": 1003,
+      "time": 0,
+      "userinfo": 129803,
+      "value": 5
+    }
+  ]
+}

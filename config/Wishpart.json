@@ -1,0 +1,825 @@
+{
+  "Wishparts": {
+    "Wishpart": [
+      {
+        "PartItemName": "特派隊帽",
+        "PartItemType": "head",
+        "PartItemID": 100123,
+        "WishpartID": 20001,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "特派隊靴",
+        "PartItemType": "foot",
+        "PartItemID": 100124,
+        "WishpartID": 20002,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "偵查眼罩",
+        "PartItemType": "eye",
+        "PartItemID": 100162,
+        "WishpartID": 20003,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "火焰盾",
+        "PartItemType": "hand",
+        "PartItemID": 100163,
+        "WishpartID": 20004,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "催眠球",
+        "PartItemType": "hand",
+        "PartItemID": 100172,
+        "WishpartID": 20005,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "暗能吸納儀",
+        "PartItemType": "hand",
+        "PartItemID": 100223,
+        "WishpartID": 20006,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "幽靈槍",
+        "PartItemType": "head",
+        "PartItemID": 100224,
+        "WishpartID": 20007,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "寅虎加農",
+        "PartItemType": "head",
+        "PartItemID": 100260,
+        "WishpartID": 20008,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "正義之光",
+        "PartItemType": "head",
+        "PartItemID": 100386,
+        "WishpartID": 20012,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "安全衛士盾",
+        "PartItemType": "hand",
+        "PartItemID": 100407,
+        "WishpartID": 20013,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "晶巖護手",
+        "PartItemType": "hand",
+        "PartItemID": 100408,
+        "WishpartID": 20014,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "晶巖之尾",
+        "PartItemType": "foot",
+        "PartItemID": 100409,
+        "WishpartID": 20015,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "祖拉戰盔",
+        "PartItemType": "head",
+        "PartItemID": 100410,
+        "WishpartID": 20016,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "祖拉戰甲",
+        "PartItemType": "waist",
+        "PartItemID": 100411,
+        "WishpartID": 20017,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "加農炮F",
+        "PartItemType": "head",
+        "PartItemID": 100421,
+        "WishpartID": 20018,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "合金鑽頭F",
+        "PartItemType": "head",
+        "PartItemID": 100422,
+        "WishpartID": 20019,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "渦輪噴射座",
+        "PartItemType": "foot",
+        "PartItemID": 100423,
+        "WishpartID": 20020,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "重鎧履帶G",
+        "PartItemType": "foot",
+        "PartItemID": 100424,
+        "WishpartID": 20021,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "超能面罩",
+        "PartItemType": "eye",
+        "PartItemID": 100425,
+        "WishpartID": 20022,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "拜倫面具",
+        "PartItemType": "eye",
+        "PartItemID": 100426,
+        "WishpartID": 20023,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "新兵飛彈架",
+        "PartItemType": "head",
+        "PartItemID": 100499,
+        "WishpartID": 20024,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "比利亞頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100540,
+        "WishpartID": 20025,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "亨姆頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100541,
+        "WishpartID": 20026,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "赫克託爾頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100542,
+        "WishpartID": 20027,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "偵查瞄準鏡",
+        "PartItemType": "eye",
+        "PartItemID": 100543,
+        "WishpartID": 20028,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "暗影吸收器",
+        "PartItemType": "hand",
+        "PartItemID": 100544,
+        "WishpartID": 20029,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "強固面罩",
+        "PartItemType": "head",
+        "PartItemID": 100545,
+        "WishpartID": 20030,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "大陽光翼",
+        "PartItemType": "hand",
+        "PartItemID": 100546,
+        "WishpartID": 20031,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "全彈護肩",
+        "PartItemType": "hand",
+        "PartItemID": 100547,
+        "WishpartID": 20032,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "超能滑輪",
+        "PartItemType": "foot",
+        "PartItemID": 100548,
+        "WishpartID": 20033,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "巡查眼鏡",
+        "PartItemType": "eye",
+        "PartItemID": 100564,
+        "WishpartID": 20034,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "雪球投射器",
+        "PartItemType": "head",
+        "PartItemID": 100575,
+        "WishpartID": 20035,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "能量收集器",
+        "PartItemType": "hand",
+        "PartItemID": 100576,
+        "WishpartID": 20036,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "迪恩戰盔",
+        "PartItemType": "head",
+        "PartItemID": 100608,
+        "WishpartID": 20037,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "白遺忘者頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100614,
+        "WishpartID": 20038,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "能量探測儀",
+        "PartItemType": "hand",
+        "PartItemID": 100615,
+        "WishpartID": 20039,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "膠囊彈射炮",
+        "PartItemType": "head",
+        "PartItemID": 100624,
+        "WishpartID": 20040,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "賽影裝置",
+        "PartItemType": "head",
+        "PartItemID": 100629,
+        "WishpartID": 20041,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "大電影河蟹頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100639,
+        "WishpartID": 20042,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "大電影駝羊頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100640,
+        "WishpartID": 20043,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "大電影熊貓頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100641,
+        "WishpartID": 20044,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "大電影雷伊頭盔",
+        "PartItemType": "eye",
+        "PartItemID": 100642,
+        "WishpartID": 20045,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "大電影雷伊面罩",
+        "PartItemType": "head",
+        "PartItemID": 100643,
+        "WishpartID": 20046,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "超能採礦裝置",
+        "PartItemType": "foot",
+        "PartItemID": 100717,
+        "WishpartID": 20047,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "闇靈槍",
+        "PartItemType": "head",
+        "PartItemID": 100726,
+        "WishpartID": 20048,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "星光魔法帽",
+        "PartItemType": "foot",
+        "PartItemID": 100839,
+        "WishpartID": 20049,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "見習列兵帽",
+        "PartItemType": "foot",
+        "PartItemID": 100879,
+        "WishpartID": 20050,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "高等列兵帽",
+        "PartItemType": "head",
+        "PartItemID": 100880,
+        "WishpartID": 20051,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "星際列兵帽",
+        "PartItemType": "hand",
+        "PartItemID": 100881,
+        "WishpartID": 20052,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "列兵長帽",
+        "PartItemType": "waist",
+        "PartItemID": 100882,
+        "WishpartID": 20053,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "見習統領帽",
+        "PartItemType": "foot",
+        "PartItemID": 100883,
+        "WishpartID": 20054,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "高等統領帽",
+        "PartItemType": "hand",
+        "PartItemID": 100884,
+        "WishpartID": 20055,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "星際統領帽",
+        "PartItemType": "head",
+        "PartItemID": 100885,
+        "WishpartID": 20056,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "見習船長帽",
+        "PartItemType": "hand",
+        "PartItemID": 100886,
+        "WishpartID": 20057,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "4399勇者戰盔",
+        "PartItemType": "head",
+        "PartItemID": 100997,
+        "WishpartID": 20058,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "深海氧氣頭套",
+        "PartItemType": "head",
+        "PartItemID": 1300062,
+        "WishpartID": 20059,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "嚴肅盒大",
+        "PartItemType": "head",
+        "PartItemID": 1300259,
+        "WishpartID": 20070,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "憂傷盒二",
+        "PartItemType": "head",
+        "PartItemID": 1300260,
+        "WishpartID": 20071,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "盒呆呆",
+        "PartItemType": "head",
+        "PartItemID": 1300261,
+        "WishpartID": 20072,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "憤怒盒小小",
+        "PartItemType": "head",
+        "PartItemID": 1300262,
+        "WishpartID": 20073,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "初級體力腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300279,
+        "WishpartID": 20074,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "中級體力腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300280,
+        "WishpartID": 20075,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "普通體力腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300281,
+        "WishpartID": 20076,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "高級體力腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300282,
+        "WishpartID": 20077,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "超級體力腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300283,
+        "WishpartID": 20078,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "青銅聖戰腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300544,
+        "WishpartID": 20079,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "白銀聖戰腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300545,
+        "WishpartID": 20080,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "黃金聖戰腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300546,
+        "WishpartID": 20081,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "鑽石聖戰腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300547,
+        "WishpartID": 20082,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "王者聖戰腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300548,
+        "WishpartID": 20083,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "VIP體力加成腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300575,
+        "WishpartID": 20084,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "絕境逢生束腰",
+        "PartItemType": "waist",
+        "PartItemID": 1300612,
+        "WishpartID": 20085,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "希望堅守束腰",
+        "PartItemType": "waist",
+        "PartItemID": 1300613,
+        "WishpartID": 20086,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "冰凌腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300617,
+        "WishpartID": 20087,
+        "WishrankID": 23
+      },
+      {
+        "PartItemName": "雷神之翼腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300692,
+        "WishpartID": 20088,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "狼王面具",
+        "PartItemType": "eye",
+        "PartItemID": 1300693,
+        "WishpartID": 20089,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "四九榮耀墨鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300698,
+        "WishpartID": 20090,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "2016巔峰之眼",
+        "PartItemType": "eye",
+        "PartItemID": 1300715,
+        "WishpartID": 20091,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "帝皇之鉞",
+        "PartItemType": "hand",
+        "PartItemID": 1300755,
+        "WishpartID": 20092,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "鷹眼目鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300773,
+        "WishpartID": 20093,
+        "WishrankID": 25
+      },
+      {
+        "PartItemName": "七月流火",
+        "PartItemType": "eye",
+        "PartItemID": 1300798,
+        "WishpartID": 20094,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "萬聖騎士面具",
+        "PartItemType": "eye",
+        "PartItemID": 1300804,
+        "WishpartID": 20095,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "未來之瞳",
+        "PartItemType": "eye",
+        "PartItemID": 1300838,
+        "WishpartID": 20096,
+        "WishrankID": 25
+      },
+      {
+        "PartItemName": "光羽目鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300871,
+        "WishpartID": 20097,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "粒子目鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300872,
+        "WishpartID": 20098,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "魔界之風",
+        "PartItemType": "eye",
+        "PartItemID": 1300874,
+        "WishpartID": 20099,
+        "WishrankID": 25
+      },
+      {
+        "PartItemName": "星願之鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300895,
+        "WishpartID": 20100,
+        "WishrankID": 25
+      },
+      {
+        "PartItemName": "睫毛",
+        "PartItemType": "eye",
+        "PartItemID": 100004,
+        "WishpartID": 20101,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "警備圍裙",
+        "PartItemType": "waist",
+        "PartItemID": 100009,
+        "WishpartID": 20102,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "裙子",
+        "PartItemType": "waist",
+        "PartItemID": 100010,
+        "WishpartID": 20103,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "履帶",
+        "PartItemType": "foot",
+        "PartItemID": 100011,
+        "WishpartID": 20104,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "磁懸浮",
+        "PartItemType": "foot",
+        "PartItemID": 100012,
+        "WishpartID": 20105,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "女子高跟鞋",
+        "PartItemType": "foot",
+        "PartItemID": 100013,
+        "WishpartID": 20106,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "挖礦鑽頭",
+        "PartItemType": "hand",
+        "PartItemID": 100014,
+        "WishpartID": 20107,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "礦工頭盔",
+        "PartItemType": "head",
+        "PartItemID": 100015,
+        "WishpartID": 20108,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "圈圈帽",
+        "PartItemType": "head",
+        "PartItemID": 100029,
+        "WishpartID": 20109,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "救生圈",
+        "PartItemType": "waist",
+        "PartItemID": 100030,
+        "WishpartID": 20110,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "噴霧器",
+        "PartItemType": "head",
+        "PartItemID": 100040,
+        "WishpartID": 20111,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "流行耳機",
+        "PartItemType": "hand",
+        "PartItemID": 100041,
+        "WishpartID": 20112,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "單排滑輪",
+        "PartItemType": "foot",
+        "PartItemID": 100043,
+        "WishpartID": 20113,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "火焰噴射器",
+        "PartItemType": "head",
+        "PartItemID": 100044,
+        "WishpartID": 20114,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "防火擋板",
+        "PartItemType": "eye",
+        "PartItemID": 100045,
+        "WishpartID": 20115,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "燃料帶",
+        "PartItemType": "waist",
+        "PartItemID": 100046,
+        "WishpartID": 20116,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "防火靴",
+        "PartItemType": "foot",
+        "PartItemID": 100047,
+        "WishpartID": 20117,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "氣體收集器",
+        "PartItemType": "hand",
+        "PartItemID": 100055,
+        "WishpartID": 20118,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "電能鋸子",
+        "PartItemType": "hand",
+        "PartItemID": 100059,
+        "WishpartID": 20119,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "電焊槍",
+        "PartItemType": "hand",
+        "PartItemID": 100067,
+        "WishpartID": 20120,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "寒流槍",
+        "PartItemType": "head",
+        "PartItemID": 100245,
+        "WishpartID": 20121,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "愚者腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 1300913,
+        "WishpartID": 20122,
+        "WishrankID": 24
+      },
+      {
+        "PartItemName": "教官指揮棒",
+        "PartItemType": "hand",
+        "PartItemID": 100062,
+        "WishpartID": 20123,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "教官帽",
+        "PartItemType": "head",
+        "PartItemID": 100068,
+        "WishpartID": 20124,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "少尉腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 100069,
+        "WishpartID": 20125,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "中尉腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 100070,
+        "WishpartID": 20126,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "上尉腰帶",
+        "PartItemType": "waist",
+        "PartItemID": 100071,
+        "WishpartID": 20127,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "教官訓練鞋",
+        "PartItemType": "foot",
+        "PartItemID": 100072,
+        "WishpartID": 20128,
+        "WishrankID": 21
+      },
+      {
+        "PartItemName": "萬聖騎士飛靴",
+        "PartItemType": "foot",
+        "PartItemID": 1300972,
+        "WishpartID": 20129,
+        "WishrankID": 22
+      },
+      {
+        "PartItemName": "預言之鏡",
+        "PartItemType": "eye",
+        "PartItemID": 1300994,
+        "WishpartID": 20130,
+        "WishrankID": 25
+      }
+    ]
+  }
+}

@@ -1,0 +1,1045 @@
+{
+  "data": [
+    {
+      "title": "獲得精靈【艾歐麗婭】",
+      "jump": [
+        2,
+        150047
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40802,
+        1
+      ],
+      "id": 1,
+      "pethead": 3437
+    },
+    {
+      "title": "【星光密藏】抽取過4次",
+      "jump": [
+        2,
+        111600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300075,
+        1
+      ],
+      "id": 2,
+      "pethead": 0
+    },
+    {
+      "title": "關卡兌換精靈【幻境界王】  ",
+      "jump": [
+        2,
+        150051
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40805,
+        1
+      ],
+      "id": 3,
+      "pethead": 3026
+    },
+    {
+      "title": "【艾歐麗婭】關卡兌換專屬特性",
+      "jump": [
+        2,
+        150047
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300070,
+        1
+      ],
+      "id": 4,
+      "pethead": 3437
+    },
+    {
+      "title": "【譜尼】破除七個封印",
+      "jump": [
+        2,
+        150005
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        400065,
+        10
+      ],
+      "id": 5,
+      "pethead": 300
+    },
+    {
+      "title": "【譜尼】戰勝「譜尼真身」",
+      "jump": [
+        2,
+        150005
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40757,
+        1,
+        1,
+        300617,
+        1,
+        1,
+        400063,
+        5
+      ],
+      "id": 6,
+      "pethead": 300
+    },
+    {
+      "title": "【艾歐麗婭】關卡兌換第五技能",
+      "jump": [
+        2,
+        150047
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41317,
+        1
+      ],
+      "id": 7,
+      "pethead": 3437
+    },
+    {
+      "title": "【星光密藏】抽取過8次",
+      "jump": [
+        2,
+        111600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41320,
+        1
+      ],
+      "id": 8,
+      "pethead": 0
+    },
+    {
+      "title": "【幻境界皇】累積挑戰勝利幻境試煉關卡15次",
+      "jump": [
+        2,
+        150051
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300639,
+        1
+      ],
+      "id": 9,
+      "pethead": 3460
+    },
+    {
+      "title": "【茉蕊兒】精靈王的試煉關卡完成普通難度",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        50
+      ],
+      "id": 10,
+      "pethead": 3322
+    },
+    {
+      "title": "【茉蕊兒】完成試煉獲得復甦晶石80個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        50
+      ],
+      "id": 11,
+      "pethead": 3322
+    },
+    {
+      "title": "【星禮】作戰實驗室通關「進攻實驗室」",
+      "jump": [
+        2,
+        163100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300640,
+        1
+      ],
+      "id": 12,
+      "pethead": 4338
+    },
+    {
+      "title": "【聖靈譜尼】通過第1關及第2關",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40758,
+        1,
+        1,
+        300617,
+        2,
+        1,
+        300670,
+        2
+      ],
+      "id": 13,
+      "pethead": 5000
+    },
+    {
+      "title": "【星光密藏】抽取過12次",
+      "jump": [
+        2,
+        111600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300646,
+        1
+      ],
+      "id": 14,
+      "pethead": 0
+    },
+    {
+      "title": "【茉蕊兒】完成試煉獲得復甦晶石170個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        50
+      ],
+      "id": 15,
+      "pethead": 3322
+    },
+    {
+      "title": "【聖靈譜尼】「盛夏之風」進度達到2000",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300641,
+        1
+      ],
+      "id": 16,
+      "pethead": 5000
+    },
+    {
+      "title": "【王之哈莫】通過第1關「封王之路」",
+      "jump": [
+        2,
+        150023
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300639,
+        1
+      ],
+      "id": 17,
+      "pethead": 3022
+    },
+    {
+      "title": "將幻境界王進化成【幻境界皇】",
+      "jump": [
+        2,
+        150051
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41050,
+        1
+      ],
+      "id": 18,
+      "pethead": 3460
+    },
+    {
+      "title": "【幻境界皇】獲得專屬特性",
+      "jump": [
+        2,
+        150051
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40804,
+        1
+      ],
+      "id": 19,
+      "pethead": 3460
+    },
+    {
+      "title": "【星禮】作戰實驗室通關「生存實驗室」",
+      "jump": [
+        2,
+        163100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300673,
+        3
+      ],
+      "id": 20,
+      "pethead": 4338
+    },
+    {
+      "title": "【艾莫莉薩】通過第1關",
+      "jump": [
+        2,
+        150058
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        100
+      ],
+      "id": 21,
+      "pethead": 3573
+    },
+    {
+      "title": "【茉蕊兒】試煉獲得復甦晶石260個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        50
+      ],
+      "id": 23,
+      "pethead": 3322
+    },
+    {
+      "title": "【聖靈譜尼】通過第3關「盛夏之風」",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40759,
+        1,
+        1,
+        300618,
+        1,
+        1,
+        1706927,
+        200,
+        1,
+        300673,
+        5
+      ],
+      "id": 24,
+      "pethead": 5000
+    },
+    {
+      "title": "【星光密藏】抽取過16次",
+      "jump": [
+        2,
+        111600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        100
+      ],
+      "id": 25,
+      "pethead": 0
+    },
+    {
+      "title": "【眠降·瑪緹娜】通關關卡獲得因子30個",
+      "jump": [
+        2,
+        153100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40802,
+        1
+      ],
+      "id": 26,
+      "pethead": 4442
+    },
+    {
+      "title": "【艾莫莉薩】第2關進度達到70",
+      "jump": [
+        2,
+        150058
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40803,
+        1
+      ],
+      "id": 28,
+      "pethead": 3573
+    },
+    {
+      "title": "【王之哈莫】通過第2關「破除邪念」",
+      "jump": [
+        2,
+        150023
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1200444,
+        6
+      ],
+      "id": 30,
+      "pethead": 3022
+    },
+    {
+      "title": "【星禮】作戰實驗室通關任意「反擊實驗室」",
+      "jump": [
+        2,
+        163100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300618,
+        1
+      ],
+      "id": 31,
+      "pethead": 4338
+    },
+    {
+      "title": "【伊芙莉莎】完成挑戰獲得5顆星",
+      "jump": [
+        2,
+        150066
+      ],
+      "petreward": [
+        3444,
+        2679,
+        31157
+      ],
+      "rewardinfo": null,
+      "id": 32,
+      "pethead": 3844
+    },
+    {
+      "title": "【眠降·瑪緹娜】通關關卡獲得因子60個",
+      "jump": [
+        2,
+        153100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        150
+      ],
+      "id": 33,
+      "pethead": 4442
+    },
+    {
+      "title": "【艾莫莉薩】通過第2關",
+      "jump": [
+        2,
+        150058
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300673,
+        3
+      ],
+      "id": 34,
+      "pethead": 3573
+    },
+    {
+      "title": "【茉蕊兒】完成試煉獲得復甦晶石350個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300853,
+        3
+      ],
+      "id": 35,
+      "pethead": 3322
+    },
+    {
+      "title": "【伊芙莉莎】完成挑戰獲得10顆星",
+      "jump": [
+        2,
+        150066
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1200444,
+        6
+      ],
+      "id": 36,
+      "pethead": 3844
+    },
+    {
+      "title": "【聖靈譜尼】通過第4關「聖光聯軍」",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40760,
+        1,
+        1,
+        300066,
+        1,
+        1,
+        300063,
+        1,
+        1,
+        300054,
+        2
+      ],
+      "id": 37,
+      "pethead": 5000
+    },
+    {
+      "title": "【星光密藏】抽取過24次",
+      "jump": [
+        2,
+        111600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        150
+      ],
+      "id": 38,
+      "pethead": 0
+    },
+    {
+      "title": "【星禮】作戰實驗室通關任意「綜合實驗室」",
+      "jump": [
+        2,
+        163100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        100
+      ],
+      "id": 39,
+      "pethead": 4338
+    },
+    {
+      "title": "獲得精靈【艾莫莉薩】",
+      "jump": [
+        2,
+        150058
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300405,
+        1
+      ],
+      "id": 40,
+      "pethead": 3573
+    },
+    {
+      "title": "【眠降·瑪緹娜】通關關卡獲得因子100個",
+      "jump": [
+        2,
+        153100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300878,
+        5
+      ],
+      "id": 41,
+      "pethead": 4442
+    },
+    {
+      "title": "獲得精靈【茉蕊兒】",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41078,
+        1
+      ],
+      "id": 42,
+      "pethead": 3322
+    },
+    {
+      "title": "【聖靈譜尼】第5關激活任意3個光明之環",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        150
+      ],
+      "id": 43,
+      "pethead": 5000
+    },
+    {
+      "title": "【皮神】完成挑戰獲得創世之羽100個",
+      "jump": [
+        2,
+        150070
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        100
+      ],
+      "id": 44,
+      "pethead": 4731
+    },
+    {
+      "title": "【喬特魯德】精靈王的試煉關卡完成困難難度",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1200444,
+        15
+      ],
+      "id": 45,
+      "pethead": 3036
+    },
+    {
+      "title": "【王之哈莫】通過第3關「龍族之根」",
+      "jump": [
+        2,
+        150023
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300054,
+        1
+      ],
+      "id": 46,
+      "pethead": 3022
+    },
+    {
+      "title": "【喬特魯德】試煉獲得龍脈晶石300個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        150
+      ],
+      "id": 47,
+      "pethead": 3036
+    },
+    {
+      "title": "【皮神】完成挑戰獲得創世之羽300個",
+      "jump": [
+        2,
+        150070
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        100
+      ],
+      "id": 48,
+      "pethead": 4731
+    },
+    {
+      "title": "獲得精靈【伊芙莉莎】",
+      "jump": [
+        2,
+        150066
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        10,
+        135,
+        11
+      ],
+      "id": 49,
+      "pethead": 3844
+    },
+    {
+      "title": "【聖靈譜尼】通過第5關「光明之願」",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40761,
+        1,
+        1,
+        300618,
+        3,
+        1,
+        1200445,
+        4,
+        1,
+        1200446,
+        2
+      ],
+      "id": 50,
+      "pethead": 5000
+    },
+    {
+      "title": "【千裳】通過第1關及第2關",
+      "jump": [
+        2,
+        150068
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        200
+      ],
+      "id": 51,
+      "pethead": 3894
+    },
+    {
+      "title": "【喬特魯德】完成試煉獲得龍脈晶石600個",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300054,
+        1
+      ],
+      "id": 52,
+      "pethead": 3036
+    },
+    {
+      "title": "【月照星魂】完成挑戰獲得100金幣",
+      "jump": [
+        2,
+        150067
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300785,
+        5
+      ],
+      "id": 53,
+      "pethead": 3866
+    },
+    {
+      "title": "【眠降·瑪緹娜】通關關卡獲得因子300個",
+      "jump": [
+        2,
+        153100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300673,
+        4
+      ],
+      "id": 54,
+      "pethead": 4442
+    },
+    {
+      "title": "【月照星魂】完成挑戰獲得200金幣",
+      "jump": [
+        2,
+        150067
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300650,
+        10
+      ],
+      "id": 55,
+      "pethead": 3866
+    },
+    {
+      "title": "【月照星魂】完成挑戰獲得1個精修片",
+      "jump": [
+        2,
+        150067
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        200
+      ],
+      "id": 56,
+      "pethead": 3866
+    },
+    {
+      "title": "【王之哈莫】通過第4關",
+      "jump": [
+        2,
+        150023
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300670,
+        2
+      ],
+      "id": 57,
+      "pethead": 3022
+    },
+    {
+      "title": "獲得精靈【眠降·瑪緹娜】",
+      "jump": [
+        2,
+        153100
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1200444,
+        15
+      ],
+      "id": 58,
+      "pethead": 4442
+    },
+    {
+      "title": "獲得精靈【王之哈莫】",
+      "jump": [
+        2,
+        150023
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41114,
+        1
+      ],
+      "id": 59,
+      "pethead": 3022
+    },
+    {
+      "title": "獲得精靈【喬特魯德】",
+      "jump": [
+        2,
+        161600
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40651,
+        1
+      ],
+      "id": 60,
+      "pethead": 3036
+    },
+    {
+      "title": "獲得精靈【皮神】",
+      "jump": [
+        2,
+        150070
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        200
+      ],
+      "id": 61,
+      "pethead": 4731
+    },
+    {
+      "title": "獲得精靈【千裳】",
+      "jump": [
+        2,
+        150068
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300405,
+        2
+      ],
+      "id": 62,
+      "pethead": 3894
+    },
+    {
+      "title": "【聖靈譜尼】通過第6關「聖靈主宰」",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        40762,
+        1,
+        1,
+        300853,
+        5,
+        1,
+        300405,
+        3,
+        1,
+        1200446,
+        2
+      ],
+      "id": 63,
+      "pethead": 5000
+    },
+    {
+      "title": "獲得精靈【月照星魂】",
+      "jump": [
+        2,
+        150067
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        300405,
+        3
+      ],
+      "id": 64,
+      "pethead": 3866
+    },
+    {
+      "title": "【皮神】獲得第五技能和特性",
+      "jump": [
+        2,
+        150070
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706927,
+        200
+      ],
+      "id": 65,
+      "pethead": 4731
+    },
+    {
+      "title": "【千裳】獲得第五技能和特性",
+      "jump": [
+        2,
+        150068
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1706928,
+        150
+      ],
+      "id": 66,
+      "pethead": 3894
+    },
+    {
+      "title": "【月照星魂】獲得特性和第五",
+      "jump": [
+        2,
+        150067
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        1,
+        1200446,
+        2
+      ],
+      "id": 67,
+      "pethead": 3866
+    },
+    {
+      "title": "【聖靈譜尼】獲得特性和第五技能",
+      "jump": [
+        2,
+        150049
+      ],
+      "petreward": null,
+      "rewardinfo": [
+        2,
+        41929,
+        1,
+        2,
+        40763,
+        1,
+        1,
+        300066,
+        1,
+        1,
+        1300891,
+        1,
+        1,
+        1300892,
+        1,
+        1,
+        1300893,
+        1,
+        1,
+        1300894,
+        1
+      ],
+      "id": 68,
+      "pethead": 5000
+    }
+  ]
+}

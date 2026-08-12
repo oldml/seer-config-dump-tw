@@ -1,0 +1,3215 @@
+{
+  "data": [
+    {
+      "action": "happy",
+      "describ": "蘇摩蘇摩蘇摩~",
+      "name": "通用開心",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 1,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "餓餓，飯飯！",
+      "name": "通用哭泣",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 2,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "肚肚，不妙，打雷……",
+      "name": "通用虛弱",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 3,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "摸摸，還要！",
+      "name": "通用點擊1",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 4,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "貼貼，不夠！",
+      "name": "通用點擊2",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 5,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "抱抱，暖和！",
+      "name": "通用點擊3",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 6,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "泥嚎！",
+      "name": "通用靠近1",
+      "dangoID": null,
+      "actionTeam": 2,
+      "id": 9,
+      "limitDango": 0,
+      "limitType": 2,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "蘇摩蘇摩！",
+      "name": "通用靠近2",
+      "dangoID": null,
+      "actionTeam": 2,
+      "id": 10,
+      "limitDango": 0,
+      "limitType": 2,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "不！！！！",
+      "name": "彩蛋靠近",
+      "dangoID": [
+        28
+      ],
+      "actionTeam": 2,
+      "id": 11,
+      "limitDango": 48,
+      "limitType": 2,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "旅行，和你……",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 12,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "亮晶晶…喜歡…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 13,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "呼啊…困困…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 14,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "遊泳…想要…噗嚕噗嚕…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 15,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "圓圓的…我…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 16,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "爬呀爬…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 17,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "光…暖暖…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 18,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "夢到…甜甜…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 19,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "朋友…在哪？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 20,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "肚子…咕~咕~",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 21,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "軟乎乎…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 22,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "轉轉…暈了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 23,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "影子…追追…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 24,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "葉子…搖搖…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 25,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "餓…了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 26,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "飽飽…滿足…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 27,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "咦？什麼…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 28,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "風…好舒服…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 29,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "自己…玩…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 30,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "噗咻…滾滾…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 31,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "彈彈…跳跳…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 32,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "水珠…亮亮…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 33,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "睡…不著…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 34,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "角落…安全…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 35,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "世界…好大…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 36,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "小小的…我…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 37,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "咕扭…咕扭…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 38,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "太陽…拜拜…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 39,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "月亮…晚安…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 40,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "微風…呼呼…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 41,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "我是…誰？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 42,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "顏色…好看…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 43,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "滑滑…溜溜…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 44,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "藏好…了嗎？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 45,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "找不到…我…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 46,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "嘿嘿…傻笑…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 47,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "發呆…時間…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 48,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "泡泡…飛走了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 49,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "泥巴…快樂…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 50,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "涼涼…喜歡…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 51,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "天氣，好好！",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 52,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "雲朵…像糰子…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 53,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "一片…兩片…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 54,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "數不清…啦…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 55,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "味道…香香…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 56,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "跟著…光走…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 57,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "迷路…不怕…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 58,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "慢慢…生活…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 59,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "噗…放氣了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 60,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "今天…什麼顏色？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 61,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "扭來…扭去…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 62,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "秘密…基地…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 63,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "高高的…地方…想去…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 64,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "怕怕…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 65,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "水滴…朋友…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 66,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "世界上…另一個我…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 67,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "唱歌…哼哼…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 68,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "樹葉…想吃",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 69,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "節奏…噗通噗通…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 70,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "困了…但不想睡…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 71,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "等待…誰呢？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 72,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "星星…好多…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 73,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "許願…更多…吃的…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 74,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "黏住了…救命…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 75,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "自己…黏自己…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 76,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "我是…膠水…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 77,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "分裂…小糰子？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 78,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "不要…分開…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 79,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "抱抱…自己…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 80,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "暖和和…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 81,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "節日…是什麼？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 82,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "快樂…簡單…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 83,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "悲傷…噗…沒了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 84,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "心情…只有三秒…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 85,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "剛才…想什麼？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 86,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "算了…不想了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 87,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "前進…蠕動…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 88,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "後退…也是蠕動…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 89,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "左邊…看看…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 90,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "右邊…看看…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 91,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "上面…有東西？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 92,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "下面…是家…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 93,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "探險…結束…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 94,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "回家…睡覺…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 95,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "明天…見…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 96,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "明天…是啥？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 97,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "重複…每一天…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 98,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "開心…每一天…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 99,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "生長…一點點…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 100,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "變大…變強…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 101,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "還是…軟軟的…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 102,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "驕傲…挺胸…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 103,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "噗嚕…滑倒了…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 104,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "沒關係…再來…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 105,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "世界…愛著我…",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 106,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "你…也愛著我？",
+      "name": "通用待機",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 107,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "呀！是誰？",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 108,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "嘻嘻…痒痒…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 109,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "朋友，親親！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 110,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "玩，想要",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 111,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "抱抱！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 112,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "舉高高！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 113,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "喜歡…這個！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 114,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "再來…一次！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 115,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "哇啊！開心！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 116,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "熱熱，暖暖~",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 117,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "暖暖…的手…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 118,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "戳戳…反彈！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 119,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "別停…嘛…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 120,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "驚喜！Mua！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 121,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "抓住…你了！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 122,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "蹭蹭…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 123,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "陪你…玩哦…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 124,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "能量…充滿！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 125,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "噗嚕嚕~！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 126,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "咕啾！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 127,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "變大了！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 128,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "啵啵啵啵！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 129,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "變成…星星…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 130,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "親親…開始！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 131,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "眼睛…星星！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 132,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "幸福…滿了…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 133,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "獨家…按摩…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 134,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "這裡…也痒痒…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 135,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "嘿嘿嘿…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 136,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "哇哈哈哈！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 137,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "開心…到融化…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 138,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "不要…停…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 139,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "焦點…是我！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 140,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "愛你，哦！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 141,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "最…喜歡你了！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 142,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "魔法…發動！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 143,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "閃耀！咕啾！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 144,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "噗咻！起飛！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 145,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "摸摸，舒服！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 146,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "拍拍…好舒服…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 147,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "你好，你好~",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 148,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "軟軟，喜歡~",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 149,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "快樂，泡泡！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 150,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "揉揉，喜歡！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 151,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "吐泡泡，給你！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 152,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "晃晃，暈暈……",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 153,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "心情，飛飛！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 154,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "幸運，閃閃！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 155,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "秘密…告訴你…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 156,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "其實…我很聰明！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 157,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "滑滑，喜歡！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 158,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "咕嚕咕嚕…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 159,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "呼呀！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 160,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "被發現了！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 161,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "裝死…失敗…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 162,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "陪我再…玩一會…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 163,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "你的手…魔法！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 164,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "煩惱…噗…飛走！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 165,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "一起…發呆吧！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 166,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "嘿嘿…呼呼…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 167,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "幸運…我們！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 168,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "幸運…分給你！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 169,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "噗噗…吐泡泡…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 170,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "泡泡…送給你！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 171,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "黏上…你了！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 172,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "甩不掉…哦！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 173,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "新遊戲…開始！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 174,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "追逐…你的手指！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 175,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "勝利！是我！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 176,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "安慰…抱抱…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 177,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "感覺…好點了嗎？",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 178,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "蘇摩！…治癒術！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 179,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "舒服…蘇摩…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 180,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "輕輕…搖晃…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 181,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "搖籃…時光…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 182,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "差點…睡著…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 183,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "還，想玩！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 184,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "精力…無限！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 185,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "挑戰！不怕！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 186,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "保護…你！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 187,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "小小，我……大大，你！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 188,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "勇氣…滿滿！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 189,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "咕扭…鑽出來！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 190,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "嚇你…一跳！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 191,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "玩笑…成功！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 192,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "朋友……蘇摩！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 193,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "永遠…在一起…",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 194,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "想要，更多……",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 195,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "主人！好棒！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 196,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "主人！好酷！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 197,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "主人！好厲害！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 198,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "主人！最棒！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 199,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "主人！第一！",
+      "name": "通用點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 200,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "布魯，想你~",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        2
+      ],
+      "actionTeam": 1,
+      "id": 201,
+      "limitDango": 1,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "格林，抱抱~",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        1
+      ],
+      "actionTeam": 1,
+      "id": 202,
+      "limitDango": 2,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        5
+      ],
+      "actionTeam": 1,
+      "id": 203,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "蓋亞，對決！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        10
+      ],
+      "actionTeam": 1,
+      "id": 204,
+      "limitDango": 11,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "紅紅的，喜歡！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        11
+      ],
+      "actionTeam": 1,
+      "id": 205,
+      "limitDango": 14,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 206,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 207,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 208,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 209,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 210,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 211,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 212,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "千裡，擊濤！",
+      "name": "特殊精靈對話",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 213,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "賽爾，喜歡……",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        25
+      ],
+      "actionTeam": 1,
+      "id": 214,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "喜歡，賽爾",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        36
+      ],
+      "actionTeam": 1,
+      "id": 215,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "想要，和你",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        34
+      ],
+      "actionTeam": 1,
+      "id": 216,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "你，記憶，模樣……",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        35
+      ],
+      "actionTeam": 1,
+      "id": 217,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "媽媽，我還要！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        50
+      ],
+      "actionTeam": 1,
+      "id": 218,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "世界，毀滅！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        30
+      ],
+      "actionTeam": 1,
+      "id": 219,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "吞噬，宇宙！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        30
+      ],
+      "actionTeam": 1,
+      "id": 220,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "混沌，永恆！",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        30
+      ],
+      "actionTeam": 1,
+      "id": 221,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "describ": "天蛇，我很抱歉……",
+      "name": "特殊精靈對話",
+      "dangoID": [
+        27
+      ],
+      "actionTeam": 2,
+      "id": 222,
+      "limitDango": 55,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 223,
+      "limitDango": 1,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 224,
+      "limitDango": 2,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 225,
+      "limitDango": 3,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 226,
+      "limitDango": 4,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 227,
+      "limitDango": 5,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 228,
+      "limitDango": 6,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 229,
+      "limitDango": 7,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 230,
+      "limitDango": 8,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 231,
+      "limitDango": 9,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 232,
+      "limitDango": 10,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 233,
+      "limitDango": 11,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 234,
+      "limitDango": 12,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 235,
+      "limitDango": 13,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 236,
+      "limitDango": 14,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 237,
+      "limitDango": 15,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 238,
+      "limitDango": 16,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 239,
+      "limitDango": 17,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 240,
+      "limitDango": 18,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 241,
+      "limitDango": 19,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 242,
+      "limitDango": 20,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 243,
+      "limitDango": 21,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 244,
+      "limitDango": 22,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 245,
+      "limitDango": 23,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 246,
+      "limitDango": 24,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 247,
+      "limitDango": 25,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 248,
+      "limitDango": 26,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 249,
+      "limitDango": 27,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 250,
+      "limitDango": 28,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 251,
+      "limitDango": 29,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 252,
+      "limitDango": 30,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 253,
+      "limitDango": 31,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 254,
+      "limitDango": 34,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 255,
+      "limitDango": 35,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 256,
+      "limitDango": 36,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 257,
+      "limitDango": 37,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 258,
+      "limitDango": 38,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 259,
+      "limitDango": 39,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 260,
+      "limitDango": 40,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 261,
+      "limitDango": 41,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 262,
+      "limitDango": 42,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 263,
+      "limitDango": 43,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 264,
+      "limitDango": 44,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 265,
+      "limitDango": 45,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 266,
+      "limitDango": 46,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 267,
+      "limitDango": 47,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 268,
+      "limitDango": 48,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 269,
+      "limitDango": 49,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 270,
+      "limitDango": 50,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 271,
+      "limitDango": 51,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 272,
+      "limitDango": 52,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 273,
+      "limitDango": 53,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 274,
+      "limitDango": 54,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "千裡，擊濤！千裡，擊濤！千裡，擊濤！",
+      "name": "千裡擊濤",
+      "dangoID": [
+        54
+      ],
+      "actionTeam": 2,
+      "id": 275,
+      "limitDango": 55,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不許！擊濤！",
+      "name": "通用精靈點擊",
+      "dangoID": null,
+      "actionTeam": 3,
+      "id": 276,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不許！擊濤！",
+      "name": "通用精靈點擊",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 277,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "sick",
+      "describ": "不許！擊濤！",
+      "name": "通用精靈點擊",
+      "dangoID": null,
+      "actionTeam": 1,
+      "id": 278,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "超越！變革！",
+      "name": "洛林卡",
+      "dangoID": [
+        57
+      ],
+      "actionTeam": 2,
+      "id": 279,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "describ": "群星……魔法……",
+      "name": "洛林卡",
+      "dangoID": [
+        56
+      ],
+      "actionTeam": 2,
+      "id": 280,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "describ": "膠囊，鑽鑽！",
+      "name": "洛林卡",
+      "dangoID": [
+        34
+      ],
+      "actionTeam": 2,
+      "id": 281,
+      "limitDango": 0,
+      "limitType": 1,
+      "value": 30
+    }
+  ]
+}

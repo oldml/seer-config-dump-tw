@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "describe": "玩家當日成功登錄遊戲",
+      "rewardinfo": "3_204001_10",
+      "title": "登錄",
+      "value": "1",
+      "id": 1,
+      "target": 0,
+      "time": 1
+    },
+    {
+      "describe": "成功完成任意難度泰坦礦洞",
+      "rewardinfo": "3_204001_10",
+      "title": "泰坦礦洞",
+      "value": "1",
+      "id": 2,
+      "target": 161500,
+      "time": 1
+    },
+    {
+      "describe": "成功通關任意1層經驗訓練場",
+      "rewardinfo": "3_204001_5",
+      "title": "經驗訓練場",
+      "value": "1",
+      "id": 3,
+      "target": 161100,
+      "time": 1
+    },
+    {
+      "describe": "成功通關任意1層學習力戰場",
+      "rewardinfo": "3_204001_5",
+      "title": "學習力戰場",
+      "value": "1",
+      "id": 4,
+      "target": 161200,
+      "time": 1
+    },
+    {
+      "describe": "成功通關任意1層勇者之塔",
+      "rewardinfo": "3_204001_10",
+      "title": "勇者之塔",
+      "value": "1",
+      "id": 5,
+      "target": 161300,
+      "time": 1
+    },
+    {
+      "describe": "前往星願漂流瓶完成2次許願",
+      "rewardinfo": "3_204001_10",
+      "title": "許願",
+      "value": "2",
+      "id": 6,
+      "target": 111100,
+      "time": 1
+    },
+    {
+      "describe": "成功戰勝1次六界神王殿BOSS",
+      "rewardinfo": "3_204001_20",
+      "title": "六界神王",
+      "value": "1",
+      "id": 7,
+      "target": 161400,
+      "time": 1
+    },
+    {
+      "describe": "通關1次任意難度精靈因子關卡",
+      "rewardinfo": "3_204001_40",
+      "title": "精靈因子關卡",
+      "value": "1",
+      "id": 8,
+      "target": 153100,
+      "time": 1
+    },
+    {
+      "describe": "成功戰勝1次精靈王試煉BOSS",
+      "rewardinfo": "3_204001_20",
+      "title": "精靈王試煉",
+      "value": "1",
+      "id": 9,
+      "target": 161600,
+      "time": 1
+    },
+    {
+      "describe": "進行1次精靈養成",
+      "rewardinfo": "3_204001_10",
+      "title": "精靈養成",
+      "value": "1",
+      "id": 10,
+      "target": 222000,
+      "time": 1
+    },
+    {
+      "describe": "完成任意5項每日任務",
+      "rewardinfo": "3_204001_30",
+      "title": "任務達人",
+      "value": "5",
+      "id": 11,
+      "target": 0,
+      "time": 1
+    },
+    {
+      "describe": "通關5次泰坦礦洞",
+      "rewardinfo": "3_20210_10",
+      "title": "泰坦礦洞",
+      "value": "5",
+      "id": 101,
+      "target": 161500,
+      "time": 2
+    },
+    {
+      "describe": "通關10層經驗訓練場",
+      "rewardinfo": "3_20210_10",
+      "title": "經驗訓練場",
+      "value": "10",
+      "id": 102,
+      "target": 161100,
+      "time": 2
+    },
+    {
+      "describe": "通關10層學習力戰場",
+      "rewardinfo": "3_20210_10",
+      "title": "學習力戰場",
+      "value": "10",
+      "id": 103,
+      "target": 161200,
+      "time": 2
+    },
+    {
+      "describe": "通關15層勇者之塔",
+      "rewardinfo": "3_20210_10",
+      "title": "勇者之塔",
+      "value": "15",
+      "id": 104,
+      "target": 161300,
+      "time": 2
+    },
+    {
+      "describe": "獲得5隻精靈",
+      "rewardinfo": "3_20210_20",
+      "title": "精靈收藏家",
+      "value": "5",
+      "id": 105,
+      "target": 0,
+      "time": 2
+    },
+    {
+      "describe": "完成45個每日任務",
+      "rewardinfo": "3_20210_20",
+      "title": "任務達人",
+      "value": "45",
+      "id": 106,
+      "target": 0,
+      "time": 2
+    },
+    {
+      "describe": "擊敗100隻精靈",
+      "rewardinfo": "3_20210_20",
+      "title": "戰鬥狂熱者",
+      "value": "100",
+      "id": 107,
+      "target": 0,
+      "time": 2
+    },
+    {
+      "describe": "進行10次巔峰聖戰任意模式對戰",
+      "rewardinfo": "3_20210_20",
+      "title": "巔峰聖戰",
+      "value": "10",
+      "id": 108,
+      "target": 200000,
+      "time": 2
+    },
+    {
+      "describe": "戰勝30次精靈王試煉BOSS",
+      "rewardinfo": "3_20210_30",
+      "title": "精靈王試煉",
+      "value": "30",
+      "id": 109,
+      "target": 161600,
+      "time": 2
+    },
+    {
+      "describe": "成功戰勝30次六界神王殿BOSS",
+      "rewardinfo": "3_20210_30",
+      "title": "六界神王",
+      "value": "30",
+      "id": 110,
+      "target": 161400,
+      "time": 2
+    },
+    {
+      "describe": "通關5次任意難度精靈因子關卡",
+      "rewardinfo": "3_20210_40",
+      "title": "精靈因子關卡",
+      "value": "5",
+      "id": 111,
+      "target": 153100,
+      "time": 2
+    },
+    {
+      "describe": "通關1次星際迷航",
+      "rewardinfo": "3_20210_40",
+      "title": "星際迷航",
+      "value": "1",
+      "id": 112,
+      "target": 162200,
+      "time": 2
+    }
+  ]
+}

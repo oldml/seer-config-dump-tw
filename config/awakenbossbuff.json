@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "des": "自身傷害提升100%",
+      "extranum": "5",
+      "bufftype": 1,
+      "id": 1
+    },
+    {
+      "des": "每回合恢復250點體力",
+      "extranum": "5",
+      "bufftype": 1,
+      "id": 2
+    },
+    {
+      "des": "登場時為自身附加200點護盾和護罩",
+      "extranum": "5",
+      "bufftype": 1,
+      "id": 3
+    },
+    {
+      "des": "每回合附加220點固定傷害",
+      "extranum": "5",
+      "bufftype": 1,
+      "id": 4
+    },
+    {
+      "des": "自身傷害降低70%",
+      "extranum": "10",
+      "bufftype": 2,
+      "id": 5
+    },
+    {
+      "des": "每回合自身體力減少300",
+      "extranum": "10",
+      "bufftype": 2,
+      "id": 6
+    },
+    {
+      "des": "每回合對手增加體力3000",
+      "extranum": "10",
+      "bufftype": 2,
+      "id": 7
+    },
+    {
+      "des": "每回合自身所有能力等級-1",
+      "extranum": "10",
+      "bufftype": 2,
+      "id": 8
+    }
+  ]
+}

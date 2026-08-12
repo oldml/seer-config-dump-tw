@@ -1,0 +1,350 @@
+{
+  "data": [
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        3
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 5,
+      "health": 0,
+      "id": 1,
+      "type": 3
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": null,
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 6,
+      "health": 0,
+      "id": 2,
+      "type": 1
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": null,
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 6,
+      "health": 0,
+      "id": 3,
+      "type": 5
+    },
+    {
+      "bossMessages": "7_沒想到真的可以成功啊！\r\n2_雖然的記憶狹間的裂隙之中是無法編輯歷史的。\r\n2_但是我本身是不具備任何「歷史性」的存在。\r\n2_是純粹依靠賽爾的意志驅動的。\r\n7_我已經完全理解了。\r\n2_準備好了嗎賽爾？\r\n7_隨時ok！",
+      "skills": "",
+      "args": [
+        10
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": [
+        1,
+        2
+      ],
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 1,
+      "health": 50000,
+      "id": 4,
+      "type": 4
+    },
+    {
+      "bossMessages": "1_不過是雕蟲小技罷了。\r\n1_就讓我送給你們最純粹的死亡吧。",
+      "skills": "9;26,10;9,12,26;11,26,12,18;10;26,11;14,26,16;18,10,26,12;9,10,26,14,13;18",
+      "args": [
+        1
+      ],
+      "bossSkillSpeed": [
+        0,
+        1500,
+        1000,
+        500,
+        0,
+        1500,
+        1000,
+        500,
+        1000,
+        0
+      ],
+      "playerSkills": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "bossSpeed": 3000,
+      "bossState": 0,
+      "finishCondition": 3,
+      "health": 0,
+      "id": 5,
+      "type": 4
+    },
+    {
+      "bossMessages": "2_好機會！賽爾，瞄準吒克斯的弱點！\r\n7_看我的！我點點點點點！\r\n2_全彈發射！",
+      "skills": "",
+      "args": [
+        2
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 4,
+      "health": 37500,
+      "id": 6,
+      "type": 2
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        1
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 0,
+      "finishCondition": 5,
+      "health": 0,
+      "id": 7,
+      "type": 3
+    },
+    {
+      "bossMessages": "1_不得不承認，作為蚊子，你們的表現確實可圈可點。\r\n1_但是只有這樣的力量就像擊敗我嗎？\r\n7_不好，他又要復原了！\r\n4_賽爾！我們把力量借給你！\r\n5_只要破壞的速度大於他再生的速度就行了吧！\r\n7_那你們怎麼辦？\r\n5_不過是吒克斯的分身而已，我們還應付的過來。\r\n4_務必要讓吒克斯付出代價，賽爾！\r\n7_我知道了！",
+      "skills": "9,10,26,13;10,26,11,16,12;26,14,17;12;26,16,12;14,26,13;12,10,26;16,10,14;17",
+      "args": [
+        7
+      ],
+      "bossSkillSpeed": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        0
+      ],
+      "playerSkills": [
+        1,
+        2,
+        4,
+        6,
+        7
+      ],
+      "bossSpeed": 3000,
+      "bossState": 1,
+      "finishCondition": 3,
+      "health": 0,
+      "id": 8,
+      "type": 4
+    },
+    {
+      "bossMessages": "7_就算火力升級過，還是不太夠嗎……\r\n7_賽爾號，你有沒有更強的攻擊？\r\n2_只要你想，我就會有。\r\n7_那就讓他嘗一發大的吧！",
+      "skills": "",
+      "args": [
+        4
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 1,
+      "finishCondition": 4,
+      "health": 15000,
+      "id": 9,
+      "type": 2
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        2
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 1,
+      "finishCondition": 5,
+      "health": 0,
+      "id": 10,
+      "type": 3
+    },
+    {
+      "bossMessages": "1_要我說幾次你們才會明白。\r\n1_無論怎樣的攻擊，都沒有意義。\r\n1_你們殺不死我的。\r\n4_那就再重複一萬次！\r\n5_賽爾，你怎麼樣？\r\n7_火力輸出穩定！\r\n5_那就來吧，我們一起，殺了它！\r\n7_吒克斯！在你擊敗我們之前，你絕無它路可走！",
+      "skills": "23,27",
+      "args": [
+        8
+      ],
+      "bossSkillSpeed": [
+        500
+      ],
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 3000,
+      "bossState": 2,
+      "finishCondition": 2,
+      "health": 10000,
+      "id": 11,
+      "type": 4
+    },
+    {
+      "bossMessages": "7_糟了，這種彈幕密集度的話——\r\n4_賽爾，我來助你！",
+      "skills": "",
+      "args": [
+        5
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 4,
+      "health": 0,
+      "id": 12,
+      "type": 2
+    },
+    {
+      "bossMessages": "",
+      "skills": "23,27",
+      "args": [
+        9
+      ],
+      "bossSkillSpeed": [
+        500
+      ],
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 3000,
+      "bossState": 2,
+      "finishCondition": 2,
+      "health": 6000,
+      "id": 13,
+      "type": 4
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        6
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 4,
+      "health": 0,
+      "id": 14,
+      "type": 2
+    },
+    {
+      "bossMessages": "7_是誰？！\r\n3_我們就是你，你就是我們。\r\n7_原來如此……\r\n4_和我們那時一樣。\r\n5_琉夢還在努力，我們可不能掉鏈子啊！",
+      "skills": "",
+      "args": [
+        11
+      ],
+      "bossSkillSpeed": [
+        0
+      ],
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 1,
+      "health": 0,
+      "id": 15,
+      "type": 4
+    },
+    {
+      "bossMessages": "5_只要破壞的速度大於你恢復的速度就好了吧！\r\n5_不過就是加大功率而已，我們做得到！\r\n4_為自己的罪孽付出代價吧，吒克斯！\r\n7_把琉夢給我吐出來！\r\n7_賽爾號，衝呀！\r\n3_我們一起！！",
+      "skills": "",
+      "args": [
+        1
+      ],
+      "bossSkillSpeed": [
+        0
+      ],
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 7,
+      "health": 0,
+      "id": 16,
+      "type": 6
+    },
+    {
+      "bossMessages": "1_什麼？你們竟然……你們竟然——！！\r\n7_琉夢！我來了！",
+      "skills": "",
+      "args": [
+        12
+      ],
+      "bossSkillSpeed": [
+        0
+      ],
+      "playerSkills": [
+        4,
+        7
+      ],
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 4,
+      "health": 0,
+      "id": 17,
+      "type": 2
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        4
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 5,
+      "health": 0,
+      "id": 18,
+      "type": 3
+    },
+    {
+      "bossMessages": "",
+      "skills": "",
+      "args": [
+        1
+      ],
+      "bossSkillSpeed": null,
+      "playerSkills": null,
+      "bossSpeed": 0,
+      "bossState": 2,
+      "finishCondition": 8,
+      "health": 0,
+      "id": 19,
+      "type": 7
+    }
+  ]
+}

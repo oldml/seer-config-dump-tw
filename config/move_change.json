@@ -1,0 +1,118 @@
+{
+  "Move": {
+    "Moves": [
+      {
+        "moveName1": "緣",
+        "moveName2": "乞巧心語",
+        "NewName": "緣·乞巧心語",
+        "MoveID": 37465,
+        "SkinID": 641
+      },
+      {
+        "moveName1": "緣",
+        "moveName2": "乞巧心語",
+        "NewName": "緣·乞巧心語",
+        "MoveID": 37466,
+        "SkinID": 640
+      },
+      {
+        "moveName1": "最終",
+        "moveName2": "終極賽羅",
+        "NewName": "最終終極賽羅",
+        "MoveID": 37522,
+        "SkinID": 658
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "終極賽羅之劍",
+        "MoveID": 37520,
+        "SkinID": 658
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "終極聖盾",
+        "MoveID": 28812,
+        "SkinID": 658
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "皇帝貝利亞光切",
+        "MoveID": 37523,
+        "SkinID": 659
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "貝利亞吸收",
+        "MoveID": 28814,
+        "SkinID": 659
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "凱撒貝利亞之爪",
+        "MoveID": 37524,
+        "SkinID": 659
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "皇帝貝利亞戰吼",
+        "MoveID": 28815,
+        "SkinID": 659
+      },
+      {
+        "moveName1": "終極",
+        "moveName2": "帝斯修姆光線",
+        "NewName": "終極帝斯修姆光線",
+        "MoveID": 37525,
+        "SkinID": 660
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "終極能量吸收",
+        "MoveID": 37523,
+        "SkinID": 660
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "冥雷之顫",
+        "MoveID": 28814,
+        "SkinID": 660
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "終極死亡之爪",
+        "MoveID": 37524,
+        "SkinID": 660
+      },
+      {
+        "moveName1": "",
+        "moveName2": "",
+        "NewName": "赤紅戰場",
+        "MoveID": 28815,
+        "SkinID": 660
+      },
+      {
+        "moveName1": "恆",
+        "moveName2": "真心共鳴",
+        "NewName": "恆·真心共鳴",
+        "MoveID": 37039,
+        "SkinID": 751
+      },
+      {
+        "moveName1": "恆",
+        "moveName2": "真心共鳴",
+        "NewName": "恆·真心共鳴",
+        "MoveID": 37109,
+        "SkinID": 752
+      }
+    ]
+  }
+}

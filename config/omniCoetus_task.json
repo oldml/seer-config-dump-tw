@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "describe": "登錄遊戲",
+      "rewardinfo": "0",
+      "exp": 50,
+      "go": 0,
+      "id": 1,
+      "shareExp": 10,
+      "sorting": 1,
+      "time": 1,
+      "userinfo": 210021,
+      "value": 1
+    },
+    {
+      "describe": "今日鑽石任務活躍度達到40",
+      "rewardinfo": "0",
+      "exp": 100,
+      "go": 271100,
+      "id": 2,
+      "shareExp": 30,
+      "sorting": 3,
+      "time": 1,
+      "userinfo": 210022,
+      "value": 40
+    },
+    {
+      "describe": "星願好禮許願2次",
+      "rewardinfo": "0",
+      "exp": 50,
+      "go": 111100,
+      "id": 3,
+      "shareExp": 30,
+      "sorting": 4,
+      "time": 1,
+      "userinfo": 210023,
+      "value": 2
+    },
+    {
+      "describe": "手動餵食、撫摸或進化蘇摩1次",
+      "rewardinfo": "0",
+      "exp": 100,
+      "go": 114015,
+      "id": 4,
+      "shareExp": 30,
+      "sorting": 2,
+      "time": 1,
+      "userinfo": 210024,
+      "value": 1
+    },
+    {
+      "describe": "參與繁星的孩子每日祈願2次",
+      "rewardinfo": "1_1727539_40",
+      "exp": 500,
+      "go": 114015,
+      "id": 1001,
+      "shareExp": 0,
+      "sorting": 1,
+      "time": 0,
+      "userinfo": 108596,
+      "value": 2
+    },
+    {
+      "describe": "領取星河日誌第7天簽到獎勵",
+      "rewardinfo": "1_1727539_40",
+      "exp": 500,
+      "go": 114014,
+      "id": 1002,
+      "shareExp": 0,
+      "sorting": 4,
+      "time": 0,
+      "userinfo": 108597,
+      "value": 1
+    },
+    {
+      "describe": "領取收集20個蘇摩的圖鑑任務獎勵",
+      "rewardinfo": "1_1727539_40",
+      "exp": 500,
+      "go": 114016,
+      "id": 1003,
+      "shareExp": 0,
+      "sorting": 3,
+      "time": 0,
+      "userinfo": 108598,
+      "value": 1
+    },
+    {
+      "describe": "累積3日鑽石任務活躍度達到40",
+      "rewardinfo": "1_1727539_40",
+      "exp": 1000,
+      "go": 271100,
+      "id": 1004,
+      "shareExp": 0,
+      "sorting": 2,
+      "time": 0,
+      "userinfo": 108599,
+      "value": 3
+    },
+    {
+      "describe": "累積掃蕩或通過任意每周副本5次",
+      "rewardinfo": "1_1727539_40",
+      "exp": 1000,
+      "go": 162000,
+      "id": 1005,
+      "shareExp": 0,
+      "sorting": 5,
+      "time": 0,
+      "userinfo": 108600,
+      "value": 5
+    }
+  ]
+}

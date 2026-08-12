@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "character": "ray4",
+      "head": "",
+      "name": "",
+      "text": "可惡，為什麼感覺根本使不上力。",
+      "id": 1,
+      "place": 0,
+      "talkid": 101
+    },
+    {
+      "character": "jymn",
+      "head": "",
+      "name": "",
+      "text": "愚蠢，到現在才發現嗎？你們不過是時光之繭中的一粒沙而已。",
+      "id": 2,
+      "place": 1,
+      "talkid": 101
+    },
+    {
+      "character": "jymn",
+      "head": "",
+      "name": "",
+      "text": "既然吾主可以編輯時光之繭，自然也可以編輯你們。",
+      "id": 3,
+      "place": 1,
+      "talkid": 101
+    },
+    {
+      "character": "jymn",
+      "head": "",
+      "name": "",
+      "text": "現在不過是琉夢殘存的力量在保護你們罷了。",
+      "id": 4,
+      "place": 1,
+      "talkid": 101
+    },
+    {
+      "character": "ray4",
+      "head": "",
+      "name": "",
+      "text": "該死。",
+      "id": 5,
+      "place": 0,
+      "talkid": 101
+    },
+    {
+      "character": "ray4",
+      "head": "",
+      "name": "",
+      "text": "還不能放棄，我還可以繼續戰鬥！",
+      "id": 6,
+      "place": 0,
+      "talkid": 102
+    },
+    {
+      "character": "jymn",
+      "head": "",
+      "name": "",
+      "text": "跳梁小丑。",
+      "id": 7,
+      "place": 1,
+      "talkid": 102
+    },
+    {
+      "character": "jymn",
+      "head": "",
+      "name": "",
+      "text": "我都有點感覺到厭煩了。反正沒有意義，你們何不引頸受戮。",
+      "id": 8,
+      "place": 1,
+      "talkid": 103
+    },
+    {
+      "character": "gaia2",
+      "head": "",
+      "name": "",
+      "text": "戰鬥才剛剛開始呢，少說大話！",
+      "id": 9,
+      "place": 0,
+      "talkid": 103
+    },
+    {
+      "character": "ray4",
+      "head": "",
+      "name": "",
+      "text": "可惡，我一定要打敗吒克斯……一定……",
+      "id": 10,
+      "place": 0,
+      "talkid": 104
+    },
+    {
+      "character": "gaia2",
+      "head": "",
+      "name": "",
+      "text": "我的武道，就要止步於此了嗎……",
+      "id": 11,
+      "place": 0,
+      "talkid": 105
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "不過是時光之繭中的數據而已，為什麼可以這麼煩人……",
+      "id": 12,
+      "place": 1,
+      "talkid": 106
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "我一定要殺了你們。",
+      "id": 13,
+      "place": 1,
+      "talkid": 106
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "可惡，為什麼你們不願意老老實實去死！",
+      "id": 14,
+      "place": 1,
+      "talkid": 107
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "我還可以戰鬥！",
+      "id": 15,
+      "place": 1,
+      "talkid": 107
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "吾主，吾主——！",
+      "id": 16,
+      "place": 1,
+      "talkid": 107
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "我絕不會放過你這種傢夥。",
+      "id": 17,
+      "place": 0,
+      "talkid": 108
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "今日不是你死就是我亡！",
+      "id": 18,
+      "place": 0,
+      "talkid": 108
+    },
+    {
+      "character": "zks_p",
+      "head": "",
+      "name": "",
+      "text": "我知道你想要力量，我們何不握手言和呢？",
+      "id": 19,
+      "place": 1,
+      "talkid": 108
+    },
+    {
+      "character": "zks_p",
+      "head": "",
+      "name": "",
+      "text": "你想要的，我都能給你。",
+      "id": 20,
+      "place": 1,
+      "talkid": 108
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "呸！廢話少說，受死！",
+      "id": 21,
+      "place": 0,
+      "talkid": 108
+    },
+    {
+      "character": "zks_p",
+      "head": "",
+      "name": "",
+      "text": "你們難道就不想和我一起分享這個宇宙嗎？",
+      "id": 22,
+      "place": 1,
+      "talkid": 109
+    },
+    {
+      "character": "zks_p",
+      "head": "",
+      "name": "",
+      "text": "只要有了琉夢的能力，徵服宇宙不過是易如反掌。",
+      "id": 23,
+      "place": 1,
+      "talkid": 109
+    },
+    {
+      "character": "zks_p",
+      "head": "",
+      "name": "",
+      "text": "哈哈哈哈哈——",
+      "id": 24,
+      "place": 1,
+      "talkid": 109
+    },
+    {
+      "character": "zks_r",
+      "head": "",
+      "name": "",
+      "text": "螻蟻螻蟻螻蟻！不過是一幫螻蟻而已！",
+      "id": 25,
+      "place": 1,
+      "talkid": 110
+    },
+    {
+      "character": "zks_r",
+      "head": "",
+      "name": "",
+      "text": "我定要將你們碎屍萬段！！！",
+      "id": 26,
+      "place": 1,
+      "talkid": 110
+    },
+    {
+      "character": "zks_g",
+      "head": "",
+      "name": "",
+      "text": "這沒有意義，我是永恆不滅的。",
+      "id": 27,
+      "place": 1,
+      "talkid": 111
+    },
+    {
+      "character": "zks_g",
+      "head": "",
+      "name": "",
+      "text": "等待你們的只有永恆的戰鬥與無盡的恐懼……",
+      "id": 28,
+      "place": 1,
+      "talkid": 111
+    },
+    {
+      "character": "ray5",
+      "head": "",
+      "name": "",
+      "text": "可惡，已經看不清了……",
+      "id": 29,
+      "place": 0,
+      "talkid": 112
+    },
+    {
+      "character": "ray5",
+      "head": "",
+      "name": "",
+      "text": "終究，還是沒能讓正義得到伸張嗎……",
+      "id": 30,
+      "place": 0,
+      "talkid": 112
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "還沒結束呢，我還能繼續戰鬥。",
+      "id": 31,
+      "place": 0,
+      "talkid": 113
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "繼續……",
+      "id": 32,
+      "place": 0,
+      "talkid": 113
+    },
+    {
+      "character": "ray5",
+      "head": "",
+      "name": "",
+      "text": "不行，這樣下去沒完沒了。我們遲早要被耗死。",
+      "id": 33,
+      "place": 0,
+      "talkid": 114
+    },
+    {
+      "character": "gaia3",
+      "head": "",
+      "name": "",
+      "text": "賽爾，你有什麼辦法嗎？",
+      "id": 34,
+      "place": 0,
+      "talkid": 114
+    },
+    {
+      "character": "seer",
+      "head": "seer_05_hd",
+      "name": "",
+      "text": "辦法？讓我想想，讓我想想……",
+      "id": 35,
+      "place": 0,
+      "talkid": 114
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "瘋子……你們全都是瘋子！",
+      "id": 36,
+      "place": 1,
+      "talkid": 115
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "為什麼不放棄，為什麼！",
+      "id": 37,
+      "place": 1,
+      "talkid": 115
+    },
+    {
+      "character": "jymn",
+      "head": "jymn_01_hd",
+      "name": "",
+      "text": "既然如此……那就同歸於盡好了！",
+      "id": 38,
+      "place": 1,
+      "talkid": 115
+    },
+    {
+      "character": "ray5",
+      "head": "",
+      "name": "",
+      "text": "被吒克斯控制的奴僕，實在是太可悲了。",
+      "id": 39,
+      "place": 0,
+      "talkid": 115
+    },
+    {
+      "character": "ray5",
+      "head": "",
+      "name": "",
+      "text": "讓我們來幫你解脫吧。",
+      "id": 40,
+      "place": 0,
+      "talkid": 115
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "activeSkills": "每3回合發動，造成20點傷害，若先出手則使自身下一次攻擊造成的傷害翻倍，若後出手則抵擋下一次自身受到的攻擊",
+      "name": "小豬妖",
+      "passiveSkills": "每回合有30%的概率受到的傷害減少50%",
+      "resources": "xiao zhu yao",
+      "attack": 24,
+      "combatEffectiveness": 742,
+      "defense": 8,
+      "healthPoints": 100,
+      "id": 1,
+      "petid": 4801,
+      "speed": 21
+    },
+    {
+      "activeSkills": "每2回合發動，造成15點傷害，永久提升自身3點攻擊",
+      "name": "猩猩怪",
+      "passiveSkills": "每回合攻擊時20%的概率恢復5點生命",
+      "resources": "xing xing yao",
+      "attack": 21,
+      "combatEffectiveness": 725,
+      "defense": 8,
+      "healthPoints": 100,
+      "id": 2,
+      "petid": 4803,
+      "speed": 20
+    },
+    {
+      "activeSkills": "每3回合發動，造成10點傷害，反彈下一次受到的傷害",
+      "name": "蛤蟆精",
+      "passiveSkills": "每回合攻擊時有30%的概率額外造成5點傷害",
+      "resources": "ge   jing",
+      "attack": 20,
+      "combatEffectiveness": 738,
+      "defense": 10,
+      "healthPoints": 100,
+      "id": 3,
+      "petid": 4802,
+      "speed": 19
+    },
+    {
+      "activeSkills": "每4回合發動，必定先出手，造成36點傷害，令對手當回合攻擊或技能無效",
+      "name": "黃鼠狼精",
+      "passiveSkills": "每回合攻擊時20%的概率令對手下一次攻擊或技能無效",
+      "resources": "huang shu lang",
+      "attack": 23,
+      "combatEffectiveness": 729,
+      "defense": 7,
+      "healthPoints": 100,
+      "id": 4,
+      "petid": 4804,
+      "speed": 22
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "level1value": "3_6",
+      "level2value": "3_5",
+      "level3value": "2_5",
+      "name": "卡布達",
+      "skilldescribe": "每天的第3回合結束後永久提升1點熱情值",
+      "id": 1,
+      "skill": 1,
+      "unlock": 0
+    },
+    {
+      "level1value": "4_5",
+      "level2value": "4_4",
+      "level3value": "3_5",
+      "name": "蟑螂惡霸",
+      "skilldescribe": "每天使用的第一個增益事件收益翻倍",
+      "id": 2,
+      "skill": 2,
+      "unlock": 0
+    },
+    {
+      "level1value": "3_8",
+      "level2value": "3_7",
+      "level3value": "3_6",
+      "name": "蠍子萊萊",
+      "skilldescribe": "每次戰鬥勝利後恢復2點體力值，不會超過上限",
+      "id": 3,
+      "skill": 3,
+      "unlock": 0
+    },
+    {
+      "level1value": "4_6",
+      "level2value": "4_5",
+      "level3value": "3_5",
+      "name": "蜘蛛偵探",
+      "skilldescribe": "擁有5點額外的體力上限",
+      "id": 4,
+      "skill": 4,
+      "unlock": 1762480800
+    },
+    {
+      "level1value": "5_4",
+      "level2value": "4_5",
+      "level3value": "4_4",
+      "name": "鯊魚辣椒",
+      "skilldescribe": "每天的第一次戰鬥不會受到傷害（未受到傷害時也不會繼承至下場戰鬥）",
+      "id": 5,
+      "skill": 5,
+      "unlock": 1762480800
+    }
+  ]
+}

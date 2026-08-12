@@ -1,0 +1,661 @@
+{
+  "data": [
+    {
+      "bossIntro": "免疫特殊攻擊的哈莫雷特和免疫物理攻擊的塔克林,試著使用不同類型的攻擊技能去擊敗他們吧！",
+      "fightBossIndexes": [
+        10,
+        11
+      ],
+      "fightMonsterIndexs": [
+        13,
+        14
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 0,
+      "id": 1,
+      "NeedMonNum": 2,
+      "order": 1,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "會不斷提升自己能力等級的阿克希亞，消除她的能力提升狀態能夠更輕鬆的擊敗她。",
+      "fightBossIndexes": [
+        12
+      ],
+      "fightMonsterIndexs": [
+        11,
+        15
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 0,
+      "id": 2,
+      "NeedMonNum": 2,
+      "order": 2,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "遇到了生命力和恢復能力極強的魔花仙子們，提升你的能力等級可以避免陷入無盡的苦戰…",
+      "fightBossIndexes": [
+        13,
+        13,
+        13
+      ],
+      "fightMonsterIndexs": [
+        14,
+        16
+      ],
+      "firstReward": [
+        1,
+        300021,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 0,
+      "id": 3,
+      "NeedMonNum": 2,
+      "order": 3,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "如果被摩哥斯不斷弱化你的能力等級會極大地削弱你的實力，儘量避免讓自己進入長時間的弱化狀態。",
+      "fightBossIndexes": [
+        14
+      ],
+      "fightMonsterIndexs": [
+        17,
+        11
+      ],
+      "firstReward": [
+        1,
+        300075,
+        2,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 0,
+      "id": 4,
+      "NeedMonNum": 2,
+      "order": 4,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "掌握了前面的技巧之後，試著挑戰一下譜尼吧！三個譜尼的效果如下：\\n1、 無額外效果。\\n2、體力低於2000時回滿自身體力。\\n3、被擊敗後復活1次並獲得能力提升。",
+      "fightBossIndexes": [
+        15,
+        16,
+        17
+      ],
+      "fightMonsterIndexs": [
+        13,
+        18
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 0,
+      "id": 5,
+      "NeedMonNum": 4,
+      "order": 5,
+      "StageType": 1,
+      "title": 0
+    },
+    {
+      "bossIntro": "具有獨特防禦機制的巴拉龜和迪爾克，只有致命一擊才能造成傷害。",
+      "fightBossIndexes": [
+        29,
+        30
+      ],
+      "fightMonsterIndexs": [
+        14,
+        11
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 0,
+      "id": 6,
+      "NeedMonNum": 2,
+      "order": 6,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "雷伊有著強大的攻擊手段，會在第3、6、8、12回合造成秒殺對手的傷害，需要注意時機，保留足夠的對抗力量！",
+      "fightBossIndexes": [
+        31
+      ],
+      "fightMonsterIndexs": [
+        16,
+        33,
+        34
+      ],
+      "firstReward": [
+        1,
+        300021,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 0,
+      "id": 7,
+      "NeedMonNum": 6,
+      "order": 7,
+      "StageType": 1,
+      "title": 0
+    },
+    {
+      "bossIntro": "巴拉龜和迪爾克的防禦機制發生了變化，現在他們免疫致命一擊傷害了！",
+      "fightBossIndexes": [
+        32,
+        33
+      ],
+      "fightMonsterIndexs": [
+        14,
+        11
+      ],
+      "firstReward": [
+        1,
+        300075,
+        2,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 0,
+      "id": 8,
+      "NeedMonNum": 2,
+      "order": 8,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "控制類異常狀態在戰鬥中十分棘手，需要合理利用精靈的免疫異常狀態機制！",
+      "fightBossIndexes": [
+        34,
+        35
+      ],
+      "fightMonsterIndexs": [
+        20,
+        35
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 0,
+      "id": 9,
+      "NeedMonNum": 1,
+      "order": 9,
+      "StageType": 2,
+      "title": 0
+    },
+    {
+      "bossIntro": "啵啵家族來襲，了解一下他們以便於更好地擊敗他們吧！\\n紅啵啵、藍啵啵：無額外效果。\\n酷啵啵：免疫並反彈致命一擊傷害。\\n呆啵啵：對手使用屬性技能則回合結束時受到固定傷害。\\n黑啵啵：受到傷害時令對手進入冰封。",
+      "fightBossIndexes": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "fightMonsterIndexs": [
+        33,
+        20,
+        36,
+        37
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 0,
+      "id": 10,
+      "NeedMonNum": 6,
+      "order": 10,
+      "StageType": 1,
+      "title": 0
+    },
+    {
+      "bossIntro": "弒神獵皇在自身體力高於對手時能觸發更強的效果，當體力過低時需要注意使用技能或者藥劑恢復體力，保證體力上的優勢！",
+      "fightBossIndexes": [
+        18
+      ],
+      "fightMonsterIndexs": [
+        30
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 393,
+      "id": 101,
+      "NeedMonNum": 1,
+      "order": 1,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "不滅地威·薩瑞卡在受到過高的攻擊傷害時會恢復自身全部體力，試著使用固定傷害、百分比傷害、真實傷害去擊敗他吧！",
+      "fightBossIndexes": [
+        19
+      ],
+      "fightMonsterIndexs": [
+        20,
+        21,
+        22
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 393,
+      "id": 102,
+      "NeedMonNum": 2,
+      "order": 2,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "墨影星魂登場時具有讓對手屬性技能失效2回合的能力，在效果作用的回合內需要注意不要使用屬性技能從而浪費回合哦！",
+      "fightBossIndexes": [
+        20,
+        18
+      ],
+      "fightMonsterIndexs": [
+        23,
+        24,
+        20
+      ],
+      "firstReward": [
+        1,
+        300021,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 393,
+      "id": 103,
+      "NeedMonNum": 2,
+      "order": 3,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "聖甲·蓋亞受到致命攻擊時會反彈本次攻擊傷害給對手且雙方同時死亡時自身恢復1點體力，而現在聖甲·蓋亞正處於他最喜歡的能力下降狀態，儘量控制對其造成的攻擊傷害…",
+      "fightBossIndexes": [
+        21
+      ],
+      "fightMonsterIndexs": [
+        22,
+        25
+      ],
+      "firstReward": [
+        1,
+        300075,
+        2,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 393,
+      "id": 104,
+      "NeedMonNum": 2,
+      "order": 4,
+      "StageType": 1,
+      "title": 272
+    },
+    {
+      "bossIntro": "在對戰中，及時補充技能的PP值非常重要，如果技能的PP值為0將無法使用該技能，帝天戰佛作為重要攔截精靈能夠在自己陣亡時清空對手場上精靈的所有技能PP值。\\n現在弒神獵皇攜手帝天戰佛捲土重來，試著擊敗他們吧！",
+      "fightBossIndexes": [
+        22,
+        18
+      ],
+      "fightMonsterIndexs": [
+        30
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 393,
+      "id": 105,
+      "NeedMonNum": 1,
+      "order": 5,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "護盾和護罩能夠在對戰中幫助精靈抵抗攻擊傷害和固定傷害、百分比傷害，除了造成足夠的上述傷害外，造成真實傷害或者使用技能消除對手的護盾和護罩也是不錯的選擇。",
+      "fightBossIndexes": [
+        23,
+        24
+      ],
+      "fightMonsterIndexs": [
+        26,
+        27
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 429,
+      "id": 106,
+      "NeedMonNum": 2,
+      "order": 6,
+      "StageType": 2,
+      "title": 300
+    },
+    {
+      "bossIntro": "啟靈元神的屬性技能效果十分強力，當她使用屬性技能時會十分棘手，儘量在她成型前擊敗她吧！",
+      "fightBossIndexes": [
+        25
+      ],
+      "fightMonsterIndexs": [
+        28,
+        29
+      ],
+      "firstReward": [
+        1,
+        300021,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 393,
+      "id": 107,
+      "NeedMonNum": 2,
+      "order": 7,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "混沌魔君索倫森能造成高額的混沌系攻擊傷害和大量固定傷害，同時還能令對手陷入害怕異常狀態…",
+      "fightBossIndexes": [
+        26
+      ],
+      "fightMonsterIndexs": [
+        24,
+        31
+      ],
+      "firstReward": [
+        1,
+        300075,
+        2,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 393,
+      "id": 108,
+      "NeedMonNum": 2,
+      "order": 8,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "對戰中遇到對手閃避率過高時，需要注意儘量使用必中的技能，非必中的技能會有很大概率miss…",
+      "fightBossIndexes": [
+        27
+      ],
+      "fightMonsterIndexs": [
+        29,
+        32
+      ],
+      "firstReward": [
+        1,
+        300065,
+        1,
+        1,
+        1706927,
+        10
+      ],
+      "reward": [
+        1,
+        1,
+        10000,
+        1,
+        1706927,
+        2
+      ],
+      "equip": 393,
+      "id": 109,
+      "NeedMonNum": 2,
+      "order": 9,
+      "StageType": 2,
+      "title": 272
+    },
+    {
+      "bossIntro": "浩渺之源·努恩是個防禦力很強的精靈，在對戰中擅長拉扯消耗，試著突破他的防禦吧！",
+      "fightBossIndexes": [
+        28
+      ],
+      "fightMonsterIndexs": [
+        22
+      ],
+      "firstReward": [
+        1,
+        300673,
+        1,
+        1,
+        1706928,
+        10
+      ],
+      "reward": [
+        1,
+        1400352,
+        10000,
+        1,
+        1706928,
+        2
+      ],
+      "equip": 429,
+      "id": 110,
+      "NeedMonNum": 2,
+      "order": 10,
+      "StageType": 1,
+      "title": 300
+    }
+  ]
+}

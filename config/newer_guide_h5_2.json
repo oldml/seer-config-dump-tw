@@ -1,0 +1,340 @@
+{
+  "root": {
+    "newer": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 0,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "小賽爾，令人心潮澎湃的宇宙即將在你面前鋪開。初次見面，我是主播紐斯，會永遠給你帶來最熱最燙最新資訊！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "小賽爾可能用到的功能在這裡可以找到，一起來看看吧！",
+          "strokeColor": "",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/groupTopLeft/btnExpressjump",
+          "position": [
+            239,
+            60,
+            50,
+            50
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "如果你不確定接下來該做什麼，可以查看【航行指南】。這裡有豐富的每日和每周任務獎勵，還有推薦的精靈獲取途徑！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": [
+            329,
+            238,
+            200,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 1
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "如果你想獲得更多的強力精靈，不妨來【精靈關卡】看看，蟄伏於宇宙各個角落的強力精靈等待著成為你的夥伴！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": [
+            92,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "如果你想讓精靈變得更加強大，那就來【資源收集】看看，這裡每天都有各類養成資源等你來拿！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": [
+            180,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 4,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "當你擁有了一個成熟的精靈隊伍後，那就來【巔峰聖戰】和其他賽爾一決高下吧！期待在巔峰獎臺上看到你的身影，到時候請務必讓我做一期特別訪談！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": [
+            359,
+            150,
+            125,
+            90
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 5,
+          "openMenu": 0
+        }
+      ]
+    },
+    "newerpay": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "testtesttest",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            361,
+            45,
+            185,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "賽爾，我們又見面了！旅途有什麼進展？你的冒險故事，我很期待！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 2,
+          "openMenu": 0
+        },
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "當然了，不論身在何方，強力的精靈夥伴與刻印是必不可少的，",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 3,
+          "openMenu": 0
+        },
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "受派特博士委託，現正式向你介紹飛船上的兩個重要系統：【刻印之輪】【精靈招募】！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 4,
+          "openMenu": 1
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "在【刻印之輪】中，你將獲得各類全能刻印，使你的精靈夥伴更加強大！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            269,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 5,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "",
+          "msg": "在【精靈招募】中，你將有機會與宇宙各處的強大精靈成為夥伴，一同冒險",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            356,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 6,
+          "openMenu": 0
+        },
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "介紹到此為止，來嘗試一下吧！我們下次再見",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 7,
+          "openMenu": 0
+        }
+      ]
+    },
+    "normal": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "小賽爾，令人心潮澎湃的宇宙即將在你面前鋪開。初次見面，我是主播紐斯，會永遠給你帶來最熱最燙最新資訊！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "小賽爾可能用到的功能在這裡可以找到，一起來看看吧！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/groupTopLeft/btnExpressjump",
+          "position": [
+            239,
+            60,
+            50,
+            50
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "btnPet",
+          "msg": "如果你不確定接下來該做什麼，可以查看【航行指南】。這裡有豐富的每日和每周任務獎勵，還有推薦的精靈獲取途徑！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            329,
+            238,
+            200,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 1
+        },
+        {
+          "align": "left",
+          "btnName": "btnPet",
+          "msg": "如果你想獲得更多的強力精靈，不妨來【精靈關卡】看看，蟄伏於宇宙各個角落的強力精靈等待著成為你的夥伴！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            92,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "btnLevel",
+          "msg": "如果你想讓精靈變得更加強大，那就來【資源收集】看看，這裡每天都有各類養成資源等你來拿！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            180,
+            -25,
+            80,
+            80
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 4,
+          "openMenu": 0
+        },
+        {
+          "align": "left",
+          "btnName": "btnPeak",
+          "msg": "當你擁有了一個成熟的精靈隊伍後，那就來【巔峰聖戰】和其他賽爾一決高下吧！期待在巔峰獎臺上看到你的身影，到時候請務必讓我做一期特別訪談！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "",
+          "position": [
+            359,
+            150,
+            125,
+            90
+          ],
+          "autoX": 0,
+          "holeType": 1,
+          "id": 5,
+          "openMenu": 0
+        }
+      ]
+    },
+    "timelimit": "2023-05-29 00:00:00"
+  }
+}

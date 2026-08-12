@@ -1,0 +1,224 @@
+{
+  "data": [
+    {
+      "introduce": "最受歡迎的咖啡款式，銷量最好的經典款。",
+      "name": "生巧摩卡",
+      "tag": "受歡迎、經典",
+      "id": 1,
+      "recipe1": 1,
+      "recipe2": 4,
+      "recipe3": 5,
+      "time": 1,
+      "type": 1
+    },
+    {
+      "introduce": "口感強烈的咖啡，製作工藝十分簡單，但非常受打工人歡迎。",
+      "name": "特濃咖啡",
+      "tag": "工作",
+      "id": 2,
+      "recipe1": 1,
+      "recipe2": 1,
+      "recipe3": 1,
+      "time": 1,
+      "type": 1
+    },
+    {
+      "introduce": "經典的果汁飲品，簡單但十分健康。",
+      "name": "鮮橙果汁",
+      "tag": "健康",
+      "id": 3,
+      "recipe1": 3,
+      "recipe2": 3,
+      "recipe3": 3,
+      "time": 1,
+      "type": 3
+    },
+    {
+      "introduce": "大膽的想法帶來了最強烈的飲品，有一定提神醒腦的功效。",
+      "name": "醒目",
+      "tag": "清醒",
+      "id": 4,
+      "recipe1": 2,
+      "recipe2": 9,
+      "recipe3": 8,
+      "time": 1,
+      "type": 2
+    },
+    {
+      "introduce": "純天然無添加的薄荷茶飲。",
+      "name": "薄荷茶",
+      "tag": "純天然",
+      "id": 5,
+      "recipe1": 2,
+      "recipe2": 2,
+      "recipe3": 9,
+      "time": 1,
+      "type": 2
+    },
+    {
+      "introduce": "本店的暢銷奶茶，如果你不知道喝什麼就選擇它吧。",
+      "name": "薄荷奶綠",
+      "tag": "暢銷",
+      "id": 6,
+      "recipe1": 2,
+      "recipe2": 4,
+      "recipe3": 9,
+      "time": 1,
+      "type": 4
+    },
+    {
+      "introduce": "在拿鐵咖啡上的進一步創新，簡單的香氣創造了不一樣的風味。",
+      "name": "橙味拿鐵",
+      "tag": "",
+      "id": 7,
+      "recipe1": 1,
+      "recipe2": 4,
+      "recipe3": 3,
+      "time": 2,
+      "type": 1
+    },
+    {
+      "introduce": "在不斷的咀嚼中享受果香吧，夏日必備的經典飲品。",
+      "name": "果茶雙響炮",
+      "tag": "經典",
+      "id": 8,
+      "recipe1": 3,
+      "recipe2": 2,
+      "recipe3": 6,
+      "time": 2,
+      "type": 3
+    },
+    {
+      "introduce": "超級甜的奶茶，小孩子的最愛，但是要注意不要多喝喲。",
+      "name": "可可奶茶",
+      "tag": "最甜",
+      "id": 9,
+      "recipe1": 2,
+      "recipe2": 4,
+      "recipe3": 5,
+      "time": 2,
+      "type": 4
+    },
+    {
+      "introduce": "經典濃茶，不做任何其他材料的添加，是你熟悉的純正味道。",
+      "name": "經典濃茶",
+      "tag": "純正",
+      "id": 10,
+      "recipe1": 2,
+      "recipe2": 2,
+      "recipe3": 2,
+      "time": 3,
+      "type": 2
+    },
+    {
+      "introduce": "本店唯一不那麼甜的珍珠飲品，口感缺近乎相同，減肥期也同樣可以喝的飲品。",
+      "name": "珍珠檸檬",
+      "tag": "",
+      "id": 11,
+      "recipe1": 2,
+      "recipe2": 7,
+      "recipe3": 6,
+      "time": 3,
+      "type": 2
+    },
+    {
+      "introduce": "口感清爽的果茶，去火鍋店前買一杯不失為一種明智的選擇。",
+      "name": "檸檬果茶",
+      "tag": "解辣",
+      "id": 12,
+      "recipe1": 3,
+      "recipe2": 7,
+      "recipe3": 2,
+      "time": 4,
+      "type": 3
+    },
+    {
+      "introduce": "深受大家喜愛的經典奶茶。",
+      "name": "珍珠奶茶",
+      "tag": "經典",
+      "id": 13,
+      "recipe1": 2,
+      "recipe2": 4,
+      "recipe3": 6,
+      "time": 4,
+      "type": 4
+    },
+    {
+      "introduce": "最新款的咖啡產品，是顧客最近的熱門選擇。",
+      "name": "抹茶拿鐵",
+      "tag": "最新款",
+      "id": 14,
+      "recipe1": 1,
+      "recipe2": 4,
+      "recipe3": 10,
+      "time": 5,
+      "type": 1
+    },
+    {
+      "introduce": "一口下去，感受沁入心底的清爽，炎炎夏日的必嘗產品。",
+      "name": "薄荷果茶",
+      "tag": "去暑",
+      "id": 15,
+      "recipe1": 3,
+      "recipe2": 2,
+      "recipe3": 9,
+      "time": 5,
+      "type": 3
+    },
+    {
+      "introduce": "溫暖肉桂，邂逅清新檸檬，雙倍芬芳，一秒回魂。",
+      "name": "肉桂檸檬茶",
+      "tag": "",
+      "id": 16,
+      "recipe1": 2,
+      "recipe2": 7,
+      "recipe3": 8,
+      "time": 5,
+      "type": 2
+    },
+    {
+      "introduce": "肉桂的加入進一步激發了咖啡的香氣，深受女性喜愛。",
+      "name": "溫暖冬日",
+      "tag": "女性",
+      "id": 17,
+      "recipe1": 1,
+      "recipe2": 4,
+      "recipe3": 8,
+      "time": 6,
+      "type": 1
+    },
+    {
+      "introduce": "港式靈感！檸檬清新與奶香雙倍醇厚，酸甜平衡，絲滑入喉。",
+      "name": "奶香檸檬茶",
+      "tag": "港式",
+      "id": 18,
+      "recipe1": 2,
+      "recipe2": 4,
+      "recipe3": 3,
+      "time": 6,
+      "type": 4
+    },
+    {
+      "introduce": "抹茶和薄荷相互配合，以果汁為基底，留得一口清香。",
+      "name": "留香",
+      "tag": "清香",
+      "id": 19,
+      "recipe1": 3,
+      "recipe2": 10,
+      "recipe3": 9,
+      "time": 7,
+      "type": 3
+    },
+    {
+      "introduce": "清新微苦的抹茶，撞上綿密香甜雪頂，冰爽與醇厚雙重享受。",
+      "name": "抹茶雪頂",
+      "tag": "",
+      "id": 20,
+      "recipe1": 2,
+      "recipe2": 4,
+      "recipe3": 10,
+      "time": 7,
+      "type": 4
+    }
+  ]
+}

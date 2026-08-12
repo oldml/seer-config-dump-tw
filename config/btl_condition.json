@@ -1,0 +1,526 @@
+{
+  "data": [
+    {
+      "btldesc": "在10回合內戰勝聖羽天翔·英普瑞",
+      "baseconid": 1,
+      "id": 1,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "在5回合內戰勝極天之翼·托魯克",
+      "baseconid": 1,
+      "id": 2,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "對異星裝甲·賽伯斯造成的單次最高傷害達到1500",
+      "baseconid": 11,
+      "id": 3,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "對不滅地威·薩瑞卡造成的單次最高傷害達到3000",
+      "baseconid": 11,
+      "id": 4,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "自身體力值≥400時擊敗風暴女神·斯蒂亞",
+      "baseconid": 5,
+      "id": 5,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "自身體力值≥600時擊敗正義聖盾·凱普特",
+      "baseconid": 5,
+      "id": 6,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "出戰精靈不超過4個的情況下戰勝",
+      "baseconid": 12,
+      "id": 7,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "出戰精靈不超過2個的情況下戰勝",
+      "baseconid": 12,
+      "id": 8,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "無精靈陣亡",
+      "baseconid": 13,
+      "id": 9,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "上場精靈不超過4個",
+      "baseconid": 12,
+      "id": 10,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害大於1000",
+      "baseconid": 14,
+      "id": 11,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用克制關係為普通的精靈擊敗",
+      "baseconid": 15,
+      "id": 12,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "超過5回合後擊敗",
+      "baseconid": 16,
+      "id": 13,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "使用克制關係為微弱的精靈擊敗",
+      "baseconid": 15,
+      "id": 14,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用克制關係為克制的精靈擊敗",
+      "baseconid": 15,
+      "id": 15,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "超過8回合後擊敗",
+      "baseconid": 16,
+      "id": 16,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害低於500",
+      "baseconid": 18,
+      "id": 17,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "5回合內擊敗",
+      "baseconid": 1,
+      "id": 18,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "上場精靈超過3隻",
+      "baseconid": 17,
+      "id": 19,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "上場精靈不超過2隻",
+      "baseconid": 12,
+      "id": 20,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "死亡精靈數量等於1",
+      "baseconid": 19,
+      "id": 21,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "所有回合先出手",
+      "baseconid": 20,
+      "id": 22,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用自然系技能擊敗",
+      "baseconid": 21,
+      "id": 23,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用冰系技能擊敗",
+      "baseconid": 21,
+      "id": 24,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用超能系技能擊敗",
+      "baseconid": 21,
+      "id": 25,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程不使用屬性技能擊敗",
+      "baseconid": 22,
+      "id": 26,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程不使用特攻技能擊敗",
+      "baseconid": 22,
+      "id": 27,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程不使用物攻技能擊敗",
+      "baseconid": 22,
+      "id": 28,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過40",
+      "baseconid": 23,
+      "id": 29,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程後手擊敗",
+      "baseconid": 24,
+      "id": 30,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程不使用本系技能擊敗",
+      "baseconid": 25,
+      "id": 31,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "致命一擊次數小於2",
+      "baseconid": 26,
+      "id": 32,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "使用飛行系技能擊敗",
+      "baseconid": 21,
+      "id": 33,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "全程不造成固傷擊敗",
+      "baseconid": 27,
+      "id": 34,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用水系技能擊敗",
+      "baseconid": 21,
+      "id": 35,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用草系技能擊敗",
+      "baseconid": 21,
+      "id": 36,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "使用火系技能擊敗",
+      "baseconid": 21,
+      "id": 37,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "單精靈戰勝",
+      "baseconid": 28,
+      "id": 38,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "所有回合傷害不超過500",
+      "baseconid": 29,
+      "id": 39,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須全為雌性精靈",
+      "baseconid": 30,
+      "id": 40,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須全為滿級精靈",
+      "baseconid": 31,
+      "id": 41,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須全為雙屬性精靈",
+      "baseconid": 32,
+      "id": 42,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須全為單屬性精靈",
+      "baseconid": 32,
+      "id": 43,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須有2隻不超過10級的精靈",
+      "baseconid": 33,
+      "id": 44,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須有4隻滿級的水系精靈",
+      "baseconid": 34,
+      "id": 45,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須有4隻滿級的火系精靈",
+      "baseconid": 34,
+      "id": 46,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "必須有4隻滿級的草系精靈",
+      "baseconid": 34,
+      "id": 47,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "致命一擊次數小於3",
+      "baseconid": 26,
+      "id": 48,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害低於700",
+      "baseconid": 18,
+      "id": 49,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害大於2000",
+      "baseconid": 14,
+      "id": 50,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "上場精靈不超過3隻",
+      "baseconid": 12,
+      "id": 51,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過90",
+      "baseconid": 23,
+      "id": 52,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "上場精靈超過4隻",
+      "baseconid": 17,
+      "id": 53,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害低於400",
+      "baseconid": 18,
+      "id": 54,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "超過10回合後擊敗",
+      "baseconid": 16,
+      "id": 55,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "所有回合傷害不超過1000",
+      "baseconid": 29,
+      "id": 56,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害大於1500",
+      "baseconid": 14,
+      "id": 57,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過120",
+      "baseconid": 23,
+      "id": 58,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過60",
+      "baseconid": 23,
+      "id": 59,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "致命一擊次數小於4",
+      "baseconid": 26,
+      "id": 60,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害大於2500",
+      "baseconid": 14,
+      "id": 61,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "所有回合傷害不超過900",
+      "baseconid": 29,
+      "id": 62,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過90",
+      "baseconid": 23,
+      "id": 63,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "上場精靈不超過2隻",
+      "baseconid": 12,
+      "id": 64,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "4回合內擊敗",
+      "baseconid": 1,
+      "id": 65,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "3回合內擊敗",
+      "baseconid": 1,
+      "id": 66,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "最後一擊傷害大於3000",
+      "baseconid": 14,
+      "id": 67,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害大於4000",
+      "baseconid": 14,
+      "id": 68,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害大於5000",
+      "baseconid": 14,
+      "id": 69,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過30",
+      "baseconid": 23,
+      "id": 70,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊使用技能威力不超過10",
+      "baseconid": 23,
+      "id": 71,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "死亡精靈數量等於2",
+      "baseconid": 19,
+      "id": 72,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "死亡精靈數量等於3",
+      "baseconid": 19,
+      "id": 73,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "死亡精靈數量等於4",
+      "baseconid": 19,
+      "id": 74,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "致命一擊次數小於2",
+      "baseconid": 26,
+      "id": 75,
+      "sendNumber": 1
+    },
+    {
+      "btldesc": "所有回合傷害不超過2000",
+      "baseconid": 29,
+      "id": 76,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "所有回合傷害不超過1500",
+      "baseconid": 29,
+      "id": 77,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害大於10000",
+      "baseconid": 14,
+      "id": 78,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊傷害低於1000",
+      "baseconid": 18,
+      "id": 79,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "無精靈陣亡",
+      "baseconid": 13,
+      "id": 80,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "上場精靈不超過2隻",
+      "baseconid": 12,
+      "id": 81,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "上場精靈不超過3隻",
+      "baseconid": 12,
+      "id": 82,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "所有回合先出手",
+      "baseconid": 20,
+      "id": 83,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊沒打出致命一擊",
+      "baseconid": 35,
+      "id": 84,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊可打出致命一擊",
+      "baseconid": 35,
+      "id": 85,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊時自身不在能力提升",
+      "baseconid": 36,
+      "id": 86,
+      "sendNumber": 0
+    },
+    {
+      "btldesc": "最後一擊時自身處於能力提升",
+      "baseconid": 36,
+      "id": 87,
+      "sendNumber": 0
+    }
+  ]
+}

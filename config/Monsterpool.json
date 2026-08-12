@@ -1,0 +1,1450 @@
+{
+  "Root": {
+    "Pool": [
+      {
+        "item": [
+          {
+            "monstername": "躍遷狂劍·蘭斯洛特",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3631
+          },
+          {
+            "monstername": "魏武帝·曹操",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4058
+          },
+          {
+            "monstername": "上古魔尊·庫貝薩",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3741
+          },
+          {
+            "monstername": "縹緲幽芙",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4069
+          },
+          {
+            "monstername": "鬼神無雙呂布",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3940
+          },
+          {
+            "monstername": "烏瑞婭",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3763
+          },
+          {
+            "monstername": "孫權",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3685
+          },
+          {
+            "monstername": "周瑜",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3617
+          },
+          {
+            "monstername": "西楚霸王·項羽",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3564
+          },
+          {
+            "monstername": "災厄女神潘多拉",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3396
+          },
+          {
+            "monstername": "驚濤海皇·波塞冬",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3506
+          },
+          {
+            "monstername": "萬神寂滅·克羅諾斯",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3443
+          },
+          {
+            "monstername": "小霸王·孫策",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3823
+          },
+          {
+            "monstername": "核爆·機械塔克林",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4222
+          },
+          {
+            "monstername": "鬼面閻羅",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4238
+          },
+          {
+            "monstername": "X博士奧古斯特",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3476
+          },
+          {
+            "monstername": "詛咒之神·狄修",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3580
+          },
+          {
+            "monstername": "邪影夢魘",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4035
+          },
+          {
+            "monstername": "希瓦",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3865
+          },
+          {
+            "monstername": "燃魂巨獸",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3584
+          },
+          {
+            "monstername": "貝狄薇爾",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4184
+          },
+          {
+            "monstername": "辛",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3964
+          },
+          {
+            "monstername": "餘罪魔女",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3949
+          },
+          {
+            "monstername": "赤膽游龍·趙雲",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4421
+          },
+          {
+            "monstername": "莫塔里安",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 4541
+          },
+          {
+            "monstername": "幻影蝶",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 2724
+          },
+          {
+            "monstername": "魯肅",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3540
+          },
+          {
+            "monstername": "福獸天祿",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3313
+          },
+          {
+            "monstername": "格羅姆特",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3107
+          },
+          {
+            "monstername": "魔鈺",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3567
+          },
+          {
+            "monstername": "夜香刀神",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3121
+          },
+          {
+            "monstername": "典韋",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3594
+          },
+          {
+            "monstername": "傳奇忍王·壬無月",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3477
+          },
+          {
+            "monstername": "德馬斯克",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3653
+          },
+          {
+            "monstername": "鬼劍羅剎",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3923
+          },
+          {
+            "monstername": "惡魔男爵",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3837
+          },
+          {
+            "monstername": "帝神天刃",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3792
+          },
+          {
+            "monstername": "八岐大蛇",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3814
+          },
+          {
+            "monstername": "斯坦利斯",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3769
+          },
+          {
+            "monstername": "冰晶麒麟",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3750
+          },
+          {
+            "monstername": "浩瀚崑崙",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3729
+          },
+          {
+            "monstername": "凜鋒劍俠",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3548
+          },
+          {
+            "monstername": "混沌天使長",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3714
+          },
+          {
+            "monstername": "夢天睡神·修普諾斯",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3491
+          },
+          {
+            "monstername": "眾神之首·宙斯",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3001
+          },
+          {
+            "monstername": "萬神之母·赫拉",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3470
+          },
+          {
+            "monstername": "萬獸之尊·猛虎王",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3676
+          },
+          {
+            "monstername": "聖光大師·蘇曼阿爾",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3624
+          },
+          {
+            "monstername": "阿什坎迪",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3411
+          },
+          {
+            "monstername": "白炎",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3196
+          },
+          {
+            "monstername": "紗娜",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3247
+          },
+          {
+            "monstername": "芊芊",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3341
+          },
+          {
+            "monstername": "天耀輝神•阿波羅",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3279
+          },
+          {
+            "monstername": "大梵天王",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3376
+          },
+          {
+            "monstername": "鬼才司馬懿",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3528
+          },
+          {
+            "monstername": "龍伽",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4262
+          },
+          {
+            "monstername": "傾城·虞姬",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3560
+          },
+          {
+            "monstername": "閉月之姿·貂蟬",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3965
+          },
+          {
+            "monstername": "誒西歐",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4092
+          },
+          {
+            "monstername": "科羅麗娜",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4114
+          },
+          {
+            "monstername": "金吉娜",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4153
+          },
+          {
+            "monstername": "撼地之力坎貝爾",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4215
+          },
+          {
+            "monstername": "奇佐郭嘉",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3950
+          },
+          {
+            "monstername": "寒冰境使•凱瑟琳",
+            "isjustone": 1,
+            "kind": 2,
+            "monsterid": 4021
+          },
+          {
+            "monstername": "迦曼吉",
+            "isjustone": 1,
+            "kind": 2,
+            "monsterid": 4080
+          },
+          {
+            "monstername": "斯德魯",
+            "isjustone": 1,
+            "kind": 2,
+            "monsterid": 3616
+          },
+          {
+            "monstername": "加梵迪",
+            "isjustone": 1,
+            "kind": 2,
+            "monsterid": 3767
+          },
+          {
+            "monstername": "環·源",
+            "isjustone": 1,
+            "kind": 2,
+            "monsterid": 4258
+          },
+          {
+            "monstername": "金銀魔神",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3347
+          },
+          {
+            "monstername": "奇莉奈",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4151
+          },
+          {
+            "monstername": "奇米奈",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4160
+          },
+          {
+            "monstername": "靈·辰坤星魂",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3983
+          },
+          {
+            "monstername": "伽瑪星魂",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3896
+          },
+          {
+            "monstername": "凜鋒劍心",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 4343
+          },
+          {
+            "monstername": "克勞蒂雅",
+            "isjustone": 0,
+            "kind": 2,
+            "monsterid": 3267
+          },
+          {
+            "monstername": "天尊龍帝",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3256
+          },
+          {
+            "monstername": "靈尊·斯凱爾",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3276
+          },
+          {
+            "monstername": "米琪柚柚",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3530
+          },
+          {
+            "monstername": "霍夫曼",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3517
+          },
+          {
+            "monstername": "繁盛靈獸王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3326
+          },
+          {
+            "monstername": "黃金史萊姆",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2312
+          },
+          {
+            "monstername": "神聖龍鷹",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3239
+          },
+          {
+            "monstername": "月之子·奇拉美",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3227
+          },
+          {
+            "monstername": "聖輝·達赫迪",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3255
+          },
+          {
+            "monstername": "神翼·波斯蒂加",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3147
+          },
+          {
+            "monstername": "費德約克",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3389
+          },
+          {
+            "monstername": "神火炎刃",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3373
+          },
+          {
+            "monstername": "炎龍聖帝",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3361
+          },
+          {
+            "monstername": "迪博斯坦",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3264
+          },
+          {
+            "monstername": "班納爾克",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3116
+          },
+          {
+            "monstername": "天戰·格拉特",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3112
+          },
+          {
+            "monstername": "源力·劫",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3100
+          },
+          {
+            "monstername": "躍乾龍馬",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3021
+          },
+          {
+            "monstername": "神佑之翼·熾天使",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3014
+          },
+          {
+            "monstername": "希爾妮妮",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2892
+          },
+          {
+            "monstername": "聖狐永琰",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2938
+          },
+          {
+            "monstername": "鬼神呂布",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3031
+          },
+          {
+            "monstername": "神機諸葛",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3048
+          },
+          {
+            "monstername": "逆勢麒麟",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3307
+          },
+          {
+            "monstername": "阿爾法熊",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3912
+          },
+          {
+            "monstername": "雙琬",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3928
+          },
+          {
+            "monstername": "奧古斯特",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2819
+          },
+          {
+            "monstername": "逝靈塵",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3917
+          },
+          {
+            "monstername": "捷莉",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3905
+          },
+          {
+            "monstername": "露希安",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3919
+          },
+          {
+            "monstername": "不動明王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2667
+          },
+          {
+            "monstername": "無妙",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3551
+          },
+          {
+            "monstername": "寶象靈尊",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3317
+          },
+          {
+            "monstername": "冠絕神龍",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3960
+          },
+          {
+            "monstername": "墮落炮魂",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4223
+          },
+          {
+            "monstername": "空靈之刃",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3438
+          },
+          {
+            "monstername": "銀月狼王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3171
+          },
+          {
+            "monstername": "大喬",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3418
+          },
+          {
+            "monstername": "天香小喬",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3192
+          },
+          {
+            "monstername": "卞玉兒",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4203
+          },
+          {
+            "monstername": "步練師",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3385
+          },
+          {
+            "monstername": "冠絕火龍",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2949
+          },
+          {
+            "monstername": "冠絕飛龍",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 2955
+          },
+          {
+            "monstername": "冠絕冰龍",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3952
+          },
+          {
+            "monstername": "冠絕巖龍",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3956
+          },
+          {
+            "monstername": "無燼魂王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3374
+          },
+          {
+            "monstername": "不死魂王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3375
+          },
+          {
+            "monstername": "暗翼魂王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3364
+          },
+          {
+            "monstername": "異域魂王",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3362
+          },
+          {
+            "monstername": "秘爾威緹",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4486
+          },
+          {
+            "monstername": "特雷弗",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4418
+          },
+          {
+            "monstername": "伊爾瑪",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3571
+          },
+          {
+            "monstername": "紫嫣",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3625
+          },
+          {
+            "monstername": "米迦勒",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3693
+          },
+          {
+            "monstername": "魔鐮武神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3694
+          },
+          {
+            "monstername": "不朽劍神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3660
+          },
+          {
+            "monstername": "破靈箭神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3486
+          },
+          {
+            "monstername": "天筆畫神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3671
+          },
+          {
+            "monstername": "暗靈法神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3678
+          },
+          {
+            "monstername": "龍翼戰神",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3104
+          },
+          {
+            "monstername": "莉蓮娜德",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4022
+          },
+          {
+            "monstername": "塔洛洛",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 4252
+          },
+          {
+            "monstername": "時分公主",
+            "isjustone": 0,
+            "kind": 3,
+            "monsterid": 3832
+          },
+          {
+            "monstername": "米諾",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3349
+          },
+          {
+            "monstername": "小優",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3138
+          },
+          {
+            "monstername": "紅包俠",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3028
+          },
+          {
+            "monstername": "娜爾斯",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2978
+          },
+          {
+            "monstername": "卡多奇",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2989
+          },
+          {
+            "monstername": "薩羅迪",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2994
+          },
+          {
+            "monstername": "石翼加奧",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2716
+          },
+          {
+            "monstername": "拉可尼",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1462
+          },
+          {
+            "monstername": "蒙琪",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3656
+          },
+          {
+            "monstername": "閃電犬",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3630
+          },
+          {
+            "monstername": "蘑牙牙",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3710
+          },
+          {
+            "monstername": "菇菇發",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3708
+          },
+          {
+            "monstername": "果果",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3862
+          },
+          {
+            "monstername": "球球",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2544
+          },
+          {
+            "monstername": "瓜瓜",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3854
+          },
+          {
+            "monstername": "花燈娃娃",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3323
+          },
+          {
+            "monstername": "蘇拉底",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2492
+          },
+          {
+            "monstername": "叮噹",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1787
+          },
+          {
+            "monstername": "艾克威",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1685
+          },
+          {
+            "monstername": "科迪",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1593
+          },
+          {
+            "monstername": "桑奇",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 984
+          },
+          {
+            "monstername": "財本大爺",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3306
+          },
+          {
+            "monstername": "樂小伴",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3202
+          },
+          {
+            "monstername": "孫小聖",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3027
+          },
+          {
+            "monstername": "雷小鍩",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2864
+          },
+          {
+            "monstername": "雷小伊",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2311
+          },
+          {
+            "monstername": "繆小斯",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2469
+          },
+          {
+            "monstername": "蓋小亞",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2403
+          },
+          {
+            "monstername": "布小克",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2433
+          },
+          {
+            "monstername": "卡小修",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2416
+          },
+          {
+            "monstername": "泰小坦",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3563
+          },
+          {
+            "monstername": "青小龍",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2643
+          },
+          {
+            "monstername": "朱小雀",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2634
+          },
+          {
+            "monstername": "白小虎",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2653
+          },
+          {
+            "monstername": "玄小武",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2663
+          },
+          {
+            "monstername": "萌布布種子",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2826
+          },
+          {
+            "monstername": "萌火猴",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2845
+          },
+          {
+            "monstername": "萌伊優",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2858
+          },
+          {
+            "monstername": "防禦史萊姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2264
+          },
+          {
+            "monstername": "體力史萊姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2253
+          },
+          {
+            "monstername": "速度史萊姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2252
+          },
+          {
+            "monstername": "閃光艾絲可玲",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3684
+          },
+          {
+            "monstername": "閃光安吉拉",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2794
+          },
+          {
+            "monstername": "閃光星吉拉",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 1502
+          },
+          {
+            "monstername": "閃光塔克洛頓",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3076
+          },
+          {
+            "monstername": "閃光卡斯達克",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3160
+          },
+          {
+            "monstername": "喵奇",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2654
+          },
+          {
+            "monstername": "幻影蜂",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2730
+          },
+          {
+            "monstername": "元氣鼠",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2137
+          },
+          {
+            "monstername": "燕捕頭",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2498
+          },
+          {
+            "monstername": "毛毛理",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4107
+          },
+          {
+            "monstername": "毛毛比",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4106
+          },
+          {
+            "monstername": "洛修尼",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2017
+          },
+          {
+            "monstername": "瑞冬·萌伊優",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3544
+          },
+          {
+            "monstername": "瑞冬·萌火猴",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3543
+          },
+          {
+            "monstername": "瑞冬·萌布布種子",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3542
+          },
+          {
+            "monstername": "聖光之子",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3433
+          },
+          {
+            "monstername": "華年·雷小伊",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3037
+          },
+          {
+            "monstername": "華年·繆小斯",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3038
+          },
+          {
+            "monstername": "華年·蓋小亞",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3023
+          },
+          {
+            "monstername": "華年·布小克",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3040
+          },
+          {
+            "monstername": "華年·卡小修",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3039
+          },
+          {
+            "monstername": "沃特",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 560
+          },
+          {
+            "monstername": "德普",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 576
+          },
+          {
+            "monstername": "嘟拉",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 618
+          },
+          {
+            "monstername": "埃爾特",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 480
+          },
+          {
+            "monstername": "伊特",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 471
+          },
+          {
+            "monstername": "露姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4060
+          },
+          {
+            "monstername": "科艾",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4036
+          },
+          {
+            "monstername": "科恩",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4026
+          },
+          {
+            "monstername": "戈多",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4006
+          },
+          {
+            "monstername": "糯米米",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3998
+          },
+          {
+            "monstername": "咔莫莫",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3997
+          },
+          {
+            "monstername": "聖誕哈姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3981
+          },
+          {
+            "monstername": "三葉草",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3836
+          },
+          {
+            "monstername": "咲居兒",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3812
+          },
+          {
+            "monstername": "小桃",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3770
+          },
+          {
+            "monstername": "米德薩",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3696
+          },
+          {
+            "monstername": "丹尼",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3538
+          },
+          {
+            "monstername": "德羅西尼",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3280
+          },
+          {
+            "monstername": "利亞蘇斯",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3042
+          },
+          {
+            "monstername": "內克瑟",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3838
+          },
+          {
+            "monstername": "力蒲",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3856
+          },
+          {
+            "monstername": "皮洛",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3450
+          },
+          {
+            "monstername": "洛皮",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3449
+          },
+          {
+            "monstername": "布布熊",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4100
+          },
+          {
+            "monstername": "布布犬",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4099
+          },
+          {
+            "monstername": "布布鳥",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4098
+          },
+          {
+            "monstername": "艾庫隆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3581
+          },
+          {
+            "monstername": "鎖魂領主",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3483
+          },
+          {
+            "monstername": "尖嘯風怪",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3473
+          },
+          {
+            "monstername": "布姆",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 3453
+          },
+          {
+            "monstername": "沙拉曼德",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4089
+          },
+          {
+            "monstername": "繽紛小鹿",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4164
+          },
+          {
+            "monstername": "溫泉貝貝",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4171
+          },
+          {
+            "monstername": "小潔",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 2511
+          },
+          {
+            "monstername": "南瓜小鬼",
+            "isjustone": 0,
+            "kind": 4,
+            "monsterid": 4138
+          }
+        ],
+        "id": 1
+      },
+      {
+        "item": [
+          {
+            "monstername": "拉斯塔特",
+            "isjustone": 1,
+            "kind": 1,
+            "monsterid": 3860
+          },
+          {
+            "monstername": "蠻荒之鱷",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3971
+          },
+          {
+            "monstername": "天父·奧丁",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3434
+          },
+          {
+            "monstername": "希瓦",
+            "isjustone": 0,
+            "kind": 1,
+            "monsterid": 3865
+          }
+        ],
+        "id": 2
+      }
+    ]
+  }
+}

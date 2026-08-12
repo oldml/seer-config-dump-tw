@@ -1,0 +1,32 @@
+{
+  "VirtualBattle": {
+    "PeakBtGlobalRule": {
+      "WeeklyID": [
+        {
+          "NewSeIcon": "在戰鬥中增加50點特攻值；回合開始時若對手處於異常狀態則當回合攻擊命中後附加300點固定傷害；回合開始時若對手不處於異常狀態則自身當回合受到的攻擊傷害減少20%",
+          "HomeAdditionMon": 4330
+        },
+        {
+          "NewSeIcon": "在戰鬥中增加100點體力值、增加50點特攻值；自身能力提升狀態被消除則100%使對手害怕",
+          "HomeAdditionMon": 4187
+        },
+        {
+          "NewSeIcon": "",
+          "HomeAdditionMon": 0
+        },
+        {
+          "NewSeIcon": "",
+          "HomeAdditionMon": 0
+        },
+        {
+          "NewSeIcon": "",
+          "HomeAdditionMon": 0
+        },
+        {
+          "NewSeIcon": "",
+          "HomeAdditionMon": 0
+        }
+      ]
+    }
+  }
+}

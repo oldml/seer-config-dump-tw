@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "describe": "玩家在S9賽季競技/狂野模式中首次達到猛將段位",
+      "rewardinfo": "1460_165_33",
+      "title": "S9賽季猛將",
+      "foreverType": 1,
+      "id": 1,
+      "value": 1
+    },
+    {
+      "describe": "玩家在S9賽季競技/狂野模式中首次達到天驕段位",
+      "rewardinfo": "1461_165_34",
+      "title": "S9賽季天驕",
+      "foreverType": 1,
+      "id": 2,
+      "value": 2
+    },
+    {
+      "describe": "玩家在S9賽季競技/狂野模式中首次達到王者段位",
+      "rewardinfo": "1462_165_35",
+      "title": "S9賽季王者",
+      "foreverType": 1,
+      "id": 3,
+      "value": 3
+    },
+    {
+      "describe": "玩家在S9賽季競技/狂野模式中首次達到聖皇段位",
+      "rewardinfo": "1463_165_36",
+      "title": "S9賽季聖皇",
+      "foreverType": 1,
+      "id": 4,
+      "value": 4
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達到猛將段位",
+      "rewardinfo": "1317_164_1",
+      "title": "無敵猛將",
+      "foreverType": 1,
+      "id": 5,
+      "value": 1
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達到天驕段位",
+      "rewardinfo": "1318_164_2",
+      "title": "出世天驕",
+      "foreverType": 1,
+      "id": 6,
+      "value": 2
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達到王者段位",
+      "rewardinfo": "1319_164_3",
+      "title": "巔峰王者",
+      "foreverType": 1,
+      "id": 7,
+      "value": 3
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達到聖皇段位",
+      "rewardinfo": "1320_164_4",
+      "title": "宇宙聖皇",
+      "foreverType": 1,
+      "id": 8,
+      "value": 4
+    },
+    {
+      "describe": "玩家在任意賽季競技/休閒模式中進行1次對戰",
+      "rewardinfo": "1321_163_1",
+      "title": "初入巔峰",
+      "foreverType": 2,
+      "id": 9,
+      "value": 1
+    },
+    {
+      "describe": "玩家在任意賽季競技/休閒模式中進行50次對戰",
+      "rewardinfo": "1322_163_2",
+      "title": "巔峰對戰（一）",
+      "foreverType": 2,
+      "id": 10,
+      "value": 50
+    },
+    {
+      "describe": "玩家在任意賽季競技/休閒模式中進行500次對戰",
+      "rewardinfo": "1323_163_3",
+      "title": "巔峰對戰（二）",
+      "foreverType": 2,
+      "id": 11,
+      "value": 500
+    },
+    {
+      "describe": "玩家在任意賽季競技/休閒模式中進行5000次對戰",
+      "rewardinfo": "1324_163_4",
+      "title": "巔峰對戰（三）",
+      "foreverType": 2,
+      "id": 12,
+      "value": 5000
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達成5連勝",
+      "rewardinfo": "1325_162_1",
+      "title": "戰皇",
+      "foreverType": 3,
+      "id": 13,
+      "value": 5
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達成10連勝",
+      "rewardinfo": "1326_162_2",
+      "title": "戰神",
+      "foreverType": 3,
+      "id": 14,
+      "value": 10
+    },
+    {
+      "describe": "玩家在任意賽季競技模式中首次達成30連勝",
+      "rewardinfo": "1327_162_3",
+      "title": "不可能完成的任務",
+      "foreverType": 3,
+      "id": 15,
+      "value": 30
+    }
+  ]
+}

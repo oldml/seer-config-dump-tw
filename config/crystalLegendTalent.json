@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "des": "初始額外擁有25晶石碎片",
+      "name": "小錢袋",
+      "consumeNum": 1,
+      "frontID": 0,
+      "iconID": 61,
+      "id": 1
+    },
+    {
+      "des": "初始額外擁有35晶石碎片",
+      "name": "大錢袋",
+      "consumeNum": 2,
+      "frontID": 1,
+      "iconID": 62,
+      "id": 2
+    },
+    {
+      "des": "購買骰子時價格減少5晶石碎片",
+      "name": "優惠卡",
+      "consumeNum": 3,
+      "frontID": 2,
+      "iconID": 63,
+      "id": 3
+    },
+    {
+      "des": "回合開始時會重新投擲留在手上的骰子",
+      "name": "從長計議",
+      "consumeNum": 3,
+      "frontID": 0,
+      "iconID": 64,
+      "id": 4
+    },
+    {
+      "des": "幻象強化的骰子在戰鬥結束後有50%概率不會還原",
+      "name": "輕拿輕放",
+      "consumeNum": 3,
+      "frontID": 0,
+      "iconID": 65,
+      "id": 5
+    },
+    {
+      "des": "打出骰面為空的骰子時會自動進行重擲（僅限1次）",
+      "name": "偷梁換柱",
+      "consumeNum": 3,
+      "frontID": 0,
+      "iconID": 66,
+      "id": 6
+    },
+    {
+      "des": "手上的骰子最大持有上限從6個增加為7個",
+      "name": "戰鬥擴容",
+      "consumeNum": 2,
+      "frontID": 0,
+      "iconID": 67,
+      "id": 7
+    },
+    {
+      "des": "每回合開始抽取的骰子從4個增加為5個",
+      "name": "快速填充",
+      "consumeNum": 4,
+      "frontID": 7,
+      "iconID": 68,
+      "id": 8
+    },
+    {
+      "des": "每回合開始時我方的護盾不會再消失",
+      "name": "無限屏障",
+      "consumeNum": 3,
+      "frontID": 0,
+      "iconID": 69,
+      "id": 9
+    },
+    {
+      "des": "初始生命值額外提升15",
+      "name": "短效藥物",
+      "consumeNum": 1,
+      "frontID": 0,
+      "iconID": 70,
+      "id": 10
+    },
+    {
+      "des": "初始生命值額外提升25",
+      "name": "長效藥物",
+      "consumeNum": 2,
+      "frontID": 10,
+      "iconID": 71,
+      "id": 11
+    },
+    {
+      "des": "每次戰鬥結束時，都會恢復3點生命值",
+      "name": "醫療援助",
+      "consumeNum": 3,
+      "frontID": 11,
+      "iconID": 72,
+      "id": 12
+    }
+  ]
+}
