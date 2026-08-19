@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_08_12 00:00:00",
-      "ending": "2026_08_19 13:59:59",
+      "beginning": "2026_08_19 00:00:00",
+      "ending": "2026_08_26 13:59:59",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
