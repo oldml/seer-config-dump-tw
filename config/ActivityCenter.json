@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_08_19 00:00:00",
-      "ending": "2026_08_26 13:59:59",
+      "beginning": "2026_08_26 00:00:00",
+      "ending": "2026_09_02 13:59:59",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -1363,7 +1363,7 @@
     {
       "args": "",
       "beginning": "2026_08_19 14:00:00",
-      "ending": "2026_08_27 14:00:00",
+      "ending": "2026_09_02 14:00:00",
       "labelName": "浩劫再臨",
       "name": "zhakesiSellPanel",
       "channel": 0,
@@ -1532,8 +1532,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_09_02 14:00:00",
-      "ending": "2026_09_23 14:00:00",
+      "beginning": "2026_08_26 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "16周年冠名刻印",
       "name": "sixteenThMarkSell",
       "channel": 0,
@@ -1668,8 +1668,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_06_27 10:00:00",
-      "ending": "2025_07_04 10:00:00",
+      "beginning": "2026_09_02 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "利牙護理",
       "name": "sharkMouthCleaning",
       "channel": 0,
@@ -1804,8 +1804,8 @@
     },
     {
       "args": "Assets/Game/UI/oceanPlanetNoma/oceanPlanetNoma.prefab",
-      "beginning": "2025_06_27 10:00:00",
-      "ending": "2025_08_08 10:00:00",
+      "beginning": "2026_09_02 14:00:00",
+      "ending": "2026_10_14 10:00:00",
       "labelName": "小精靈，大發現",
       "name": "oceanPlanetNoma",
       "channel": 0,
@@ -1817,7 +1817,7 @@
       "redbadge": 0,
       "signType": 0,
       "sorting": 3,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/gotom4399_3/gotom4399_3.prefab",
@@ -2399,8 +2399,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_08_22 10:00:00",
-      "ending": "2025_09_05 10:00:00",
+      "beginning": "2026_09_02 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "戰隊BOSS",
       "name": "teamBossActivityCenter",
       "channel": 0,
@@ -2411,13 +2411,13 @@
       "isShow": 1,
       "redbadge": 88,
       "signType": 1,
-      "sorting": 10,
+      "sorting": 5,
       "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_08_22 10:00:00",
-      "ending": "2025_09_05 10:00:00",
+      "beginning": "2026_09_02 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "戰隊軍需官",
       "name": "teamTraderActivityCenter",
       "channel": 0,
@@ -2428,7 +2428,7 @@
       "isShow": 1,
       "redbadge": 89,
       "signType": 2,
-      "sorting": 11,
+      "sorting": 6,
       "type": 1
     },
     {
@@ -2467,8 +2467,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_08_29 10:00:00",
-      "ending": "2025_09_12 10:00:00",
+      "beginning": "2026_08_26 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "綺羅夜狩",
       "name": "mixiuliNewForm",
       "channel": 0,
