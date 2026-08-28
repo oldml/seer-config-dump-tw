@@ -1363,7 +1363,7 @@
     {
       "args": "",
       "beginning": "2026_08_19 14:00:00",
-      "ending": "2026_09_02 14:00:00",
+      "ending": "2026_09_09 14:00:00",
       "labelName": "浩劫再臨",
       "name": "zhakesiSellPanel",
       "channel": 0,
@@ -1448,7 +1448,7 @@
     {
       "args": "",
       "beginning": "2026_08_26 14:00:00",
-      "ending": "2026_09_02 14:00:00",
+      "ending": "2026_09_09 14:00:00",
       "labelName": "黑日之災",
       "name": "getyounasiskinpanel",
       "channel": 0,
@@ -1465,7 +1465,7 @@
     {
       "args": "",
       "beginning": "2026_08_19 14:00:00",
-      "ending": "2026_09_02 14:00:00",
+      "ending": "2026_09_23 14:00:00",
       "labelName": "探索露希歐星",
       "name": "exploreLuciou",
       "channel": 0,
@@ -1499,7 +1499,7 @@
     {
       "args": "",
       "beginning": "2026_08_19 14:00:00",
-      "ending": "2026_09_02 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "宿命的對決",
       "name": "RayGaiaPetSkinPanel",
       "channel": 0,
@@ -1516,7 +1516,7 @@
     {
       "args": "",
       "beginning": "2026_06_26 10:00:00",
-      "ending": "2026_09_02 13:59:59",
+      "ending": "2026_09_09 13:59:59",
       "labelName": "穿越黑暗之門",
       "name": "unusPayReturn",
       "channel": 0,
