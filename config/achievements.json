@@ -18130,7 +18130,22 @@
               {
                 "_text": "",
                 "Desc": "限定分類tw",
-                "Rule": null,
+                "Rule": [
+                  {
+                    "abtext": "",
+                    "achName": "⬊煞氣a小賽爾",
+                    "Desc": "完成死語大復興活動獲得",
+                    "Threshold": "1",
+                    "title": "⬊煞氣a小賽爾",
+                    "titleColor": "0xFFFFFF",
+                    "AbilityTitle": 0,
+                    "AchievementPoint": 10,
+                    "hide": 0,
+                    "ID": 1,
+                    "proicon": 10001,
+                    "SpeNameBonus": 603
+                  }
+                ],
                 "ID": 511,
                 "isShowPro": 0,
                 "IsSingle": 0

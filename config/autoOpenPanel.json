@@ -447,11 +447,11 @@
     {
       "actionName": "背包返鑽",
       "controller": "AutoOpenBagCompensationController",
-      "endTime": "2025_10_10 00:00:00",
+      "endTime": "2026_11_25 14:00:00",
       "param1": "",
       "param2": "",
       "param3": "",
-      "startTime": "2025_07_06 00:00:00",
+      "startTime": "2026_09_02 14:00:00",
       "id": 39,
       "moduleId": 522,
       "state": 1

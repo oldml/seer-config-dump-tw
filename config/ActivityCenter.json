@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_08_26 00:00:00",
-      "ending": "2026_09_02 13:59:59",
+      "beginning": "2026_09_02 00:00:00",
+      "ending": "2026_09_09 13:59:59",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -1617,8 +1617,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_06_27 10:00:00",
-      "ending": "2025_07_04 10:00:00",
+      "beginning": "2026_09_09 14:00:00",
+      "ending": "2026_09_23 14:00:00",
       "labelName": "13周年皮膚",
       "name": "thirteenYearSkin",
       "channel": 0,
@@ -1629,13 +1629,13 @@
       "isShow": 1,
       "redbadge": 0,
       "signType": 1,
-      "sorting": 5,
-      "type": 6
+      "sorting": 2,
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_06_27 10:00:00",
-      "ending": "2025_07_04 10:00:00",
+      "beginning": "2026_09_09 14:00:00",
+      "ending": "2026_09_16 14:00:00",
       "labelName": "夏日飲品",
       "name": "summerDrinkSupply",
       "channel": 0,
@@ -1651,8 +1651,8 @@
     },
     {
       "args": "Assets/Game/UI/oceanPlanet/oceanPlanet.prefab",
-      "beginning": "2025_06_27 10:00:00",
-      "ending": "2025_08_08 10:00:00",
+      "beginning": "2026_09_09 14:00:00",
+      "ending": "2026_10_21 14:00:00",
       "labelName": "探索海洋星",
       "name": "oceanPlanet",
       "channel": 0,
@@ -1664,7 +1664,7 @@
       "redbadge": 0,
       "signType": 0,
       "sorting": 6,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -1702,8 +1702,8 @@
     },
     {
       "args": "Assets/Game/UI/oceanstargame/OceanStarGameEntryPanel.prefab",
-      "beginning": "2025_07_04 10:00:00",
-      "ending": "2025_07_11 10:00:00",
+      "beginning": "2026_09_16 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "沙灘尋寶",
       "name": "OceanStarGame",
       "channel": 0,
@@ -1715,12 +1715,12 @@
       "redbadge": 0,
       "signType": 0,
       "sorting": 3,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_07_04 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_09_16 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "夏日奇遇",
       "name": "summerSkin",
       "channel": 0,
@@ -1731,13 +1731,13 @@
       "isShow": 1,
       "redbadge": 64,
       "signType": 1,
-      "sorting": 1,
-      "type": 6
+      "sorting": 2,
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_07_04 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_09_16 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "沙灘時光",
       "name": "KulatakeSkinPanel",
       "channel": 0,
@@ -1749,12 +1749,12 @@
       "redbadge": 67,
       "signType": 2,
       "sorting": 2,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_07_04 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_09_09 14:00:00",
+      "ending": "2026_09_23 14:00:00",
       "labelName": "深海大對決",
       "name": "deepSeaMonsterFight",
       "channel": 0,
@@ -1766,12 +1766,12 @@
       "redbadge": 68,
       "signType": 2,
       "sorting": 4,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/oreProspectEntryPanel/oreProspectEntryPanel.prefab",
-      "beginning": "2025_07_11 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_09_23 14:00:00",
+      "ending": "2026_09_30 14:00:00",
       "labelName": "勘探黑晶礦群",
       "name": "oreProspect",
       "channel": 0,
@@ -1783,12 +1783,12 @@
       "redbadge": 70,
       "signType": 2,
       "sorting": 3,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_07_11 10:00:00",
-      "ending": "2025_07_18 10:00:00",
+      "beginning": "2026_09_23 14:00:00",
+      "ending": "2026_09_30 14:00:00",
       "labelName": "盛夏謐語",
       "name": "dihuangzhiyuSummerSkinSell",
       "channel": 0,
@@ -1800,7 +1800,7 @@
       "redbadge": 69,
       "signType": 1,
       "sorting": 1,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/oceanPlanetNoma/oceanPlanetNoma.prefab",

@@ -1754,6 +1754,40 @@
     },
     {
       "hide": "",
+      "image": "4364",
+      "isnew": "",
+      "param": "{Design:40}",
+      "quality": "ss",
+      "recommendTime": "1",
+      "statlog": "20221104版本系統功能,尤莉米特,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        7
+      ],
+      "upgrade": [
+        3
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "id": 72,
+      "moduleid": 151,
+      "monsterid": 4364,
+      "sort": 1069,
+      "upgradeSort": 10,
+      "upgradeSource": 3,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4376",
       "isnew": "",
       "param": "{Design:47}",
@@ -1885,6 +1919,39 @@
     },
     {
       "hide": "",
+      "image": "4445",
+      "isnew": "",
+      "param": "{Design:74}",
+      "quality": "s",
+      "recommendTime": "1",
+      "statlog": "H5精靈因子關卡系統功能,古溫婆婆,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        5,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 98,
+      "moduleid": 151,
+      "monsterid": 4445,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "3704",
       "isnew": "",
       "param": "",
@@ -1940,6 +2007,103 @@
       "id": 122,
       "moduleid": 151,
       "monsterid": 4484,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4487",
+      "isnew": "",
+      "param": "{Design:91}",
+      "quality": "s",
+      "recommendTime": "1",
+      "statlog": "H5精靈因子關卡系統功能,希可洛,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        2
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        6,
+        4,
+        3
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 123,
+      "moduleid": 151,
+      "monsterid": 4487,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4493",
+      "isnew": "",
+      "param": "{Design:94}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,冰骷使者,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        5,
+        4,
+        2
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 126,
+      "moduleid": 151,
+      "monsterid": 4493,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4495",
+      "isnew": "",
+      "param": "{Design:96}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,彼爾德,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 128,
+      "moduleid": 151,
+      "monsterid": 4495,
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
@@ -2638,6 +2802,164 @@
     },
     {
       "hide": "",
+      "image": "4546",
+      "isnew": "",
+      "param": "{Design:118}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,巨鯨座,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 169,
+      "moduleid": 151,
+      "monsterid": 4546,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4547",
+      "isnew": "",
+      "param": "{Design:119}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,庫拉塔克,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 170,
+      "moduleid": 151,
+      "monsterid": 4547,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4553",
+      "isnew": "",
+      "param": "{Design:121}",
+      "quality": "ss",
+      "recommendTime": "1",
+      "statlog": "H5精靈因子關卡系統功能,萬里春·北鳥,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4,
+        5
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 172,
+      "moduleid": 151,
+      "monsterid": 4553,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 1,
+      "weeklyAdd": 5,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4557",
+      "isnew": "",
+      "param": "{Design:123}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,紅月祭司,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 174,
+      "moduleid": 151,
+      "monsterid": 4557,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4559",
+      "isnew": "",
+      "param": "{Design:124}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,提米,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        3
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 175,
+      "moduleid": 151,
+      "monsterid": 4559,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4564",
       "isnew": "",
       "param": "{Design:126}",
@@ -2671,6 +2993,36 @@
     },
     {
       "hide": "",
+      "image": "4573",
+      "isnew": "",
+      "param": "{Design:131}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,PLD,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 182,
+      "moduleid": 151,
+      "monsterid": 4573,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4577",
       "isnew": "",
       "param": "{Design:132}",
@@ -2693,6 +3045,37 @@
       "id": 183,
       "moduleid": 151,
       "monsterid": 4577,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4578",
+      "isnew": "",
+      "param": "{Design:133}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,蔓古,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 184,
+      "moduleid": 151,
+      "monsterid": 4578,
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
@@ -2733,6 +3116,36 @@
     },
     {
       "hide": "",
+      "image": "4583",
+      "isnew": "",
+      "param": "{Design:135}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,巴特勒,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 186,
+      "moduleid": 151,
+      "monsterid": 4583,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4589",
       "isnew": "",
       "param": "{Design:137}",
@@ -2760,6 +3173,195 @@
       "sort": 1069,
       "upgradeSort": 30,
       "upgradeSource": 2,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4592",
+      "isnew": "",
+      "param": "{Design:138}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,夜居魔使,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        6
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 189,
+      "moduleid": 151,
+      "monsterid": 4592,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4597",
+      "isnew": "",
+      "param": "{Design:140}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,織靈者·維伊,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        3,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 191,
+      "moduleid": 151,
+      "monsterid": 4597,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4599",
+      "isnew": "",
+      "param": "{Design:141}",
+      "quality": "ss",
+      "recommendTime": "1",
+      "statlog": "H5精靈因子關卡系統功能,靈巢之主·索傑德爾,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        2
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 192,
+      "moduleid": 151,
+      "monsterid": 4599,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 1,
+      "weeklyAdd": 3,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4635",
+      "isnew": "",
+      "param": "{Design:158}",
+      "quality": "ss",
+      "recommendTime": "1",
+      "statlog": "H5精靈因子關卡系統功能,楓落殤·西葉,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 209,
+      "moduleid": 151,
+      "monsterid": 4635,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 1,
+      "weeklyAdd": 4,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4671",
+      "isnew": "",
+      "param": "{Design:172}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,噬夜急襲·庫拉塔克,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 223,
+      "moduleid": 151,
+      "monsterid": 4671,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4721",
+      "isnew": "",
+      "param": "",
+      "quality": "",
+      "recommendTime": "1",
+      "statlog": "20211224版本系統功能,黯魂·索比拉特,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        2
+      ],
+      "menutype": [
+        3
+      ],
+      "petTag": null,
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 0,
+      "id": 244,
+      "moduleid": 291,
+      "monsterid": 4721,
+      "sort": 14,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -2850,6 +3452,66 @@
       "moduleid": 292,
       "monsterid": 4716,
       "sort": 15,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4744",
+      "isnew": "",
+      "param": "{Design:199}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,皎夢·悠悠,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 254,
+      "moduleid": 151,
+      "monsterid": 4744,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4746",
+      "isnew": "",
+      "param": "{Design:200}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,王之查爾頓,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        3
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 255,
+      "moduleid": 151,
+      "monsterid": 4746,
+      "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
       "weekly": 0,
