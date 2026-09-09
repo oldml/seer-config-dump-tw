@@ -3708,7 +3708,7 @@
     {
       "hide": "",
       "image": "4757",
-      "isnew": "2026_09_10 23:59:59",
+      "isnew": "2026_10_21 13:59:59",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -3736,7 +3736,7 @@
     {
       "hide": "",
       "image": "4758",
-      "isnew": "2026_09_10 23:59:59",
+      "isnew": "2026_10_21 13:59:59",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -3876,6 +3876,98 @@
       "moduleid": 502,
       "monsterid": 4462,
       "sort": 3,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4780",
+      "isnew": "2026_10_21 13:59:59",
+      "param": "{Design:207}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,布貝巴拉,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 272,
+      "moduleid": 151,
+      "monsterid": 4780,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4782",
+      "isnew": "2026_10_21 13:59:59",
+      "param": "{Design:208}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,鞘盾龍魚,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 273,
+      "moduleid": 151,
+      "monsterid": 4782,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4783",
+      "isnew": "2026_10_21 13:59:59",
+      "param": "{Design:209}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,斯弗洛浦亞,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        6
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 274,
+      "moduleid": 151,
+      "monsterid": 4783,
+      "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
       "weekly": 0,

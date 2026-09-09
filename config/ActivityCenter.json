@@ -1154,7 +1154,7 @@
       "redbadge": 42,
       "signType": 1,
       "sorting": 2,
-      "type": 1
+      "type": 3
     },
     {
       "args": "",
@@ -1619,7 +1619,7 @@
       "args": "",
       "beginning": "2026_09_09 14:00:00",
       "ending": "2026_09_23 14:00:00",
-      "labelName": "13周年皮膚",
+      "labelName": "13周年造型",
       "name": "thirteenYearSkin",
       "channel": 0,
       "Go": 507,
