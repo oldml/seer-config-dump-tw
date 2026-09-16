@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_09_02 00:00:00",
-      "ending": "2026_09_09 13:59:59",
+      "beginning": "2026_09_16 00:00:00",
+      "ending": "2026_09_23 13:59:59",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -461,8 +461,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_03_28 10:00:00",
-      "ending": "2025_04_11 10:00:00",
+      "beginning": "2026_09_30 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "執冥的修煉",
       "name": "JumpZhiMingActPanel",
       "channel": 0,
@@ -473,7 +473,7 @@
       "isShow": 1,
       "redbadge": 16,
       "signType": 1,
-      "sorting": 10,
+      "sorting": 5,
       "type": 1
     },
     {
@@ -1940,8 +1940,8 @@
     },
     {
       "args": "",
-      "beginning": "",
-      "ending": "",
+      "beginning": "2026_09_23 14:00:00",
+      "ending": "2026_09_30 14:00:00",
       "labelName": "機械鋼牙鯊",
       "name": "mechSharpedo",
       "channel": 0,
@@ -1949,11 +1949,11 @@
       "helptips": 0,
       "id": 119,
       "iOSreviewshow": 1,
-      "isShow": 0,
+      "isShow": 1,
       "redbadge": 0,
       "signType": 1,
       "sorting": 2,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -1974,8 +1974,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_07_25 10:00:00",
-      "ending": "2025_08_08 10:00:00",
+      "beginning": "2026_09_30 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "劫掠風暴",
       "name": "getReinhardtSkinPanel",
       "channel": 0,
@@ -1987,12 +1987,12 @@
       "redbadge": 0,
       "signType": 2,
       "sorting": 3,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_07_25 10:00:00",
-      "ending": "2025_08_01 10:00:00",
+      "beginning": "2026_09_30 14:00:00",
+      "ending": "2026_10_14 14:00:00",
       "labelName": "深海古龍的詛咒",
       "name": "dragonbingoGame",
       "channel": 0,
@@ -2004,7 +2004,7 @@
       "redbadge": 76,
       "signType": 2,
       "sorting": 4,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/getDS001/getDS001EntryPanel.prefab",
@@ -2025,8 +2025,8 @@
     },
     {
       "args": "",
-      "beginning": "",
-      "ending": "",
+      "beginning": "2026_10_14 14:00:00",
+      "ending": "2026_10_21 14:00:00",
       "labelName": "狂鯊試煉",
       "name": "fightshark",
       "channel": 0,
@@ -2034,16 +2034,16 @@
       "helptips": 0,
       "id": 124,
       "iOSreviewshow": 0,
-      "isShow": 0,
+      "isShow": 1,
       "redbadge": 0,
       "signType": 0,
       "sorting": 2,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_08_01 10:00:00",
-      "ending": "2025_08_08 10:00:00",
+      "beginning": "2026_10_14 14:00:00",
+      "ending": "2026_10_21 14:00:00",
       "labelName": "激戰深海古龍",
       "name": "shenHaiGuLongGame",
       "channel": 0,
@@ -2055,7 +2055,7 @@
       "redbadge": 78,
       "signType": 2,
       "sorting": 5,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -2093,8 +2093,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_08_08 10:00:00",
-      "ending": "2025_08_15 10:00:00",
+      "beginning": "2026_10_14 14:00:00",
+      "ending": "2026_11_4 14:00:00",
       "labelName": "豪行江湖",
       "name": "jiangHuSkinSell",
       "channel": 0,

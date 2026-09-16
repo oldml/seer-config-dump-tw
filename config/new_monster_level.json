@@ -1692,6 +1692,37 @@
     },
     {
       "hide": "",
+      "image": "4323",
+      "isnew": "",
+      "param": "{Design:26}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "20221014版本系統功能,綠棘巨魔,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        3,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 58,
+      "moduleid": 151,
+      "monsterid": 4323,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4324",
       "isnew": "",
       "param": "{Design:27}",
@@ -1713,6 +1744,70 @@
       "id": 59,
       "moduleid": 151,
       "monsterid": 4324,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4325",
+      "isnew": "",
+      "param": "{Design:28}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "20221014版本系統功能,坎普瑞亞,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 60,
+      "moduleid": 151,
+      "monsterid": 4325,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4327",
+      "isnew": "",
+      "param": "{Design:29}",
+      "quality": "ss",
+      "recommendTime": "1",
+      "statlog": "20221021版本系統功能,極戰·阿爾斯蘭,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": [
+        1
+      ],
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        2,
+        1,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 61,
+      "moduleid": 151,
+      "monsterid": 4327,
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
@@ -1748,6 +1843,39 @@
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4359",
+      "isnew": "",
+      "param": "{Design:39}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "20221104版本系統功能,隙之門·基盧,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4
+      ],
+      "upgrade": [
+        2
+      ],
+      "difficult": 0,
+      "fightType": 1,
+      "id": 71,
+      "moduleid": 151,
+      "monsterid": 4359,
+      "sort": 1069,
+      "upgradeSort": 30,
+      "upgradeSource": 2,
       "weekly": 0,
       "weeklyAdd": 0,
       "showTag": false
@@ -1943,6 +2071,37 @@
       "id": 98,
       "moduleid": 151,
       "monsterid": 4445,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4449",
+      "isnew": "",
+      "param": "{Design:76}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,禪老,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        4
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 107,
+      "moduleid": 151,
+      "monsterid": 4449,
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,
@@ -2993,6 +3152,37 @@
     },
     {
       "hide": "",
+      "image": "4572",
+      "isnew": "",
+      "param": "{Design:130}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,飛魚騎士,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1,
+        2
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 181,
+      "moduleid": 151,
+      "monsterid": 4572,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4573",
       "isnew": "",
       "param": "{Design:131}",
@@ -3270,6 +3460,36 @@
       "upgradeSource": 0,
       "weekly": 1,
       "weeklyAdd": 3,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4628",
+      "isnew": "",
+      "param": "{Design:153}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,聖血獵者·赫布洛,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 204,
+      "moduleid": 151,
+      "monsterid": 4628,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
       "showTag": false
     },
     {
@@ -3676,6 +3896,36 @@
     },
     {
       "hide": "",
+      "image": "4755",
+      "isnew": "",
+      "param": "{Design:204}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,夢魘尼斯克,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 264,
+      "moduleid": 151,
+      "monsterid": 4755,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4756",
       "isnew": "",
       "param": "{Design:205}",
@@ -3708,7 +3958,7 @@
     {
       "hide": "",
       "image": "4757",
-      "isnew": "2026_10_21 13:59:59",
+      "isnew": "2026_09_10 23:59:59",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -3736,7 +3986,7 @@
     {
       "hide": "",
       "image": "4758",
-      "isnew": "2026_10_21 13:59:59",
+      "isnew": "2026_09_10 23:59:59",
       "param": "",
       "quality": "",
       "recommendTime": "",
@@ -4030,6 +4280,36 @@
     },
     {
       "hide": "",
+      "image": "4784",
+      "isnew": "2026_10_21 13:59:59",
+      "param": "{Design:210}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,諾爾瑪羅,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        1
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 277,
+      "moduleid": 151,
+      "monsterid": 4784,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
       "image": "4786",
       "isnew": "",
       "param": "",
@@ -4101,6 +4381,37 @@
       "id": 281,
       "moduleid": -113026,
       "monsterid": 4788,
+      "sort": 1069,
+      "upgradeSort": 0,
+      "upgradeSource": 0,
+      "weekly": 0,
+      "weeklyAdd": 0,
+      "showTag": false
+    },
+    {
+      "hide": "",
+      "image": "4793",
+      "isnew": "2026_10_21 13:59:59",
+      "param": "{Design:211}",
+      "quality": "s",
+      "recommendTime": "",
+      "statlog": "H5精靈因子關卡系統功能,厄孽提亞,點擊進入關卡",
+      "upgradeHide": "",
+      "upgradeNew": "",
+      "isrecommend": null,
+      "menutype": [
+        1
+      ],
+      "petTag": [
+        4,
+        6
+      ],
+      "upgrade": null,
+      "difficult": 0,
+      "fightType": 1,
+      "id": 286,
+      "moduleid": 151,
+      "monsterid": 4793,
       "sort": 1069,
       "upgradeSort": 0,
       "upgradeSource": 0,

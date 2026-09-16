@@ -411,13 +411,8 @@
       "name": "克洛斯星",
       "notes": "",
       "sound": "BGM_206",
-      "NPCID": [
-        9000
-      ],
-      "NPCXYZ": [
-        300,
-        350
-      ],
+      "NPCID": null,
+      "NPCXYZ": null,
       "PlayerXYZ": [
         725,
         272
