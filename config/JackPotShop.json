@@ -174,37 +174,54 @@
           "shopkind": 1
         },
         {
-          "productName": "福獸天祿",
+          "productName": "真龍·無上",
           "productID": [
-            3313,
+            2769,
             34174,
             5566,
             41817
           ],
           "batch": 1,
-          "Endtime": 20280426,
-          "exchangeId": 14018,
-          "forever": 140225,
-          "ID": 10004,
-          "Opentime": 20260102,
-          "productPrice": 45,
+          "Endtime": 20261118,
+          "exchangeId": 13971,
+          "forever": 125054,
+          "ID": 10002,
+          "Opentime": 20241018,
+          "productPrice": 20,
           "shopkind": 1
         },
         {
-          "productName": "金瑞福龍",
+          "productName": "萬邪妖皇·蘭蒂斯",
           "productID": [
-            4602,
+            3249,
             34174,
             5566,
             41817
           ],
           "batch": 1,
-          "Endtime": 20280426,
-          "exchangeId": 14019,
-          "forever": 140226,
-          "ID": 10005,
-          "Opentime": 20260102,
+          "Endtime": 20261118,
+          "exchangeId": 13970,
+          "forever": 125053,
+          "ID": 10003,
+          "Opentime": 20241018,
           "productPrice": 20,
+          "shopkind": 1
+        },
+        {
+          "productName": "無上神龍",
+          "productID": [
+            2768,
+            34174,
+            5566,
+            41817
+          ],
+          "batch": 1,
+          "Endtime": 20261118,
+          "exchangeId": 14020,
+          "forever": 140035,
+          "ID": 10004,
+          "Opentime": 20241018,
+          "productPrice": 15,
           "shopkind": 1
         },
         {
@@ -778,9 +795,9 @@
           "shopkind": 5
         }
       ],
-      "Endday": "9/23",
-      "Endtime": "2026/9/23",
-      "Openday": "8/12"
+      "Endday": "11/4",
+      "Endtime": "2026/11/4",
+      "Openday": "9/23"
     }
   }
 }

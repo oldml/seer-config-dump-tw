@@ -1125,7 +1125,7 @@
     {
       "args": "",
       "beginning": "2026_07_30 00:00:00",
-      "ending": "2026_09_23 23:59:59",
+      "ending": "2026_09_23 13:59:59",
       "labelName": "周年慶典",
       "name": "sixteenYearsEntrance",
       "channel": 0,
@@ -1915,7 +1915,7 @@
       "helptips": 0,
       "id": 117,
       "iOSreviewshow": 1,
-      "isShow": 0,
+      "isShow": 1,
       "redbadge": 0,
       "signType": 0,
       "sorting": 2,
@@ -1940,8 +1940,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_09_23 14:00:00",
-      "ending": "2026_09_30 14:00:00",
+      "beginning": "",
+      "ending": "",
       "labelName": "機械鋼牙鯊",
       "name": "mechSharpedo",
       "channel": 0,
