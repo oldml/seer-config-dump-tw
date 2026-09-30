@@ -3358,15 +3358,16 @@
         {
           "Name": "魔血·艾歐麗婭",
           "Show": [
-            7
+            3,
+            6
           ],
-          "Batch": 2,
-          "CardPrice": 0,
-          "DiamondPrice": 10,
+          "Batch": 7,
+          "CardPrice": 10,
+          "DiamondPrice": 0,
           "ID": 223,
           "MonID": 3437,
-          "OriginalPrice": 0,
-          "ProductId": 261916,
+          "OriginalPrice": 20,
+          "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400223
         },
@@ -4837,15 +4838,15 @@
         {
           "Name": "光耀神女·艾歐麗婭",
           "Show": [
-            7
+            0
           ],
-          "Batch": 2,
-          "CardPrice": 0,
-          "DiamondPrice": 58,
+          "Batch": 0,
+          "CardPrice": 30,
+          "DiamondPrice": 0,
           "ID": 321,
           "MonID": 3437,
-          "OriginalPrice": 0,
-          "ProductId": 261917,
+          "OriginalPrice": 40,
+          "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400321
         },
@@ -4947,14 +4948,14 @@
           "Name": "俏蘿莉·兔兔仙子",
           "Show": [
             3,
-            34
+            19
           ],
-          "Batch": 35,
-          "CardPrice": 20,
+          "Batch": 0,
+          "CardPrice": 30,
           "DiamondPrice": 0,
           "ID": 328,
           "MonID": 3963,
-          "OriginalPrice": 30,
+          "OriginalPrice": 0,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400328
@@ -5459,9 +5460,9 @@
           "Name": "弒神萌皇",
           "Show": [
             3,
-            33
+            26
           ],
-          "Batch": 34,
+          "Batch": 27,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 361,
@@ -5506,10 +5507,10 @@
           "Name": "陰雨之子·萊茵哈特",
           "Show": [
             3,
-            33
+            15
           ],
-          "Batch": 34,
-          "CardPrice": 15,
+          "Batch": 16,
+          "CardPrice": 10,
           "DiamondPrice": 0,
           "ID": 364,
           "MonID": 3516,
@@ -5693,9 +5694,9 @@
           "Name": "佩德團長",
           "Show": [
             3,
-            33
+            26
           ],
-          "Batch": 34,
+          "Batch": 27,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 376,
@@ -5864,9 +5865,9 @@
           "Name": "照無眠·月照星魂",
           "Show": [
             3,
-            33
+            27
           ],
-          "Batch": 34,
+          "Batch": 28,
           "CardPrice": 35,
           "DiamondPrice": 0,
           "ID": 387,
@@ -5911,9 +5912,9 @@
           "Name": "弄清影·墨影星魂",
           "Show": [
             3,
-            33
+            27
           ],
-          "Batch": 34,
+          "Batch": 28,
           "CardPrice": 35,
           "DiamondPrice": 0,
           "ID": 390,
@@ -5989,9 +5990,9 @@
           "Name": "異能覺醒·王之哈莫",
           "Show": [
             3,
-            34
+            25
           ],
-          "Batch": 35,
+          "Batch": 26,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 395,
@@ -6666,9 +6667,9 @@
           "Name": "殉道者·六界御神",
           "Show": [
             3,
-            33
+            23
           ],
-          "Batch": 34,
+          "Batch": 24,
           "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 439,
@@ -6715,7 +6716,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 30,
           "DiamondPrice": 0,
           "ID": 442,
@@ -6774,9 +6775,9 @@
           "Name": "獅心王·格勞瑞",
           "Show": [
             3,
-            34
+            19
           ],
-          "Batch": 35,
+          "Batch": 0,
           "CardPrice": 35,
           "DiamondPrice": 0,
           "ID": 446,
@@ -6807,7 +6808,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 448,
@@ -6913,9 +6914,9 @@
           "Name": "祈罪者·莫伊萊",
           "Show": [
             3,
-            33
+            21
           ],
-          "Batch": 34,
+          "Batch": 22,
           "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 455,
@@ -7261,9 +7262,9 @@
           "Name": "英魂據江·孫策",
           "Show": [
             3,
-            33
+            26
           ],
-          "Batch": 34,
+          "Batch": 27,
           "CardPrice": 35,
           "DiamondPrice": 0,
           "ID": 478,
@@ -7308,7 +7309,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 481,
@@ -7337,9 +7338,9 @@
           "Name": "終焉頌歌·天啟星魂",
           "Show": [
             3,
-            34
+            23
           ],
-          "Batch": 35,
+          "Batch": 24,
           "CardPrice": 30,
           "DiamondPrice": 0,
           "ID": 483,
@@ -7368,9 +7369,9 @@
           "Name": "盜月假面·坦普瑞",
           "Show": [
             3,
-            34
+            24
           ],
-          "Batch": 35,
+          "Batch": 25,
           "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 485,
@@ -7383,15 +7384,14 @@
         {
           "Name": "圖書委員·法莉",
           "Show": [
-            3,
-            33
+            0
           ],
-          "Batch": 34,
-          "CardPrice": 20,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 486,
           "MonID": 4061,
-          "OriginalPrice": 30,
+          "OriginalPrice": 0,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400486
@@ -7507,9 +7507,9 @@
           "Name": "真相推定·未明",
           "Show": [
             3,
-            34
+            24
           ],
-          "Batch": 35,
+          "Batch": 25,
           "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 494,
@@ -7876,7 +7876,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 30,
           "DiamondPrice": 0,
           "ID": 518,
@@ -7985,7 +7985,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 525,
@@ -8030,9 +8030,9 @@
           "Name": "林間漫遊·卡托娜",
           "Show": [
             3,
-            33
+            25
           ],
-          "Batch": 34,
+          "Batch": 26,
           "CardPrice": 40,
           "DiamondPrice": 0,
           "ID": 528,
@@ -8781,7 +8781,7 @@
           "Show": [
             7
           ],
-          "Batch": 1,
+          "Batch": 0,
           "CardPrice": 0,
           "DiamondPrice": 58,
           "ID": 577,
@@ -8841,10 +8841,10 @@
         {
           "Name": "該隱",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 581,
           "MonID": 3716,
@@ -8889,7 +8889,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 584,
@@ -8902,10 +8902,10 @@
         {
           "Name": "艾里克",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 585,
           "MonID": 3705,
@@ -9162,10 +9162,10 @@
         {
           "Name": "露姆",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 602,
           "MonID": 4194,
@@ -9179,7 +9179,7 @@
           "Show": [
             2
           ],
-          "Batch": 19,
+          "Batch": 0,
           "CardPrice": 20,
           "DiamondPrice": 0,
           "ID": 603,
@@ -9285,10 +9285,10 @@
         {
           "Name": "魔血劍姬",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 610,
           "MonID": 4593,
@@ -9348,10 +9348,10 @@
         {
           "Name": "艾克特希",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 614,
           "MonID": 4623,
@@ -9634,10 +9634,10 @@
         {
           "Name": "科羅克娜",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 633,
           "MonID": 4114,
@@ -9695,10 +9695,10 @@
         {
           "Name": "阿婭",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 15,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 637,
           "MonID": 3437,
@@ -9787,10 +9787,10 @@
         {
           "Name": "莫伊萊",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 15,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 643,
           "MonID": 4275,
@@ -9923,11 +9923,10 @@
         {
           "Name": "說書者·迪斯博德",
           "Show": [
-            3,
-            34
+            0
           ],
-          "Batch": 35,
-          "CardPrice": 30,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 652,
           "MonID": 4187,
@@ -9984,10 +9983,10 @@
         {
           "Name": "帕諾",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 8,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 656,
           "MonID": 4683,
@@ -10089,10 +10088,10 @@
         {
           "Name": "帕諾",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 8,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 663,
           "MonID": 4684,
@@ -10165,10 +10164,10 @@
         {
           "Name": "帕諾",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 8,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 668,
           "MonID": 4686,
@@ -10274,15 +10273,14 @@
         {
           "Name": "江湖夜雨·凜鋒劍心",
           "Show": [
-            3,
-            33
+            0
           ],
-          "Batch": 34,
-          "CardPrice": 40,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 675,
           "MonID": 4343,
-          "OriginalPrice": 50,
+          "OriginalPrice": 0,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400675
@@ -10290,10 +10288,10 @@
         {
           "Name": "傑洛恩",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 676,
           "MonID": 4687,
@@ -10305,10 +10303,10 @@
         {
           "Name": "關銀屏",
           "Show": [
-            1
+            0
           ],
           "Batch": 0,
-          "CardPrice": 10,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 677,
           "MonID": 4663,
@@ -10335,15 +10333,14 @@
         {
           "Name": "時尚悅動·阿特洛波斯",
           "Show": [
-            3,
-            33
+            0
           ],
-          "Batch": 34,
-          "CardPrice": 40,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 679,
           "MonID": 4278,
-          "OriginalPrice": 50,
+          "OriginalPrice": 0,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400679
@@ -10411,11 +10408,10 @@
         {
           "Name": "樹靈之喚·克勞裡菲",
           "Show": [
-            3,
-            33
+            0
           ],
-          "Batch": 34,
-          "CardPrice": 40,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 684,
           "MonID": 4633,
@@ -10457,11 +10453,10 @@
         {
           "Name": "熔爐·古代巨型機器人",
           "Show": [
-            3,
-            34
+            0
           ],
-          "Batch": 35,
-          "CardPrice": 50,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 687,
           "MonID": 4714,
@@ -10473,15 +10468,14 @@
         {
           "Name": "灰夢旅人·無燼",
           "Show": [
-            3,
-            34
+            0
           ],
-          "Batch": 35,
-          "CardPrice": 40,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 688,
           "MonID": 3830,
-          "OriginalPrice": 50,
+          "OriginalPrice": 0,
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400688
@@ -10759,11 +10753,10 @@
         {
           "Name": "月中霜·蒼月影",
           "Show": [
-            3,
-            34
+            0
           ],
-          "Batch": 35,
-          "CardPrice": 40,
+          "Batch": 0,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 707,
           "MonID": 3507,
@@ -10942,7 +10935,7 @@
           "Show": [
             7
           ],
-          "Batch": 1,
+          "Batch": 0,
           "CardPrice": 0,
           "DiamondPrice": 58,
           "ID": 719,
@@ -10957,7 +10950,7 @@
           "Show": [
             7
           ],
-          "Batch": 1,
+          "Batch": 0,
           "CardPrice": 0,
           "DiamondPrice": 58,
           "ID": 720,
@@ -10972,7 +10965,7 @@
           "Show": [
             7
           ],
-          "Batch": 1,
+          "Batch": 0,
           "CardPrice": 0,
           "DiamondPrice": 58,
           "ID": 721,
@@ -10985,10 +10978,10 @@
         {
           "Name": "緋羽·艾歐麗婭",
           "Show": [
-            2
+            0
           ],
           "Batch": 0,
-          "CardPrice": 20,
+          "CardPrice": 0,
           "DiamondPrice": 0,
           "ID": 722,
           "MonID": 3437,
@@ -11251,516 +11244,6 @@
           "ProductId": 0,
           "Rec": 0,
           "SkinID": 1400739
-        },
-        {
-          "Name": "盛夏謐語·帝皇之御",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 740,
-          "MonID": 3512,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400740
-        },
-        {
-          "Name": "鬱海繁花·銘喚",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 741,
-          "MonID": 4785,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400741
-        },
-        {
-          "Name": "夢色仲夏·月華",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 742,
-          "MonID": 4462,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400742
-        },
-        {
-          "Name": "璀璨音律·凡爾斯",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 743,
-          "MonID": 3697,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400743
-        },
-        {
-          "Name": "風漪夏吻·維伊",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 744,
-          "MonID": 4597,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400744
-        },
-        {
-          "Name": "劫掠風暴·萊茵哈特",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 745,
-          "MonID": 3516,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400745
-        },
-        {
-          "Name": "瑪酷索",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 746,
-          "MonID": 4753,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400746
-        },
-        {
-          "Name": "咒縛掠影·米斯蒂克",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 747,
-          "MonID": 4676,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400747
-        },
-        {
-          "Name": "滄浪龍吟·趙雲",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 748,
-          "MonID": 4421,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400748
-        },
-        {
-          "Name": "雷音大厄·黃眉怪",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 749,
-          "MonID": 4805,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400749
-        },
-        {
-          "Name": "穢染幽芙",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 750,
-          "MonID": 4069,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400750
-        },
-        {
-          "Name": "永曜晶鎧·文森特",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 751,
-          "MonID": 4589,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400751
-        },
-        {
-          "Name": "不渝詠嘆·賈斯",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 752,
-          "MonID": 4603,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400752
-        },
-        {
-          "Name": "鋼牙鯊",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 753,
-          "MonID": 4798,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400753
-        },
-        {
-          "Name": "汐夢·安卡",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 754,
-          "MonID": 4219,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400754
-        },
-        {
-          "Name": "極簡悖論·羅庫",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 755,
-          "MonID": 4569,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400755
-        },
-        {
-          "Name": "第一太空人·西塔倫",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 756,
-          "MonID": 4636,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400756
-        },
-        {
-          "Name": "領銜·克雷弗德",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 757,
-          "MonID": 4644,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400757
-        },
-        {
-          "Name": "朔星·蓓麗安特",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 758,
-          "MonID": 4643,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400758
-        },
-        {
-          "Name": "光陰十年·西塔倫",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 759,
-          "MonID": 4636,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400759
-        },
-        {
-          "Name": "索比斯",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 760,
-          "MonID": 4721,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400760
-        },
-        {
-          "Name": "永恆聖拳",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 761,
-          "MonID": 4800,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400761
-        },
-        {
-          "Name": "地獄使者·伊洛特斯",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 762,
-          "MonID": 4477,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400762
-        },
-        {
-          "Name": "冬日禮裝·雪璞",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 763,
-          "MonID": 4823,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400763
-        },
-        {
-          "Name": "源初躁動·喬列尼德",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 764,
-          "MonID": 3524,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400764
-        },
-        {
-          "Name": "極夜暮歌·黑沃德",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 765,
-          "MonID": 4454,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400765
-        },
-        {
-          "Name": "卡布達",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 766,
-          "MonID": 4829,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400766
-        },
-        {
-          "Name": "歸來·蜻蜓隊長",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 767,
-          "MonID": 4828,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400767
-        },
-        {
-          "Name": "卡布達巨人",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 768,
-          "MonID": 4829,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400768
-        },
-        {
-          "Name": "里奧斯",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 769,
-          "MonID": 4822,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400769
-        },
-        {
-          "Name": "鯊魚辣椒",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 770,
-          "MonID": 4830,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400770
-        },
-        {
-          "Name": "鯊魚巨人",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 771,
-          "MonID": 4830,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400771
-        },
-        {
-          "Name": "秋日印象·克洛托",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 772,
-          "MonID": 4231,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400772
-        },
-        {
-          "Name": "自在提偶·霍德爾",
-          "Show": [
-            0
-          ],
-          "Batch": 0,
-          "CardPrice": 0,
-          "DiamondPrice": 0,
-          "ID": 773,
-          "MonID": 3941,
-          "OriginalPrice": 0,
-          "ProductId": 0,
-          "Rec": 0,
-          "SkinID": 1400773
         }
       ]
     }
