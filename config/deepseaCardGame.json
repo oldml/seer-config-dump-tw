@@ -5,7 +5,7 @@
       "reward": "1_2500003_1",
       "bosshp": 20,
       "id": 1,
-      "opentime": 1754013600,
+      "opentime": 1791957600,
       "playerhp": 10
     },
     {
@@ -13,7 +13,7 @@
       "reward": "1_2500003_2",
       "bosshp": 45,
       "id": 2,
-      "opentime": 1754013600,
+      "opentime": 1791957600,
       "playerhp": 20
     },
     {
@@ -21,7 +21,7 @@
       "reward": "1_1723855_50000",
       "bosshp": 80,
       "id": 3,
-      "opentime": 1754064000,
+      "opentime": 1791993600,
       "playerhp": 35
     },
     {
@@ -29,7 +29,7 @@
       "reward": "1_2500003_2",
       "bosshp": 120,
       "id": 4,
-      "opentime": 1754064000,
+      "opentime": 1791993600,
       "playerhp": 50
     },
     {
@@ -37,7 +37,7 @@
       "reward": "1_300066_1",
       "bosshp": 180,
       "id": 5,
-      "opentime": 1754150400,
+      "opentime": 1792080000,
       "playerhp": 75
     },
     {
@@ -45,7 +45,7 @@
       "reward": "1_1723855_50000",
       "bosshp": 210,
       "id": 6,
-      "opentime": 1754236800,
+      "opentime": 1792166400,
       "playerhp": 90
     },
     {
@@ -53,7 +53,7 @@
       "reward": "1_300021_6",
       "bosshp": 250,
       "id": 7,
-      "opentime": 1754323200,
+      "opentime": 1792252800,
       "playerhp": 120
     }
   ]
