@@ -546,8 +546,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_04_03 10:00:00",
-      "ending": "2025_04_18 10:00:00",
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2026_10_28 14:00:00",
       "labelName": "阿爾忒彌斯",
       "name": "ArtemisCompletePanel",
       "channel": 0,
@@ -563,8 +563,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_04_03 10:00:00",
-      "ending": "2025_04_18 10:00:00",
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2026_10_28 14:00:00",
       "labelName": "凜夜狩心",
       "name": "ArtemisSkin",
       "channel": 0,
@@ -665,8 +665,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_04_18 10:00:00",
-      "ending": "2025_04_25 10:00:00",
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2026_10_28 14:00:00",
       "labelName": "肖恩的委託",
       "name": "shawnsMission",
       "channel": 0,
