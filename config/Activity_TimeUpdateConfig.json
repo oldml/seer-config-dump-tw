@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2027_1_20 14:00:00",
+      "name": "巔峰賽季更新",
+      "parametersDesc": "parameters1：當前賽季第幾賽季",
+      "id": 1,
+      "parameters1": 11,
+      "parameters2": 0,
+      "parameters3": 0,
+      "parameters4": 0
+    },
+    {
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2027_1_20 14:00:00",
+      "name": "seer通行證賽季更新",
+      "parametersDesc": "parameters1： 皮膚id| parameters2 ：名片id",
+      "id": 2,
+      "parameters1": 857,
+      "parameters2": 263,
+      "parameters3": 0,
+      "parameters4": 0
+    },
+    {
+      "beginning": "2026_10_21 14:00:00",
+      "ending": "2026_12_2 14:00:00",
+      "name": "群星牌通行證賽季更新",
+      "parametersDesc": "",
+      "id": 3,
+      "parameters1": 0,
+      "parameters2": 0,
+      "parameters3": 0,
+      "parameters4": 0
+    }
+  ]
+}

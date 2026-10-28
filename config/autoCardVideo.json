@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "Video": "voice_team",
+      "videoDes": "來一起演奏！",
+      "videoType": "組隊語音1",
+      "id": 1,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_party",
+      "videoDes": "派對時間，少不了音樂！",
+      "videoType": "組隊語音2",
+      "id": 2,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_startMatch_1",
+      "videoDes": "讓我看看我的觀眾在哪裡？",
+      "videoType": "開始匹配1",
+      "id": 3,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_startMatch_2",
+      "videoDes": "舞臺已就位，觀眾已入場！",
+      "videoType": "開始匹配2",
+      "id": 4,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_matchSuccess_1",
+      "videoDes": "表演，馬上開始！",
+      "videoType": "匹配成功1",
+      "id": 5,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_matchSuccess_2",
+      "videoDes": "準備演奏，星辰之籟！",
+      "videoType": "匹配成功2",
+      "id": 6,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_gameStart",
+      "videoDes": "所有觀眾，都準備好為我應援吧！",
+      "videoType": "進入場景",
+      "id": 7,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_action_1",
+      "videoDes": "噠啦啦啦~噠啦啦啦~",
+      "videoType": "特殊動作1",
+      "id": 8,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_action_2",
+      "videoDes": "靜下心，仔細聽~",
+      "videoType": "特殊動作2",
+      "id": 9,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_action_3",
+      "videoDes": "嘿！躁動起來！",
+      "videoType": "特殊動作3",
+      "id": 10,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleRound_1",
+      "videoDes": "跟上節奏！一定不會輸！",
+      "videoType": "戰鬥開始1",
+      "id": 11,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleRound_2",
+      "videoDes": "來嘗嘗我的熱情攻擊！",
+      "videoType": "戰鬥開始2",
+      "id": 12,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleWin_1",
+      "videoDes": "呼——我喜歡這種揮灑汗水的感覺！",
+      "videoType": "戰鬥結束-勝利1",
+      "id": 13,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleWin_2",
+      "videoDes": "我們才是今晚的主角！",
+      "videoType": "戰鬥結束-勝利2",
+      "id": 14,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleDraw",
+      "videoDes": "音符碰撞！這是一首戰鬥圓舞曲！",
+      "videoType": "戰鬥結束-平局",
+      "id": 15,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleLose_1",
+      "videoDes": "不能鬆懈，演出還要繼續！",
+      "videoType": "戰鬥結束-失敗",
+      "id": 16,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_battleLose_2",
+      "videoDes": "是不是得重新調整一下聚光燈位置？",
+      "videoType": "戰鬥結束-失敗",
+      "id": 17,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_finalWin",
+      "videoDes": "嘻嘻，完美收場！",
+      "videoType": "對局結束-勝利1",
+      "id": 18,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_scoreUp_1",
+      "videoDes": "Thank you for coming~",
+      "videoType": "對局結束-勝利2",
+      "id": 19,
+      "playerId": 4
+    },
+    {
+      "Video": "voice_scoreUp_2",
+      "videoDes": "期待，下一場的表演會更加火熱！",
+      "videoType": "對局結束-勝利3",
+      "id": 20,
+      "playerId": 4
+    }
+  ]
+}

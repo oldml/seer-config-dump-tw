@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "tagname": "基礎玩法",
+      "tutorialid": [
+        1
+      ],
+      "id": 1
+    },
+    {
+      "tagname": "技能&化形",
+      "tutorialid": [
+        2,
+        3
+      ],
+      "id": 2
+    },
+    {
+      "tagname": "榮光",
+      "tutorialid": [
+        4
+      ],
+      "id": 3
+    },
+    {
+      "tagname": "萌芽",
+      "tutorialid": [
+        5
+      ],
+      "id": 4
+    },
+    {
+      "tagname": "初誕",
+      "tutorialid": [
+        6
+      ],
+      "id": 5
+    },
+    {
+      "tagname": "紛爭",
+      "tutorialid": [
+        7
+      ],
+      "id": 6
+    }
+  ]
+}

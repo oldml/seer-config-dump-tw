@@ -6,7 +6,7 @@
         "itemID": [
           5
         ],
-        "gold": 1,
+        "gold": 10,
         "price": 5,
         "productID": 200000,
         "vip": 1
@@ -16,7 +16,7 @@
         "itemID": [
           5
         ],
-        "gold": 10,
+        "gold": 100,
         "price": 50,
         "productID": 200001,
         "vip": 1
@@ -26,7 +26,7 @@
         "itemID": [
           5
         ],
-        "gold": 50,
+        "gold": 500,
         "price": 250,
         "productID": 200002,
         "vip": 1
@@ -449,6 +449,156 @@
         "gold": 1,
         "price": 70,
         "productID": 200065,
+        "vip": 1
+      },
+      {
+        "name": "解鎖高級通行證",
+        "itemID": [
+          1728236
+        ],
+        "gold": 1,
+        "price": 200,
+        "productID": 200080,
+        "vip": 1
+      },
+      {
+        "name": "6月風尚月曆",
+        "itemID": [
+          1728040
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200071,
+        "vip": 1
+      },
+      {
+        "name": "4月風尚月曆",
+        "itemID": [
+          1727974
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200068,
+        "vip": 1
+      },
+      {
+        "name": "購買造型尊享卡",
+        "itemID": [
+          1728186
+        ],
+        "gold": 1,
+        "price": 100,
+        "productID": 200079,
+        "vip": 1
+      },
+      {
+        "name": "購買【稀有砸蛋槌】",
+        "itemID": [
+          1728125
+        ],
+        "gold": 1,
+        "price": 100,
+        "productID": 200074,
+        "vip": 1
+      },
+      {
+        "name": "購買精靈心願單禮包（大）",
+        "itemID": [
+          1728185
+        ],
+        "gold": 1,
+        "price": 35,
+        "productID": 200078,
+        "vip": 1
+      },
+      {
+        "name": "購買精靈心願單禮包（小）",
+        "itemID": [
+          1728183
+        ],
+        "gold": 1,
+        "price": 33,
+        "productID": 200076,
+        "vip": 1
+      },
+      {
+        "name": "限時秒殺月冕史詩造型",
+        "itemID": [
+          1728238
+        ],
+        "gold": 1,
+        "price": 50,
+        "productID": 200081,
+        "vip": 1
+      },
+      {
+        "name": "種植新春招財樹",
+        "itemID": [
+          1727757
+        ],
+        "gold": 1,
+        "price": 50,
+        "productID": 200066,
+        "vip": 1
+      },
+      {
+        "name": "5月風尚月曆",
+        "itemID": [
+          1727975
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200069,
+        "vip": 1
+      },
+      {
+        "name": "【卡托娜的寶箱鑰匙】",
+        "itemID": [
+          1727815
+        ],
+        "gold": 1,
+        "price": 33,
+        "productID": 200067,
+        "vip": 1
+      },
+      {
+        "name": "購買【普通砸蛋槌】",
+        "itemID": [
+          1728124
+        ],
+        "gold": 1,
+        "price": 70,
+        "productID": 200073,
+        "vip": 1
+      },
+      {
+        "name": "7月風尚月曆",
+        "itemID": [
+          1728041
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200072,
+        "vip": 1
+      },
+      {
+        "name": "購買【傑特洛的寶箱鑰匙】",
+        "itemID": [
+          1728027
+        ],
+        "gold": 1,
+        "price": 33,
+        "productID": 200070,
+        "vip": 1
+      },
+      {
+        "name": "8月風尚月曆",
+        "itemID": [
+          1728320
+        ],
+        "gold": 1,
+        "price": 170,
+        "productID": 200082,
         "vip": 1
       }
     ]

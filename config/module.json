@@ -4538,10 +4538,1627 @@
       "isFullScreen": 0
     },
     {
-      "moduleName": "twLiandong1",
+      "moduleName": "mintlevelsign",
       "resConfig": null,
       "currAppDo": 1,
-      "id": 8860001,
+      "id": 778,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "classicPetAssemblePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 779,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "luojiSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 780,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mintmarkElevareReward",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 781,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dangoHalma",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 782,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "GetShangGuYanShou",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 783,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "roamWriterReturn",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 784,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "StarsWhisper",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 785,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SpringFestivalCollection",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 786,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "helkaTYMintmarkRerunCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 787,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "SpringFestivalSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 788,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "cardDuelGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 789,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bagTower",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 801,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getchaofengpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 802,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "springSkinGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 803,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "theFifthBuddhaSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 804,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "springFestivalDiamondPocketPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 805,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "lunar2026ExclusivePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 806,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "chizhoumarkPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 807,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "colorTrialGamePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 808,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "colorTrialGamePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 809,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "colorTrialGamePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 810,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "mintstonesellpanel1",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 811,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "purchaseBonus2026Panel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 812,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fireworkQuest",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 813,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lanternRiddles1",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 814,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "lieaonidaSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 815,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "clickspeedActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 816,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "springSkinSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 817,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hunDunAiLan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 818,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "hunDunAiLan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 819,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newTermSeating",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 820,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "EveSignin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 821,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "clicksfpsActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 822,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinsellstudentActivity",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 823,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "newTermSeating",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 824,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "clicksfpsGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 825,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "alphaBearFeatureUpgrade",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 826,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aiLanLevel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 827,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newPeakPetSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 828,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "funnybubbleshoot",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 829,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinsellstudent1Activity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 830,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tenDaysPetSign",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 831,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "Violet",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 832,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "schoolStartSell",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 833,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starSailPlan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 834,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "initiallyRoutePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 835,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "movegameActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 836,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinsellstudentActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 837,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spiderSolitaireGame_activity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 838,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "spiderSolitaireGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 839,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aprilFoolsDaySkinWarmPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 840,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "doluotaitan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 841,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "stellarGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 842,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "pveEnterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 843,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "linesGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 844,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aprilFoolsDaySkinSellPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 845,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getdyspanelMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 846,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seafishingActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 847,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "NewSkinStore",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 848,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1000,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardSelectFirstPetPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1001,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardRulePanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1002,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardActivityCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1003,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardactivationCode",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1004,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardActivateEntrance",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1005,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardFristAppoint",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1006,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardaprilFoolsDayPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1007,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardInvitation",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1008,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardHandBook",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1009,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardGetPet",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1011,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardGetCardSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1012,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puchuShowActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1013,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "puchuShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1014,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chaosTias",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1015,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "chaosTias",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1016,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "laidashenqientry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1017,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "signinForMintmark",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1018,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1019,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bulletTimeGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1020,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getlymwzkspanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 849,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getNewFightCloth",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 850,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaObtainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 851,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rheaObtainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 852,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "carrygame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 853,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "diceExpandGameEntry",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 854,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "diceExpandGameEntry",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 855,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getSaTe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 856,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ashesPathEntryPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 857,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aurumMinerShow",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 858,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "aurumMinerShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 859,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "diamondObligatioTips",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 860,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "scratchCard",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 861,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getTXLH",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 862,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fourteen‌YearSellSk",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 863,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "skinOfEvilDragonKingPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 864,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "borucashop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 865,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gettxlwwqtmainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 866,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "borucaStrategy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 867,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "PlaustrumFleeGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 868,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "activity260424LastaBoxShow",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 869,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "activity260424LastaBoxShow",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 870,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mayDaySkinMain",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 871,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "timeSkinSale",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 872,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "skinOfIceColde",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 873,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "templeRunGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 874,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "templeRunGame",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 875,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "FireAndElectricityPet",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 876,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "VigilforLaikaSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 877,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "Sign20260508",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 878,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "SignSFW",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 879,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "freepet0515",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 880,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "fifteenyearsign",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 881,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "eyesOfLaikaActivity",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 882,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "eyesOfLaikaGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 883,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "inkShadowStarSoul",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 884,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "fifteenyearsignPop",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 885,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "sareikaSkinMega",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 886,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "17yearsstarlight",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 887,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "seventeenthAnniversaryMintmark",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 888,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "17yearspopup",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 889,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ChaoSuanSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 890,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "versePetSell",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 891,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "versePetSellPop",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 892,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "SeventeenYearStarLightHint",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 893,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "starAiouSkin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 894,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "RweSkinPanel",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 895,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "17yearKeyin",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 896,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "summer26",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 897,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getGLW",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 898,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "zuma",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1021,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getAutomatedAI",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1022,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getAutomatedAI",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1023,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getblgdPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1024,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getblgdskinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1025,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardCareerPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1026,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardActivateTrial",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1027,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getblgdPanelAlert",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1028,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "poxiaozheSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1029,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "XzhanduiMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1030,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "BrokenWorld",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1031,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bmdwSaruikaActivityCenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1033,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "bmdwSaruikaMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1032,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "watergame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1034,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jumpParkourGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1035,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026Activitycenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1036,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "sanYgmActivityPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1037,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "newSeerToolbarGuide",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1038,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "ChaosMagicEyeJerezMainPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1039,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getmagazinecenterpanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1040,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1041,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "tiaoyinActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1042,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "moneyageActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1043,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "livesharepanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1044,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "storyAnniversary2026Store",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1045,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "happyTreasureGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1046,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "FourNinePlusMine",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1047,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardCollectionBook",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1048,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardBP",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1049,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardSeasonSettlePop",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1050,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardFriend",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1051,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autoCardActivitycanglan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1052,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardItemAward",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1053,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "aurumEndgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1060,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "17thAnniversaryPerksPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1061,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "buySuggerereCompilationActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1062,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "weiSkinActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1063,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seer17thAnniversaryHelpsGetGift",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1064,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "guntower",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1065,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getxmdnskin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1066,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardCollectionHreo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1070,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autocardHandbookEntrancePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1071,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "autoCardDiduo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1072,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardDiduo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1073,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardSubscribe",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1074,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardBattleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1075,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "atuocardPublicity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1076,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "QteTimeline",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1100,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "QteTimelineScene",
+      "resConfig": null,
+      "currAppDo": 0,
+      "id": 1101,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "staraiouliyaMain",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1102,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getgkpanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1103,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "17thAnniversaryGiftPanel",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1104,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "ShengpAngleSkinMega",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1105,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "StarrySky",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1106,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AnnivSkinCardMega",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1107,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "mysteryBoxGameEntry",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1108,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "theFifthBuddhaRuturn",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1109,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "aolyTrial",
+      "resConfig": null,
+      "currAppDo": 2,
+      "id": 1110,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getszyhecenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1111,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "UnreachableDreamSkinMegaPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1112,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldentrailActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1113,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "masterMind",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1114,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "goldenChurchUp",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1115,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadisMegaPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1116,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1117,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "rayGaiaPetSkinRe2026",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1118,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadKingMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1119,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "simoyadKingMega",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1120,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "giftFarFrom",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1121,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getFL",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1122,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerShipChooseGame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1123,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "xuanwuRenascorActivitycenter",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1124,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "gettxjsmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1125,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "numbergame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1126,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "dayDream",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1127,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "minstonesaleActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1128,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "daanheitianMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1129,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "daanheitianMainPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1130,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "getSgglr",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1131,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getSgglr",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1132,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceanCleanupPlan",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1133,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "dragonOfParadiseSalePanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1134,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "AbyssFisheryActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1135,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceanfish",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1136,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seaFoamShop",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1137,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "xingliSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1138,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "AbyssFisheryGameMain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1139,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "boboGetEnergy",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1140,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getdzjsmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1141,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "gertrudeSkin",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1142,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getljysmain",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1143,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "seerInterstellarPassportActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1144,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "oceantreasureActivity",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1145,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "claudiusSkinPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1146,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "peakJihadCostMode",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1180,
+      "isFullScreen": 0
+    },
+    {
+      "moduleName": "filmgame",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1181,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "jellyfishJumpActivityCenterPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1182,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardXuanwu",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1183,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autocardYoyo",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1184,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "treasureOfKukuSharkPanel",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1185,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "getthirteenskins",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1186,
+      "isFullScreen": 1
+    },
+    {
+      "moduleName": "autoCardActivityKaijia",
+      "resConfig": null,
+      "currAppDo": 1,
+      "id": 1187,
       "isFullScreen": 1
     }
   ]

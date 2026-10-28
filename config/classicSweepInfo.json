@@ -230,6 +230,61 @@
       "monsterid": 4001,
       "order": 0,
       "type": 1
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "混沌埃蘭",
+      "Arg1": 4,
+      "dataKey": 19,
+      "id": 22,
+      "monsterid": 3442,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "墮落泰坦",
+      "Arg1": 4,
+      "dataKey": 20,
+      "id": 23,
+      "monsterid": 3532,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "3",
+      "LevelLock": "",
+      "name": "混沌蒂亞斯",
+      "Arg1": 4,
+      "dataKey": 21,
+      "id": 24,
+      "monsterid": 3446,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "天邪龍皇",
+      "Arg1": 4,
+      "dataKey": 22,
+      "id": 25,
+      "monsterid": 3162,
+      "order": 0,
+      "type": 1
+    },
+    {
+      "Arg2": "4",
+      "LevelLock": "",
+      "name": "墨影星魂",
+      "Arg1": 4,
+      "dataKey": 23,
+      "id": 26,
+      "monsterid": 3932,
+      "order": 0,
+      "type": 1
     }
   ]
 }

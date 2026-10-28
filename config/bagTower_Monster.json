@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "name": "藍色史萊姆",
+      "issplit": [
+        2,
+        2
+      ],
+      "id": 1,
+      "initialatk": 8,
+      "initialhp": 70,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "小藍史萊姆",
+      "issplit": null,
+      "id": 2,
+      "initialatk": 4,
+      "initialhp": 35,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "紅色史萊姆",
+      "issplit": [
+        4,
+        2
+      ],
+      "id": 3,
+      "initialatk": 10,
+      "initialhp": 90,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "小紅史萊姆",
+      "issplit": null,
+      "id": 4,
+      "initialatk": 5,
+      "initialhp": 45,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "幽靈",
+      "issplit": null,
+      "id": 5,
+      "initialatk": 12,
+      "initialhp": 400,
+      "monstertype": 2,
+      "move": 960,
+      "range": 5,
+      "speed": 200
+    },
+    {
+      "name": "大眼怪",
+      "issplit": null,
+      "id": 6,
+      "initialatk": 12,
+      "initialhp": 400,
+      "monstertype": 2,
+      "move": 960,
+      "range": 5,
+      "speed": 200
+    },
+    {
+      "name": "近戰年獸",
+      "issplit": null,
+      "id": 7,
+      "initialatk": 25,
+      "initialhp": 2000,
+      "monstertype": 3,
+      "move": 900,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "遠程年獸",
+      "issplit": null,
+      "id": 8,
+      "initialatk": 30,
+      "initialhp": 3000,
+      "monstertype": 3,
+      "move": 900,
+      "range": 5,
+      "speed": 200
+    },
+    {
+      "name": "藍色史萊姆(不分裂)",
+      "issplit": null,
+      "id": 101,
+      "initialatk": 8,
+      "initialhp": 60,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    },
+    {
+      "name": "紅色史萊姆(不分裂)",
+      "issplit": null,
+      "id": 103,
+      "initialatk": 8,
+      "initialhp": 80,
+      "monstertype": 1,
+      "move": 960,
+      "range": 1,
+      "speed": 200
+    }
+  ]
+}

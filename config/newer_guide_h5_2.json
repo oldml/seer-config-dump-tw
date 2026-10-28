@@ -1,5 +1,113 @@
 {
   "root": {
+    "autocard": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "",
+          "btnName": "",
+          "msg": "小賽爾，全新玩法《群星牌》正式上線啦！",
+          "strokeColor": "",
+          "targetBtn": "",
+          "position": null,
+          "autoX": 0,
+          "holeType": 0,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "在群星牌賽場，你將帶領熟悉的精靈，與另外7位小賽爾同臺競技爭奪最高榮譽！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/grpActivityOffset/grpActivity/container/activity_26",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "我已經準備好啦！上船打牌，我們牌桌上見！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/grpActivityOffset/grpActivity/container/activity_26",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 3,
+          "openMenu": 0
+        }
+      ]
+    },
+    "brave": {
+      "dialog": {
+        "petId": 0,
+        "x": 600,
+        "y": -100
+      },
+      "pet": {
+        "petId": 5000,
+        "x": 600,
+        "y": -400
+      },
+      "steps": [
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "小賽爾，【傳說之路】入口位置現已調整。",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/grpBraveBannerGuide",
+          "position": [
+            239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 1,
+          "openMenu": 0
+        },
+        {
+          "align": "center_top",
+          "btnName": "",
+          "msg": "助力譜尼聖靈化若暫時受阻，不妨前往【傳說之路】，尋找強力夥伴與你同行！",
+          "strokeColor": "0xf6fcff",
+          "targetBtn": "ToolsLevel/Toolbar 1/groupTop/grpBraveBannerGuide",
+          "position": [
+            -239,
+            60,
+            70,
+            60
+          ],
+          "autoX": 1,
+          "holeType": 1,
+          "id": 2,
+          "openMenu": 0
+        }
+      ]
+    },
     "newer": {
       "dialog": {
         "petId": 0,

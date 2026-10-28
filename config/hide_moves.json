@@ -12890,6 +12890,408 @@
         "petId": 4863
       },
       {
+        "moveName1": "感",
+        "moveName2": "萬緒入魂",
+        "moveId": 38269,
+        "petId": 4870
+      },
+      {
+        "moveName1": "天叩",
+        "moveName2": "千鈞一髮",
+        "moveId": 38272,
+        "petId": 4871
+      },
+      {
+        "moveName1": "萬卍覺心",
+        "moveName2": "法界鎮",
+        "moveId": 38275,
+        "petId": 4872
+      },
+      {
+        "moveName1": "絕招",
+        "moveName2": "馬踏飛燕",
+        "moveId": 38278,
+        "petId": 4873
+      },
+      {
+        "moveName1": "嘯風",
+        "moveName2": "穿雲擊",
+        "moveId": 38281,
+        "petId": 4874
+      },
+      {
+        "moveName1": "鏖火",
+        "moveName2": "證陽炎",
+        "moveId": 38284,
+        "petId": 4875
+      },
+      {
+        "moveName1": "浩氣",
+        "moveName2": "誅邪決",
+        "moveId": 38287,
+        "petId": 4876
+      },
+      {
+        "moveName1": "破甲",
+        "moveName2": "角刺",
+        "moveId": 38290,
+        "petId": 4877
+      },
+      {
+        "moveName1": "福星",
+        "moveName2": "延年",
+        "moveId": 38293,
+        "petId": 4878
+      },
+      {
+        "moveName1": "煉",
+        "moveName2": "死鏡冥啼",
+        "moveId": 38295,
+        "petId": 3907
+      },
+      {
+        "moveName1": "日月輪",
+        "moveName2": "著天",
+        "moveId": 38296,
+        "petId": 4657
+      },
+      {
+        "moveName1": "爍光",
+        "moveName2": "灼目波",
+        "moveId": 38299,
+        "petId": 4879
+      },
+      {
+        "moveName1": "光耀",
+        "moveName2": "破陣衝",
+        "moveId": 38302,
+        "petId": 4880
+      },
+      {
+        "moveName1": "烈爪",
+        "moveName2": "猛襲",
+        "moveId": 38305,
+        "petId": 4881
+      },
+      {
+        "moveName1": "粉紅",
+        "moveName2": "波波拳",
+        "moveId": 38308,
+        "petId": 4882
+      },
+      {
+        "moveName1": "恐懼",
+        "moveName2": "收割",
+        "moveId": 38311,
+        "petId": 4883
+      },
+      {
+        "moveName1": "灰翼",
+        "moveName2": "葬魂斬",
+        "moveId": 38316,
+        "petId": 4885
+      },
+      {
+        "moveName1": "王",
+        "moveName2": "聖語空心",
+        "moveId": 38319,
+        "petId": 3711
+      },
+      {
+        "moveName1": "生機",
+        "moveName2": "衰弱波",
+        "moveId": 38324,
+        "petId": 4886
+      },
+      {
+        "moveName1": "諧",
+        "moveName2": "萬靈歸一",
+        "moveId": 38327,
+        "petId": 4887
+      },
+      {
+        "moveName1": "慈恩",
+        "moveName2": "宣敘調",
+        "moveId": 38329,
+        "petId": 4888
+      },
+      {
+        "moveName1": "初誕",
+        "moveName2": "始源胎動",
+        "moveId": 38332,
+        "petId": 4889
+      },
+      {
+        "moveName1": "方案",
+        "moveName2": "提交",
+        "moveId": 38335,
+        "petId": 4892
+      },
+      {
+        "moveName1": "重甲",
+        "moveName2": "爆破拳",
+        "moveId": 38345,
+        "petId": 4890
+      },
+      {
+        "moveName1": "天駁",
+        "moveName2": "百州禁",
+        "moveId": 38348,
+        "petId": 4354
+      },
+      {
+        "moveName1": "信",
+        "moveName2": "驚悸神罰",
+        "moveId": 38351,
+        "petId": 4894
+      },
+      {
+        "moveName1": "天頌文",
+        "moveName2": "歌不落",
+        "moveId": 29328,
+        "petId": 4895
+      },
+      {
+        "moveName1": "霆輝",
+        "moveName2": "燼天野",
+        "moveId": 38357,
+        "petId": 4332
+      },
+      {
+        "moveName1": "極影",
+        "moveName2": "繪風嵐",
+        "moveId": 38358,
+        "petId": 4358
+      },
+      {
+        "moveName1": "烈霆",
+        "moveName2": "爆破彈",
+        "moveId": 38369,
+        "petId": 4897
+      },
+      {
+        "moveName1": "混沌",
+        "moveName2": "邪魂祭",
+        "moveId": 38370,
+        "petId": 3791
+      },
+      {
+        "moveName1": "寂",
+        "moveName2": "妖朧天鳴",
+        "moveId": 38371,
+        "petId": 3924
+      },
+      {
+        "moveName1": "夜",
+        "moveName2": "天魔逆相",
+        "moveId": 38372,
+        "petId": 3541
+      },
+      {
+        "moveName1": "萬條贗手",
+        "moveName2": "的擁懷",
+        "moveId": 38375,
+        "petId": 4898
+      },
+      {
+        "moveName1": "強勢",
+        "moveName2": "罷談",
+        "moveId": 38381,
+        "petId": 4900
+      },
+      {
+        "moveName1": "榮光",
+        "moveName2": "盛陽禮讚",
+        "moveId": 38378,
+        "petId": 4899
+      },
+      {
+        "moveName1": "蔑天行",
+        "moveName2": "戾殺",
+        "moveId": 38384,
+        "petId": 4444
+      },
+      {
+        "moveName1": "槍火",
+        "moveName2": "革命",
+        "moveId": 38387,
+        "petId": 4901
+      },
+      {
+        "moveName1": "自",
+        "moveName2": "萬物定理",
+        "moveId": 38390,
+        "petId": 4902
+      },
+      {
+        "moveName1": "萬蒼",
+        "moveName2": "書帝錄",
+        "moveId": 38393,
+        "petId": 4903
+      },
+      {
+        "moveName1": "迷途",
+        "moveName2": "指反",
+        "moveId": 38396,
+        "petId": 4904
+      },
+      {
+        "moveName1": "希",
+        "moveName2": "魔盒啟封",
+        "moveId": 38399,
+        "petId": 4905
+      },
+      {
+        "moveName1": "銘撰",
+        "moveName2": "青史",
+        "moveId": 38403,
+        "petId": 4906
+      },
+      {
+        "moveName1": "一心",
+        "moveName2": "永駐",
+        "moveId": 38406,
+        "petId": 4907
+      },
+      {
+        "moveName1": "王",
+        "moveName2": "焚罡九虺",
+        "moveId": 38409,
+        "petId": 3407
+      },
+      {
+        "moveName1": "反",
+        "moveName2": "塑己焚心",
+        "moveId": 29364,
+        "petId": 4908
+      },
+      {
+        "moveName1": "全火力",
+        "moveName2": "覆蓋",
+        "moveId": 38414,
+        "petId": 4909
+      },
+      {
+        "moveName1": "偕行世界",
+        "moveName2": "的盡頭",
+        "moveId": 38419,
+        "petId": 4911
+      },
+      {
+        "moveName1": "向未來",
+        "moveName2": "的祈願",
+        "moveId": 38423,
+        "petId": 4000
+      },
+      {
+        "moveName1": "告天堂的",
+        "moveName2": "殘灰",
+        "moveId": 38426,
+        "petId": 4912
+      },
+      {
+        "moveName1": "創",
+        "moveName2": "黃金紀元",
+        "moveId": 38433,
+        "petId": 4915
+      },
+      {
+        "moveName1": "冰結",
+        "moveName2": "飛羽擊",
+        "moveId": 38436,
+        "petId": 4916
+      },
+      {
+        "moveName1": "月",
+        "moveName2": "天囚影",
+        "moveId": 38437,
+        "petId": 4147
+      },
+      {
+        "moveName1": "影獵",
+        "moveName2": "截殺破",
+        "moveId": 38440,
+        "petId": 4917
+      },
+      {
+        "moveName1": "真我",
+        "moveName2": "覲見",
+        "moveId": 38443,
+        "petId": 4918
+      },
+      {
+        "moveName1": "崩滅",
+        "moveName2": "極突刺",
+        "moveId": 38446,
+        "petId": 4919
+      },
+      {
+        "moveName1": "冰火",
+        "moveName2": "破滅彈",
+        "moveId": 38449,
+        "petId": 4920
+      },
+      {
+        "moveName1": "八荒",
+        "moveName2": "極龍赦",
+        "moveId": 38452,
+        "petId": 4921
+      },
+      {
+        "moveName1": "魂",
+        "moveName2": "罪惡支骸",
+        "moveId": 38455,
+        "petId": 3847
+      },
+      {
+        "moveName1": "邪",
+        "moveName2": "天壤殘火",
+        "moveId": 38456,
+        "petId": 3979
+      },
+      {
+        "moveName1": "滄海",
+        "moveName2": "銘刻",
+        "moveId": 38459,
+        "petId": 4922
+      },
+      {
+        "moveName1": "彼空都",
+        "moveName2": "蜃氣樓",
+        "moveId": 29398,
+        "petId": 4923
+      },
+      {
+        "moveName1": "太古的",
+        "moveName2": "至寶",
+        "moveId": 29409,
+        "petId": 4925
+      },
+      {
+        "moveName1": "酷",
+        "moveName2": "牙擊",
+        "moveId": 38470,
+        "petId": 4926
+      },
+      {
+        "moveName1": "王",
+        "moveName2": "聖鳴淨界",
+        "moveId": 38473,
+        "petId": 4004
+      },
+      {
+        "moveName1": "噗紐",
+        "moveName2": "捨身拳",
+        "moveId": 38476,
+        "petId": 4927
+      },
+      {
+        "moveName1": "思途",
+        "moveName2": "執枉",
+        "moveId": 38479,
+        "petId": 4928
+      },
+      {
         "moveName1": "神靈",
         "moveName2": "救世光",
         "moveId": 31143,

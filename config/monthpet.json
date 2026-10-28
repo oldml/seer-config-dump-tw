@@ -17,19 +17,19 @@
       "showskill": 38258
     },
     {
-      "title": "三月神寵",
+      "title": "守衛家園之人",
       "id": 202603,
       "month": 3,
-      "reward": 0,
-      "showpet": 0,
-      "showskill": 0
+      "reward": 141015,
+      "showpet": 4880,
+      "showskill": 38302
     },
     {
       "title": "四月神寵",
       "id": 202604,
       "month": 4,
       "reward": 0,
-      "showpet": 0,
+      "showpet": 4892,
       "showskill": 0
     },
     {
@@ -37,7 +37,7 @@
       "id": 202605,
       "month": 5,
       "reward": 0,
-      "showpet": 0,
+      "showpet": 4900,
       "showskill": 0
     },
     {
@@ -45,7 +45,7 @@
       "id": 202606,
       "month": 6,
       "reward": 0,
-      "showpet": 0,
+      "showpet": 4906,
       "showskill": 0
     },
     {
@@ -53,7 +53,7 @@
       "id": 202607,
       "month": 7,
       "reward": 0,
-      "showpet": 0,
+      "showpet": 4918,
       "showskill": 0
     },
     {
@@ -61,7 +61,7 @@
       "id": 202608,
       "month": 8,
       "reward": 0,
-      "showpet": 0,
+      "showpet": 4928,
       "showskill": 0
     },
     {

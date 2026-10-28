@@ -334,7 +334,7 @@
       "atlas": "giftBuypage",
       "background": "bg",
       "icon": "2301011",
-      "name": "每週抗性禮包",
+      "name": "每周抗性禮包",
       "discountprice": [
         0
       ],
@@ -382,10 +382,10 @@
       ],
       "reward": [
         1,
-        300773,
+        300858,
         1,
         1,
-        300774,
+        300860,
         1
       ],
       "discount": 0,

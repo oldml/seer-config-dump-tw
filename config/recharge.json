@@ -349,6 +349,176 @@
       "money": 9000,
       "productID": 200062,
       "type": 4
+    },
+    {
+      "name": "限時秒殺折扣造型",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 68,
+      "money": 5000,
+      "productID": 200081,
+      "type": 4
+    },
+    {
+      "name": "稀有砸蛋槌",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 69,
+      "money": 10000,
+      "productID": 200074,
+      "type": 4
+    },
+    {
+      "name": "普通砸蛋槌",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 70,
+      "money": 7000,
+      "productID": 200073,
+      "type": 4
+    },
+    {
+      "name": "造型尊享卡",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 71,
+      "money": 10000,
+      "productID": 200079,
+      "type": 4
+    },
+    {
+      "name": "新春招財樹",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 72,
+      "money": 5000,
+      "productID": 200066,
+      "type": 4
+    },
+    {
+      "name": "卡托娜的寶箱鑰匙",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 73,
+      "money": 3300,
+      "productID": 200067,
+      "type": 4
+    },
+    {
+      "name": "傑特洛的寶箱鑰匙",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 74,
+      "money": 3300,
+      "productID": 200070,
+      "type": 4
+    },
+    {
+      "name": "閃耀徽章進階版",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 75,
+      "money": 15000,
+      "productID": 200063,
+      "type": 4
+    },
+    {
+      "name": "星鑽",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 76,
+      "money": 3300,
+      "productID": 200064,
+      "type": 4
+    },
+    {
+      "name": "群星牌高級通行證",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 77,
+      "money": 20000,
+      "productID": 200080,
+      "type": 4
+    },
+    {
+      "name": "風尚月曆04",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 78,
+      "money": 17000,
+      "productID": 200068,
+      "type": 4
+    },
+    {
+      "name": "風尚月曆05",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 79,
+      "money": 17000,
+      "productID": 200069,
+      "type": 4
+    },
+    {
+      "name": "風尚月曆06",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 80,
+      "money": 17000,
+      "productID": 200071,
+      "type": 4
+    },
+    {
+      "name": "風尚月曆07",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 81,
+      "money": 17000,
+      "productID": 200072,
+      "type": 4
+    },
+    {
+      "name": "風尚月曆08",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 82,
+      "money": 17000,
+      "productID": 200082,
+      "type": 4
+    },
+    {
+      "name": "購買精靈心願單禮包（大）",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 83,
+      "money": 19000,
+      "productID": 200078,
+      "type": 4
+    },
+    {
+      "name": "購買精靈心願單禮包（小）",
+      "quantity": "",
+      "give": 0,
+      "heat": 0,
+      "id": 84,
+      "money": 3300,
+      "productID": 200076,
+      "type": 4
     }
   ]
 }

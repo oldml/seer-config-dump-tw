@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "Des": "直售598",
+      "Name": "文明之懺·尤納斯",
+      "DiamondPrice": 138,
+      "id": 1,
+      "item_id": 1728211,
+      "MonID": 4717,
+      "ProductId": 262540,
+      "SkinID": 692
+    },
+    {
+      "Des": "直售498",
+      "Name": "黑日之災·尤納斯",
+      "DiamondPrice": 78,
+      "id": 2,
+      "item_id": 1728212,
+      "MonID": 4717,
+      "ProductId": 262541,
+      "SkinID": 732
+    },
+    {
+      "Des": "直售198",
+      "Name": "怪盜氣球·尤納斯",
+      "DiamondPrice": 58,
+      "id": 3,
+      "item_id": 1728213,
+      "MonID": 4717,
+      "ProductId": 262542,
+      "SkinID": 815
+    },
+    {
+      "Des": "直售498",
+      "Name": "滄浪龍吟·趙雲",
+      "DiamondPrice": 98,
+      "id": 4,
+      "item_id": 1728214,
+      "MonID": 4421,
+      "ProductId": 262543,
+      "SkinID": 748
+    }
+  ]
+}

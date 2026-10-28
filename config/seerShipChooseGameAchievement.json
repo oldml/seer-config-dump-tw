@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "achieventment": "十項全能值班官",
+      "achieventmentDes": "十件艦橋麻煩排隊撞上來，被你挨個按回座位；警報燈安靜得像突然想考公務員。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲中的10件突發事件全部選擇正確",
+      "condition": "10",
+      "id": 1,
+      "type": 1
+    },
+    {
+      "achieventment": "完美值班官",
+      "achieventmentDes": "十件事排隊來找麻煩，又排隊被你送走；派特博士看完沉默三秒，給你貼了張「疑似正常」的標籤。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲中的10件突發事件正好有9件選擇正確",
+      "condition": "9",
+      "id": 2,
+      "type": 1
+    },
+    {
+      "achieventment": "羅傑船長的點頭",
+      "achieventmentDes": "羅傑船長點了點頭，幅度不大，但艦橋地板已經自動把這次點頭記進了傳說。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲中的10件突發事件正好有8件選擇正確",
+      "condition": "8",
+      "id": 3,
+      "type": 1
+    },
+    {
+      "achieventment": "晉升檔案金閃閃",
+      "achieventmentDes": "你的值班檔案亮得像被小火猴認真擦過三遍，路過船員差點把它當成新型照明設備。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時穩定度、信賴度、功績值三項均達標",
+      "condition": "1_2_3",
+      "id": 4,
+      "type": 2
+    },
+    {
+      "achieventment": "艦橋全員安心日",
+      "achieventmentDes": "今天賽爾號沒偏航，精靈沒倒掛，羅傑船長的茶杯穩得像在參加定力訓練。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅信賴度、功績值達標",
+      "condition": "2_3",
+      "id": 5,
+      "type": 2
+    },
+    {
+      "achieventment": "穩中帶皮",
+      "achieventmentDes": "你看起來像來整活的，結果護盾沒掉、航線沒歪，連儀錶盤都開始懷疑自己太嚴肅。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅穩定度、信賴度達標",
+      "condition": "1_2",
+      "id": 6,
+      "type": 2
+    },
+    {
+      "achieventment": "艦橋藝術鑑賞家",
+      "achieventmentDes": "你把星圖、燈光和觀測窗都看成了畫布；艦橋本來只想上班，現在像在辦展。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅穩定度、功績值達標",
+      "condition": "1_3",
+      "id": 7,
+      "type": 2
+    },
+    {
+      "achieventment": "流程大師",
+      "achieventmentDes": "你的流程不像艦橋手冊，像從補給箱底部翻出來的偏方；離譜的是，船居然聽懂了。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅功績值達標",
+      "condition": "3",
+      "id": 8,
+      "type": 2
+    },
+    {
+      "achieventment": "值班官，但是喜劇人",
+      "achieventmentDes": "你先把艦橋逗笑，再把問題解決；海盜頻道聽完沉默三秒，開始反思自己的職業規劃。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅信賴度達標",
+      "condition": "2",
+      "id": 9,
+      "type": 2
+    },
+    {
+      "achieventment": "艦橋臨時氣氛組",
+      "achieventmentDes": "事情沒全處理完，但艦橋笑聲很完整；羅傑船長表示可以先記一筆，分類暫定為「奇怪但熱鬧」。",
+      "achieventmentUnlockDes": "解鎖條件：單局遊戲結算時僅穩定度達標",
+      "condition": "1",
+      "id": 10,
+      "type": 2
+    },
+    {
+      "achieventment": "儀錶盤壓力很大",
+      "achieventmentDes": "儀錶盤今天被拍、被盯、被誤會，指針抖得像剛聽說自己要升職成風扇。",
+      "achieventmentUnlockDes": "隱藏成就：在《咕嚕咕嚕的能源艙》中選擇選項指定選項",
+      "condition": "1_1",
+      "id": 11,
+      "type": 3
+    },
+    {
+      "achieventment": "土豆星系研究員",
+      "achieventmentDes": "你研究星圖的方式很特別：別人看航線，你看土豆；宇宙很大，午飯也重要。",
+      "achieventmentUnlockDes": "隱藏成就：在《星圖被貼滿便籤》中選擇選項指定選項",
+      "condition": "9_1",
+      "id": 12,
+      "type": 3
+    },
+    {
+      "achieventment": "喵喵艙門響應者",
+      "achieventmentDes": "艙門喵了一聲，你禮貌回應了一聲；值班記錄沉默了，旁邊精靈笑出了聲。",
+      "achieventmentUnlockDes": "隱藏成就：在《艙門提示音變成貓叫》中選擇選項指定選項",
+      "condition": "54_2",
+      "id": 13,
+      "type": 3
+    },
+    {
+      "achieventment": "可靠表情練習生",
+      "achieventmentDes": "你的表情已經很有艦橋負責人氣質了，只差讓按鈕和儀錶盤也這麼認為。",
+      "achieventmentUnlockDes": "隱藏成就：在《羅傑船長最終加問》中選擇選項指定選項",
+      "condition": "60_3",
+      "id": 14,
+      "type": 3
+    },
+    {
+      "achieventment": "艦橋有點忙亂",
+      "achieventmentDes": "今天艦橋像同時開了廣播、警報和精靈運動會；羅傑船長說：「至少船還在。」",
+      "achieventmentUnlockDes": "隱藏成就：在《海盜頻道的挑釁廣播》中選擇選項指定選項",
+      "condition": "7_2",
+      "id": 15,
+      "type": 3
+    }
+  ]
+}

@@ -12583,7 +12583,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]對手行動結束時，若自身受到了技能傷害則令對手隨機三項能力-1|[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手處於全能力下降狀態則消除對手[color=#52a5f2]回合類效果[/color]並令對手[color=#57c975]害怕[/color]",
         "args": "3 1 1",
         "come": "",
         "des": null,
@@ -17918,7 +17918,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身使用攻擊技能後，若造成的攻擊傷害低於300則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]若對手處於異常狀態則[color=#52a5f2]當回合[/color]自身造成的攻擊傷害提升100%，若對手不處於異常狀態則[color=#52a5f2]當回合[/color]自身[color=#57c975]使用技能時[/color]35%令對手[color=#57c975]害怕[/color]",
         "args": "300 3 100 35 1",
         "come": "",
         "des": null,
@@ -18470,7 +18470,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#52a5f2]回合開始時[/color]若自身體力高於對手，則[color=#52a5f2]當回合[/color]自身攻擊[color=#52a5f2]技能先制[/color]+1且造成的傷害提高50%；[color=#57c975]戰鬥階段結束時[/color]若自身體力低於對手，則100%使對手[color=#57c975]麻痺[/color]2回合，[color=#52a5f2]未觸發[/color][color=#57c975]麻痺[/color]則自身下2次攻擊[color=#52a5f2]技能先制[/color]+2且有80%概率使對手[color=#57c975]焚燼[/color]，若觸發[color=#57c975]麻痺[/color]則令對手[color=#57c975]燒傷[/color]3回合；[color=#52a5f2]回合開始時[/color]若對手處於異常狀態則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]恢復自身最大體力的1/3並附加恢復量的[color=#52a5f2]百分比傷害[/color]",
         "args": "1 50 2 2 2 80 3 1",
         "come": "",
         "des": null,
@@ -18493,7 +18493,7 @@
         "label": 0,
         "limitedType": 0,
         "target": 0,
-        "to": 0,
+        "to": 2093,
         "type": 0
       },
       {
@@ -19306,7 +19306,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]虛無：自身受到攻擊傷害後，免疫下1次受到的技能傷害|[sprite name=dot4]元素：[color=#57c975]登場時[/color]，消除對手[color=#52a5f2]回合類效果[/color]，消除成功則令對手下1次[color=#52a5f2]技能無效[/color]|[sprite name=dot1]能量：[color=#57c975]戰鬥階段結束時[/color]，附加自身[color=#52a5f2]已損失體力[/color]50%的[color=#52a5f2]百分比傷害[/color]|[sprite name=dot1]生命：[color=#57c975]戰鬥階段結束時[/color]，恢復自身最大體力的1/4和隨機2個PP值不為滿的技能1點PP值|[sprite name=dot4]輪迴：自身首次於對手出手回合受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]當回合[/color][color=#52a5f2]保留[/color]，同時[color=#57c975]回合結束後[/color]自身體力、PP值、能力等級返回[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]選擇操作[color=#52a5f2]之後[/color]的狀態|[sprite name=dot4]永恆：[color=#57c975]回合開始時[/color]，若自身體力高於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身技能必定先手|[sprite name=dot1]聖潔：免疫受到的異常狀態和能力下降狀態",
+        "analyze": "[sprite name=dot4]虛無：自身受到攻擊傷害後，免疫下1次受到的技能傷害|[sprite name=dot4]元素：[color=#57c975]登場時[/color]，消除對手[color=#52a5f2]回合類效果[/color]，消除成功則令對手下1次[color=#52a5f2]技能無效[/color]|[sprite name=dot1]能量：[color=#57c975]戰鬥階段結束時[/color]，附加自身[color=#52a5f2]已損失體力[/color]50%的[color=#52a5f2]百分比傷害[/color]|[sprite name=dot1]生命：[color=#57c975]戰鬥階段結束時[/color]，恢復自身最大體力的1/4和隨機2個PP值不為滿的技能1點PP值|[sprite name=dot4]輪迴：自身首次於對手出手回合受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]當回合[/color][color=#52a5f2]保留[/color]，同時[color=#57c975]回合結束後[/color]自身體力、PP值、能力等級返回[color=#52a5f2]當回合[/color]選擇操作[color=#52a5f2]之後[/color]的狀態|[sprite name=dot4]永恆：[color=#57c975]回合開始時[/color]，若自身體力高於對手則[color=#52a5f2]當回合[/color]自身技能必定先手|[sprite name=dot1]聖潔：免疫受到的異常狀態和能力下降狀態",
         "args": "1 1 4 50 1 1 50 1",
         "come": "",
         "des": null,
@@ -20078,7 +20078,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身首次於對手出手回合受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]當回合[/color][color=#52a5f2]保留[/color]1點體力，同時消除雙方能力提升狀態和[color=#52a5f2]回合類效果[/color]，並令對手[color=#57c975]燒傷[/color]2回合|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力高於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]受到攻擊時使對手[color=#57c975]焚燼[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]；[color=#57c975]戰鬥階段結束時[/color]若自身體力低於對手則恢復自身[color=#52a5f2]已損失體力[/color]的1/2",
+        "analyze": "[sprite name=dot4]自身首次於對手出手回合受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]當回合[/color][color=#52a5f2]保留[/color]1點體力，同時消除雙方能力提升狀態和[color=#52a5f2]回合類效果[/color]，並令對手[color=#57c975]燒傷[/color]2回合|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力高於對手則[color=#52a5f2]當回合[/color]受到攻擊時使對手[color=#57c975]焚燼[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]；[color=#57c975]戰鬥階段結束時[/color]若自身體力低於對手則恢復自身[color=#52a5f2]已損失體力[/color]的1/2",
         "args": "1 2 1 2 1",
         "come": "",
         "des": null,
@@ -21010,7 +21010,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於[color=#57c975]冰封[/color]狀態則[color=#52a5f2]當回合[/color]自身所有[color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1|[sprite name=dot4]自身命中的技能額外50%令對手[color=#57c975]冰封[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]，[color=#52a5f2]然後[/color]若本次技能為攻擊技能且對手處於[color=#57c975]冰封[/color]狀態則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]",
         "args": "50 3 1 1",
         "come": "",
         "des": null,
@@ -21064,7 +21064,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身受到的攻擊傷害高於300時100%令對手[color=#57c975]冰封[/color]，自身造成的攻擊傷害若高於300時下次[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力高於對手則[color=#52a5f2]當回合[/color]攻擊技能造成的傷害提升100%，若自身體力低於對手則[color=#52a5f2]當回合[/color]受到的攻擊傷害減少50%且[color=#57c975]使用技能後[/color][color=#52a5f2]吸取[/color]對手最大體力的1/3",
         "args": "300 100 300 2 50 3 1",
         "come": "",
         "des": null,
@@ -21145,7 +21145,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身攻擊技能忽略對手雙防值的25%，連續使用時效果提升10%，最高45%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力高於對手則自身[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+1且直到自身的下個[color=#57c975]回合開始[/color]免疫受到的異常狀態，下場保留|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力低於對手則[color=#52a5f2]吸取[/color]對手最大體力的1/3",
         "args": "25 10 45 1 3 1",
         "come": "",
         "des": null,
@@ -21814,12 +21814,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#52a5f2]首次[/color][color=#52a5f2]出戰[/color][color=#57c975]登場時[/color]，自身無效對手下次攻擊技能並消除對手的[color=#52a5f2]回合類效果[/color]，若消除成功則[color=#57c975]當回合開始時[/color]令對手[color=#57c975]害怕[/color]|[sprite name=dot4][color=#52a5f2]回合開始時[/color]，若自身體力高於最大體力的1/2則以[color=#52a5f2]回合類效果[/color]的形式使自身[color=#52a5f2]當回合[/color]回合類效果無法被消除，若自身體力低於最大體力的1/2則[color=#52a5f2]當回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1且[color=#57c975]戰鬥階段結束時[/color]恢復自身最大體力的1/3",
         "args": "1 100 2 2 1 3 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "首次登場後免疫下1次受到的攻擊；|首次登場時消除對手回合類效果，若消除成功則當回合開始時100%令對手害怕；|回合開始時若自身體力高於最大體力的1/2，則當回合自身回合類效果無法被消除；回合開始時若自身體力低於最大體力的1/2，則當回合自身所有技能先制+1且戰鬥階段結束時恢復自身最大體力的1/3（boss無效）",
+        "tips": "首次出戰登場時，自身無效對手下次攻擊技能並消除對手的回合類效果，若消除成功則當回合開始時令對手害怕|回合開始時，若自身體力高於最大體力的1/2則以回合類效果的形式使自身當回合回合類效果無法被消除，若自身體力低於最大體力的1/2則當回合自身所有技能先制+1且戰鬥階段結束時恢復自身最大體力的1/3（boss無效）",
         "kind": [
           6,
           8,
@@ -21867,12 +21867,12 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]|帝君之罰：天啟帝君[color=#52a5f2]首次[/color][color=#57c975]出戰後[/color]對對方所有[color=#f35555]不在場精靈附加其最大體力1/3的真實傷害(404)[/color]，[color=#52a5f2]之後[/color]本場戰鬥此效果改為1/9（boss無效）|[sprite name=dot1]帝君之賜：天啟帝君[color=#52a5f2]首次[/color][color=#57c975]出戰後[/color]恢復[color=#52a5f2]己方[/color]所有不在場精靈其最大體力的1/3，[color=#52a5f2]之後[/color]本場戰鬥此效果改為1/9（boss有效）|[sprite name=dot1]帝君之援：天啟帝君在出戰背包時，[color=#52a5f2]己方[/color]精靈[color=#57c975]登場時[/color][/color]若為滿體力則[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+1（boss有效）|[sprite name=dot4]帝君之御：天啟帝君免疫所有[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color][color=#52a5f2]以[/color]及異常狀態，且[color=#52a5f2]固定傷害[/color]和[color=#52a5f2]百分比傷害[/color]抗性提升至100%（boss無效）|[sprite name=dot1]帝君之陣：[color=#52a5f2]己方[/color]每有一隻陣亡精靈則自身受到的傷害降低10%，造成的傷害提高10%，天啟帝君為最後一隻存活精靈時自身[color=#52a5f2]回合類效果[/color]無法被消除；對手每有一隻不在場存活精靈則自身使用技能後恢復1/10最大體力並造成等量[color=#52a5f2]百分比傷害[/color]，對手為最後一隻存活精靈時使對手[color=#52a5f2]無法通過自身技能恢復體力[/color]（自身受到的傷害降低和造成的傷害提高效果boss有效，其他效果boss無效）|[sprite name=dot4]帝君之殞：天啟帝君[color=#57c975][color=#57c975]被擊敗[/color]後[/color]，30%令對方隨機一隻不在場精靈死亡（boss無效）",
+        "analyze": "[sprite name=dot4]帝君之罰：天啟帝君[color=#52a5f2]首次[/color][color=#57c975]出戰後[/color]對對方不在場精靈附加其最大體力1/3的[color=#52a5f2]真實傷害(404)[/color]，[color=#52a5f2]之後[/color]本場戰鬥此效果改為1/9（boss無效）|[sprite name=dot1]帝君之賜：天啟帝君[color=#52a5f2]首次[/color][color=#57c975]出戰後[/color]恢復[color=#52a5f2]己方[/color]所有不在場精靈其最大體力的1/3，[color=#52a5f2]之後[/color]本場戰鬥此效果改為1/9（boss有效）|[sprite name=dot1]帝君之援：天啟帝君在出戰背包時，[color=#52a5f2]己方[/color]精靈[color=#57c975]登場時[/color][/color]若為滿體力則[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+1（boss有效）|[sprite name=dot4]帝君之御：天啟帝君免疫所有[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color][color=#52a5f2]以[/color]及異常狀態，且[color=#52a5f2]固定傷害[/color]和[color=#52a5f2]百分比傷害[/color]抗性始終視為100%（boss無效）|[sprite name=dot1]帝君之陣：[color=#52a5f2]己方[/color]每有一隻陣亡精靈則自身受到的傷害降低10%，造成的傷害提高10%，天啟帝君為最後一隻存活精靈時自身[color=#52a5f2]回合類效果[/color]無法被消除；對手每有一隻不在場存活精靈則自身使用技能後恢復1/10最大體力並造成等量[color=#52a5f2]百分比傷害[/color]，對手為最後一隻存活精靈時使對手[color=#52a5f2]無法通過自身技能恢復體力[/color]（自身受到的傷害降低和造成的傷害提高效果boss有效，其他效果boss無效）|[sprite name=dot4]帝君之殞：天啟帝君[color=#57c975][color=#57c975]被擊敗[/color]後[/color]，30%令對方隨機一隻不在場精靈死亡（boss無效）",
         "args": "3 3 1 10 10 10 30 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "[帝君之罰]：|首次登場時直接扣除對手所有不在場精靈1/3的最大體力，之後每次登場時觸發效果削弱到1/9的最大體力（帝君之罰效果使對手精靈死亡時令其殘留1點體力，boss無效）；|[帝君之賜]：|首次登場時恢復己方所有不在場精靈1/3的最大體力，之後每次登場時觸發效果削弱到1/9的最大體力（boss有效）；|[帝君之援]：|天啟帝君在出戰背包時，己方精靈（包括天啟帝君）登場時若為滿體力則當回合所有技能先制+1（boss有效）；|[帝君之御]：|天生免疫所有固定傷害、百分比傷害以及異常狀態，且自身在戰鬥中將固定傷害和百分比傷害抗性視為100%（boss無效）；|[帝君之陣]：|己方每有一隻陣亡精靈則自身受到的傷害降低10%，造成的傷害提高10%，天啟帝君為最後一隻存活精靈時自身回合類效果無法被消除；對手每有一隻不在場存活精靈則自身使用技能後恢復1/10最大體力並造成等量百分比傷害，對手為最後一隻存活精靈時使對手無法通過自身技能恢復體力（自身受到的傷害降低和造成的傷害提高效果boss有效，其他效果boss無效）；|[帝君之殞]：|天啟帝君被擊敗時，30%概率使對手隨機一隻不在場精靈死亡（boss無效）",
+        "tips": "[帝君之罰]：|首次登場時直接扣除對手所有不在場精靈1/3的最大體力，之後每次登場時觸發效果削弱到1/9的最大體力（帝君之罰效果使對手精靈死亡時令其殘留1點體力，boss無效）；|[帝君之賜]：|首次登場時恢復己方所有不在場精靈1/3的最大體力，之後每次登場時觸發效果削弱到1/9的最大體力（boss有效）；|[帝君之援]：|天啟帝君在出戰背包時，己方精靈（包括天啟帝君）登場時若為滿體力則當回合所有技能先制+1（boss有效）；|[帝君之御]：|天生免疫所有固定傷害、百分比傷害以及異常狀態，且自身在戰鬥中將固定傷害和百分比傷害始終抗性視為100%（boss無效）；|[帝君之陣]：|己方每有一隻陣亡精靈則自身受到的傷害降低10%，造成的傷害提高10%，天啟帝君為最後一隻存活精靈時自身回合類效果無法被消除；對手每有一隻不在場存活精靈則自身使用技能後恢復1/10最大體力並造成等量百分比傷害，對手為最後一隻存活精靈時使對手無法通過自身技能恢復體力（自身受到的傷害降低和造成的傷害提高效果boss有效，其他效果boss無效）；|[帝君之殞]：|天啟帝君被擊敗時，30%概率使對手隨機一隻不在場精靈死亡（boss無效）",
         "kind": [
           0,
           1,
@@ -23684,7 +23684,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力不低於對手則[color=#52a5f2]當回合[/color]50%的概率[color=#57c975]閃避[/color]對手攻擊，若自身體力低於對手則[color=#57c975]閃避[/color]概率提升至80%，若對手攻擊命中則自身[color=#52a5f2]當回合[/color]受到的攻擊傷害減少50%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若[color=#52a5f2]當回合(412)[/color]自身選擇了攻擊技能則隨機令自身2項屬性+1，提升的能力中含有特攻時自身額外攻擊+2、速度+2，若[color=#52a5f2]當回合(412)[/color]自身選擇了屬性技能則自身下回合所有[color=#52a5f2]技能先制[/color]+2",
         "args": "50 80 50 2 1 2 1",
         "come": "",
         "des": null,
@@ -24721,7 +24721,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]未被擊敗時[/color]，若對手任意一項能力等級高於回合開始則自身獲得1回合[color=#f35555]聖輝之羽[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，50%使自身[color=#52a5f2]全屬性[/color]+1，[color=#52a5f2]未觸發[/color]則令對手[color=#52a5f2]全屬性[/color]-1且[color=#52a5f2]當回合[/color]自身攻擊技能必定打出[color=#57c975]致命一擊[/color]",
         "args": "50 1 100 1 1",
         "come": "",
         "des": null,
@@ -24802,7 +24802,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]常之罰：自身先出手時[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身造成的攻擊傷害提升50%，對手先出手時[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身受到的攻擊傷害減少50%|[sprite name=dot4]常之劫：[color=#57c975]回合開始時[/color]，若對手處於能力提升狀態則消除對手能力提升狀態，消除成功則令對手[color=#57c975]睡眠[/color]，若對手不處於能力提升狀態則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身所有[color=#52a5f2]技能先制[/color]+1；|[sprite name=dot4]常之懲：[color=#57c975]戰鬥階段結束時[/color]，若自身體力為0，則消除對手[color=#52a5f2]回合類效果[/color]和能力提升狀態，消除任意一項成功則令對手[color=#57c975]睡眠[/color]",
+        "analyze": "[sprite name=dot4]常之罰：自身先出手時[color=#52a5f2]當回合[/color]自身造成的攻擊傷害提升50%，對手先出手時[color=#52a5f2]當回合[/color]自身受到的攻擊傷害減少50%|[sprite name=dot4]常之劫：[color=#57c975]回合開始時[/color]，若對手處於能力提升狀態則消除對手能力提升狀態，消除成功則令對手[color=#57c975]睡眠[/color]，若對手不處於能力提升狀態則[color=#52a5f2]當回合[/color]自身所有[color=#52a5f2]技能先制[/color]+1；|[sprite name=dot4]常之懲：[color=#57c975]戰鬥階段結束時[/color]，若自身體力為0，則消除對手[color=#52a5f2]回合類效果[/color]和能力提升狀態，消除任意一項成功則令對手[color=#57c975]睡眠[/color]",
         "args": "50 50 8 1 8 1",
         "come": "",
         "des": [
@@ -25473,7 +25473,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身先出手時附加自身速度值50%的[color=#52a5f2]百分比傷害[/color]，自身後出手時自身下回合所有[color=#52a5f2]技能先制[/color]+2；自身使用技能時隨機觸發[color=#52a5f2]以[/color]下效果中的1種：|    [sprite name=dot5]令對手[color=#52a5f2]全屬性[/color]-1|    [sprite name=dot5]令自身[color=#52a5f2]全屬性[/color]+1|    [sprite name=dot5]60%令對手[color=#57c975]害怕[/color]|    [sprite name=dot5]為自身附加300點[color=#57c975]護盾[/color]|    [sprite name=dot5]必定打出[color=#57c975]致命一擊[/color]",
         "args": "50 2 1 1 60 300 100 1",
         "come": "",
         "des": null,
@@ -25500,7 +25500,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手不處於能力提升狀態則[color=#52a5f2]吸取[/color]對手最大體力的1/3且下回合自身造成的攻擊傷害提升50%，若對手處於能力提升狀態則恢復自身最大體力的1/3且50%令對手[color=#57c975]害怕[/color]",
         "args": "3 50 3 50 6 1",
         "come": "",
         "des": null,
@@ -25552,7 +25552,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot1][color=#52a5f2]首次[/color][color=#52a5f2]出戰(491)[/color][color=#57c975]登場時[/color]獲得4層[color=#f35555]自然祝福[/color]，[color=#52a5f2]之後[/color]每次[color=#57c975]登場[/color]時獲得2層自然祝福|[sprite name=dot1][color=#57c975]戰鬥階段結束時[/color]，若[color=#52a5f2]當回合(412)[/color]自身使用了技能則消耗1層[color=#f35555]自然祝福[/color]，若[color=#52a5f2]當回合(412)[/color]自身未使用技能則獲得1層[color=#f35555]自然祝福[/color]",
         "args": "4 2 1 1",
         "come": "",
         "des": null,
@@ -25713,7 +25713,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身當前體力低於對手，則獲得自身最大體力1/3的[color=#52a5f2]百分比傷害[/color]並恢復等量體力|[sprite name=dot4]自身使用攻擊技能時開啟2回合[color=#f35555]暗影魔盾[/color]，使用屬性技能時開啟2回合[color=#f35555]幽冥魔盾[/color]",
         "args": "3 2 2 1",
         "come": "",
         "des": null,
@@ -25873,7 +25873,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身使用攻擊技能時附加本場戰鬥回合數×18點[color=#52a5f2]固定傷害[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手體力高於自身則恢復自身最大體力的1/3並附加恢復量的[color=#52a5f2]百分比傷害[/color]，若對手體力低於自身則下回合自身所有[color=#52a5f2]技能先制[/color]+1",
         "args": "18 3 1 1",
         "come": "",
         "des": null,
@@ -30651,7 +30651,7 @@
       {
         "analyze": "",
         "args": "50 100 300 300",
-        "come": "阿爾法熊魂印進化限時活動",
+        "come": "阿爾法熊特訓",
         "des": null,
         "tag": null,
         "tips": "自身處於能力提升狀態時阿爾法熊開啟攻擊模式：攻擊50%的概率打出致命一擊，未觸發則造成的攻擊傷害提升100%；阿爾法熊受到攻擊後開啟防禦模式：為自身附加300點護盾和300點護罩（boss有效）",
@@ -30671,7 +30671,7 @@
         "isAdv": 0,
         "label": 0,
         "limitedType": 0,
-        "target": 0,
+        "target": 114051,
         "to": 0,
         "type": 0
       },
@@ -31693,7 +31693,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於能力提升狀態則[color=#52a5f2]當回合[/color]自身攻擊技能必定打出[color=#57c975]致命一擊[/color]，若對手處於能力提升狀態則消除對手能力提升狀態，消除成功則令對手[color=#57c975]燒傷[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若雙方任意一方處於異常狀態則減少對手所有技能2點PP值",
         "args": "100 100 100 2 1",
         "come": "",
         "des": null,
@@ -32813,12 +32813,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]召喚[color=#f35555]神聖雷電[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力低於最大體力的1/2則100%令對手[color=#57c975]麻痺[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]，若自身體力高於最大體力的1/2則下回合自身造成的攻擊傷害隨機提升50%-100%",
         "args": "100 50 2 100 2 50 100 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "登場後召喚神聖雷電：首次攻擊100%令對手麻痺且無視對手免疫傷害效果，之後每次登場麻痺觸發概率為50%；|戰鬥階段結束時，若自身體力低於最大體力的1/2則100%令對手麻痺，未觸發則消除對手回合類效果；若自身體力高於最大體力的1/2則下回合自身造成的傷害隨機提高50%-100%（boss無效）",
+        "tips": "登場時召喚神聖雷電|戰鬥階段結束時，若自身體力低於最大體力的1/2則100%令對手麻痺，未觸發則消除對手回合類效果，若自身體力高於最大體力的1/2則下回合自身造成的攻擊傷害隨機提升50%-100%（boss無效）",
         "kind": [
           1,
           8,
@@ -32836,7 +32836,7 @@
         "label": 0,
         "limitedType": 0,
         "target": 0,
-        "to": 0,
+        "to": 2121,
         "type": 0
       },
       {
@@ -34844,12 +34844,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身每次[color=#52a5f2]登場[/color]首回合攻擊100%打出[color=#57c975]致命一擊[/color]且100%令對手[color=#57c975]失明[/color]，[color=#52a5f2]當回合[/color]未使用攻擊技能則[color=#57c975]戰鬥階段結束時[/color]令自身[color=#52a5f2]全屬性[/color]+1|[sprite name=dot4]自身攻擊造成的傷害低於300時下回合攻擊100%打出[color=#57c975]致命一擊[/color]，自身攻擊造成的傷害高於300時附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]",
         "args": "100 100 1 300 100 300 3 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "自身每次登場首回合攻擊100%打出致命一擊且100%令對手失明，當回合未使用攻擊技能則令自身全屬性+1；|自身攻擊造成的傷害低於300則下回合攻擊100%打出致命一擊，自身攻擊造成的傷害高於300則附加對手最大體力1/3的固定傷害（boss無效）",
+        "tips": "自身每次登場首回合攻擊100%打出致命一擊且100%令對手失明，當回合未使用攻擊技能則戰鬥階段結束時令自身全屬性+1|自身攻擊造成的傷害低於300時下回合攻擊100%打出致命一擊，自身攻擊造成的傷害高於300時附加對手最大體力1/3的百分比傷害|（boss無效）",
         "kind": [
           1,
           11,
@@ -35378,7 +35378,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若敵我雙方任意一方處於異常狀態則為自身附加等同於自身最大體力值1/3的[color=#57c975]護盾[/color]且令對手隨機1個技能PP值歸零|[sprite name=dot4][color=#52a5f2]當回合[/color]使用的技能類型與上次相同時[color=#52a5f2]技能先制[/color]+1且造成的傷害隨機提高50%-100%，[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]使用的技能類型與上次不同時恢復自身最大體力的1/3並造成等量[color=#52a5f2]百分比傷害[/color]，每次觸發前述效果時100%概率使對手隨機進入1種異常狀態，[color=#52a5f2]未觸發[/color]則[color=#57c975]戰鬥階段結束時[/color][color=#52a5f2]吸取[/color]對手最大體力的1/3",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若敵我雙方任意一方處於異常狀態則為自身附加等同於自身最大體力值1/3的[color=#57c975]護盾[/color]且令對手隨機1個技能PP值歸零|[sprite name=dot4][color=#52a5f2]當回合[/color]使用的技能類型與上次相同時[color=#52a5f2]技能先制[/color]+1且造成的傷害隨機提高50%-100%，[color=#52a5f2]當回合[/color]使用的技能類型與上次不同時恢復自身最大體力的1/3並造成等量[color=#52a5f2]百分比傷害[/color]，每次觸發前述效果時100%概率使對手隨機進入1種異常狀態，[color=#52a5f2]未觸發[/color]則[color=#57c975]戰鬥階段結束時[/color][color=#52a5f2]吸取[/color]對手最大體力的1/3",
         "args": "3 1 1 3 100 1 3 1",
         "come": "",
         "des": null,
@@ -35913,12 +35913,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身使用攻擊技能後50%令對手[color=#57c975]冰封[/color]，觸發後下回合自身攻擊技能100%打出[color=#57c975]致命一擊[/color]，[color=#52a5f2]未觸發[/color]則附加對手最大體力30%的[color=#52a5f2]固定傷害[/color]，自身體力低於最大體力的30%時恢復等量體力值|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]若自身體力高於[color=#57c975]回合開始時[/color]則令自身[color=#52a5f2]全屬性[/color]+1，[color=#57c975]戰鬥階段結束時[/color]若自身體力低於[color=#57c975]回合開始時[/color]則下回合攻擊[color=#52a5f2]技能先制[/color]+1",
         "args": "50 100 30 30 1 1 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "自身使用攻擊技能則50%使對手冰封，觸發後下回合自身攻擊技能100%打出致命一擊，未觸發則附加對手最大體力30%的固定傷害，自身體力低於最大體力的30%時恢復等量體力值；|戰鬥階段結束時若自身體力高於回合開始時則令自身全屬性+1，戰鬥階段結束時若自身體力低於回合開始時則下回合攻擊技能先制+1（boss無效）",
+        "tips": "自身使用攻擊技能後50%令對手冰封，觸發後下回合自身攻擊技能100%打出致命一擊，未觸發則附加對手最大體力30%的固定傷害，自身體力低於最大體力的30%時恢復等量體力值|戰鬥階段結束時若自身體力高於回合開始時則令自身全屬性+1，戰鬥階段結束時若自身體力低於回合開始時則下回合攻擊技能先制+1|（boss無效）",
         "kind": [
           1,
           10,
@@ -36630,12 +36630,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]為對手附加一層[color=#f35555]暮月玄音[/color]，最高5層|[sprite name=dot4]自身[color=#57c975]攻擊技能命中後[/color]，若[color=#52a5f2]當回合[/color]自身為先手方則攻擊命中後100%附加[color=#57c975]燒傷[/color]、[color=#57c975]凍傷[/color]、[color=#57c975]中毒[/color]、[color=#57c975]麻痺[/color]、[color=#57c975]害怕[/color]、[color=#57c975]睡眠[/color]中的1種異常狀態，[color=#52a5f2]未觸發[/color]則令自身[color=#52a5f2]全屬性[/color]+1，若[color=#52a5f2]當回合[/color]自身為後手方則令對手[color=#52a5f2]全屬性[/color]-1",
         "args": "5 100 1 1 1 10 5 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "與暮月之弦每持續戰鬥1回合則令對手疊加一層暮月玄音(最高可疊加5次)；|當回合若自身先出手則攻擊命中後100%概率令對手隨機進入燒傷、凍傷、中毒、麻痺、害怕、睡眠中的1種異常狀態，未觸發則令自身全屬性+1，當回合若自身後出手則攻擊命中後令對手全屬性-1（boss無效）|暮月玄音：命中率降低10%，攻擊技能5%的概率失效",
+        "tips": "回合開始時為對手附加一層暮月玄音，最高5層|自身攻擊技能命中後，若當回合自身為先手方則攻擊命中後100%附加燒傷、凍傷、中毒、麻痺、害怕、睡眠中的1種異常狀態，未觸發則令自身全屬性+1，若當回合自身為後手方則令對手全屬性-1|（boss無效）",
         "kind": [
           10,
           11,
@@ -36790,7 +36790,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登場時[/color]獲得250點[color=#57c975]護盾[/color]，[color=#52a5f2]己方[/color]背包內每存活1隻其他精靈增加100點，若背包內其他精靈全部陣亡則本場戰鬥自身受到的[color=#52a5f2]固定傷害[/color]和[color=#57c975]百分比傷害[/color][color=#57c975]額外減少(332)[/color]25%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身處於異常狀態則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]受到的攻擊克制倍數最高為2且[color=#57c975]戰鬥階段結束時[/color]恢復自身最大體力的1/3，若自身不處於異常狀態則[color=#52a5f2]當回合[/color][color=#57c975]受到攻擊後[/color]50%隨機附加150-300點[color=#52a5f2]固定傷害[/color]，[color=#52a5f2]未觸發[/color]則隨機減少對手所有技能1-2點PP值",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登場時[/color]獲得250點[color=#57c975]護盾[/color]，[color=#52a5f2]己方[/color]背包內每存活1隻其他精靈增加100點，若背包內其他精靈全部陣亡則本場戰鬥自身受到的[color=#52a5f2]固定傷害[/color]和[color=#57c975]百分比傷害[/color][color=#57c975]額外減少(332)[/color]25%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身處於異常狀態則[color=#52a5f2]當回合[/color]受到的攻擊克制倍數最高為2且[color=#57c975]戰鬥階段結束時[/color]恢復自身最大體力的1/3，若自身不處於異常狀態則[color=#52a5f2]當回合[/color][color=#57c975]受到攻擊後[/color]50%隨機附加150-300點[color=#52a5f2]固定傷害[/color]，[color=#52a5f2]未觸發[/color]則隨機減少對手所有技能1-2點PP值",
         "args": "250 100 25 50 150 300 1 2",
         "come": "",
         "des": null,
@@ -40479,7 +40479,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]裁決：至序聖華[color=#57c975]登場時[/color][/color]，為對方場下體力最高的隨機1隻精靈附加1層[color=#f35555]處決[/color]印記[/color]與3回合[color=#f35555]處決[/color]|[sprite name=dot4]聖鑄：至序聖華[color=#52a5f2]首次[/color]在場上或場下死亡時，為[color=#52a5f2]己方[/color]附加1柄[color=#f35555]聖劍[/color]且開啟[color=#f35555]聖劍[/color]重鑄[/color]|[sprite name=dot4]加冕：至序聖華[color=#57c975]出戰後[/color]所有技能PP值恢復至1點、[color=#57c975]下場後[/color]為對手附加1層[color=#f35555]處決[/color]印記[/color]、[color=#57c975]登場時[/color][/color]1回合內免疫異常狀態與能力下降狀態且PP值[color=#52a5f2]保留[/color]1點，對手[color=#f35555]處決[/color]印記[/color][color=#52a5f2]達到[/color]2層[/color]時回合數+1|[sprite name=dot4]秩序：[color=#57c975]戰鬥階段結束時[/color]，若對手體力高於最大體力的1/2則下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身體力低於最大體力的1/2則2回合內自身[color=#52a5f2]回合類效果[/color]無法被消除|（boss無效）",
+        "analyze": "[sprite name=dot4]裁決：至序聖華[color=#57c975]登場時[/color][/color]，為對方場下體力最高的隨機1隻精靈附加1層[color=#f35555]處決印記[/color]與3回合[color=#f35555]處決[/color]|[sprite name=dot4]聖鑄：至序聖華[color=#52a5f2]首次[/color]在場上或場下死亡時，為[color=#52a5f2]己方[/color]附加1柄[color=#f35555]聖劍[/color]且開啟[color=#f35555]聖劍重鑄[/color]，之後本場戰鬥自身不再為己方附加聖劍|[sprite name=dot4]加冕：至序聖華[color=#57c975]出戰後[/color]所有技能PP值恢復至1點、[color=#57c975]下場後[/color]為對手附加1層[color=#f35555]處決[/color]印記[/color]、[color=#57c975]登場時[/color][/color]1回合內免疫異常狀態與能力下降狀態且PP值[color=#52a5f2]保留[/color]1點，對手[color=#f35555]處決[/color]印記[/color][color=#52a5f2]達到[/color]2層[/color]時回合數+1|[sprite name=dot4]秩序：[color=#57c975]戰鬥階段結束時[/color]，若對手體力高於最大體力的1/2則下回合自身所有[color=#52a5f2]技能先制[/color]+1，若自身體力低於最大體力的1/2則2回合內自身[color=#52a5f2]回合類效果[/color]無法被消除|（boss無效）",
         "args": "3 100 5 1 2 1 2 1",
         "come": "",
         "des": null,
@@ -41312,12 +41312,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力高於最大體力的1/2，則[color=#52a5f2]當回合[/color]自身受到的攻擊傷害不超過自身最大體力的1/2，[color=#57c975]戰鬥階段結束時[/color]若自身體力低於最大體力的1/2，則下回合自身所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]對手[color=#57c975]使用技能後[/color]，下次[color=#57c975]使用技能時[/color]若類型與本次相同則自身免疫下1次受到的異常狀態，若類型與本次不同則下回合攻擊技能獲得[color=#f35555]黯天之塵[/color]且[color=#57c975]戰鬥階段結束時[/color]若自身體力低於最大體力的1/2則消除對手[color=#52a5f2]回合類效果[/color]",
         "args": "1 2 2 2 2 1 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "回合開始時若自身體力高於最大體力的1/2，則當回合自身受到的攻擊傷害不超過自身最大體力的1/2，戰鬥階段結束時若自身體力低於最大體力的1/2，則下回合自身所有技能先制+2；|對手當回合使用的技能類型與上次相同則自身免疫下1次受到的異常狀態，對手當回合使用的技能類型與上次不同則自身下回合攻擊獲得黯天之塵效果且戰鬥階段結束時若自身體力低於最大體力的1/2則消除對手回合類效果（boss無效）|黯天之塵BUFF說明：先制+1、造成的攻擊傷害提升80%、恢復自身所有技能2點PP值",
+        "tips": "回合開始時若自身體力高於最大體力的1/2，則當回合自身受到的攻擊傷害不超過自身最大體力的1/2，戰鬥階段結束時若自身體力低於最大體力的1/2，則下回合自身所有技能先制+2|對手使用技能後，下次使用技能時若類型與本次相同則自身免疫下1次受到的異常狀態，若類型與本次不同則下回合攻擊技能獲得黯天之塵且戰鬥階段結束時若自身體力低於最大體力的1/2則消除對手回合類效果",
         "kind": [
           7,
           8,
@@ -41528,12 +41528,12 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身存活於場下時，[color=#52a5f2]對方[/color]在場精靈每次攻擊結束後，洛基獲得1層[color=#f35555]墮惡神祇[/color][color=#52a5f2]以[/color]觸發[color=#f35555]詭計神罰[/color]|[sprite name=dot4]自身[color=#52a5f2]登場時[/color]，若[color=#f35555]墮惡神祇[/color]達到3層，則2回合內[color=#57c975]回合開始時[/color]、[color=#57c975]戰鬥階段結束時[/color]，若自身通過[color=#f35555]墮惡神祇[/color]獲得的[color=#57c975]護盾[/color]或[color=#57c975]護罩[/color]消失則對手下1次[color=#52a5f2]技能無效[/color]，下次下場後本場自身戰鬥失去本條效果|[sprite name=dot4]自身[color=#57c975]下場時[/color]，若自身通過[color=#f35555]墮惡神祇[/color]獲得的[color=#57c975]護盾[/color]與[color=#57c975]護罩[/color]均已消失，則重置[color=#f35555]墮惡神祇[/color]",
+        "analyze": "[sprite name=dot4]自身存活於場下時，[color=#52a5f2]對方[/color]在場精靈每次攻擊結束後，洛基獲得1層[color=#f35555]墮惡神祇[/color][color=#52a5f2]以[/color]觸發[color=#f35555]詭計神罰[/color]|[sprite name=dot4]自身[color=#52a5f2]登場時[/color]，若[color=#f35555]墮惡神祇[/color]達到3層，則2回合內[color=#57c975]回合開始時[/color]、[color=#57c975]戰鬥階段結束時[/color]，若自身通過[color=#f35555]墮惡神祇[/color]獲得的[color=#57c975]護盾[/color]或[color=#57c975]護罩[/color]消失則對手下1次攻擊[color=#52a5f2]技能無效[/color]，下次下場後本場自身戰鬥失去本條效果|[sprite name=dot4]自身[color=#57c975]下場時[/color]，若自身通過[color=#f35555]墮惡神祇[/color]獲得的[color=#57c975]護盾[/color]與[color=#57c975]護罩[/color]均已消失，則重置[color=#f35555]墮惡神祇[/color]",
         "args": "100 2 1 2 2 2 3 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "自身存活於場下時，對方在場精靈每次攻擊結束後，洛基獲得1層墮惡神祇以觸發詭計神罰|自身登場時，若墮惡神祇達到3層，則2回合內回合開始時、戰鬥階段結束時，若自身通過墮惡神祇獲得的護盾或護罩消失則對手下1次技能無效，效果結束之後本場自身戰鬥失去本條效果（boss無效）",
+        "tips": "自身存活於場下時，對方在場精靈每次攻擊結束後，洛基獲得1層墮惡神祇以觸發詭計神罰|自身登場時，若墮惡神祇達到3層，則2回合內回合開始時、戰鬥階段結束時，若自身通過墮惡神祇獲得的護盾或護罩消失則對手下1次攻擊技能無效，效果結束之後本場自身戰鬥失去本條效果（boss無效）",
         "kind": [
           4,
           2,
@@ -41582,12 +41582,12 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出戰時[/color]獲得[color=#f35555]群輝加護[/color]；自身擁有[color=#f35555]群輝加護[/color]時，若對手處於[color=#52a5f2]回合類效果[/color]則自身[color=#57c975]閃避[/color]對手的技能，若對手的技能命中自身則命中後對手每有1個與此技能類型不同的技能自身恢復120點體力|[color=#52a5f2]己方[/color]其他精靈[color=#52a5f2]首次[/color][color=#57c975]出戰時[/color]自身獲得1層[color=#f35555]群芳加護[/color]",
         "args": "100 120 1",
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "自身每次登場後獲得群芳加護：對手擁有回合類效果時100%閃避對手的技能；自身被技能命中後恢復對手所攜帶不同類型技能數*120的體力，若自身被攻擊技能命中則結算後群芳加護消失，下回合對手無法主動切換精靈且先制效果失效；|己方其他精靈登場後自身獲得1層群輝加護（若已有該精靈提供的群輝加護則不獲得）：自身死亡時，消耗自身所有群輝加護，每有1層，所有不在場精靈所有技能恢復1點PP，且下只精靈登場後首次技能附加群芳加護消失時自身所受到攻擊傷害20%的百分比傷害（boss無效）",
+        "tips": "自身出戰時獲得群輝加護；自身擁有群輝加護時，若對手處於回合類效果則自身閃避對手的技能，若對手的技能命中自身則命中後對手每有1個與此技能類型不同的技能自身恢復120點體力|己方其他精靈首次出戰時自身獲得1層群芳加護（boss無效）",
         "kind": [
           4,
           5,
@@ -42039,7 +42039,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身存活於[color=#52a5f2]己方[/color]出戰背包時，每10回合觸發1次[color=#f35555]幻境浪潮[/color]|[sprite name=dot4]回合開始時，對手根據締結印記達到的層數，獲得以下效果|    [sprite name=dot5]1層：以[color=#52a5f2]回合類效果[/color]的形式，對手使用技能消耗的PP值翻倍；|    [sprite name=dot5]3層：造成的攻擊[color=#52a5f2]傷害額外減少[/color]30%；|    [sprite name=dot5]5層：造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color][color=#52a5f2]額外減少(332)[/color]30%；|    [sprite name=dot5]7層：[color=#57c975]無法通過其技能恢復體力[/color]且受到原本恢復量1/3的[color=#52a5f2]真實傷害[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力為滿則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]免疫受到的異常狀態，若自身體力不為滿則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]使用技能無視對手雙防能力提升狀態；|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]若對手當前體力不高於[color=#57c975]回合開始時[/color]則下回合自身所有[color=#52a5f2]技能先制[/color]+1，若對手當前體力不低於[color=#57c975]回合開始時[/color]則恢復自身最大體力的1/3",
+        "analyze": "[sprite name=dot4]自身存活於[color=#52a5f2]己方[/color]出戰背包時，每10回合觸發1次[color=#f35555]幻境浪潮[/color]|[sprite name=dot4]回合開始時，對手根據締結印記達到的層數，獲得以下效果|    [sprite name=dot5]1層：以[color=#52a5f2]回合類效果[/color]的形式，對手使用技能消耗的PP值翻倍；|    [sprite name=dot5]3層：造成的攻擊[color=#52a5f2]傷害額外減少[/color]30%；|    [sprite name=dot5]5層：造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color][color=#52a5f2]額外減少(332)[/color]30%；|    [sprite name=dot5]7層：[color=#57c975]無法通過其技能恢復體力[/color]且受到原本恢復量1/3的[color=#52a5f2]真實傷害[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力為滿則[color=#52a5f2]當回合[/color]免疫受到的異常狀態，若自身體力不為滿則[color=#52a5f2]當回合[/color]使用技能無視對手雙防能力提升狀態；|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]若對手當前體力不高於[color=#57c975]回合開始時[/color]則下回合自身所有[color=#52a5f2]技能先制[/color]+1，若對手當前體力不低於[color=#57c975]回合開始時[/color]則恢復自身最大體力的1/3",
         "args": "1 3 1",
         "come": "",
         "des": null,
@@ -42928,7 +42928,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身每次[color=#57c975]登場[/color]首回合免疫異常狀態並令對手攻擊技能的附加效果失效|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身處於能力提升、能力下降或異常狀態則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]自身技能命中時令對手3項能力值-1，觸發成功則自身獲得等量的能力提升，未觸發則則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#57c975]戰鬥階段結束時[/color]自身獲得當前能力下降2倍的能力提升，[color=#52a5f2]然後[/color]根據自身狀態額外觸發以下效果：|    [sprite name=dot5]處於能力提升狀態：獲得1枚[color=#f35555]龍膽[/color]|    [sprite name=dot5]處於能力下降狀態：每處於1種能力下降則附加給對手30點[color=#52a5f2]真實傷害[/color]且下回合技能命中時觸發效果提升至6項|    [sprite name=dot5]處於異常狀態：[color=#52a5f2]吸取[/color]對手最大體力的1/4",
+        "analyze": "[sprite name=dot4]自身每次[color=#57c975]登場[/color]首回合免疫異常狀態並令對手攻擊技能的附加效果失效|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身處於能力提升、能力下降或異常狀態則[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4]自身技能命中時令對手3項能力值-1，觸發成功則自身獲得等量的能力提升，未觸發則則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]自身獲得當前能力下降2倍的能力提升，[color=#52a5f2]然後[/color]根據自身狀態額外觸發以下效果：|    [sprite name=dot5]處於能力提升狀態：獲得1枚[color=#f35555]龍膽[/color]|    [sprite name=dot5]處於能力下降狀態：每處於1種能力下降則附加給對手30點[color=#52a5f2]真實傷害[/color]且下回合技能命中時觸發效果提升至6項|    [sprite name=dot5]處於異常狀態：[color=#52a5f2]吸取[/color]對手最大體力的1/4",
         "args": "2 30 4 2 1 1",
         "come": "",
         "des": null,
@@ -43142,7 +43142,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身使用攻擊技能後獲得1支[color=#f35555]滅神之箭[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力高於對手則自身[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+1且直到自身的下個[color=#57c975]回合開始[/color]免疫受到的異常狀態，下場保留|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力低於對手則[color=#52a5f2]吸取[/color]對手最大體力的1/3",
         "args": "1 3 5 8 40 0 1",
         "come": "弒神獵皇神諭進階",
         "des": null,
@@ -43675,7 +43675,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手不處於能力提升狀態則[color=#52a5f2]吸取[/color]對手最大體力的1/3且下回合自身造成的攻擊傷害提升50%，對手免疫[color=#52a5f2]百分比傷害[/color]時增傷效果提升至100%，若對手處於能力提升狀態則100%令對手[color=#57c975]害怕[/color]，[color=#52a5f2]未觸發[/color]則恢復自身最大體力的1/3並附加等量[color=#52a5f2]百分比傷害[/color]，恢復量與百分比傷害最高為自身[color=#52a5f2]已損失體力值[/color]",
         "args": "3 50 100 100 3 1",
         "come": "狂熱之誠·吉羅德精靈覺醒",
         "des": null,
@@ -43996,7 +43996,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身免疫[color=#57c975]臣服[/color]且[color=#52a5f2]首次[/color][color=#57c975]登場時[/color]100%令對手[color=#57c975]臣服[/color]|[sprite name=dot4]自身每次[color=#57c975]登場時[/color]獲得2方[color=#f35555]永昌璽[/color]，若[color=#57c975]登場[/color]上回合對方進行了[color=#52a5f2]主動切換[/color]則額外獲得2方[color=#f35555]永昌璽[/color]；[color=#57c975]戰鬥階段結束時[/color]，若[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合(411)[/color][/color][/color]對手使用了技能則消耗1方[color=#f35555]永昌璽[/color]，若[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合(411)[/color][/color][/color]對手未使用技能則獲得1方[color=#f35555]永昌璽[/color]|[sprite name=dot4]每[color=#57c975]回合開始時[/color]根據自身[color=#f35555]永昌璽[/color]達到的方數獲得以下效果|    [sprite name=dot5]1方：每擁有1方[color=#f35555]永昌璽[/color]，則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]造成的攻擊傷害提升11%|    [sprite name=dot5]2方：每擁有1方[color=#f35555]永昌璽[/color]，則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]使用攻擊技能後附加37點[color=#52a5f2]固定傷害[/color]|    [sprite name=dot5]3方：[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#57c975]戰鬥階段結束時[/color]自身恢復221點體力且所有技能PP值恢復至1|    [sprite name=dot5]4方：[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]免疫受到的控制類異常狀態|    [sprite name=dot5]5方：[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]令對手的[color=#52a5f2]先制(340)[/color]等級無法高於自身|    [sprite name=dot5]6方：下回合令對手無法[color=#52a5f2]主動切換[/color]精靈",
+        "analyze": "[sprite name=dot4]自身免疫[color=#57c975]臣服[/color]且[color=#52a5f2]首次[/color][color=#57c975]登場時[/color]100%令對手[color=#57c975]臣服[/color]|[sprite name=dot4]自身每次[color=#57c975]登場時[/color]獲得2方[color=#f35555]永昌璽[/color]，若[color=#57c975]登場[/color]上回合對方進行了[color=#52a5f2]主動切換[/color]則額外獲得2方[color=#f35555]永昌璽[/color]；[color=#57c975]戰鬥階段結束時[/color]，若[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合(411)[/color][/color][/color]對手使用了技能則消耗1方[color=#f35555]永昌璽[/color]，若[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合(411)[/color][/color][/color]對手未使用技能則獲得1方[color=#f35555]永昌璽[/color]|[sprite name=dot4]每[color=#57c975]回合開始時[/color]根據自身[color=#f35555]永昌璽[/color]達到的方數獲得以下效果|    [sprite name=dot5]1方：每擁有1方[color=#f35555]永昌璽[/color]，則[color=#52a5f2]當回合[/color]造成的攻擊傷害提升11%|    [sprite name=dot5]2方：每擁有1方[color=#f35555]永昌璽[/color]，則[color=#52a5f2]當回合[/color]使用攻擊技能後附加37點[color=#52a5f2]固定傷害[/color]|    [sprite name=dot5]3方：[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]自身恢復221點體力且所有技能PP值恢復至1|    [sprite name=dot5]4方：[color=#52a5f2]當回合[/color]免疫受到的控制類異常狀態|    [sprite name=dot5]5方：[color=#52a5f2]當回合[/color]令對手的[color=#52a5f2]先制(340)[/color]等級無法高於自身|    [sprite name=dot5]6方：下回合令對手無法[color=#52a5f2]主動切換[/color]精靈",
         "args": "11 37 221 1 221 1",
         "come": "",
         "des": null,
@@ -44183,7 +44183,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身受到的攻擊傷害高於300時100%令對手[color=#57c975]冰封[/color]，自身造成的攻擊傷害若高於300時下次[color=#52a5f2]技能先制[/color]+3|[sprite name=dot4][color=#57c975]回合開始時[/color]若自身體力高於對手則[color=#52a5f2]當回合[/color]攻擊技能無視對手能力提升效果且造成的傷害提升100%，若自身體力低於對手則[color=#52a5f2]當回合[/color]受到的攻擊傷害減少50%且[color=#57c975]使用技能後[/color][color=#52a5f2]吸取[/color]對手最大體力的1/3",
         "args": "300 100 300 3 100 50 3 1",
         "come": "驚濤海皇·波塞冬神諭進階",
         "des": null,
@@ -44505,7 +44505,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身使用攻擊技能後，若造成的攻擊傷害低於300則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]若對手處於異常狀態則[color=#52a5f2]當回合[/color]自身造成的攻擊傷害提升100%，若對手不處於異常狀態則[color=#52a5f2]當回合[/color]自身[color=#57c975]使用技能後[/color]35%令對手[color=#57c975]害怕[/color]，[color=#52a5f2]未觸發[/color]則下回合自身攻擊[color=#52a5f2]技能先制[/color]+1",
         "args": "300 3 100 35 1 1",
         "come": "昔蘭尼加神諭進階",
         "des": null,
@@ -44856,7 +44856,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]未被擊敗時[/color]，若對手任意一項能力等級高於回合開始則自身獲得1回合[color=#f35555]聖輝之羽[/color]，否則獲得1回合[color=#f35555]聖雷華冠[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身不處於能力提升狀態則自身[color=#52a5f2]全屬性[/color]+1且[color=#52a5f2]當回合[/color]攻擊後附加自身最大體力1/3的[color=#52a5f2]百分比傷害[/color]，若自身處於能力提升狀態則令對手[color=#52a5f2]全屬性[/color]-1且[color=#52a5f2]當回合[/color]自身攻擊必定打出[color=#57c975]致命一擊[/color]",
         "args": "1 0",
         "come": "聖耀之光·黃金天馬神諭進階",
         "des": null,
@@ -45071,7 +45071,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於[color=#57c975]冰封[/color]狀態則[color=#52a5f2]當回合[/color]自身所有[color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1|[sprite name=dot4]自身技能額外50%令對手[color=#57c975]冰封[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]，[color=#52a5f2]然後[/color]若本次技能為攻擊技能則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]，對手不處於[color=#57c975]冰封[/color]狀態時改為[color=#52a5f2]吸取[/color]",
         "args": "1 50 3 3 1",
         "come": "冥王·蒼月影神諭進階",
         "des": null,
@@ -45391,7 +45391,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於能力提升狀態則[color=#52a5f2]當回合[/color]自身攻擊技能必定打出[color=#57c975]致命一擊[/color]，若對手處於能力提升狀態則消除對手能力提升狀態，消除成功則令對手[color=#57c975]燒傷[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若雙方任意一方處於異常狀態則減少對手所有技能2點PP值並恢復自身300點體力",
         "args": "100 100 100 2 300 1",
         "come": "楓眠神諭進階",
         "des": null,
@@ -46089,7 +46089,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4][color=#52a5f2]首次[/color]出戰[color=#52a5f2]登場時[color=#52a5f2]對方[/color]出戰背包中每有1隻系別中帶龍系的精靈獲得10層[color=#f35555]黯龍餘恨[/color]，若其中存在龍神哈莫則獲得層數翻倍|[sprite name=dot4][color=#57c975]回合開始時[/color]，使自身的[color=#f35555]墮龍殘怨[/color]等於本場戰鬥的回合數|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color],若對手體力高於自身則恢復自身最大體力的1/3並附加等量[color=#52a5f2]百分比傷害[/color]，恢復量與傷害量最高為自身[color=#52a5f2]已損失體力[/color]，[color=#f35555]黯龍餘恨[/color]和[color=#f35555]墮龍殘怨[/color]總層數＞30時取消觸發條件，若對手體力低於自身則下回合自身所有[color=#52a5f2]技能先制[/color]+1，[color=#f35555]黯龍餘恨[/color]和[color=#f35555]墮龍殘怨[/color]總層數＞30時效果提升至+2",
         "args": "1 0",
         "come": "混沌·哈肯薩精靈覺醒",
         "des": null,
@@ -46437,7 +46437,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身免疫受到的[color=#57c975]石化[/color]|[sprite name=dot4]自身[color=#57c975]護盾[/color]值高於對手時造成的攻擊傷害提升50%，自身的[color=#57c975]護盾[/color]值低於對手時受到的攻擊傷害、[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少50%|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力高於對手則獲得自身最大體力1/3的[color=#57c975]護盾[/color]，若低於對手則恢復最大體力1/3並造成等量[color=#52a5f2]百分比傷害[/color]|[sprite name=dot4]自身使用攻擊技能後開啟2回合[color=#f35555]暗影魔盾[/color]，使用屬性技能後開啟2回合[color=#f35555]幽冥魔盾[/color]，開啟任意一項後，若自身同時處於[color=#f35555]暗影魔盾[/color]、[color=#f35555]幽冥魔盾[/color]則觸發靈魂幹涉",
         "args": "50 50 3 3 2 2 100 1",
         "come": "該洛西斯神諭進階",
         "des": null,
@@ -46757,7 +46757,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身先出手時[color=#52a5f2]吸取[/color]對手等同於自身速度值50%的體力，後出手時下回合所有[color=#52a5f2]技能先制[/color]+2|[sprite name=dot4][color=#57c975]回合開始時[/color]，自身展開[color=#f35555]千滅雷翼[/color]，[color=#52a5f2]己方[/color]每陣亡1隻精靈，[color=#f35555]千滅雷翼[/color]的前1條無視觸發條件",
         "args": "50 2 300 1 1 100 1",
         "come": "守護者·艾里克神諭進階",
         "des": null,
@@ -47028,7 +47028,7 @@
         "come": "",
         "des": null,
         "tag": null,
-        "tips": "空元之銘：空元行者的技能被刻入了銘文，1~5號位的技能額外獲得以下效果；|\u00A0 仐：先制+1並無視對手的能力提升狀態、自身的能力下降狀態|\u00A0 叵：不受PP值限制且命中時吸取對手所有技能1點PP值|\u00A0 乂：回合開始時解除自身所處的異常狀態|\u00A0 卌：使用後吸取對手最大體力的40%且減少對手下次攻擊40%的傷害|\u00A0 卪：擊敗對手後減少自身體力上限的20%，本場戰鬥受到的攻擊傷害減少10%、造成的攻擊傷害提升10%|空元之詩：空元行者技能中的空元之詩效果不因原本的行動而觸發，每次行動結束後，若本回合所選技能的空元之詩效果生效且條件滿足，空元行者會抹除一篇空妄詩章，抹除成功後進行一次[color=#52a5f2]額外行動[/color]觸發空元之詩效果|空元之錄：空元行者存活於出戰背包時，雙方陣亡的不在場精靈會消逝並轉化為1篇空妄詩章，空元行者獲得其消逝前體力上限的10%（最高為空元行者最大體力的10%）|空元之瀆：空元行者首次死亡時失去所有空妄詩章並解除所處的異常狀態，當回合保留1點體力並免疫受到的異常狀態，之後觸發空元之詩效果不再抹除空妄詩章且不受其限制、每回合結束後減少200點體力上限|（boss無效）",
+        "tips": "空元之銘：空元行者的技能被刻入了銘文，1~5號位的技能額外獲得以下效果；|\u00A0 仐：先制+1並無視對手的能力提升狀態、自身的能力下降狀態|\u00A0 叵：不受PP值限制且命中時吸取對手所有技能1點PP值|\u00A0 乂：回合開始時解除自身所處的異常狀態|\u00A0 卌：使用後吸取對手最大體力的40%且減少對手下次攻擊40%的傷害|\u00A0 卪：擊敗對手後減少自身體力上限的20%，本場戰鬥受到的攻擊傷害減少10%、造成的攻擊傷害提升10%|空元之詩：空元行者技能中的空元之詩效果不因原本的行動而觸發，每次行動結束後，若本回合所選技能的空元之詩效果生效且條件滿足，空元行者會抹除一篇空妄詩章，抹除成功後進行一次額外行動觸發空元之詩效果|空元之錄：空元行者存活於出戰背包時，雙方陣亡的不在場精靈會消逝並轉化為1篇空妄詩章，空元行者獲得其消逝前體力上限的10%（最高為空元行者最大體力的10%）|空元之瀆：空元行者首次死亡時失去所有空妄詩章並解除所處的異常狀態，當回合保留1點體力並免疫受到的異常狀態，之後觸發空元之詩效果不再抹除空妄詩章且不受其限制、每回合結束後減少200點體力上限|（boss無效）",
         "kind": [
           1,
           3,
@@ -47528,7 +47528,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]戰鬥每開始1個回合，自身攻擊技能提升5點威力，每開始10個回合，自身所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身不處於能力提升狀態則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身技能將對手的能力提升視為能力下降，若自身不處於能力下降狀態且體力低於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少60%，若自身不處於能力下降狀態且體力高於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]提升30%",
+        "analyze": "[sprite name=dot4]戰鬥每開始1個回合，自身攻擊技能提升5點威力，每開始10個回合，自身所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身不處於能力提升狀態則[color=#52a5f2]當回合[/color]自身技能將對手的能力提升視為能力下降，若自身不處於能力下降狀態且體力低於對手則[color=#52a5f2]當回合[/color]受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少60%，若自身不處於能力下降狀態且體力高於對手則[color=#52a5f2]當回合[/color]造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]提升30%",
         "args": "1 5 10 1 60 30 1",
         "come": "",
         "des": null,
@@ -47765,7 +47765,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出戰時[/color]將[color=#52a5f2]己方[/color]上只精靈所處的能力狀態轉移給自身|[sprite name=dot4][color=#57c975]回合開始時[/color]，令對手隨機3項能力等級-1，[color=#52a5f2]然後[/color]若雙方所處的能力下降總項數不低於6，則消除對手[color=#52a5f2]回合類效果[/color]並使對手[color=#57c975]害怕[/color]，[color=#52a5f2]未觸發[/color]則令對手[color=#57c975]沉默[/color]並解除雙方能力下降狀態，每解除一方自身抵擋1次對手的攻擊",
         "args": "3 1 6 1 1",
         "come": "路希菲爾德神諭進階",
         "des": null,
@@ -47898,7 +47898,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]對手使用攻擊技能時，若對手的系別中帶有龍系則本次攻擊傷害不計算克制倍數與[color=#57c975]本系加成[/color]，對手使用屬性技能時若對手的系別中帶有龍系則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身免疫異常狀態|[sprite name=dot4]自身每次使用、受到攻擊技能後，若對手沒有[color=#f35555]窺目[/color]則附加[color=#f35555]窺目[/color]並[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手300點體力，若對手擁有[color=#f35555]窺目[/color]則解放[color=#f35555]窺目[/color]並將對手所處的所有異常狀態[color=#52a5f2]轉化[/color]為[color=#57c975]詛咒[/color]，對手不處於異常狀態時100%令對手[color=#57c975]害怕[/color]",
+        "analyze": "[sprite name=dot4]對手使用攻擊技能時，若對手的系別中帶有龍系則本次攻擊傷害不計算克制倍數與[color=#57c975]本系加成[/color]，對手使用屬性技能時若對手的系別中帶有龍系則[color=#52a5f2]當回合[/color]自身免疫異常狀態|[sprite name=dot4]自身每次使用、受到攻擊技能後，若對手沒有[color=#f35555]窺目[/color]則附加[color=#f35555]窺目[/color]並[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手300點體力，若對手擁有[color=#f35555]窺目[/color]則解放[color=#f35555]窺目[/color]並將對手所處的所有異常狀態[color=#52a5f2]轉化[/color]為[color=#57c975]詛咒[/color]，對手不處於異常狀態時100%令對手[color=#57c975]害怕[/color]",
         "args": "300 100 1",
         "come": "",
         "des": null,
@@ -47926,7 +47926,7 @@
       {
         "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若本回合對手選擇了攻擊技能則對手隨機1個技能PP值歸零且[color=#52a5f2]當回合[/color]造成的攻擊傷害無法超過自身最大體力的1/3，若對手選擇了屬性技能則自身[color=#52a5f2]當回合[/color]免疫受到的異常狀態與能力下降狀態，若對手未選擇技能則自身獲得1點[color=#f35555]靈茉之芯[/color]|[sprite name=dot1]自身[color=#57c975]被擊敗後[/color]，使下只精靈獲得[color=#f35555]芳馨之祝[/color]",
         "args": "1 3 1 1",
-        "come": "芳馨·茉蕊兒元素覺醒",
+        "come": "芳馨·茉蕊兒覺醒",
         "des": null,
         "tag": null,
         "tips": "回合開始時，若本回合對手選擇了攻擊技能則對手隨機1個技能PP值歸零且當回合造成的攻擊傷害無法超過自身最大體力的1/3，若對手選擇了屬性技能則自身當回合免疫受到的異常狀態與能力下降狀態，若對手未選擇技能則自身獲得1點靈茉之芯|自身被擊敗後，使下只精靈獲得芳馨祝福：獲得500點護盾、500點護罩、500點臨時體力上限且1回合免疫受到的異常狀態，芳馨祝福的免疫效果下場保留，免疫效果結束後失去臨時體力上限（boss有效）|靈茉之芯：每有1點自身造成的固定傷害、百分比傷害提升10%，且芳馨祝福免疫效果回合數+1，最高3點，下場保留|（標註部分boss有效，其餘無效）",
@@ -48167,7 +48167,7 @@
       {
         "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力高於1/2則2回合內自身免疫並[color=#52a5f2]以[/color][color=#57c975]害怕[/color]的形式[color=#57c975]反彈[/color]受到的異常狀態；[color=#57c975]戰鬥階段結束時[/color]，若自身體力低於1/2則令對手[color=#57c975]害怕[/color]，[color=#52a5f2]未觸發[/color]則[color=#52a5f2]吸取[/color]對手最大體力1/3|[sprite name=dot4]自身[color=#57c975]擊敗對手後[/color]自身每有1層[color=#f35555]穢黯之根[/color][color=#52a5f2]對方[/color]下只[color=#52a5f2]出戰[/color]精靈隨機1個技能PP值歸0；自身[color=#57c975]被擊敗後[/color]令對手[color=#57c975]害怕[/color]，[color=#52a5f2]然後[/color]對手每有1級[color=#f35555]晦暗之因[/color]對手隨機1個技能PP值歸0並20%[color=#57c975]詛咒[/color]",
         "args": "2 2 1",
-        "come": "混沌暗王霍德爾元素覺醒",
+        "come": "混沌暗王霍德爾覺醒",
         "des": null,
         "tag": null,
         "tips": "回合開始時，若自身體力高於1/2則2回合內自身免疫並以害怕的形式反彈受到的異常狀態；戰鬥階段結束時，若自身體力低於1/2則令對手害怕，未觸發則吸取對手最大體力1/3|自身擊敗對手後自身每有一層晦暗之根對方下只登場精靈隨機1個技能PP值歸0；自身被擊敗後令對手害怕，然後對手每有1級晦暗之因對手隨機1個技能PP值歸0並20%詛咒|（boss無效）",
@@ -48940,7 +48940,7 @@
         "type": 0
       },
       {
-        "analyze": "",
+        "analyze": "[sprite name=dot4]對手使用攻擊技能時，[color=#52a5f2]當回合[/color]自身受到的攻擊傷害減少50%且50%[color=#57c975]閃避[/color]對手的攻擊，自身體力低於對手時[color=#57c975]閃避[/color]率提升至80%，自身體力高於對手時減傷效果提升至60%|[sprite name=dot4]自身使用技能時隨機3項能力等級+1，若使用的技能為攻擊技能則攻擊、速度額外+1，若使用的技能為屬性技能則對手下回合[color=#52a5f2]先制[/color]-2，[color=#52a5f2]之後[/color][color=#52a5f2]當回合[/color]自身使用的[color=#52a5f2]技能無效[/color]時，下回合本條效果取消技能類型條件",
         "args": "50 50 80 60 3 1 2 1",
         "come": "鬼面幽蝶神諭進階",
         "des": null,
@@ -49336,7 +49336,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]，對手2回合內屬性[color=#52a5f2]技能無效[/color]，攻擊技能無法附加異常狀態與能力下降狀態，若[color=#52a5f2]登場(451)[/color][color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]對手未選擇技能則當[color=#57c975]回合結束後[/color]為對手附加2道[color=#f35555]蚩庸之鎖[/color]|[sprite name=dot4]對手每次使用技能時隨機2項能力等級-1，[color=#52a5f2]未觸發[/color]則自身[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]受到的攻擊傷害、[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少50%，[color=#52a5f2]然後[/color]若本次技能為攻擊技能則自身下回合所有[color=#52a5f2]技能先制[/color]+1且[color=#52a5f2]必定命中[/color]，若本次技能為屬性技能則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]且對手下次受到的攻擊傷害提升100%",
+        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]，對手2回合內屬性[color=#52a5f2]技能無效[/color]，攻擊技能無法附加異常狀態與能力下降狀態，若[color=#52a5f2]登場(451)[/color][color=#52a5f2]當回合[/color]對手未選擇技能則當[color=#57c975]回合結束後[/color]為對手附加2道[color=#f35555]蚩庸之鎖[/color]|[sprite name=dot4]對手每次使用技能時隨機2項能力等級-1，[color=#52a5f2]未觸發[/color]則自身[color=#52a5f2]當回合[/color]受到的攻擊傷害、[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少50%，[color=#52a5f2]然後[/color]若本次技能為攻擊技能則自身下回合所有[color=#52a5f2]技能先制[/color]+1且[color=#52a5f2]必定命中[/color]，若本次技能為屬性技能則附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]且對手下次受到的攻擊傷害提升100%",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -49362,7 +49362,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身計算攻擊傷害時雙攻值視為二者之和，且特殊攻擊[color=#52a5f2]技能先制[/color]額外+1，物理攻擊技能使用後[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手其雙防值總和30%的體力|[sprite name=dot4]天啟星魂每次[color=#57c975]登場時[/color]進行[color=#f35555]星啟[/color]，之後天啟星魂處於[color=#57c975]星賜[/color]時免疫[color=#57c975]疲憊[/color]狀態，處於[color=#57c975]星哲[/color]時免疫[color=#57c975]害怕[/color]狀態，均處於時免疫控制類異常狀態|[sprite name=dot4]自身異常狀態結束的[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]結束後轉動星盤1刻，轉動成功下[color=#57c975]回合結束後[/color]自身再次進行[color=#f35555]星啟[/color]，星盤轉動12個刻度後直到刻度回返至0不會再次轉動，期間自身[color=#52a5f2]免疫對手的攻擊[/color]且每回合進行一次[color=#52a5f2]額外行動[/color]觸發[color=#f35555]覆宙星回[/color]",
+        "analyze": "[sprite name=dot4]自身計算攻擊傷害時雙攻值視為二者之和，且特殊攻擊[color=#52a5f2]技能先制[/color]額外+1，物理攻擊技能使用後[color=#52a5f2]吸取[/color]對手其雙防值總和30%的體力|[sprite name=dot4]天啟星魂每次[color=#57c975]登場時[/color]進行[color=#f35555]星啟[/color]，之後天啟星魂處於[color=#57c975]星賜[/color]時免疫[color=#57c975]疲憊[/color]狀態，處於[color=#57c975]星哲[/color]時免疫[color=#57c975]害怕[/color]狀態，均處於時免疫控制類異常狀態|[sprite name=dot4]自身異常狀態結束的[color=#52a5f2]當回合[/color]結束後[color=#f35555]轉動星盤[/color]1刻，轉動成功下[color=#57c975]回合結束後[/color]自身再次進行[color=#f35555]星啟[/color]，星盤轉動12個刻度後直到刻度回返至0不會再次轉動，期間自身[color=#52a5f2]免疫對手的攻擊[/color]且每回合進行一次[color=#52a5f2]額外行動[/color]觸發[color=#f35555]覆宙星回[/color]",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -49909,7 +49909,7 @@
         "isAdv": 0,
         "label": 0,
         "limitedType": 0,
-        "target": 0,
+        "target": 112003,
         "to": 0,
         "type": 0
       },
@@ -50727,7 +50727,7 @@
       {
         "analyze": "[sprite name=dot4][color=#52a5f2]登場時[/color]獲得400點[color=#57c975]護盾[/color]，此[color=#57c975]護盾[/color]存在時自身受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]不超過此[color=#57c975]護盾[/color]的數值，[color=#52a5f2]之後[/color]自身處於[color=#57c975]護盾[/color]狀態時所有[color=#52a5f2]技能先制[/color]+1且攻擊技能使用時獲得1道[color=#f35555]永恆之水[/color]，自身不處於[color=#57c975]護盾[/color]狀態時所有技能不消耗PP值且攻擊後附加1滴[color=#f35555]蝕硯之淚[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若[color=#52a5f2]當回合(412)[/color]自身受到了攻擊傷害則抵擋對手下1次攻擊，若未受到攻擊傷害則恢復自身最大體力的25%並造成恢復量等量[color=#52a5f2]百分比傷害[/color]，若場上存在[color=#f35555]永恆之水[/color]與[color=#f35555]蝕硯之淚[/color]則2回合內對手無法解除、[color=#52a5f2][color=#52a5f2]反轉[/color][/color]能力下降狀態",
         "args": "1 1 1",
-        "come": "怒濤·滄嵐元素覺醒",
+        "come": "怒濤·滄嵐覺醒",
         "des": null,
         "tag": null,
         "tips": "登場時獲得400點護盾，此護盾存在時自身受到的固定傷害、百分比傷害不超過此護盾的數值，之後自身處於護盾狀態時所有技能先制+1且攻擊技能使用時獲得1道永恆之水，自身不處於護盾狀態時所有技能不消耗PP值且攻擊後為對手附加1滴蝕硯之淚|戰鬥階段結束時，若當回合自身受到了攻擊傷害則抵擋對手下1次攻擊，若未受到攻擊傷害則恢復自身最大體力的25%並造成恢復量等量百分比傷害，若場上存在永恆之水與蝕硯之淚則2回合內對手無法解除、反轉能力下降狀態|永恆之水：每有1道自身造成的攻擊傷害提升25%，最高8道，達到8道後本場戰鬥永恆之水的道數下場保留|蝕硯之淚：達到3滴後自身護盾效果失效，達到4滴後自身的受到的攻擊、攻擊傷害無法被免疫與轉化，最高4滴，下場保留，滄嵐被擊敗時消失|（boss無效）",
@@ -51154,7 +51154,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身擁有[color=#52a5f2]己方[/color]其他精靈專屬特性中的[color=#57c975]擊敗[/color]類效果，自身[color=#57c975]登場時[/color]每擁有1種其他精靈的[color=#57c975]擊敗[/color]類效果獲得1層[color=#f35555]狩殺之魂[/color]，若對方不存在[color=#f35555]狩殺之的[/color]則將存活的對手標記為[color=#f35555]狩殺之的[/color]|[sprite name=dot4]自身擁有[color=#f35555]狩殺之魂[/color]的[color=#57c975]回合開始時[/color]，若對手的體力不低於[color=#f35555]狩殺之的[/color]的體力則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身使用攻擊技能時消耗1層狩殺之魂並為對手與[color=#f35555]狩殺之的[/color]附加等同於[color=#52a5f2]威力[/color]值的[color=#52a5f2][color=#52a5f2]真實傷害[/color](404)[/color]，若對手的體力不高於[color=#f35555]狩殺之的[/color]的體力則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身使用攻擊技能時消耗1層狩殺之魂並令自身[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]提升40%，同時滿足時，上述效果的觸發無需消耗狩殺之魂",
+        "analyze": "[sprite name=dot4]自身擁有[color=#52a5f2]己方[/color]其他精靈專屬特性中的[color=#57c975]擊敗[/color]類效果，自身[color=#57c975]登場時[/color]每擁有1種其他精靈的[color=#57c975]擊敗[/color]類效果獲得1層[color=#f35555]狩殺之魂[/color]，若對方不存在[color=#f35555]狩殺之的[/color]則將存活的對手標記為[color=#f35555]狩殺之的[/color]|[sprite name=dot4]自身擁有[color=#f35555]狩殺之魂[/color]的[color=#57c975]回合開始時[/color]，若對手的體力不低於[color=#f35555]狩殺之的[/color]的體力則[color=#52a5f2]當回合[/color]自身使用攻擊技能時消耗1層狩殺之魂並為對手與[color=#f35555]狩殺之的[/color]附加等同於[color=#52a5f2]威力[/color]值的[color=#52a5f2]真實傷害(404)[/color]，若對手的體力不高於[color=#f35555]狩殺之的[/color]的體力則[color=#52a5f2]當回合[/color]自身使用攻擊技能時消耗1層狩殺之魂並令自身[color=#52a5f2]當回合[/color]造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]提升40%，同時滿足時，上述效果的觸發無需消耗狩殺之魂",
         "args": "40 50 1",
         "come": "",
         "des": null,
@@ -51758,9 +51758,9 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身受到的技能[color=#57c975]傷害額外減少[/color]60%，若[color=#52a5f2]以[/color]此法減少的傷害值低於200點則[color=#57c975]戰鬥階段結束時[/color]雙方受到等量的[color=#57c975]真實傷害[/color]，若高於200點且自身擁有[color=#f35555]寂殺之魄[/color]則令對手[color=#57c975]凍傷[/color]3回合|[sprite name=dot4]自身受到[color=#57c975]真實傷害[/color]時獲得1道[color=#f35555]寂殺之魄[/color]；自身攻擊技能無視對手的能力提升效果且攻擊後若對手處於能力提升狀態則100%令對手[color=#57c975]冰封[/color]，[color=#52a5f2]未觸發[/color]則為[color=#52a5f2]對方[/color]附加200點[color=#f35555]肅霜之禁[/color]，若回合開始自身沒有[color=#f35555]寂殺之魄[/color]則[color=#52a5f2]當回合[/color]上述效果改為由自身無視對手的能力提升效果且附加[color=#f35555]肅霜之禁[/color]無需[color=#57c975]冰封[/color][color=#52a5f2]未觸發[/color]|[sprite name=dot4]",
+        "analyze": "[sprite name=dot4]自身受到的技能[color=#57c975]傷害額外減少[/color]60%，若[color=#52a5f2]以[/color]此法減少的傷害值低於200點則[color=#57c975]戰鬥階段結束時[/color]雙方受到等量的[color=#57c975]真實傷害[/color]，若高於200點且自身擁有[color=#f35555]寂殺之魄[/color]則令對手[color=#57c975]凍傷[/color]3回合|[sprite name=dot4]自身受到[color=#57c975]真實傷害[/color]時獲得1道[color=#f35555]寂殺之魄[/color]；自身攻擊技能無視對手的能力提升效果且攻擊後若對手處於能力提升狀態則100%令對手[color=#57c975]冰封[/color]，[color=#52a5f2]未觸發[/color]則為[color=#52a5f2]對方[/color]附加200點[color=#f35555]肅霜之禁[/color]，若回合開始自身沒有[color=#f35555]寂殺之魄[/color]則[color=#52a5f2]當回合[/color]上述效果改為由自身無視對手的能力提升效果且附加[color=#f35555]肅霜之禁[/color]無需[color=#57c975]冰封[/color][color=#52a5f2]未觸發[/color]",
         "args": "60 1",
-        "come": "冰魄·柯爾德元素覺醒",
+        "come": "冰魄·柯爾德覺醒",
         "des": null,
         "tag": null,
         "tips": "自身受到的技能傷害額外減少60%，若以此法減少的傷害值低於200點則戰鬥階段結束時雙方受到等量的真實傷害，若高於200點且自身擁有寂殺之魄則令對手凍傷3回合|自身受到真實傷害時獲得1道寂殺之魄；自身攻擊技能無視對手的能力提升效果且攻擊後若對手處於能力提升狀態則100%令對手冰封，未觸發則為對方附加200點肅霜之禁，若回合開始自身沒有寂殺之魄則當回合上述效果改為由自身無視對手的能力提升效果且附加肅霜之禁無需冰封未觸發|寂殺之魄：雙方任意一方處於異常狀態時自身無視對手不高於寂殺之魄道數的先制等級，若處於異常狀態則效果提升至3倍；最高3層，下場保留|肅霜之禁：造成的技能傷害無法超過肅霜之禁的點數，死亡下場時消失，觸發或自身主動下場後肅霜之禁減少200點，對手每有一道寂殺之魄減少效果下降50點；最高累計200點|（boss無效）",
@@ -51785,7 +51785,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]戰鬥開始時，自身種下[color=#f35555]希望之花[/color]，且除此特性外對方精靈每有一個含有[color=#52a5f2]「秒殺」[/color]的特性，[color=#52a5f2]己方[/color][color=#52a5f2]危機感[/color]+1|[sprite name=dot4]自身[color=#57c975]登場時[/color]1回合內免疫並[color=#57c975]反彈[/color]受到的異常狀態，若直到[color=#57c975]戰鬥階段結束時[/color]未免疫異常狀態則恢復最大體力的1/3|[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手為自身天敵則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身受到的攻擊傷害減少50%，若自身為對手天敵則所有技能恢復1點PP值且[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#52a5f2]先制[/color]+1",
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身種下[color=#f35555]希望之花[/color]，且除此特性外對方精靈每有一個含有[color=#52a5f2]「秒殺」[/color]的特性，[color=#52a5f2]己方[/color][color=#52a5f2]危機感[/color]+1|[sprite name=dot4]自身[color=#57c975]登場時[/color]1回合內免疫並[color=#57c975]反彈[/color]受到的異常狀態，若直到[color=#57c975]戰鬥階段結束時[/color]未免疫異常狀態則恢復最大體力的1/3|[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手為自身天敵則[color=#52a5f2]當回合[/color]自身受到的攻擊傷害減少50%，若自身為對手天敵則所有技能恢復1點PP值且[color=#52a5f2]當回合[/color][color=#52a5f2]先制[/color]+1",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -52130,7 +52130,7 @@
       {
         "analyze": "[sprite name=dot4]自身[color=#57c975]護盾[/color]被擊破時，附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]且下次受到攻擊的[color=#57c975]傷害額外減少[/color]50%；自身能力提升被消除、[color=#52a5f2]吸取(434)[/color]時，自身獲得1層[color=#f35555]封邪之嶂[/color]與400點[color=#57c975]護盾[/color]；自身每次受到高於自身最大體力1/3的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]時，恢復等同於[color=#57c975]護盾[/color]值的體力|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身處於能力提升狀態則為自身附加400點[color=#57c975]護盾[/color]，若自身不處於能力提升狀態則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color][color=#52a5f2]吸取[/color]對手最大體力的1/3並獲得等量[color=#57c975]護盾[/color]，最高疊加至400點；[color=#57c975]戰鬥階段結束時[/color]，若自身的[color=#57c975]護盾[/color]值為400的正整數倍則為對手種下1隻[color=#f35555]留魂之蠱[/color]",
         "args": "1 0",
-        "come": "混沌地王萊茵哈特元素覺醒",
+        "come": "混沌地王萊茵哈特覺醒",
         "des": null,
         "tag": null,
         "tips": "自身護盾被擊破時，附加對手最大體力1/3的百分比傷害且下次受到攻擊的傷害額外減少50%；自身能力提升被消除、吸取時，自身獲得1層封邪之嶂與400點護盾；自身每次受到高於自身最大體力1/3的固定傷害、百分比傷害後，恢復等同於護盾值的體力|回合開始時，若自身處於能力提升狀態則為自身附加400點護盾，若自身不處於能力提升狀態則當回合戰鬥階段結束時吸取對手最大體力的1/3並獲得等量護盾，最高疊加至400點；戰鬥階段結束時，若自身的護盾值為400的正整數倍則為對手種下1隻留魂之蠱|（boss無效）",
@@ -52499,7 +52499,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登場[/color][color=#52a5f2]之後[/color]自身攻擊[color=#52a5f2]技能先制[/color]+3且使用後[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手最大體力的50%，[color=#57c975]回合結束後[/color]上述[color=#52a5f2]先制(339)[/color]效果-1、[color=#52a5f2][color=#52a5f2]吸取[/color][/color]效果減少10%[color=#52a5f2]以[/color]恢復自身240點體力，最多減少3次，減少3次之前，自身使用攻擊技能時消除對手[color=#52a5f2]回合類效果[/color]，消除成功令對手[color=#57c975]流血[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力低於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身屬性[color=#52a5f2]技能先制[/color]+1且[color=#57c975]回合結束後[/color]恢復所有技能1點PP值，對手每攜帶一個屬性技能效果提升1點，若自身體力高於對手則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身攻擊[color=#52a5f2]技能先制[/color]+1且造成的攻擊傷害提升20%，對手每攜帶一個攻擊技能效果提升20%|[sprite name=dot4]未[color=#57c975]擊敗[/color]對手時，若對手處於[color=#57c975]流血[/color]則為對手附加[color=#f35555]入魅[/color]，否則下回合所有技能[color=#52a5f2]必定命中[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]登場[/color][color=#52a5f2]之後[/color]自身攻擊[color=#52a5f2]技能先制[/color]+3且使用後[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手最大體力的50%，[color=#57c975]回合結束後[/color]上述[color=#52a5f2]先制(339)[/color]效果-1、[color=#52a5f2][color=#52a5f2]吸取[/color][/color]效果減少10%[color=#52a5f2]以[/color]恢復自身240點體力，最多減少3次，減少3次之前，自身使用攻擊技能時消除對手[color=#52a5f2]回合類效果[/color]，消除成功令對手[color=#57c975]流血[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力低於對手則[color=#52a5f2]當回合[/color]自身屬性[color=#52a5f2]技能先制[/color]+1且[color=#57c975]回合結束後[/color]恢復所有技能1點PP值，對手每攜帶一個屬性技能效果提升1點，若自身體力高於對手則[color=#52a5f2]當回合[/color]自身攻擊[color=#52a5f2]技能先制[/color]+1且造成的攻擊傷害提升20%，對手每攜帶一個攻擊技能效果提升20%|[sprite name=dot4]未[color=#57c975]擊敗[/color]對手時，若對手處於[color=#57c975]流血[/color]則為對手附加[color=#f35555]入魅[/color]，否則下回合所有技能[color=#52a5f2]必定命中[/color]",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -52655,9 +52655,9 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身選擇了技能的[color=#57c975]回合開始時[/color]，若此技能與上次使用的技能類型相同則恢復所有技能1點PP值且[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1，若類型不同則恢復最大體力的1/3且[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]行動後附加恢復量的[color=#52a5f2]百分比傷害[/color]，若不存在上次技能則對手行動後自身獲得1層[color=#f35555]逆命之威[/color]，否則自身行動後附加1層[color=#f35555]荒古之懾[/color]|[sprite name=dot4]自身[color=#52a5f2]登場[/color]時，[color=#52a5f2]己方[/color]精靈每存活1隻獲得100點[color=#57c975]護盾[/color]，每存活2隻下1次攻擊時消除對手[color=#52a5f2]回合類效果[/color]且必定打出[color=#57c975]致命一擊[/color]，每存活3隻下1次被[color=#57c975]致命一擊[/color]命中時消除自身[color=#52a5f2]回合類效果[/color]並抵擋之，每陣亡1隻本次在場造成的攻擊傷害提升10%，每陣亡2隻下1次被攻擊時[color=#52a5f2]當回合[/color]受到的非真實傷害減半，每陣亡3隻本次在場附加的[color=#f35555]荒古之懾[/color]層數+1，每滿足2項下1次進入衍化類異常狀態後結束之",
+        "analyze": "[sprite name=dot4]自身選擇了技能的[color=#57c975]回合開始時[/color]，若此技能與上次使用的技能類型相同則恢復所有技能1點PP值且[color=#52a5f2]當回合[/color][color=#52a5f2]技能[color=#52a5f2]先制[/color][/color]+1，若類型不同則恢復最大體力的1/3且[color=#52a5f2]當回合[/color]行動後附加恢復量的[color=#52a5f2]百分比傷害[/color]，若不存在上次技能則對手行動後自身獲得1層[color=#f35555]逆命之威[/color]，否則自身行動後附加1層[color=#f35555]荒古之懾[/color]|[sprite name=dot4]自身[color=#52a5f2]登場[/color]時，[color=#52a5f2]己方[/color]精靈每存活1隻獲得100點[color=#57c975]護盾[/color]，每存活2隻下1次攻擊時消除對手[color=#52a5f2]回合類效果[/color]且必定打出[color=#57c975]致命一擊[/color]，每存活3隻下1次被[color=#57c975]致命一擊[/color]命中時消除自身[color=#52a5f2]回合類效果[/color]並抵擋之，每陣亡1隻本次在場造成的攻擊傷害提升10%，每陣亡2隻下1次被攻擊時[color=#52a5f2]當回合[/color]受到的非真實傷害減半，每陣亡3隻本次在場附加的[color=#f35555]荒古之懾[/color]層數+1，每滿足2項下1次進入衍化類異常狀態後結束之",
         "args": "1 0",
-        "come": "喬列尼德元素覺醒",
+        "come": "喬列尼德覺醒",
         "des": null,
         "tag": null,
         "tips": "自身選擇了技能的回合開始時，若此技能與上次使用的技能類型相同則恢復所有技能1點PP值且當回合技能先制+1，若類型不同則恢復最大體力的1/3且當回合行動後附加恢復量的百分比傷害，若不存在上次技能則對手行動後自身獲得1層逆命之威，否則自身行動後附加1層荒古之懾|登場時，己方精靈每存活1隻獲得100點護盾，每存活2隻下1次攻擊時消除對手回合類效果且必定打出致命一擊，每存活3隻下1次被致命一擊命中時消除自身回合類效果並抵擋之，每陣亡1隻本次在場造成的攻擊傷害提升10%，每陣亡2隻下1次被攻擊時當回合受到的非真實傷害減半，每陣亡3隻本次在場附加的荒古之懾層數+1，每滿足2項下1次進入衍化類異常狀態後結束之",
@@ -52761,7 +52761,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]戰鬥開始時，[color=#52a5f2]己方[/color]每有1個特性中不含有概率不高於50%的[color=#52a5f2]異常狀態附加效果[/color]的其他精靈，自身獲得1層[color=#f35555]英雄之耀[/color]，每有1個含有的其他精靈，自身失去1層[color=#f35555]英雄之耀[/color]|[sprite name=dot4]自身位於出戰背包時，雙方精靈[color=#57c975]登場時[/color]受到[color=#57c975][color=#57c975]砥礪[/color][/color]1回合，觸發成功則獲得3回合[color=#f35555]亮節[/color]，[color=#52a5f2]未觸發[/color]則被附加3回合[color=#f35555]威怯[/color]|[sprite name=dot4]自身攻擊無視對手的能力提升效果、[color=#52a5f2]護盾承傷效果[/color]、攻擊免疫效果；自身使用攻擊技能時，若對手沒有[color=#f35555]武誅[/color]則使用後為對手附加等同於[color=#f35555]英雄之耀[/color]的[color=#f35555]武誅[/color]，若對手擁有[color=#f35555]武誅[/color]，則觸發如下效果並在使用後消除對手的[color=#f35555]武誅[/color]|    [sprite name=dot5]對手每有1回合[color=#f35555]武誅[/color]，[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]造成的攻擊傷害提升20%|    [sprite name=dot5]本次攻擊的無視對手能力提升效果改為將其視為能力下降效果|    [sprite name=dot5]將自身的能力下降效果視為對手的能力下降效果|    [sprite name=dot5]對手每有100點[color=#57c975]護盾[/color]、[color=#57c975]護罩[/color]，本次攻擊[color=#52a5f2]傷害額外提升[/color]10%，最高100%|    [sprite name=dot5]本次攻擊無視攻擊免疫效果成功時為對手附加3回合[color=#f35555]威怯[/color]",
+        "analyze": "[sprite name=dot4]戰鬥開始時，[color=#52a5f2]己方[/color]每有1個特性中不含有概率不高於50%的[color=#52a5f2]異常狀態附加效果[/color]的其他精靈，自身獲得1層[color=#f35555]英雄之耀[/color]，每有1個含有的其他精靈，自身失去1層[color=#f35555]英雄之耀[/color]|[sprite name=dot4]自身位於出戰背包時，雙方精靈[color=#57c975]登場時[/color]受到[color=#57c975][color=#57c975]砥礪[/color][/color]1回合，觸發成功則獲得3回合[color=#f35555]亮節[/color]，[color=#52a5f2]未觸發[/color]則被附加3回合[color=#f35555]威怯[/color]|[sprite name=dot4]自身攻擊無視對手的能力提升效果、[color=#52a5f2]護盾承傷效果[/color]、攻擊免疫效果；自身使用攻擊技能時，若對手沒有[color=#f35555]武誅[/color]則使用後為對手附加等同於[color=#f35555]英雄之耀[/color]的[color=#f35555]武誅[/color]，若對手擁有[color=#f35555]武誅[/color]，則觸發如下效果並在使用後消除對手的[color=#f35555]武誅[/color]|    [sprite name=dot5]對手每有1回合[color=#f35555]武誅[/color]，[color=#52a5f2]當回合[/color]造成的攻擊傷害提升20%|    [sprite name=dot5]本次攻擊的無視對手能力提升效果改為將其視為能力下降效果|    [sprite name=dot5]將自身的能力下降效果視為對手的能力下降效果|    [sprite name=dot5]對手每有100點[color=#57c975]護盾[/color]、[color=#57c975]護罩[/color]，本次攻擊[color=#52a5f2]傷害額外提升[/color]10%，最高100%|    [sprite name=dot5]本次攻擊無視攻擊免疫效果成功時為對手附加3回合[color=#f35555]威怯[/color]",
         "args": "1 0",
         "come": "",
         "des": null,
@@ -53256,7 +53256,7 @@
       {
         "analyze": "[sprite name=dot4]戰鬥開始時，[color=#f35555]金祖之龍[/color]、[color=#f35555]玄源之㡣[/color]加入[color=#52a5f2]己方[/color]，[color=#52a5f2]之後[/color][color=#52a5f2]己方[/color]精靈每有1隻存活或系別帶龍系自身[color=#57c975]登場時[/color]獲得100點[color=#57c975]護盾[/color]，每有1隻陣亡或系別帶龍系自身造成的攻擊傷害提升10%|[sprite name=dot4]自身受到異常狀態的回合，[color=#57c975]回合結束後[/color]恢復最大體力的20%；自身未受到異常狀態的回合，被攻擊時附加最大體力20%的[color=#52a5f2]百分比傷害[/color]；任意一項[color=#52a5f2]執行[/color]後自身[color=#52a5f2][color=#52a5f2]吸取[/color][/color]對手所有技能1點PP值，對手技能PP值因本次吸取歸0時對手1回合內攻擊[color=#52a5f2]技能無效[/color]",
         "args": "1 0",
-        "come": "鎮世·喬特魯德元素覺醒",
+        "come": "鎮世·喬特魯德覺醒",
         "des": null,
         "tag": null,
         "tips": "戰鬥開始時，金祖之龍、玄源之㡣加入己方，之後己方精靈每有1隻存活或系別帶龍系自身登場時獲得100點護盾，每有1隻陣亡或系別帶龍系自身造成的攻擊傷害提升10%|自身受到異常狀態的回合，回合結束後恢復最大體力的20%；自身未受到異常狀態的回合，被攻擊時附加最大體力20%的百分比傷害；任意一項執行後自身吸取對手所有技能1點PP值，對手技能PP值因本次吸取歸0時對手1回合內攻擊技能無效|金祖之龍：龍系額外精靈；己方受到臣服的回合免疫受到的異常狀態，自身陣亡時僅對喬特魯德生效且減少其20%的所受非真實傷害；喬特魯德受到致死傷害時若傷害高於其登場可獲得的護盾則自身死亡以保留其20%的體力|玄源之㡣：龍系額外精靈；己方受到疲憊的回合免疫受到的異常狀態，自身陣亡時僅對喬特魯德生效且增加其20%的體力上限；喬特魯德造成非致死傷害時若其最大體力的20%高於對手的體力則自身死亡以消耗對手全部體力|（boss無效）",
@@ -53306,7 +53306,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]，自身獲得最大體力1/3的[color=#57c975]護盾[/color]，此[color=#57c975]護盾[/color]消失時[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#57c975]戰鬥階段結束時[/color]自身恢復全部PP值，此[color=#57c975]護盾[/color]存在時每[color=#57c975]回合開始時[/color]令於[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#52a5f2]登場(451)[/color]的對手[color=#57c975]星贖[/color]3回合，每次受到[color=#52a5f2]致死傷害[/color]時消耗自身所有能力值的50%[color=#52a5f2]以[/color]重生，[color=#57c975]星贖[/color][color=#52a5f2]未觸發[/color]時令自身[color=#57c975][color=#57c975]砥礪[/color][/color]3回合，重生觸發[color=#52a5f2]之後[/color]本場戰鬥自身失去本條效果且下述效果觸發條件中的「自身」改為「雙方任意一方」、所有數字改為一半（向上取整）|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身處於異常狀態則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]受到的攻擊傷害減少(自身雙防值*5)/(自身最大體力*10)、受到的其他非[color=#52a5f2]真實傷害[/color]減少(自身最大體力*5)/(自身雙防值*10)，[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#57c975]戰鬥階段結束時[/color]令對手[color=#57c975]星贖[/color]，[color=#52a5f2]未觸發[/color]自身下次攻擊後令對手[color=#57c975]石化[/color]，若自身不處於異常狀態則獲得(對手已損失PP值*對手最大體力/100)+自身最大體力1/3的[color=#57c975]護罩[/color]，[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身受到非致死[color=#52a5f2]真實傷害[/color]時，恢復此[color=#57c975]護罩[/color]的體力且[color=#52a5f2]反轉[/color]對手能力提升狀態，[color=#52a5f2]反轉[/color]成功令對手[color=#57c975]砥礪[/color]",
+        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]，自身獲得最大體力1/3的[color=#57c975]護盾[/color]，此[color=#57c975]護盾[/color]消失時[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]自身恢復全部PP值，此[color=#57c975]護盾[/color]存在時每[color=#57c975]回合開始時[/color]令於[color=#52a5f2]當回合[/color][color=#52a5f2]登場(451)[/color]的對手[color=#57c975]星贖[/color]3回合，每次受到[color=#52a5f2]致死傷害[/color]時消耗自身所有能力值的50%[color=#52a5f2]以[/color]重生，[color=#57c975]星贖[/color][color=#52a5f2]未觸發[/color]時令自身[color=#57c975][color=#57c975]砥礪[/color][/color]3回合，重生觸發[color=#52a5f2]之後[/color]本場戰鬥自身失去本條效果且下述效果觸發條件中的「自身」改為「雙方任意一方」、所有數字改為一半（向上取整）|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身處於異常狀態則[color=#52a5f2]當回合[/color]受到的攻擊傷害減少(自身雙防值*5)/(自身最大體力*10)、受到的其他非[color=#52a5f2]真實傷害[/color]減少(自身最大體力*5)/(自身雙防值*10)，[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]令對手[color=#57c975]星贖[/color]，[color=#52a5f2]未觸發[/color]自身下次攻擊後令對手[color=#57c975]石化[/color]，若自身不處於異常狀態則獲得(對手已損失PP值*對手最大體力/100)+自身最大體力1/3的[color=#57c975]護罩[/color]，[color=#52a5f2]當回合[/color]自身受到非致死[color=#52a5f2]真實傷害[/color]時，恢復此[color=#57c975]護罩[/color]的體力且[color=#52a5f2]反轉[/color]對手能力提升狀態，[color=#52a5f2]反轉[/color]成功令對手[color=#57c975]砥礪[/color]",
         "args": "1 0",
         "come": "挽塵之遺契約召喚",
         "des": null,
@@ -53858,9 +53858,9 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身與上次所使用技能類型相同的[color=#52a5f2]技能先制[/color]+1且造成的傷害提高50%，不同的技能使用後恢復最大體力的1/3並附加恢復量的[color=#52a5f2]百分比傷害[/color]；自身使用沒有上述效果的技能後獲得1層[color=#f35555]舊日之晷[/color]，使用擁有上述效果的技能後隨機附加1種非限制類異常狀態，[color=#52a5f2]未觸發[/color]時[color=#52a5f2]吸取[/color]對手最大體力的1/3|[sprite name=dot4][color=#57c975]回合開始時[/color]，若場上存在異常狀態則自身獲得最大體力1/3的[color=#57c975]護盾[/color]並附加1層[color=#f35555]宙變之殢[/color]，若不存在則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]恢復雙方當前[color=#57c975]護盾[/color]值的體力，若本次在場自身未獲得過[color=#f35555]舊日之晷[/color]則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color][color=#57c975]戰鬥階段結束時[/color]令對手[color=#57c975]衰弱[/color]1回合，[color=#52a5f2]未觸發[/color]則附加3層[color=#f35555]宙變之殢[/color]",
+        "analyze": "[sprite name=dot4]自身與上次所使用技能類型相同的[color=#52a5f2]技能先制[/color]+1且造成的傷害提高50%，不同的技能使用後恢復最大體力的1/3並附加恢復量的[color=#52a5f2]百分比傷害[/color]；自身使用沒有上述效果的技能後獲得1層[color=#f35555]舊日之晷[/color]，使用擁有上述效果的技能後隨機附加1種非限制類異常狀態，[color=#52a5f2]未觸發[/color]時[color=#52a5f2]吸取[/color]對手最大體力的1/3|[sprite name=dot4][color=#57c975]回合開始時[/color]，若場上存在異常狀態則自身獲得最大體力1/3的[color=#57c975]護盾[/color]並附加1層[color=#f35555]宙變之殢[/color]，若不存在則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]恢復雙方當前[color=#57c975]護盾[/color]值的體力，若本次在場自身未獲得過[color=#f35555]舊日之晷[/color]則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]令對手[color=#57c975]衰弱[/color]1回合，[color=#52a5f2]未觸發[/color]則附加3層[color=#f35555]宙變之殢[/color]",
         "args": "1 0",
-        "come": "洪荒·列奧尼達元素覺醒",
+        "come": "洪荒·列奧尼達覺醒",
         "des": null,
         "tag": null,
         "tips": "自身與上次所使用技能類型相同的技能先制+1且造成的傷害提高50%，不同的技能使用後恢復最大體力的1/3並附加恢復量的百分比傷害；自身使用沒有上述效果的技能後獲得1層舊日之晷，使用擁有上述效果的技能後隨機附加1種非限制類異常狀態，未觸發時吸取對手最大體力的1/3|回合開始時，若場上存在異常狀態則自身獲得最大體力1/3的護盾並附加1層宙變之殢，若不存在則當回合戰鬥階段結束時恢復雙方當前護盾值的體力，若本次在場自身未獲得過舊日之晷則當回合戰鬥階段結束時令對手衰弱1回合，未觸發則附加3層宙變之殢（boss無效）",
@@ -53885,7 +53885,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身的PP值總和每有對手的1倍，自身受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減半1次，每次傷害最多減半8次|[sprite name=dot4]每回合前8次受到[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]時，若自身的PP值總和高於對手則恢復對手所有技能已損失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此歸0時2回合內令對手無法恢復體力，若自身的PP值總和不高於對手則[color=#52a5f2]吸取(464)[/color]對手所有技能1點PP值恢復至自身PP值最低的[color=#52a5f2]首位技能[/color]且自身[color=#52a5f2]吸取[/color]對手240點體力，[color=#52a5f2]然後[/color]若對手的體力未減少則對其相鄰精靈造成等量[color=#52a5f2]真實傷害(404)[/color]",
+        "analyze": "[sprite name=dot4]自身的PP值總和每有對手的1倍，自身受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減半1次，每次傷害最多減半8次|[sprite name=dot4]每回合前8次受到[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]時，若自身的PP值總和高於對手則恢復對手所有技能已損失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此歸0時2回合內對手無法恢復體力，若自身的PP值總和不高於對手則[color=#52a5f2]吸取(464)[/color]對手所有技能1點PP值恢復至自身PP值最低的[color=#52a5f2]首位技能[/color]且自身[color=#52a5f2]吸取[/color]對手240點體力，[color=#52a5f2]然後[/color]若對手的體力未減少則對其相鄰精靈造成等量[color=#52a5f2]真實傷害(404)[/color]",
         "args": "0 1 1",
         "come": "",
         "des": null,
@@ -54010,6 +54010,1747 @@
         "label": 0,
         "limitedType": 0,
         "target": 111311,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]對手pp值總和每比自身高1倍，自身造成的攻擊傷害提升30%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身存在pp值相等的技能則[color=#52a5f2]當回合[/color]自身技能命中後恢復所有技能1點pp並[color=#52a5f2]吸取[/color]對手400點體力，自身pp值每恢復一點則[color=#52a5f2]吸取[/color]效果減少80點，若不存在pp值相等的技能則[color=#52a5f2]當回合[/color]必定打出[color=#57c975]致命一擊[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身若不存在pp值相等的技能，則使自身每個技能的pp值儘可能等於所有技能pp值的平均值，技能pp值總和每因此減少1點，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+3",
+        "args": "30 400 80 3 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "對手pp值總和每比自身高1倍，自身造成的攻擊傷害提升30%|回合開始時，若自身存在pp值相等的技能則當回合自身技能命中後恢復所有技能1點pp並吸取對手400點體力，自身pp值每恢復一點則吸取效果減少80點，若不存在pp值相等的技能則當回合必定打出致命一擊|戰鬥階段結束時，若自身若不存在pp值相等的技能，則使自身每個技能的pp值儘可能等於所有技能pp值的平均值，技能pp值總和每因此減少1點，下回合所有技能先制+1，最高+3|（boss無效）",
+        "kind": [
+          1,
+          9
+        ],
+        "petId": [
+          4870
+        ],
+        "specificId": null,
+        "effectId": 2477,
+        "iconId": 2057,
+        "Id": 2057,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身獲得1個[color=#f35555]風龍結[/color]；對手每次[color=#52a5f2]執行[/color][color=#52a5f2]異常狀態附加效果[/color]後，自身的[color=#f35555]風龍結[/color]數量+50並除以附加的概率，[color=#52a5f2]然後[/color]若[color=#f35555]風龍結[/color]大於500個則額外解除自身所處的異常狀態|[sprite name=dot4][color=#57c975]回合開始[/color]時，若自身體力高於1/2則下[color=#57c975]回合開始[/color]時[color=#52a5f2][color=#52a5f2]反轉[/color][/color]對手的能力提升狀態，[color=#52a5f2]反轉[/color]成功則[color=#52a5f2]當回合[/color]受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少50%，[color=#52a5f2]未觸發[/color]則對手2回合內無法[color=#52a5f2]主動切換[/color]精靈|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力低於1/2則獲得50個[color=#f35555]風龍結[/color]並[color=#52a5f2]吸取[/color]對手500點體力，若對手未受到此傷害則令對手[color=#57c975]焚燼[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，自身獲得1個風龍結；對手每次執行異常狀態附加效果後，自身的風龍結數量+50並除以附加的概率，然後若風龍結大於500個則額外解除自身所處的異常狀態|回合開始時，若自身體力高於1/2則下回合開始時反轉對手的能力提升狀態，反轉成功則當回合受到的固定傷害、百分比傷害減少50%，反轉失敗則對手2回合內無法主動切換精靈|戰鬥階段結束時，若自身體力低於1/2則獲得50個風龍結並吸取對手500點體力，若對手未受到此傷害則令對手焚燼",
+        "kind": [
+          5,
+          3
+        ],
+        "petId": [
+          4871
+        ],
+        "specificId": null,
+        "effectId": 2479,
+        "iconId": 2058,
+        "Id": 2058,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#52a5f2]登場時[/color]進入3回合內[color=#f35555]百天浮世絡[/color]，[color=#f35555]百天浮世絡[/color]消失的[color=#52a5f2]當回合[/color]結束後，若期間自身受到的傷害之和小於自身最大體力的54%，自身進入[color=#f35555]懷生菩憐態[/color]，若期間自身受到的傷害之和不小於自身最大體力的54%，自身進入[color=#f35555]拒赦怒威態[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "登場時觸發3回合內百天浮世絡，百天浮世絡效果消失的當回合結束後，若期間自身受到的傷害之和小於自身最大體力的54%，自身進入懷生菩憐態，若期間自身受到的傷害之和不小於自身最大體力的54%，自身進入拒赦怒威態",
+        "kind": [
+          1,
+          18,
+          7
+        ],
+        "petId": [
+          4872
+        ],
+        "specificId": null,
+        "effectId": 2478,
+        "iconId": 2059,
+        "Id": 2059,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]攻擊技能命中後[/color]2%的概率附加2025點[color=#52a5f2]固定傷害[/color]，[color=#52a5f2]未觸發[/color]則附加216點[color=#52a5f2]固定傷害[/color]；自身屬性技能命中後2%的概率自身恢復2026點體力，[color=#52a5f2]未觸發[/color]則自身恢復217點體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身攻擊技能命中後2%的概率附加2025點固定傷害，未觸發則附加216點固定傷害；自身屬性技能命中後2%的概率自身恢復2026點體力，未觸發則自身恢復217點體力",
+        "kind": [
+          18,
+          5
+        ],
+        "petId": [
+          4873
+        ],
+        "specificId": null,
+        "effectId": 2480,
+        "iconId": 2060,
+        "Id": 2060,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，自身每有216點速度自身攻擊技能獲得以下效果前1項：|    [sprite name=dot4][color=#52a5f2]當回合[/color]造成的攻擊傷害提高20%|    [sprite name=dot4]命中後附加自身速度值25%的[color=#52a5f2]百分比傷害[/color]|    [sprite name=dot4][color=#57c975]致命一擊[/color]造成的傷害提高26%|[sprite name=dot4]自身體力每損失217點以上效果的前1項效果翻倍",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，自身每有216點速度自身攻擊技能獲得以下效果前1項：|    當回合造成的攻擊傷害提高20%|    命中後附加自身速度值25%的百分比傷害|    致命一擊造成的傷害提高26%|自身體力每損失217點以上效果的前1項效果翻倍（boss無效）",
+        "kind": [
+          1,
+          14
+        ],
+        "petId": [
+          4874
+        ],
+        "specificId": null,
+        "effectId": 2482,
+        "iconId": 2061,
+        "Id": 2061,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手處於[color=#57c975]燒傷[/color]狀態則獲得3回合的[color=#f35555]神懼劫炎[/color]，自身已處於[color=#f35555]神懼劫炎[/color]時改為令其回合數+1，若對手不處於[color=#57c975]燒傷[/color]狀態則恢復自身最大體力的1/3並附加恢復量的[color=#52a5f2]百分比傷害[/color]，[color=#52a5f2]然後[/color]若此傷害未減少對手體力則自身額外獲得最大體力1/3的[color=#57c975]護盾[/color]|[sprite name=dot4]對手使用攻擊技能時令對手[color=#57c975]燒傷[/color]，[color=#52a5f2]未觸發[/color]則消除對手[color=#52a5f2]回合類效果[/color]，[color=#52a5f2]然後[/color]若自身不處於[color=#57c975]燒傷[/color]則自身下1次進入的異常狀態[color=#52a5f2]轉化[/color]為2回合的[color=#57c975]燒傷[/color]|[sprite name=dot4]自身存活於出戰背包時，對手免疫能力下降狀態時視為處於[color=#57c975]燒傷[/color]狀態",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時，若對手處於燒傷狀態則獲得3回合的神懼劫炎，自身已處於神懼劫炎時改為令其回合數+1，若對手不處於燒傷狀態則恢復自身最大體力的1/3並附加恢復量的百分比傷害，然後若此傷害未減少對手體力則自身額外獲得最大體力1/3的護盾|對手使用攻擊技能時令對手燒傷，未觸發則消除對手回合類效果，然後若自身不處於燒傷則自身下1次進入的異常狀態轉化為2回合的燒傷|自身存活於出戰背包時，對手免疫能力下降狀態時視為處於燒傷狀態",
+        "kind": [
+          5,
+          8,
+          1
+        ],
+        "petId": [
+          4875
+        ],
+        "specificId": null,
+        "effectId": 2481,
+        "iconId": 2062,
+        "Id": 2062,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身1號、3號位技能命中後自身獲得200點[color=#57c975]護盾[/color]並令對手隨機3項能力等級-1；自身2號、4號位技能命中後為自身恢復200點體力並令自身隨機3項能力等級+1|[sprite name=dot4][color=#57c975]回合開始時[/color]，若雙方能力提升等級之和不小於能力下降等級之和，為雙方附加雙方能力提升等級之和*15的[color=#57c975]護盾[/color]；若雙方能力提升等級之和不大於能力下降等級之和，為雙方附加雙方能力下降等級之和*15的[color=#57c975]護罩[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身1號、3號位技能命中後自身獲得200點護盾並令對手隨機3項能力等級-1；自身2號、4號位技能命中後為自身恢復200點體力並令自身隨機3項能力等級+1|回合開始時，若雙方能力提升等級之和不小於能力下降等級之和，為雙方附加雙方能力提升等級之和*15的護盾；若雙方能力提升等級之和不大於能力下降等級之和，為雙方附加雙方能力下降等級之和*15的護罩|（boss無效）",
+        "kind": [
+          2,
+          11
+        ],
+        "petId": [
+          4876
+        ],
+        "specificId": null,
+        "effectId": 2485,
+        "iconId": 2063,
+        "Id": 2063,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始[/color]時，若自身體力高於對手，則[color=#52a5f2][color=#52a5f2][color=#52a5f2]當回合[/color][/color][/color]自身攻擊技能命中時消耗30%的體力並附加自身最大體力30%的[color=#52a5f2]百分比傷害[/color]且[color=#57c975]回合結束時[/color]獲得等同於自身體力與[color=#57c975]回合開始時[/color]差值的[color=#57c975]護盾[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若自身體力高於對手，則當回合自身攻擊技能命中時消耗30%的體力並附加自身最大體力30%的百分比傷害且回合結束時獲得等同於自身體力與回合開始時差值的護盾|（boss無效）",
+        "kind": [
+          14,
+          2
+        ],
+        "petId": [
+          4877
+        ],
+        "specificId": null,
+        "effectId": 2484,
+        "iconId": 2064,
+        "Id": 2064,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身位於出戰背包時，[color=#52a5f2]己方[/color]免疫受到的[color=#57c975]失明[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身位於出戰背包時，己方免疫受到的失明狀態|（boss無效）",
+        "kind": [
+          7
+        ],
+        "petId": [
+          4878
+        ],
+        "specificId": null,
+        "effectId": 2483,
+        "iconId": 2065,
+        "Id": 2065,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登場[color=#52a5f2]當回合[/color][color=#57c975]受到攻擊後[/color]將對手的系別變為蟲系，對手本次在場累計造成的攻擊傷害超過自身體力上限時恢復其系別|[sprite name=dot4]對手使用與其系別相同的攻擊技能對自身造成的攻擊傷害不超過300點，對手使用與其系別不同的攻擊技能對自身造成的傷害高於300時消除對手能力提升狀態，低於300時消除對手[color=#52a5f2]回合類效果[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場當回合受到攻擊後將對手的系別變為蟲系，對手本次在場累計造成的攻擊傷害超過自身體力上限時恢復其系別|對手使用與其系別相同的攻擊技能對自身造成的攻擊傷害不超過300點，對手使用與其系別不同的攻擊技能對自身造成的傷害高於300時消除對手能力提升狀態，低於300時消除對手回合類效果（boss無效）",
+        "kind": [
+          3,
+          8
+        ],
+        "petId": [
+          4879
+        ],
+        "specificId": null,
+        "effectId": 2487,
+        "iconId": 2066,
+        "Id": 2066,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於異常狀態則100%令對手[color=#57c975]失明[/color]，[color=#52a5f2]未觸發[/color]則[color=#52a5f2]當回合[/color]100%[color=#57c975]閃避[/color]對手攻擊|[sprite name=dot4][color=#57c975]回合結束時[/color]，若本回合未受到攻擊傷害則下回合攻擊技能必定[color=#57c975]致命一擊[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若對手不處於異常狀態則100%令對手失明，未觸發則當回合100%閃避對手攻擊；回合結束時，若本回合未受到攻擊傷害則下回合攻擊技能必定致命一擊（boss無效）",
+        "kind": [
+          1,
+          17
+        ],
+        "petId": [
+          4880
+        ],
+        "specificId": null,
+        "effectId": 2488,
+        "iconId": 2067,
+        "Id": 2067,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身造成的攻擊傷害額外恢復至自身體力，恢復量每溢出2點，下回合造成傷害提高1%，最高50%",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身造成的攻擊傷害額外恢復至自身體力，恢復量每溢出2點，下回合造成傷害提高1%，最高50%（boss無效）",
+        "kind": [
+          5,
+          1
+        ],
+        "petId": [
+          4881
+        ],
+        "specificId": null,
+        "effectId": 2486,
+        "iconId": 2068,
+        "Id": 2068,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身克制對手時，自身攻擊技能威力提升20*m點，對手克制自身時，自身攻擊技能造成傷害增加40%*n（m=自身對對手的克制倍數，最高為2,n=對手對自身的克制倍數，最高為2；兩項均滿足時m、n為二者中的最大值）|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身不處於能力提升狀態則自身攻擊+1、速度+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身克制對手時，自身攻擊技能威力提升20*m點，對手克制自身時，自身攻擊技能造成傷害增加40%*n（m=自身對對手的克制倍數，最高為2；n=對手對自身的克制倍數，最高為2；兩項均滿足時m、n為二者中的最大值）；回合開始時，若自身不處於能力提升狀態則自身攻擊+1、速度+1（boss無效）",
+        "kind": [
+          1,
+          11
+        ],
+        "petId": [
+          4882
+        ],
+        "specificId": null,
+        "effectId": 2490,
+        "iconId": 2069,
+        "Id": 2069,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手不處於異常狀態，自身攻擊技能命中時為對手附加隨機一種[color=#52a5f2]附屬詛咒[/color]|[sprite name=dot4]對手每有一種異常狀態，自身攻擊技能命中時附加100點[color=#52a5f2]固定傷害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若對手不處於異常狀態，自身攻擊技能命中時為對手附加隨機一種附屬詛咒；對手每有一種異常狀態，自身攻擊技能命中時附加100點固定傷害（boss無效）",
+        "kind": [
+          18,
+          14
+        ],
+        "petId": [
+          4883
+        ],
+        "specificId": null,
+        "effectId": 2489,
+        "iconId": 2070,
+        "Id": 2070,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]每次在場首次攻擊後觸發[color=#f35555]灰鱗變[/color]，自身本場戰鬥[color=#f35555]灰鱗變[/color]的觸發次數每有1次自身造成的攻擊傷害提升10%，每有5次自身所有[color=#52a5f2]技能先制[/color]+1|[sprite name=dot4]自身[color=#52a5f2]首次[/color]受到[color=#52a5f2]致死傷害[/color]時，若本場戰鬥[color=#f35555]灰鱗變[/color]的觸發次數不為0，則將其翻倍且本場戰鬥[color=#f35555]灰鱗變[/color]不再減少體力上限，[color=#52a5f2]然後[/color]自身解除所處的異常狀態、體力上限增加[color=#f35555]灰鱗變[/color]所減少的體力上限並主動恢復差值的體力，[color=#52a5f2]之後[/color][color=#52a5f2]當回合[/color]受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]保留[/color]1點體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "每次在場首次攻擊後觸發灰鱗變，自身本場戰鬥灰鱗變的觸發次數每有1次自身造成的攻擊傷害提升10%，每有5次自身所有技能先制+1|自身首次受到致死傷害時，若本場戰鬥灰鱗變的觸發次數不為0，則將其翻倍且本場戰鬥灰鱗變不再減少體力上限，然後自身解除所處的異常狀態、體力上限增加灰鱗變所減少的體力上限並主動恢復差值的體力，之後當回合受到致死傷害時保留1點體力|（boss無效）",
+        "kind": [
+          14
+        ],
+        "petId": [
+          4885
+        ],
+        "specificId": null,
+        "effectId": 2491,
+        "iconId": 2071,
+        "Id": 2071,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot1][color=#57c975]出戰時[/color]，自身獲得4道[color=#f35555]寧界之律[/color]，[color=#52a5f2]然後[/color]自身消耗對應位置技能的全部PP值並恢復己方上只在場精靈PP值為0的技能全部PP值，觸發成功則為其附加1道[color=#f35555]瓊華之庇[/color]|[sprite name=dot1]自身擁有[color=#f35555]寧界之律[/color]時，選擇使用技能[color=#52a5f2]不受PP值限制[/color]且[color=#57c975]回合結束時[/color]，若對手[color=#52a5f2]當回合(412)[/color]未選擇技能則消耗1層並令對手[color=#57c975]沉默[/color]2回合，[color=#52a5f2]未觸發[/color]則2回合內自身將對手、對方上只在場精靈的[color=#57c975]最優系別[/color]作為對手系別計算克制係數，自身[color=#f35555]寧界之律[/color]層數達到5時前述所有回合數+1",
+        "args": "0 0",
+        "come": "聖光莫妮卡覺醒",
+        "des": null,
+        "tag": null,
+        "tips": "出戰時，自身獲得4道寧界之律，然後自身消耗對應位置技能的全部PP值並恢復己方上只在場精靈PP值為0的技能全部PP值，觸發成功則為其附加1道瓊華之庇|自身擁有寧界之律時，選擇使用技能不受PP值限制且回合結束時，若對手當回合未選擇技能則消耗1層並令對手沉默2回合，未觸發則2回合內自身將對手、對方上只在場精靈的最優系別作為對手系別計算克制係數，自身寧界之律層數達到5時前述所有回合數+1|（boss有效）",
+        "kind": [
+          1,
+          4,
+          7
+        ],
+        "petId": [
+          3711
+        ],
+        "specificId": null,
+        "effectId": 2492,
+        "iconId": 2072,
+        "Id": 2072,
+        "intensify": 0,
+        "isAdv": 1,
+        "label": 0,
+        "limitedType": 0,
+        "target": 112003,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]回合開始時若自身微弱對手或對手克制自身，則令自身變為普通系且回合結束時令自身屬性變為草系|[sprite name=dot4]自身使用與自身系別相同的技能時令對手隨機1項技能的pp值歸0，使用與自身系別不同的技能時獲得本系屬性加成並令對手所有技能的pp值-1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時若自身微弱對手或對手克制自身，則令自身變為普通系且回合結束時令自身屬性變為草系；自身使用與自身系別相同的技能時令對手隨機1項技能的pp值歸0，使用與自身系別不同的技能時獲得本系屬性加成並令對手所有技能的pp值-1（boss無效）",
+        "kind": [
+          18
+        ],
+        "petId": [
+          4886
+        ],
+        "specificId": null,
+        "effectId": 2493,
+        "iconId": 2073,
+        "Id": 2073,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制(340)[/color]無法高於0，自身[color=#57c975]被擊敗[/color]時對手1回合內[color=#52a5f2]先制(340)[/color]等級歸0|[sprite name=dot4]自身每次受到的攻擊傷害不超過自身最大體力的100%，對手每有1級[color=#52a5f2]先制(340)[/color]該比例降低15%，自身受到攻擊後恢復200×（200%-該比例）的體力|[sprite name=dot4]自身每次造成的攻擊傷害不低於對手最大體力的40%，對手每有1級[color=#52a5f2]先制(340)[/color]等級該比例提高5%，自身造成攻擊傷害後額外附加500*該比例的[color=#52a5f2]固定傷害[/color]",
+        "args": "100 15 200 5 500 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身先制等級不高於0；自身每次受到的攻擊傷害不超過自身最大體力的100%，對手每有1級先制等級該比例降低15%，自身受到攻擊後恢復200×（200%-該比例）；自身每次造成的攻擊傷害不低於對手最大體力的40%，對手每有1級先制等級該比例提高5%，自身造成攻擊傷害後附加500*該比例的固定傷害；自身被擊敗時令對手1回合內先制等級歸0（boss無效）",
+        "kind": [
+          5,
+          14
+        ],
+        "petId": [
+          4887
+        ],
+        "specificId": null,
+        "effectId": 2494,
+        "iconId": 2074,
+        "Id": 2074,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身不處於異常狀態則[color=#52a5f2]當回合[/color]自身受到的攻擊傷害減少30%，對手使用的攻擊技能微弱自身時改為受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減少30%，若自身處於異常狀態則消除對手能力提升狀態，消除成功時令對手[color=#57c975]疲憊[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若[color=#52a5f2]當回合[/color]自身[color=#52a5f2]先制(340)[/color]等級與上回合不相等則下回合[color=#52a5f2]技能先制[/color]+1，高於上回合時恢復自身最大體力的30%，低於上回合時額外解除自身所處的異常狀態，與自身本次在場的所有回合均不同時每有1回合不同下回合造成的攻擊傷害提升30%|[sprite name=dot4]自身位於出戰背包時，[color=#52a5f2]對方[/color]進入附屬類異常狀態時，[color=#52a5f2]己方[/color]打開[color=#f35555]天之門[/color]、[color=#f35555]地之門[/color]、[color=#f35555]神之門[/color]中首個未打開的[color=#f35555]神域之門[/color]，[color=#57c975]回合結束後[/color]，若[color=#52a5f2]己方[/color]其他精靈處於附屬類異常狀態，則關閉首個未關閉的[color=#f35555]神域之門[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若自身不處於異常狀態則當回合自身受到的攻擊傷害減少30%，對手使用的攻擊技能微弱自身時改為受到的固定傷害、百分比傷害減少30%，若自身處於異常狀態則消除對手能力提升狀態，消除成功時令對手疲憊|戰鬥階段結束時，若當回合自身先制等級與上回合不相等則下回合所有技能先制+1，高於上回合時恢復自身最大體力的30%，低於上回合時額外解除自身所處的異常狀態，與自身本次在場的所有回合均不同時每有1回合不同下回合造成的攻擊傷害提升30%|自身位於出戰背包時，對方進入附屬類異常狀態時，己方打開天之門、地之門、神之門中首個未打開的神域之門，回合結束後，若己方其他精靈處於附屬類異常狀態，則關閉首個未關閉的神域之門（boss無效）",
+        "kind": [
+          3,
+          18
+        ],
+        "petId": [
+          4888
+        ],
+        "specificId": null,
+        "effectId": 2495,
+        "iconId": 2075,
+        "Id": 2075,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身位於場下時，與自身隔位的精靈進入控制類異常狀態時，自身下次[color=#57c975]登場時[/color]免疫下1次受到的控制類異常狀態|[sprite name=dot4]自身位於場上時，自身每次進入異常狀態時，與自身隔位的精靈恢復所有技能2點PP值",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身位於場下時，與自身隔位的精靈進入控制類異常狀態時，自身下次登場時免疫下1次受到的異常狀態；自身位於場上時，自身每次進入控制類異常狀態時，與自身隔位的精靈恢復所有技能2點PP值（boss無效）",
+        "kind": [
+          4
+        ],
+        "petId": [
+          4889
+        ],
+        "specificId": null,
+        "effectId": 2496,
+        "iconId": 2076,
+        "Id": 2076,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身連續3回合使用攻擊技能時，重置此計數且[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]恢復全部體力並附加恢復溢出量的[color=#52a5f2]固定傷害[/color]|[sprite name=dot4]自身連續3回合使用屬性技能時，重置此計數且[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]對自身附加等同於最大體力的[color=#52a5f2]固定傷害[/color]，[color=#52a5f2]然後[/color]若自身體力值高於0則附加等同於自身[color=#52a5f2]已損失體力[/color]的[color=#52a5f2]固定傷害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身連續3回合使用攻擊技能時，重置此計數且當回合戰鬥階段結束時恢復全部體力並附加恢復溢出量的固定傷害；自身連續3回合使用屬性技能時，重置此計數且當回合戰鬥階段結束時對自身附加等同於最大體力的固定傷害，然後若自身體力值高於0則附加等同於自身已損失體力值的固定傷害（boss無效）",
+        "kind": [
+          14
+        ],
+        "petId": [
+          4892
+        ],
+        "specificId": null,
+        "effectId": 2498,
+        "iconId": 2077,
+        "Id": 2077,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始[/color]時，若自身體力高於最大體力的1/2，消耗高出的體力並獲得等量[color=#57c975]護盾[/color]，若低於則消耗自身的所有[color=#57c975]護盾[/color]並恢復等量體力，最多恢復至自身最大體力的1/2|[sprite name=dot4][color=#57c975]回合結束時[/color]，若自身擁有[color=#57c975]護罩[/color]則獲得等量[color=#57c975]護盾[/color]，若自身不擁有[color=#57c975]護罩[/color]則[color=#52a5f2]吸取[/color]對手300點體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若自身體力高於最大體力的1/2，消耗高出的體力並獲得等量護盾，若低於則消耗自身護盾並恢復等量體力，最多恢復至自身最大體力的1/2|回合結束時，若自身擁有護罩則獲得等量護盾，若自身不擁有護罩則吸取對手300點體力|（boss無效）",
+        "kind": [
+          2,
+          5
+        ],
+        "petId": [
+          4890
+        ],
+        "specificId": null,
+        "effectId": 2497,
+        "iconId": 2078,
+        "Id": 2078,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登場時[/color]獲得[color=#f35555]黯穹之塵[/color]，[color=#52a5f2]之後[/color]對手[color=#57c975]使用技能後[/color]，下次[color=#57c975]使用技能時[/color]若類型與本次相同則自身免疫下1次受到的異常狀態，若類型與本次不同則[color=#57c975]戰鬥階段結束時[/color]獲得[color=#f35555]黯穹之塵[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力高於最大體力的1/2，則[color=#52a5f2]當回合[/color]自身受到的技能傷害無法超過自身最大體力的1/2，當次傷害對自身的克制係數未小於等於對手第五技能對自身的克制係數時改為1/4且限制時恢復最大體力的1/2，若自身體力低於最大體力的1/2，則[color=#52a5f2]當回合[/color]自身所有[color=#52a5f2]技能先制[/color]+2，自身對對手的克制係數未小於等於自身第五技能對自身的克制係數時解除自身所處的異常狀態",
+        "args": "1 0",
+        "come": "星羅拂沙夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場時獲得黯穹之塵，之後對手使用技能後，下次使用技能時若類型與本次相同則自身免疫下1次受到的異常狀態，若類型與本次不同則戰鬥階段結束時獲得黯穹之塵|回合開始時，若自身體力高於最大體力的1/2，則當回合自身受到的技能傷害無法超過自身最大體力的1/2，當次傷害對自身的克制係數未小於等於對手第五技能對自身的克制係數時改為1/4且限制時恢復最大體力的1/2，若自身體力低於最大體力的1/2，則當回合自身所有技能先制+2，自身對對手的克制係數未小於等於自身第五技能對自身的克制係數時解除自身所處的異常狀態",
+        "kind": [
+          3,
+          9
+        ],
+        "petId": [
+          4354
+        ],
+        "specificId": null,
+        "effectId": 2500,
+        "iconId": 2079,
+        "Id": 2079,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 111311,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]出戰時[/color]獲得[color=#f35555]群輝加護[/color]；自身擁有[color=#f35555]群輝加護[/color]時，若對手處於[color=#52a5f2]回合類效果[/color]則自身[color=#57c975]閃避[/color]對手的技能，若對手的技能命中自身則命中後對手每有1個與此技能類型不同的技能自身恢復120點體力，若對手的技能未命中自身則此次技能結束時本次在場每[color=#57c975]閃避[/color]成功1次，[color=#52a5f2]吸取[/color]對手120點體力|[color=#52a5f2]己方[/color]其他精靈[color=#52a5f2]首次[/color][color=#57c975]出戰時[/color]自身獲得1層[color=#f35555]群芳加護[/color]；自身擁有[color=#f35555]群芳加護[/color]時，雙方[color=#57c975]使用技能後[/color]自身與對手受到1點[color=#52a5f2]固定傷害[/color]，[color=#52a5f2]然後[/color]若對手的體力未減少則本次在場自身造成的攻擊傷害提升20%，若自身的體力未減少則本次在場造成的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]提升20%，傷害提升效果均可疊加，自身每有1層[color=#f35555]群芳加護[/color]最高可疊加1次",
+        "args": "101 120 1",
+        "come": "星羅拂沙夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身出戰時獲得群輝加護；自身擁有群輝加護時，若對手處於回合類效果則自身閃避對手的技能，若對手的技能命中自身則命中後對手每有1個與此技能類型不同的技能自身恢復120點體力，若對手的技能未命中自身則此次技能結束時本次在場每閃避成功1次，吸取對手120點體力|己方其他精靈首次出戰時自身獲得1層群芳加護；自身擁有群芳加護時，雙方使用技能後自身與對手受到1點固定傷害，然後若對手的體力未減少則本次在場自身造成的攻擊傷害提升20%，若自身的體力未減少則本次在場造成的固定傷害、百分比傷害提升20%，傷害提升效果均可疊加，自身每有1層群芳加護最高可疊加1次",
+        "kind": [
+          5,
+          18
+        ],
+        "petId": [
+          4364
+        ],
+        "specificId": null,
+        "effectId": 1950,
+        "iconId": 2080,
+        "Id": 2080,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 111311,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]記錄對手[color=#52a5f2]當回合(412)[/color]所使用技能的類型，若該類型與上次記錄不同則100%令對手[color=#57c975]害怕[/color]3回合，若該類型與上次記錄相同則對手該類型技能下回合[color=#52a5f2]先制(339)[/color]-1|[sprite name=dot4]自身[color=#57c975]攻擊技能命中後[/color]，若對手處於[color=#57c975]害怕[/color]狀態則令對手[color=#57c975]害怕[/color]回合數-1並附加200點[color=#52a5f2]固定傷害[/color]，每生效1次增加100點，最多400點，自身屬性技能命中後，若對手處於[color=#57c975]害怕[/color]狀態則令對手[color=#57c975]害怕[/color]回合數+1並[color=#52a5f2]吸取[/color]對手最大體力的40%，每生效1次減少10%，最低20%",
+        "args": "100 400 40 20 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時記錄對手當回合所使用技能的類型，若該類型與上次記錄不同則100%令對手害怕3回合，若該類型與上次記錄相同則對手該類型技能下回合先制-1|自身攻擊技能命中後，若對手處於害怕狀態則令對手害怕回合數-1並附加200點固定傷害，每生效1次增加100點，最多400點，自身屬性技能命中後，若對手處於害怕狀態則令對手害怕回合數+1並吸取對手最大體力的40%，每生效1次減少10%，最低20%|（boss無效）",
+        "kind": [
+          10,
+          14
+        ],
+        "petId": [
+          4894
+        ],
+        "specificId": null,
+        "effectId": 2501,
+        "iconId": 2081,
+        "Id": 2081,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身沒有[color=#f35555]音符[/color]則獲得1分[color=#f35555]強音[/color]，若自身擁有[color=#f35555]中音[/color]則獲得1分[color=#f35555]弱音[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時，若自身沒有音符則獲得1分強音，若自身擁有中音則獲得1分弱音",
+        "kind": [
+          18,
+          1
+        ],
+        "petId": [
+          4895
+        ],
+        "specificId": null,
+        "effectId": 2502,
+        "iconId": 2082,
+        "Id": 2082,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身使用攻擊技能時，為對手附加[color=#57c975]燒傷[/color]、[color=#57c975]易燃[/color]、[color=#57c975]焚燼[/color]、[color=#57c975]麻痺[/color]中對手不處於的1種異常狀態|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]若本場戰鬥自身對同一精靈以上述效果附加過4種異常狀態，則本場戰鬥上述效果中異常狀態的附加種數+1，每場戰鬥限1次",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用攻擊技能時，為對手附加燒傷、易燃、焚燼、麻痺中對手不處於的一種異常狀態|戰鬥階段結束時若本場戰鬥自身對同一精靈附加過上述4種異常狀態，則本場戰鬥上述效果中異常狀態的附加種數+1，每場戰鬥限1次|（boss無效）",
+        "kind": [
+          10,
+          18
+        ],
+        "petId": [
+          4897
+        ],
+        "specificId": null,
+        "effectId": 2503,
+        "iconId": 2083,
+        "Id": 2083,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#52a5f2]對方[/color]每有1隻精靈的[color=#57c975]信仰對象[/color]是自身，自身造成的攻擊傷害提升20%、受到的攻擊傷害減少10%；[color=#52a5f2]回合開始時[/color]，若[color=#52a5f2]對方[/color]的[color=#57c975]信仰對象[/color]均為自身，則本場戰鬥自身免疫受到的異常狀態、能力下降狀態、[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]|[sprite name=dot4]對手的[color=#57c975]信仰對象[/color]不為其時自身抵擋對手的[color=#57c975]致命一擊[/color]，抵擋成功則將對手的[color=#57c975]信仰對象[/color]改為其且[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]附加免疫量100%的[color=#52a5f2]百分比傷害[/color]；[color=#57c975]戰鬥階段結束時[/color]，若本回合對手未打出[color=#57c975]致命一擊[/color]，則自身恢復最大體力的1/4",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "對方每有1隻精靈的信仰對象是自身，自身造成的攻擊傷害提升20%、受到的攻擊傷害減少10%；回合開始時，若對方的信仰對象均為自身，則本場戰鬥自身免疫受到的異常狀態、能力下降狀態、固定傷害、百分比傷害|對手的信仰對象不為其時自身抵擋對手的致命一擊，抵擋成功則將對手的信仰對象改為其且當回合戰鬥階段結束時附加免疫量100%的百分比傷害；戰鬥階段結束時，若本回合對手未打出致命一擊，則自身恢復最大體力的1/4|（boss無效）",
+        "kind": [
+          1,
+          5,
+          6
+        ],
+        "petId": [
+          4898
+        ],
+        "specificId": null,
+        "effectId": 2506,
+        "iconId": 2084,
+        "Id": 2084,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登場時[/color]，若對手處於異常狀態則將對手所處的有效果的附屬類異常狀態[color=#52a5f2]轉化[/color]為4回合[color=#57c975]詛咒[/color]，若對手不處於異常狀態則自身第五技能每有1點PP自身獲得1種[color=#f35555]鬼祰[/color]、對手第五技能每有1點PP值自身失去1種[color=#f35555]鬼祰[/color]，[color=#52a5f2]然後[/color]若對手處於[color=#57c975]詛咒[/color]狀態，本次在場自身無視對手傷害減少效果且其無法觸發[color=#57c975]被擊敗[/color]效果|[sprite name=dot4]對手使用攻擊技能後，若本次攻擊造成的技能傷害低於300則自身獲得[color=#f35555]鬼祰·魑[/color]，高於200則自身獲得[color=#f35555]鬼祰·魅[/color]；自身使用攻擊技能後，若本次攻擊造成的技能傷害低於300則自身獲得[color=#f35555]鬼祰·魍[/color]，高於200則自身獲得[color=#f35555]鬼祰·魎[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場時，若對手處於異常狀態則將對手所處的有效果的附屬類異常狀態轉化為4回合詛咒，若對手不處於異常狀態則自身第五技能每有1點PP自身獲得1種鬼祰、對手第五技能每有1點PP值自身失去1種鬼祰，然後若對手處於詛咒狀態，本次在場自身無視對手傷害減少效果且其無法觸發被擊敗效果|對手使用攻擊技能後，若本次攻擊造成的技能傷害低於300則自身獲得鬼祰·魑，高於200則自身獲得鬼祰·魅；自身使用攻擊技能後，若本次攻擊造成的技能傷害低於300則自身獲得鬼祰·魍，高於200則自身獲得鬼祰·魎|（boss無效）",
+        "kind": [
+          1,
+          10
+        ],
+        "petId": [
+          4444
+        ],
+        "specificId": null,
+        "effectId": 2507,
+        "iconId": 2085,
+        "Id": 2085,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身位於場下時，自身每有10%的體力，末位精靈使用技能5%不消耗PP值|[sprite name=dot4]自身位於場上時，末位精靈每有10%的體力，自身[color=#57c975]使用技能後[/color][color=#52a5f2]吸取[/color]對手最大體力的2%",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身位於場下時，自身每有10%的體力，末位精靈使用技能5%不消耗PP值|自身位於場上時，末位精靈每有10%的體力，自身使用技能後吸取對手最大體力的2%（boss無效）",
+        "kind": [
+          5,
+          14
+        ],
+        "petId": [
+          4899
+        ],
+        "specificId": null,
+        "effectId": 2505,
+        "iconId": 2086,
+        "Id": 2086,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#52a5f2]回合開始時[/color]，若雙方任意一方不處於能力提升則令雙方[color=#52a5f2]全屬性[/color]+1|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手不處於能力提升狀態則100%令對手[color=#57c975]睡眠[/color]，若自身不處於能力提升狀態則下回合自身所有[color=#52a5f2]技能先制[/color]+2",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若雙方任意一方不處於能力提升則令雙方全屬性+1|戰鬥階段結束時，若對手不處於能力提升狀態則100%令對手睡眠，若自身不處於能力提升狀態則下回合自身所有技能先制+2",
+        "kind": [
+          11,
+          10
+        ],
+        "petId": [
+          4900
+        ],
+        "specificId": null,
+        "effectId": 2504,
+        "iconId": 2087,
+        "Id": 2087,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身攻擊技能造成的傷害提升100%，若打出[color=#57c975]致命一擊[/color]則額外提升100%且自身下回合選擇使用技能不受pp限制、且使用的技能[color=#52a5f2]必定命中[/color]|[sprite name=dot4][color=#57c975]回合結束時[/color]，若對手體力為滿則自身下回合所有[color=#52a5f2]技能先制[/color]+1，若不為滿則恢復自身300點體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身攻擊技能造成的傷害提升100%，若打出致命一擊則額外提升100%且自身下回合選擇使用技能不受pp限制、使用的技能必定命中|回合結束時，若對手體力為滿則自身下回合所有技能先制+1，若不為滿則恢復自身300點體力|（boss無效）",
+        "kind": [
+          1,
+          9
+        ],
+        "petId": [
+          4901
+        ],
+        "specificId": null,
+        "effectId": 2508,
+        "iconId": 2088,
+        "Id": 2088,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合結束後[/color]，使自身所有技能的pp值分別隨機變化為m-n中的一個值，[color=#52a5f2]然後[/color]若自身所有技能的pp值總和不低於25則獲得所有技能pp值總和*10點[color=#57c975]護罩[/color]且1回合內自身造成的[color=#52a5f2]固定傷害[/color]和[color=#52a5f2]百分比傷害[/color]提高25%，若不高於25則獲得所有技能已損失pp值總和*10點[color=#57c975]護盾[/color]且1回合內自身免疫受到的異常狀態(m=自身體力/100和自身[color=#52a5f2]已損失體力[/color]/100中的較小值，最小為0；n=自身體力/100和自身[color=#52a5f2]已損失體力[/color]/100中的較大值，最大為10）|[sprite name=dot4]自身技能命中時，若該技能已損失的pp值不小於5則令對手[color=#57c975]神遊[/color]，小於5則令對手[color=#52a5f2]當回合[/color]選擇的技能損失相等的pp值",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合結束後，使自身所有技能的pp值分別隨機變化為m-n中的一個值，然後若自身所有技能的pp值總和不低於25則獲得所有技能pp值總和*10點護罩且1回合內自身造成的固定傷害和百分比傷害提高25%，若不高於25則獲得所有技能已損失pp值總和*10點護盾且1回合內自身免疫受到的異常狀態(m=自身體力/100和自身已損失體力/100中的較小項，最小為0；n=自身體力/100和自身已損失體力/100中的較大項，最大為10）|自身技能命中時，若該技能已損失的pp值不小於5則令對手神遊，若小於5則令對手當回合選擇的技能損失相等的pp值",
+        "kind": [
+          1,
+          10
+        ],
+        "petId": [
+          4902
+        ],
+        "specificId": null,
+        "effectId": 2510,
+        "iconId": 2089,
+        "Id": 2089,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登場時[/color]，根據本場戰鬥自身的[color=#52a5f2]出戰[/color]次數，依次觸發等量的下列效果：|    [sprite name=dot5]2回合內自身受到的技能傷害不超過自身最大體力的25%|    [sprite name=dot5]2回合內自身造成的攻擊傷害提升100%|    [sprite name=dot5]2回合內自身抵擋受到的[color=#57c975]致命一擊[/color]|    [sprite name=dot5]2回合內令對手體力恢復效果減少50%|    [sprite name=dot5]2回合內每回合結束[color=#52a5f2]吸取(464)[/color]對手所有技能1點PP值|    [sprite name=dot5]2回合內自身造成的[color=#52a5f2]固定傷害[/color]、百分比[color=#52a5f2]傷害提升[/color]30%|若觸發次數為6次，則[color=#57c975]登場時[/color]無法觸發上述效果|[sprite name=dot4]自身體力高於最大體力的1/2時，[color=#57c975]回合開始時[/color]令對手攻擊、特攻、速度-1，[color=#52a5f2]未觸發[/color]則重新觸發自身的登場效果並解除自身所處的異常狀態；自身體力低於最大體力的1/2時，自身所有[color=#52a5f2]技能先制[/color]+1，攻擊技能威力提升100%且造成的攻擊傷害為0時[color=#52a5f2]吸取[/color]對手100%的體力|[sprite name=dot4]自身造成的攻擊傷害高於300時，[color=#52a5f2]吸取[/color]對手最大體力的1/3，自身未造成高於300的攻擊傷害的回合，[color=#57c975]戰鬥階段結束時[/color]自身特攻、速度+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場時，根據本場戰鬥自身的出戰次數，依次觸發等量下列效果：|    2回合內自身受到的技能傷害不超過自身最大體力的25%|    2回合內自身造成的攻擊傷害提升100%|    2回合內自身抵擋受到的致命一擊|    2回合內令對手體力恢復效果減少50%|    2回合內每回合結束吸取對手所有技能1點PP值|    2回合內自身造成的固定傷害、百分比傷害額外提升30%|若觸發次數為6次，則登場時無法觸發上述效果|自身體力高於最大體力的1/2時，回合開始時令對手攻擊、特攻、速度-1，未觸發則重新觸發自身的登場效果並解除自身所處的異常狀態；自身體力低於最大體力的1/2時，自身所有技能先制+1，攻擊技能威力提升100%且造成的攻擊傷害為0時吸取對手100%的體力|自身造成的攻擊傷害高於300時，吸取對手最大體力的1/3，自身未造成高於300的攻擊傷害的回合，戰鬥階段結束時自身特攻、速度+1|（boss無效）",
+        "kind": [
+          1,
+          11
+        ],
+        "petId": [
+          4903
+        ],
+        "specificId": null,
+        "effectId": 2509,
+        "iconId": 2090,
+        "Id": 2090,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身存活於出戰背包時，[color=#52a5f2]己方[/color]精靈免疫[color=#57c975]混亂[/color]狀態|[sprite name=dot4][color=#52a5f2]己方[/color]精靈[color=#52a5f2]技能無效[/color]時，自身下回合[color=#57c975]登場時[/color]消除對手[color=#52a5f2]回合類效果[/color]與能力提升狀態，消除成功則令對手[color=#57c975]沉默[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身存活於出戰背包時，己方精靈免疫混亂狀態|己方精靈技能無效時，自身下回合登場時消除對手回合類效果與能力提升狀態，消除成功則令對手沉默（boss無效）",
+        "kind": [
+          7,
+          8
+        ],
+        "petId": [
+          4904
+        ],
+        "specificId": null,
+        "effectId": 2512,
+        "iconId": 2091,
+        "Id": 2091,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能時[/color]，隨機觸發下列效果種的1項並使本次在場的觸發項數+1：|[sprite name=dot5]2回合內自身攻擊必定打出[color=#57c975]致命一擊[/color]|[sprite name=dot5]2回合內對手內[color=#57c975]無法通過自身技能恢復體力[/color]|[sprite name=dot5]2回合內自身攻擊技能無視對手能力提升狀態|[sprite name=dot5]2回合內自身能力提升狀態無法被消除|[sprite name=dot5]2回合內受到的攻擊傷害減少30%|[sprite name=dot5]2回合內每回合[color=#57c975]戰鬥階段結束時[/color]恢復自身300點體力",
+        "args": "1 1 30 300 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用技能時，隨機觸發下列效果種的1項並使本次在場的觸發項數+1：|2回合內自身攻擊必定打出致命一擊|2回合內對手內無法通過自身技能恢復體力|2回合內自身攻擊技能無視對手能力提升狀態|2回合內自身能力提升狀態無法被消除|2回合內受到的攻擊傷害減少30%|2回合內每回合戰鬥階段結束時恢復自身300點體力|（boss無效）",
+        "kind": [
+          1,
+          3,
+          5
+        ],
+        "petId": [
+          4905
+        ],
+        "specificId": null,
+        "effectId": 2514,
+        "iconId": 2092,
+        "Id": 2092,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身體力高於對手時，[color=#52a5f2]回合開始時[/color]令自身[color=#52a5f2]當回合[/color]攻擊[color=#52a5f2]技能先制[/color]+1且使用時令自身[color=#57c975]雷解[/color]3回合，觸發成功則獲得1層[color=#f35555]九劫之痕[/color]，[color=#57c975]雷解[/color][color=#52a5f2]未觸發[/color]則令對手[color=#57c975]焚燼[/color]3回合；自身體力低於對手時，[color=#57c975]戰鬥階段結束時[/color]令對手對手[color=#57c975]麻痺[/color]3回合，觸發成功則令對手[color=#57c975]燒傷[/color]3回合，[color=#57c975]麻痺[/color][color=#52a5f2]未觸發[/color]則獲得1層[color=#f35555]百鍊之炎[/color]|[sprite name=dot4][color=#57c975]回合結束後[/color]，若任意一方處於異常狀態則自身恢復最大體力的1/3，若自身不處於[color=#57c975]雷解[/color]且自身體力高於對手則對手下2次屬性[color=#52a5f2]技能先制[/color]-2且無法附加異常狀態，若對手不處於[color=#57c975]燒傷[/color]且自身體力低於對手則自身下2次攻擊[color=#52a5f2]技能先制[/color]+2且使用後令對手[color=#57c975]焚燼[/color]",
+        "args": "1 0",
+        "come": "格勞恩斯覺醒",
+        "des": null,
+        "tag": null,
+        "tips": "自身體力高於對手時，回合開始時令自身當回合攻擊先制+1且使用時令自身雷解3回合，觸發成功則獲得1層九劫之痕，雷解未觸發則令對手焚燼3回合，自身體力低於對手時，戰鬥階段結束時令對手對手麻痺3回合，觸發成功則令對手燒傷3回合，麻痺未觸發則獲得1層百鍊之炎|回合結束後，若任意一方處於異常狀態則自身恢復最大體力的1/3，若自身不處於雷解且自身體力高於對手則對手下2次屬性技能先制-2且無法附加異常狀態，若對手不處於燒傷且自身體力低於對手則自身下2次攻擊先制+2且使用後令對手焚燼|（boss無效）",
+        "kind": [
+          10
+        ],
+        "petId": [
+          3407
+        ],
+        "specificId": null,
+        "effectId": 2511,
+        "iconId": 2093,
+        "Id": 2093,
+        "intensify": 0,
+        "isAdv": 1,
+        "label": 0,
+        "limitedType": 0,
+        "target": 112003,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身使用的技能類型與對手上回合使用的技能類型相同時，技能命中時消除對手[color=#52a5f2]回合類效果[/color]，若不同則技能命中時消除對手能力提升狀態",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身當回合使用的技能類型與對手上回合使用的技能類型相同時，技能命中時消除對手回合類效果，若不同則技能命中時消除對手能力提升狀態（boss無效）",
+        "kind": [
+          8
+        ],
+        "petId": [
+          4906
+        ],
+        "specificId": null,
+        "effectId": 2515,
+        "iconId": 2094,
+        "Id": 2094,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]每次在場自身的[color=#52a5f2]首次[/color]使用的攻擊技能必定打出[color=#57c975]致命一擊[/color]，在打出之前每回合[color=#57c975]戰鬥階段結束時[/color]消除對手能力提升狀態，消除成功則消除對手[color=#52a5f2]回合類效果[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若本次在場自身打出[color=#57c975]致命一擊[/color]的次數高於對手則將對手所處的異常狀態[color=#52a5f2][color=#52a5f2]轉化[/color][/color]為1回合[color=#57c975]焚燼[/color]，若低於對手則恢復雙方最大體力差值的體力，若等於對手則下回合所有[color=#52a5f2]技能先制[/color]+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "每次在場自身的首次使用的攻擊技能必定打出致命一擊，在打出之前每回合戰鬥階段結束時消除對手能力提升狀態，消除成功則消除對手回合類效果|戰鬥階段結束時，若本次在場自身打出致命一擊的次數高於對手則將對手所處的異常狀態轉化為1回合焚燼，若低於對手則恢復雙方最大體力差值的體力，若等於對手則下回合所有技能先制+1|（boss無效）",
+        "kind": [
+          8,
+          1,
+          5
+        ],
+        "petId": [
+          4908
+        ],
+        "specificId": null,
+        "effectId": 2518,
+        "iconId": 2095,
+        "Id": 2095,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot1]自身受到技能傷害後，對手3回合內攻擊免疫效果失效|[sprite name=dot1][color=#52a5f2]回合開始[/color]時，自身防禦、特防+1；[color=#57c975]戰鬥階段結束時[/color]，若自身處於能力提升狀態，則將防禦、特防能力等級[color=#52a5f2][color=#52a5f2]轉化[/color][/color]為攻擊、特攻能力等級，[color=#52a5f2]然後[/color]自身每有1[color=#52a5f2]組[/color]攻擊、特攻能力提升等級，自身恢復最大體力的17%，下回合造成的攻擊傷害提升17%",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身受到技能傷害後，對手下2回合攻擊免疫效果失效|回合開始時，自身防禦、特防+1；戰鬥階段結束時，若自身處於能力提升狀態，則將防禦、特防能力等級轉化為攻擊、特攻能力等級，然後自身每有1組攻擊、特攻能力提升等級，自身恢復最大體力的17%，下回合造成的攻擊傷害提升17%|（boss有效）",
+        "kind": [
+          1,
+          5
+        ],
+        "petId": [
+          4909
+        ],
+        "specificId": null,
+        "effectId": 2517,
+        "iconId": 2096,
+        "Id": 2096,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]每次[color=#52a5f2]登場時[/color]，若雙方均不處於[color=#f35555]騎士決鬥類狀態[/color]，則為雙方附加[color=#f35555]騎士決鬥[/color]；自身所處的[color=#f35555]騎士決鬥·落敗[/color]僅持續4回合|[sprite name=dot4][color=#52a5f2]回合開始時[/color]，若自身體力高於對手則令自身[color=#52a5f2]全屬性[/color]+1並恢復自身所有技能4點PP值，若自身體力低於對手則[color=#52a5f2]當回合[/color]所有[color=#52a5f2]技能先制[/color]+1並無視對手的能力提升狀態自身受到[color=#52a5f2]致死傷害[/color]時，若自身為己方最後一隻存活精靈，則自身[color=#52a5f2]保留[/color]1點體力並失去170點速度，當自身的速度因此歸0時，此效果失效",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "每次登場時，若雙方均不處於騎士決鬥類狀態，則為雙方附加騎士決鬥；自身所處的騎士決鬥·落敗僅持續4回合，下場持續減少|回合開始時，若自身體力高於對手則令自身全屬性+1並恢復自身所有技能4點PP值，若自身體力低於對手則當回合所有技能先制+1並無視對手的能力提升狀態自身受到致死傷害時，若自身為己方最後一隻存活精靈，則自身保留1點體力並失去170點速度，當自身的速度因此歸0時，此效果失效|（boss無效）",
+        "kind": [
+          1
+        ],
+        "petId": [
+          4911
+        ],
+        "specificId": null,
+        "effectId": 2516,
+        "iconId": 2097,
+        "Id": 2097,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身存活於出戰陣容時，雙方場下的精靈無法指定場上的精靈為效果對象，自身死亡時，為[color=#52a5f2]己方[/color]存活精靈附加[color=#f35555]黃金萬象[/color]|[sprite name=dot4]自身相鄰的精靈存活時，自身受到技能傷害後恢復最大體力的1/3並附加溢出量26%的[color=#52a5f2]真實傷害[/color]，自身相鄰的精靈死亡時，本場戰鬥自身免疫受到的能力下降狀態|[sprite name=dot4]自身隔位的精靈存活時，自身[color=#57c975]登場時[/color]雙方在場精靈本場戰鬥免疫下1次受到的異常狀態，自身隔位的精靈死亡時，本場戰鬥自身免疫受到的異常狀態|[sprite name=dot4][color=#52a5f2]己方[/color]首位的精靈存活時，[color=#52a5f2]己方[/color]每損失1%的體力，自身造成的攻擊傷害提升1%，[color=#52a5f2]己方[/color]首位的精靈死亡時，本場戰鬥自身免疫受到的[color=#52a5f2]百分比傷害[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]末位的精靈存活時，對手[color=#57c975]使用技能後[/color]自身恢復所有技能1點PP值，[color=#52a5f2]己方[/color]末位的精靈死亡時，本場戰鬥自身免疫受到的[color=#52a5f2]固定傷害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身存活於出戰陣容時，雙方場下的精靈無法指定場上精靈為效果對象，自身死亡時，為己方存活精靈附加黃金萬象|自身相鄰的精靈存活時，自身受到技能傷害後恢復最大體力的1/3並附加溢出量26%的真實傷害，自身相鄰的精靈死亡時，本場戰鬥自身免疫受到的能力下降狀態|自身隔位的精靈存活時，自身登場時雙方在場精靈本場戰鬥免疫下1次受到的異常狀態，自身隔位的精靈死亡時，本場戰鬥自身免疫受到的異常狀態|己方首位的精靈存活時，己方每損失1%的體力，自身造成的攻擊傷害提升1%，己方首位的精靈死亡時，本場戰鬥自身免疫受到的百分比傷害|己方末位的精靈存活時，對手使用技能後自身恢復所有技能1點PP值，己方末位的精靈死亡時，本場戰鬥自身免疫受到的固定傷害|（boss無效）",
+        "kind": [
+          4
+        ],
+        "petId": [
+          4000
+        ],
+        "specificId": null,
+        "effectId": 2513,
+        "iconId": 2098,
+        "Id": 2098,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身每次在場[color=#52a5f2]首次[/color]使用攻擊技能時獲得1層[color=#f35555]漸燼[/color]並[color=#52a5f2]吸取[/color]對手最大體力的1/3，若對手免疫受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]則本場戰鬥此效果無視時點條件|[sprite name=dot4]自身每次在場對手[color=#52a5f2]首次[/color]使用攻擊技能時[color=#52a5f2]當回合[/color]自身受到的攻擊傷害減少50%，若對手當次攻擊微弱自身則對手下次屬性[color=#52a5f2]技能無效[/color]|[sprite name=dot4]自身受到[color=#52a5f2]致死傷害[/color]時，消耗自身的[color=#f35555]漸燼[/color][color=#52a5f2]以[/color]主動恢復全部體力，恢復成功自身解除所處的異常狀態、能力下降狀態，免疫下1次受到的攻擊，每消耗1層[color=#f35555]漸燼[/color]，[color=#52a5f2]己方[/color]獲得1層[color=#f35555]天燼海[/color]，[color=#52a5f2]之後[/color]本場戰鬥自身漸燼的上限視為0",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身每次在場首次使用攻擊技能時獲得1層漸燼並吸取對手最大體力的1/3，若對手免疫受到的固定傷害、百分比傷害則本場戰鬥此效果無視時點條件|自身每次在場對手首次使用攻擊技能時當回合自身受到的攻擊傷害減少50%，若對手當次攻擊微弱自身則對手下次屬性技能無效|自身受到致死傷害時，消耗自身的所有漸燼以主動恢復全部體力，恢復成功自身解除所處的異常狀態、能力下降狀態，免疫下1次受到的攻擊，每消耗1層漸燼，己方獲得1層天燼海，之後本場戰鬥自身漸燼的上限視為0（boss無效）",
+        "kind": [
+          3,
+          5
+        ],
+        "petId": [
+          4912
+        ],
+        "specificId": null,
+        "effectId": 2519,
+        "iconId": 2099,
+        "Id": 2099,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身進入[color=#f35555]事象觀測[/color]狀態；自身受到[color=#52a5f2]致死傷害[/color]時，退出[color=#f35555]事象觀測[/color][color=#52a5f2]以[/color]消除對手的能力提升狀態、[color=#52a5f2]回合類效果[/color]並重生|[sprite name=dot4]自身[color=#52a5f2]登場[/color][color=#52a5f2]之後[/color]，記錄[color=#52a5f2]當回合[/color]自身首個進入的異常狀態和對手所使用技能的類型，記錄成功則[color=#52a5f2]當回合[/color]結束時解除自身所處的異常狀態；自身的技能命中時，若類型與自身記錄的技能類型相同則附加自身記錄的異常狀態，[color=#52a5f2]未觸發[/color]則令自身[color=#57c975]凝滯[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手處於異常狀態則自身特攻、速度+1且下回合[color=#57c975]使用技能時[/color]附加特攻值40%的[color=#52a5f2]百分比傷害[/color]，若對手不處於異常狀態則恢復自身最大體力的1/4",
+        "args": "40 1 4 0 1",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，自身進入事象觀測；自身受到致死傷害時，退出事象觀測以消除對手的能力提升狀態、回合類效果並復活|自身登場之後，記錄當回合自身首個進入的異常狀態和對手所使用技能的類型，記錄成功則當回合結束時解除自身所處的異常狀態；自身的技能命中時，若類型與自身記錄的技能類型相同則附加自身記錄的異常狀態，未觸發則令自身凝滯|戰鬥階段結束時，若對手處於異常狀態則自身特攻、速度+1且下回合使用技能時附加特攻值40%的百分比傷害，若對手不處於異常狀態則恢復自身最大體力的1/4|（boss無效）",
+        "kind": [
+          14,
+          10
+        ],
+        "petId": [
+          4915
+        ],
+        "specificId": null,
+        "effectId": 2520,
+        "iconId": 2100,
+        "Id": 2100,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身的PP值總和每有對手的1倍，自身受到的[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]減半1次，每次傷害最多減半8次|[sprite name=dot4]每回合前10次受到[color=#52a5f2]固定傷害[/color]、[color=#52a5f2]百分比傷害[/color]時，若自身的PP值總和高於對手則恢復對手所有技能已損失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此歸0時2回合內對手無法恢復體力，若自身的PP值總和不高於對手則[color=#52a5f2]吸取(464)[/color]對手所有技能1點PP值恢復至自身PP值最低的[color=#52a5f2]首位技能[/color]且自身[color=#52a5f2]吸取[/color]對手240點體力，[color=#52a5f2]然後[/color]若對手的體力未減少則對其相鄰精靈附加等量[color=#52a5f2]真實傷害(404)[/color]",
+        "args": "1 1 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身的PP值總和每有對手的1倍，自身受到的固定傷害、百分比傷害減半1次，每次傷害最多減半8次|每回合前10次受到固定傷害、百分比傷害時，若自身的PP值總和高於對手則恢復對手所有技能已損失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此歸0時2回合內令對手無法恢復體力，若自身的PP值總和不高於對手則自身首個PP值最低的技能吸取對手所有技能1點PP值且自身吸取對手240點體力，然後若對手的體力未減少則額外對其相鄰精靈造成等量真實傷害|（boss無效）",
+        "kind": [
+          3,
+          5
+        ],
+        "petId": [
+          4866
+        ],
+        "specificId": null,
+        "effectId": 2475,
+        "iconId": 2101,
+        "Id": 2101,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]對手pp值總和每比自身高1倍，自身造成的攻擊傷害提升40%|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身存在pp值相等的技能則[color=#52a5f2]當回合[/color]自身技能命中後恢復所有技能1點pp並[color=#52a5f2]吸取[/color]對手400點體力，自身pp值每恢復一點則[color=#52a5f2]吸取[/color]效果減少40點，若不存在pp值相等的技能則[color=#52a5f2]當回合[/color]必定打出[color=#57c975]致命一擊[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身若不存在pp值相等的技能，則使自身每個技能的pp值儘可能等於所有技能pp值的平均值，技能pp值總和每因此減少1點，下回合所有[color=#52a5f2]技能先制[/color]+1，最高+4",
+        "args": "40 400 40 4 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "對手pp值總和每比自身高1倍，自身造成的攻擊傷害提升40%|回合開始時，若自身存在pp值相等的技能則當回合自身技能命中後恢復所有技能1點pp並吸取對手400點體力，自身pp值每恢復一點則吸取效果減少40點，若不存在pp值相等的技能則當回合必定打出致命一擊|戰鬥階段結束時，若自身若不存在pp值相等的技能，則使自身每個技能的pp值儘可能等於所有技能pp值的平均值，技能pp值總和每因此減少1點，下回合所有技能先制+1，最高+4|（boss無效）",
+        "kind": [
+          1,
+          9
+        ],
+        "petId": [
+          4870
+        ],
+        "specificId": null,
+        "effectId": 2477,
+        "iconId": 2102,
+        "Id": 2102,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]先制(340)[/color]無法高於0，自身[color=#57c975]被擊敗[/color]時對手1回合內[color=#52a5f2]先制(340)[/color]等級歸0|[sprite name=dot4]自身每次受到的攻擊傷害不超過自身最大體力的80%，對手每有1級[color=#52a5f2]先制(340)[/color]該比例降低15%，自身受到攻擊後恢復200×（200%-該比例）的體力|[sprite name=dot4]自身每次造成的攻擊傷害不低於對手最大體力的40%，對手每有1級[color=#52a5f2]先制(340)[/color]等級該比例提高5%，自身造成攻擊傷害後額外附加500*該比例的[color=#52a5f2]固定傷害[/color]",
+        "args": "80 15 200 5 500 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身先制等級不高於0；自身每次受到的攻擊傷害不超過自身最大體力的80%，對手每有1級先制等級該比例降低15%，自身受到攻擊後恢復200×（200%-該比例）；自身每次造成的攻擊傷害不低於對手最大體力的40%，對手每有1級先制等級該比例提高5%，自身造成攻擊傷害後附加500*該比例的固定傷害；自身被擊敗時令對手1回合內先制等級歸0（boss無效）",
+        "kind": [
+          5,
+          14
+        ],
+        "petId": [
+          4887
+        ],
+        "specificId": null,
+        "effectId": 2494,
+        "iconId": 2103,
+        "Id": 2103,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]記錄對手[color=#52a5f2]當回合(412)[/color]所使用技能的類型，若該類型與上次記錄不同則100%令對手[color=#57c975]害怕[/color]3回合，若該類型與上次記錄相同則對手該類型技能下回合[color=#52a5f2]先制(339)[/color]-1|[sprite name=dot4]自身[color=#57c975]攻擊技能命中後[/color]，若對手處於[color=#57c975]害怕[/color]狀態則令對手[color=#57c975]害怕[/color]回合數-1並附加200點[color=#52a5f2]固定傷害[/color]，每生效1次增加100點，最多500點，自身屬性技能命中後，若對手處於[color=#57c975]害怕[/color]狀態則令對手[color=#57c975]害怕[/color]回合數+1並[color=#52a5f2]吸取[/color]對手最大體力的50%，每生效1次減少10%，最低30%",
+        "args": "100 500 50 30 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時記錄對手當回合所使用技能的類型，若該類型與上次記錄不同則100%令對手害怕3回合，若該類型與上次記錄相同則對手該類型技能下回合先制-1|自身攻擊技能命中後，若對手處於害怕狀態則令對手害怕回合數-1並附加200點固定傷害，每生效1次增加100點，最多500點，自身屬性技能命中後，若對手處於害怕狀態則令對手害怕回合數+1並吸取對手最大體力的50%，每生效1次減少10%，最低30%|（boss無效）",
+        "kind": [
+          10,
+          14
+        ],
+        "petId": [
+          4894
+        ],
+        "specificId": null,
+        "effectId": 2501,
+        "iconId": 2104,
+        "Id": 2104,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合結束後[/color]，使自身所有技能的pp值分別隨機變化為m-n中的一個值，[color=#52a5f2]然後[/color]若自身所有技能的pp值總和不低於20則獲得所有技能pp值總和*10點[color=#57c975]護罩[/color]且1回合內自身造成的[color=#52a5f2]固定傷害[/color]和[color=#52a5f2]百分比傷害[/color]提高25%，若不高於30則獲得所有技能已損失pp值總和*10點[color=#57c975]護盾[/color]且1回合內自身免疫受到的異常狀態(m=自身體力/100和自身[color=#52a5f2]已損失體力[/color]/100中的較小值，最小為0；n=自身體力/100和自身[color=#52a5f2]已損失體力[/color]/100中的較大值，最大為10）|[sprite name=dot4]自身技能命中時，若該技能已損失的pp值不小於5則令對手[color=#57c975]神遊[/color]，小於5則令對手[color=#52a5f2]當回合[/color]選擇的技能損失相等的pp值",
+        "args": "1 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "回合結束後，使自身所有技能的pp值分別隨機變化為m-n中的一個值，然後若自身所有技能的pp值總和不低於20則獲得所有技能pp值總和*10點護罩且1回合內自身造成的固定傷害和百分比傷害提高25%，若不高於30則獲得所有技能已損失pp值總和*10點護盾且1回合內自身免疫受到的異常狀態(m=自身體力/100和自身已損失體力/100中的較小項，最小為0；n=自身體力/100和自身已損失體力/100中的較大項，最大為10）|自身技能命中時，若該技能已損失的pp值不小於5則令對手神遊，若小於5則令對手當回合選擇的技能損失相等的pp值",
+        "kind": [
+          1,
+          10
+        ],
+        "petId": [
+          4902
+        ],
+        "specificId": null,
+        "effectId": 2510,
+        "iconId": 2105,
+        "Id": 2105,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能時[/color]，隨機觸發下列效果種的2項並使本次在場的觸發項數+1：|[sprite name=dot5]2回合內自身攻擊必定打出[color=#57c975]致命一擊[/color]|[sprite name=dot5]2回合內對手內[color=#57c975]無法通過自身技能恢復體力[/color]|[sprite name=dot5]2回合內自身攻擊技能無視對手能力提升狀態|[sprite name=dot5]2回合內自身能力提升狀態無法被消除|[sprite name=dot5]2回合內受到的攻擊傷害減少50%|[sprite name=dot5]2回合內每回合[color=#57c975]戰鬥階段結束時[/color]恢復自身400點體力",
+        "args": "2 1 50 400 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用技能時，隨機觸發下列效果種的2項並使本次在場的觸發項數+1：|2回合內自身攻擊必定打出致命一擊|2回合內對手內無法通過自身技能恢復體力|2回合內自身攻擊技能無視對手能力提升狀態|2回合內自身能力提升狀態無法被消除|2回合內受到的攻擊傷害減少50%|2回合內每回合戰鬥階段結束時恢復自身400點體力|（boss無效）",
+        "kind": [
+          1,
+          3,
+          5
+        ],
+        "petId": [
+          4905
+        ],
+        "specificId": null,
+        "effectId": 2514,
+        "iconId": 2106,
+        "Id": 2106,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]每次在場自身的[color=#52a5f2]首次[/color]使用的攻擊技能必定打出[color=#57c975]致命一擊[/color]，在打出之前每回合[color=#57c975]戰鬥階段結束時[/color]消除對手能力提升狀態，消除成功則消除對手[color=#52a5f2]回合類效果[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若本次在場自身打出[color=#57c975]致命一擊[/color]的次數高於對手則將對手所處的異常狀態[color=#52a5f2][color=#52a5f2]轉化[/color][/color]為2回合[color=#57c975]焚燼[/color]，若低於對手則恢復雙方最大體力差值的體力，若等於對手則下回合所有[color=#52a5f2]技能先制[/color]+3",
+        "args": "1 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "每次在場自身的首次使用的攻擊技能必定打出致命一擊，在打出之前每回合戰鬥階段結束時消除對手能力提升狀態，消除成功則消除對手回合類效果|戰鬥階段結束時，若本次在場自身打出致命一擊的次數高於對手則將對手所處的異常狀態轉化為2回合焚燼，若低於對手則恢復雙方最大體力差值的體力，若等於對手則下回合所有技能先制+3|（boss無效）",
+        "kind": [
+          8,
+          1,
+          5
+        ],
+        "petId": [
+          4908
+        ],
+        "specificId": null,
+        "effectId": 2518,
+        "iconId": 2107,
+        "Id": 2107,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身進入[color=#f35555]事象觀測[/color]狀態；自身受到[color=#52a5f2]致死傷害[/color]時，退出[color=#f35555]事象觀測[/color][color=#52a5f2]以[/color]消除對手的能力提升狀態、[color=#52a5f2]回合類效果[/color]並重生|[sprite name=dot4]自身[color=#52a5f2]登場[/color][color=#52a5f2]之後[/color]，記錄[color=#52a5f2]當回合[/color]自身首個進入的異常狀態和對手所使用技能的類型，記錄成功則[color=#52a5f2]當回合[/color]結束時解除自身所處的異常狀態；自身的技能命中時，若類型與自身記錄的技能類型相同則附加自身記錄的異常狀態，[color=#52a5f2]未觸發[/color]則令自身[color=#57c975]凝滯[/color]|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若對手處於異常狀態則自身特攻、速度+1且下回合[color=#57c975]使用技能時[/color]附加特攻值60%的[color=#52a5f2]百分比傷害[/color]，若對手不處於異常狀態則恢復自身最大體力的1/3且下回合[color=#52a5f2]技能先制[/color]+1",
+        "args": "60 1 3 1 1",
+        "come": "黃金聖徒夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，自身進入事象觀測；自身受到致死傷害時，退出事象觀測以消除對手的能力提升狀態、回合類效果並復活|自身登場之後，記錄當回合自身首個進入的異常狀態和對手所使用技能的類型，記錄成功則當回合結束時解除自身所處的異常狀態；自身的技能命中時，若類型與自身記錄的技能類型相同則附加自身記錄的異常狀態，未觸發則令自身凝滯|戰鬥階段結束時，若對手處於異常狀態則自身特攻、速度+1且下回合使用技能時附加特攻值60%的百分比傷害，若對手不處於異常狀態則恢復自身最大體力的1/3且下回合技能先制+1|（boss無效）",
+        "kind": [
+          14,
+          10
+        ],
+        "petId": [
+          4915
+        ],
+        "specificId": null,
+        "effectId": 2520,
+        "iconId": 2108,
+        "Id": 2108,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 114103,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，自身[color=#52a5f2]當回合(412)[/color]每有1級[color=#52a5f2]先制[/color]，下回合[color=#52a5f2]技能先制[/color]+1，最高+3；自身的[color=#52a5f2]先制(340)[/color]高於對手時，自身使用攻擊技能後70%令對手[color=#57c975]冰封[/color]，若自身的[color=#52a5f2]先制(340)[/color][color=#52a5f2]達到[/color]對手的2倍，則改為100%且[color=#52a5f2]未觸發[/color]時附加[color=#52a5f2]當回合(412)[/color]所造成攻擊傷害100%的[color=#52a5f2]百分比傷害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時，自身當回合每有1級先制，下回合先制+1，最高+3；自身的先制高於對手時，自身使用攻擊技能後70%令對手冰封，若自身的先制達到對手的2倍，則改為100%且未觸發時附加當回合所造成攻擊傷害100%的百分比傷害|（boss無效）",
+        "kind": [
+          9,
+          10
+        ],
+        "petId": [
+          4916
+        ],
+        "specificId": null,
+        "effectId": 2521,
+        "iconId": 2109,
+        "Id": 2109,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身為戰鬥加入不屬於任何一方[color=#f35555]血月[/color]、[color=#f35555]寒月[/color]|[sprite name=dot4][color=#52a5f2]己方[/color]擁有[color=#f35555]血月[/color]時，自身使用攻擊技能後[color=#52a5f2]吸取[/color]對手最大體力的30%，否則令對手先制攻擊技能造成的傷害減半，[color=#52a5f2]己方[/color]擁有[color=#f35555]寒月[/color]時，自身使用攻擊技能後令對手[color=#57c975]冰封[/color]，否則令對手先制屬性技能的先制等級減半|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身的體力高於[color=#52a5f2]回合開始[/color]則解除自身所處的異常狀態並令自身[color=#52a5f2]全屬性[/color]+1，若自身體力低於[color=#52a5f2]回合開始[/color]則令對手[color=#57c975]漸凍[/color]1回合且下回合所有[color=#52a5f2]技能先制[/color]+1，若自身的體力等於[color=#52a5f2]回合開始[/color]則恢復自身所有技能1點pp",
+        "args": "1 0",
+        "come": "霜月懸天夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，自身為戰鬥加入不屬於任何一方的血月、寒月|己方擁有血月時，自身使用攻擊技能後吸取對手最大體力的30%，否則令對手先制攻擊技能造成的傷害減半，己方擁有寒月時，自身使用攻擊技能後令對手冰封，否則令對手先制屬性技能的先制等級減半|戰鬥階段結束時，若自身的體力高於回合開始則解除自身所處的異常狀態並令自身全屬性+1，若自身體力低於回合開始則令對手漸凍1回合且下回合所有技能先制+1，若自身的體力等於回合開始則恢復自身所有技能1點pp|（boss無效）",
+        "kind": [
+          1,
+          5,
+          10
+        ],
+        "petId": [
+          4147
+        ],
+        "specificId": null,
+        "effectId": 2522,
+        "iconId": 2110,
+        "Id": 2110,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 111311,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]為對手附加一層[color=#f35555]暮月玄音[/color]，最高10層|[sprite name=dot4]自身[color=#57c975]攻擊技能命中後[/color]，若[color=#52a5f2]當回合[/color]自身為先手方則攻擊命中後100%附加[color=#57c975]燒傷[/color]、[color=#57c975]凍傷[/color]、[color=#57c975]中毒[/color]、[color=#57c975]麻痺[/color]、[color=#57c975]害怕[/color]、[color=#57c975]睡眠[/color]中的2種異常狀態，[color=#52a5f2]未觸發[/color]則令自身[color=#52a5f2]全屬性[/color]+1，若[color=#52a5f2]當回合[/color]自身為後手方則令對手[color=#52a5f2]全屬性[/color]-1",
+        "args": "10 100 2 1 1 10 5 1",
+        "come": "霜月懸天夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "每回合開始時為對手疊加一層暮月玄音，最高10層|自身攻擊技能命中後，若當回合自身為先手方則攻擊命中後100%附加燒傷、凍傷、中毒、麻痺、害怕、睡眠中的2種異常狀態，未觸發則令自身全屬性+1，若當回合自身為後手方則令對手全屬性-1|（boss無效）",
+        "kind": [
+          10,
+          11,
+          12
+        ],
+        "petId": [
+          4178
+        ],
+        "specificId": null,
+        "effectId": 1772,
+        "iconId": 2111,
+        "Id": 2111,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 111311,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身每次[color=#52a5f2]登場[/color]首回合攻擊100%打出[color=#57c975]致命一擊[/color]且100%令對手[color=#57c975]失明[/color]，[color=#52a5f2]當回合[/color]未使用攻擊技能則[color=#57c975]戰鬥階段結束時[/color]令自身[color=#52a5f2]全屬性[/color]+1|[sprite name=dot4]自身攻擊造成的傷害低於600時下回合攻擊100%打出[color=#57c975]致命一擊[/color]，自身攻擊造成的傷害高於0時附加對手最大體力1/3的[color=#52a5f2]百分比傷害[/color]",
+        "args": "100 100 1 600 100 0 3 1",
+        "come": "霜月懸天夥伴效果",
+        "des": null,
+        "tag": null,
+        "tips": "自身每次登場首回合攻擊100%打出致命一擊且100%令對手失明，當回合未使用攻擊技能則戰鬥階段結束時令自身全屬性+1|自身攻擊造成的傷害低於600時下回合攻擊100%打出致命一擊，自身攻擊造成的傷害高於0時附加對手最大體力1/3的百分比傷害|（boss無效）",
+        "kind": [
+          1,
+          11,
+          14
+        ],
+        "petId": [
+          4096
+        ],
+        "specificId": null,
+        "effectId": 1688,
+        "iconId": 2112,
+        "Id": 2112,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 111311,
+        "to": 0,
+        "type": 1
+      },
+      {
+        "analyze": "[sprite name=dot4]自身先出手時[color=#52a5f2]當回合[/color]攻擊技能必定打出[color=#57c975]致命一擊[/color]，屬性技能[color=#52a5f2]吸取[/color]對手300點體力；自身被[color=#57c975]擊敗[/color]時，本場戰鬥自身每[color=#52a5f2]出戰[/color]1次，為對手附加300點[color=#52a5f2]固定傷害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身先出手時當回合攻擊技能必定打出致命一擊，屬性技能吸取對手300點體力；自身被擊敗時，本場戰鬥自身每出戰1次，為對手附加300點固定傷害（boss無效）",
+        "kind": [
+          14
+        ],
+        "petId": [
+          4917
+        ],
+        "specificId": null,
+        "effectId": 2524,
+        "iconId": 2113,
+        "Id": 2113,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]登場時[/color]，自身減少體力上限的50%，若減少的體力上限大於200點則下次受到[color=#52a5f2]致死傷害[/color]時[color=#52a5f2]保留[/color]全部體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "登場時，自身減少體力上限的50%，若減少的體力上限大於200點則下次受到致死傷害時保留全部體力 （boss無效）",
+        "kind": [
+          2
+        ],
+        "petId": [
+          4918
+        ],
+        "specificId": null,
+        "effectId": 2523,
+        "iconId": 2114,
+        "Id": 2114,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身使用攻擊技能造成的傷害提升45%、使用屬性技能後附加對手最大體力45%的[color=#52a5f2]百分比傷害[/color]、當回合未使用技能的[color=#57c975]戰鬥階段結束時[/color]恢復45%自身[color=#52a5f2]已損失體力[/color]|[sprite name=dot4][color=#57c975]登場時[/color]，若對手微弱自身則係數每低0.5自身本次在場上述效果均提升15%，若對手克制自身則係數每高1自身本次在場上述效果均減少15%，減少至0時對手2回合內使用攻擊技能造成的傷害減少45%、使用屬性技能後受到最大體力45%的[color=#52a5f2]百分比傷害[/color]、體力恢復效果減少45%",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用攻擊技能造成的傷害提升45%、使用屬性技能後附加對手最大體力45%的百分比傷害、未使用技能的戰鬥階段結束時恢復45%自身已損失體力|登場時，若對手微弱自身則係數每低0.5自身本次在場上述效果均提升15%，若對手克制自身則係數每高1自身本次在場上述效果均減少15%，減少至0時對手2回合內使用攻擊技能造成的傷害減少45%、使用屬性技能後受到最大體力45%的百分比傷害、體力恢復效果減少45%|（boss無效）",
+        "kind": [
+          1,
+          14,
+          5
+        ],
+        "petId": [
+          4919
+        ],
+        "specificId": null,
+        "effectId": 2526,
+        "iconId": 2115,
+        "Id": 2115,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot1][color=#57c975]回合開始時[/color]，若對手處於能力提升則[color=#52a5f2]當回合[/color]造成的攻擊傷害提升100%，對手的各項能力等級存在不同時，額外使自身[color=#52a5f2]當回合[/color]必定打出[color=#57c975]致命一擊[/color]",
+        "args": "0 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若對手處於能力提升則當回合造成的攻擊傷害提升100%，對手的各項能力等級存在不同時，額外使自身當回合必定打出致命一擊|（boss有效）",
+        "kind": [
+          0,
+          1
+        ],
+        "petId": [
+          4920
+        ],
+        "specificId": null,
+        "effectId": 2525,
+        "iconId": 2116,
+        "Id": 2116,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，自身消耗20%的體力上限並提升自身的其他能力值等量的數值，[color=#52a5f2]然後[/color]自身記錄自身的體力上限，[color=#52a5f2]之後[/color]本場戰鬥自身[color=#57c975]登場[/color]時，若對手的體力上限低於此記錄值，令對手的體力上限增加20%並減少其他能力值等量的數值|[sprite name=dot4]自身進入異常狀態時，若此異常狀態位於自身異常狀態抗性的1號位，則自身恢復所有技能PP值，若此異常狀態位於自身異常狀態抗性的2號位，則對手下回合屬性[color=#52a5f2]技能無效[/color]，若此異常狀態位於自身異常狀態的3號位，則對手下回合攻擊[color=#52a5f2]技能無效[/color]；[color=#57c975]戰鬥階段結束時[/color]，自身恢復最大體力的1/4，上述效果每滿足過1次效果提升1/4，溢出的恢復量轉化為等量的臨時體力上限直到下場，最高不超過自身戰鬥開始時所記錄數值，未溢出時下回合自身以[color=#57c975]最優系別[/color]計算受到的攻擊傷害與造成的攻擊傷害",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，自身消耗20%的體力上限並提升自身的其他能力值等量的數值，然後自身記錄自身的體力上限，之後本場戰鬥自身登場時，若對手的體力上限低於此記錄值，令對手的體力上限增加20%並減少其他能力值等量的數值|自身進入異常狀態時，若此異常狀態位於自身異常狀態抗性的1號位，則自身恢復所有技能PP值，若此異常狀態位於自身異常狀態抗性的2號位，則對手下回合屬性技能無效，若此異常狀態位於自身異常狀態的3號位，則對手下回合攻擊技能無效；戰鬥階段結束時，自身恢復最大體力的1/4，上述效果每滿足過1次效果提升1/4，溢出的恢復量轉化為等量的[color=#57c975]臨時體力上限[/color]，最高不超過自身戰鬥開始時所記錄數值，未溢出時下回合自身以最優系別計算受到的攻擊傷害與造成的攻擊傷害|（boss無效）",
+        "kind": [
+          4,
+          5
+        ],
+        "petId": [
+          4921
+        ],
+        "specificId": null,
+        "effectId": 2527,
+        "iconId": 2117,
+        "Id": 2117,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身體力不為滿則[color=#52a5f2][color=#52a5f2]當回合[/color]造成的攻擊傷害提升50%；[color=#57c975]戰鬥階段結束時[/color]，消耗自身20%的體力值[color=#52a5f2]以[/color]恢復至[color=#52a5f2]己方[/color]不在場精靈，若消耗後自身體力低於最大體力的50%，則恢復全部體力",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "回合開始時，若自身體力不為滿則當回合造成的攻擊傷害提升50%；戰鬥階段結束時，消耗自身20%的體力值以恢復至己方不在場精靈，若消耗後自身體力低於最大體力的50%，則恢復全部體力（boss無效）",
+        "kind": [
+          5,
+          1
+        ],
+        "petId": [
+          4922
+        ],
+        "specificId": null,
+        "effectId": 2528,
+        "iconId": 2118,
+        "Id": 2118,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]戰鬥開始時，為[color=#52a5f2]己方[/color]附加4座[color=#f35555]蜃樓[/color]|[sprite name=dot4][color=#57c975]回合開始時[/color]，若對手[color=#52a5f2]當回合[/color]未選擇技能，則2回合內自身受到的非真實傷害減少50%，若對手選擇了技能，則自身[color=#52a5f2]當回合[/color]與此技能類型相同的技能使用後令對手[color=#57c975]石化[/color]1回合，不同的[color=#52a5f2]技能先制[/color]+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥開始時，為己方附加4座蜃樓|回合開始，若對手當回合未選擇技能，則2回合內自身受到的非真實傷害減少50%，若對手選擇了技能，則自身當回合與此技能類型相同的技能使用後令對手石化1回合，不同的技能先制+1（boss無效）",
+        "kind": [
+          4,
+          3
+        ],
+        "petId": [
+          4923
+        ],
+        "specificId": null,
+        "effectId": 2529,
+        "iconId": 2119,
+        "Id": 2119,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登場時[/color]，消除對手能力提升狀態，消除成功後100%令對手[color=#57c975]睡眠[/color]3回合，觸發成功則本場戰鬥上述[color=#57c975]睡眠[/color]附加的回合數-1，最多減少至1；自身位於[color=#52a5f2]出戰[/color]背包時，雙方精靈每次觸發復活效果後，自身重置前述效果|[sprite name=dot4][color=#52a5f2]回合開始時[/color]，若自身處於異常狀態，則[color=#52a5f2]當回合[/color][color=#57c975]戰鬥階段結束時[/color]附加自身所處的異常狀態各2回合，若自身不處於異常狀態，則下回合所有[color=#52a5f2]技能先制[/color]+1",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場時，消除對手能力提升狀態，消除成功後100%令對手睡眠3回合，觸發成功則本場戰鬥上述睡眠附加的回合數-1，最多減少至1；自身位於出戰背包時，雙方精靈每次觸發復活效果後，自身重置前述效果|回合開始時，若自身處於異常狀態，則當回合戰鬥階段結束時附加自身所處的異常狀態各2回合，若自身不處於異常狀態，則下回合所有技能先制+1|（boss無效）",
+        "kind": [
+          10,
+          9
+        ],
+        "petId": [
+          4925
+        ],
+        "specificId": null,
+        "effectId": 2531,
+        "iconId": 2120,
+        "Id": 2120,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]登場時[/color]，獲得1道[color=#f35555]神聖之霆[/color]，[color=#52a5f2]然後[/color]自身每有1層神聖之霆為對手附加1層[color=#f35555]榮光之裁[/color]、對手下1次使用攻擊技能時將對手所處的異常狀態[color=#52a5f2][color=#52a5f2]轉化[/color][/color]為回合數三倍的[color=#57c975]麻痺[/color]、對手下1次使用屬性技能時令對手[color=#57c975]麻痺[/color]一回合、對手下1個未使用技能的[color=#52a5f2]當回合[/color][/color]結束時令對手下回合攻擊[color=#52a5f2]技能先制[/color]無法高於0|[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身體力高於最大體力的1/2則下次攻擊造成的傷害提升50%，若自身體力低於最大體力的1/2則令對手[color=#57c975]麻痺[/color]，[color=#52a5f2]然後[/color]若[color=#52a5f2]當回合(411)[/color]對手免疫過或自身受到過[color=#57c975]麻痺[/color]狀態，則[color=#52a5f2]當回合結束後[/color]解除自身所處的異常狀態並消除對手的[color=#52a5f2]回合類效果[/color]與能力提升狀態",
+        "args": "1 0",
+        "come": "聖光格勞瑞覺醒",
+        "des": null,
+        "tag": null,
+        "tips": "自身登場時，獲得1道神聖之霆，然後自身每有1層神聖之霆為對手附加1層榮光之裁、對手下1次使用攻擊技能時將對手所處的異常狀態轉化為回合數三倍的麻痺、對手下1次使用屬性技能時令對手麻痺一回合、對手下1個未使用技能的當回合結束時令對手下回合攻擊技能先制無法高於0|戰鬥階段結束時，若自身體力高於最大體力的1/2則下次攻擊造成的傷害提升50%，若自身體力低於最大體力的1/2則令對手麻痺，然後若當回合對手免疫過或自身受到過麻痺狀態，則當回合結束後解除自身所處的異常狀態並消除對手的回合類效果與能力提升狀態|（boss無效）",
+        "kind": [
+          10,
+          8
+        ],
+        "petId": [
+          4004
+        ],
+        "specificId": null,
+        "effectId": 2532,
+        "iconId": 2121,
+        "Id": 2121,
+        "intensify": 0,
+        "isAdv": 1,
+        "label": 0,
+        "limitedType": 0,
+        "target": 112003,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]戰鬥階段結束時[/color]，若自身的體力低於最大體力的1/3，則消耗自身200點體力上限並恢復全部體力|[sprite name=dot4][color=#57c975]回合開始時[/color]，若自身的體力上限低於400，則獲得100點體力上限、雙方最大體力之差的[color=#57c975]護盾[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "戰鬥階段結束時，若自身的體力低於最大體力的1/3，則消耗自身200點體力上限並恢復全部體力|回合開始時，若自身的體力上限低於400，則獲得100點體力上限、雙方最大體力之差的護盾（boss無效）",
+        "kind": [
+          5
+        ],
+        "petId": [
+          4927
+        ],
+        "specificId": null,
+        "effectId": 2534,
+        "iconId": 2122,
+        "Id": 2122,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身[color=#57c975]使用技能後[/color]，若當次[color=#52a5f2]技能無效[/color]，則附加等同於當次技能威力值2倍的[color=#52a5f2]固定傷害[/color]並使此效果的倍數+1，最高增加至為9",
+        "args": "1 0",
+        "come": "",
+        "des": null,
+        "tag": null,
+        "tips": "自身使用技能後，若當次技能無效，則附加等同於當次技能威力值2倍的固定傷害並使此效果的倍數+1，最高增加至9（boss無效）",
+        "kind": [
+          14
+        ],
+        "petId": [
+          4928
+        ],
+        "specificId": null,
+        "effectId": 2535,
+        "iconId": 2123,
+        "Id": 2123,
+        "intensify": 0,
+        "isAdv": 0,
+        "label": 0,
+        "limitedType": 0,
+        "target": 0,
         "to": 0,
         "type": 0
       }

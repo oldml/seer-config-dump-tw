@@ -53321,6 +53321,5464 @@
           ]
         },
         "ID": 231
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 6
+        },
+        "Configure": {
+          "ExchangeID": [
+            14694,
+            14695,
+            14696
+          ],
+          "ExchangeProductID": [
+            262178,
+            262183,
+            262179
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302320,
+          "needmon": 0,
+          "ProgressValue": 302322,
+          "Times": 3,
+          "TimeValue": 302323
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4316,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4299,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4853,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 3794,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4870,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4316,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4299,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4853,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 3794,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4870,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4316,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4299,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4853,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3794,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4870,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126150,
+          "ItemID": 2400553,
+          "MintMarkID": 0,
+          "MonsterID": 4870
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302296 302297 302298 302299 302300 302301 302302 302303 302304 302305 302306 302307 302308 302309 302310 302311 302312 302313 302314 302315 302316 302317 302318 302319",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4606 3437",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、加爾魯特、艾歐麗婭",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302320",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302321",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262180,
+            0,
+            0,
+            262181,
+            0,
+            0,
+            262182
+          ]
+        },
+        "ID": 232
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14700,
+            14701,
+            14702
+          ],
+          "ExchangeProductID": [
+            262233,
+            262238,
+            262234
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302348,
+          "needmon": 0,
+          "ProgressValue": 302350,
+          "Times": 3,
+          "TimeValue": 302351
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 3033,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3237,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4871,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4002,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4874,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3033,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3237,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4871,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4002,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4874,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 3033,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3237,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4871,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4002,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4874,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126151,
+          "ItemID": 2400555,
+          "MintMarkID": 0,
+          "MonsterID": 4874
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302324 302325 302326 302327 302328 302329 302330 302331 302332 302333 302334 302335 302336 302337 302338 302339 302340 302341 302342 302343 302344 302345 302346 302347",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "4344 3390 4649",
+              "CheckTips": "本關卡不可使用精靈：潘克多斯、毀滅機甲、星光·魔焰猩猩",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302348",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302349",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262235,
+            0,
+            0,
+            262236,
+            0,
+            0,
+            262237
+          ]
+        },
+        "ID": 233
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 7
+        },
+        "Configure": {
+          "ExchangeID": [
+            14703,
+            14704,
+            14705
+          ],
+          "ExchangeProductID": [
+            262262,
+            262267,
+            262263
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302376,
+          "needmon": 0,
+          "ProgressValue": 302378,
+          "Times": 3,
+          "TimeValue": 302379
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4738,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4739,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4740,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4744,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4876,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4738,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4739,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4740,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4744,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4876,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4738,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4739,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4740,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4744,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4876,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126152,
+          "ItemID": 2400556,
+          "MintMarkID": 0,
+          "MonsterID": 4876
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302352 302353 302354 302355 302356 302357 302358 302359 302360 302361 302362 302363 302364 302365 302366 302367 302368 302369 302370 302371 302372 302373 302374 302375",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4463 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、斯克魯恩、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302376",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302377",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262264,
+            0,
+            0,
+            262265,
+            0,
+            0,
+            262266
+          ]
+        },
+        "ID": 234
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14706,
+            14707,
+            14708
+          ],
+          "ExchangeProductID": [
+            262269,
+            262274,
+            262270
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302404,
+          "needmon": 0,
+          "ProgressValue": 302406,
+          "Times": 3,
+          "TimeValue": 302407
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 3829,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3756,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 3570,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 3821,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4879,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3829,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3756,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3570,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 3821,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4879,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 3829,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3756,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3570,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3821,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4879,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126153,
+          "ItemID": 2400558,
+          "MintMarkID": 0,
+          "MonsterID": 4879
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302380 302381 302382 302383 302384 302385 302386 302387 302388 302389 302390 302391 302392 302393 302394 302395 302396 302397 302398 302399 302400 302401 302402 302403",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4463 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、斯克魯恩、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302404",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302405",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262271,
+            0,
+            0,
+            262272,
+            0,
+            0,
+            262273
+          ]
+        },
+        "ID": 235
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14713,
+            14714,
+            14715
+          ],
+          "ExchangeProductID": [
+            262289,
+            262294,
+            262290
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302432,
+          "needmon": 0,
+          "ProgressValue": 302434,
+          "Times": 3,
+          "TimeValue": 302435
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4082,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4271,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 3741,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4050,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4082,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4271,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3741,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4050,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4082,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4271,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3741,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4050,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4882,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126154,
+          "ItemID": 2400561,
+          "MintMarkID": 0,
+          "MonsterID": 4882
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302408 302409 302410 302411 302412 302413 302414 302415 302416 302417 302418 302419 302420 302421 302422 302423 302424 302425 302426 302427 302428 302429 302430 302431",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4463 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、斯克魯恩、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302432",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302433",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262291,
+            0,
+            0,
+            262292,
+            0,
+            0,
+            262293
+          ]
+        },
+        "ID": 236
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 8
+        },
+        "Configure": {
+          "ExchangeID": [
+            14716,
+            14717,
+            14718
+          ],
+          "ExchangeProductID": [
+            262307,
+            262312,
+            262308
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302460,
+          "needmon": 0,
+          "ProgressValue": 302462,
+          "Times": 3,
+          "TimeValue": 302463
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4252,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3774,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 3599,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4600,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4252,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3774,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3599,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4600,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4252,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3774,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3599,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4600,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126155,
+          "ItemID": 2400562,
+          "MintMarkID": 0,
+          "MonsterID": 4885
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302436 302437 302438 302439 302440 302441 302442 302443 302444 302445 302446 302447 302448 302449 302450 302451 302452 302453 302454 302455 302456 302457 302458 302459",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4606 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、加爾魯特、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302460",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302461",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262309,
+            0,
+            0,
+            262310,
+            0,
+            0,
+            262311
+          ]
+        },
+        "ID": 237
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14720,
+            14721,
+            14722
+          ],
+          "ExchangeProductID": [
+            262329,
+            262334,
+            262330
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302488,
+          "needmon": 0,
+          "ProgressValue": 302490,
+          "Times": 3,
+          "TimeValue": 302491
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 3585,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4027,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4048,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4686,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4886,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3585,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4027,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4048,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4686,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4886,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 3585,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4027,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4048,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4686,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4886,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126156,
+          "ItemID": 2400563,
+          "MintMarkID": 0,
+          "MonsterID": 4886
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302464 302465 302466 302467 302468 302469 302470 302471 302472 302473 302474 302475 302476 302477 302478 302479 302480 302481 302482 302483 302484 302485 302486 302487",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 3711 3894",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、聖光莫妮卡、千裳",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302488",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302489",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262331,
+            0,
+            0,
+            262332,
+            0,
+            0,
+            262333
+          ]
+        },
+        "ID": 238
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 9
+        },
+        "Configure": {
+          "ExchangeID": [
+            14724,
+            14725,
+            14726
+          ],
+          "ExchangeProductID": [
+            262338,
+            262343,
+            262339
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302516,
+          "needmon": 0,
+          "ProgressValue": 302518,
+          "Times": 3,
+          "TimeValue": 302519
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4881,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4859,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4850,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4853,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4887,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4881,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4859,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4850,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4853,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4887,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4881,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4859,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4850,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4853,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4887,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126157,
+          "ItemID": 2400564,
+          "MintMarkID": 0,
+          "MonsterID": 4887
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302492 302493 302494 302495 302496 302497 302498 302499 302500 302501 302502 302503 302504 302505 302506 302507 302508 302509 302510 302511 302512 302513 302514 302515",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4463 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、斯克魯恩、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302516",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302517",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262340,
+            0,
+            0,
+            262341,
+            0,
+            0,
+            262342
+          ]
+        },
+        "ID": 239
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14727,
+            14728,
+            14729
+          ],
+          "ExchangeProductID": [
+            262366,
+            262371,
+            262367
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302544,
+          "needmon": 0,
+          "ProgressValue": 302546,
+          "Times": 3,
+          "TimeValue": 302547
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4047,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3100,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4812,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4590,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4047,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3100,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4812,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4590,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4047,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3100,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4812,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4590,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126158,
+          "ItemID": 2400567,
+          "MintMarkID": 0,
+          "MonsterID": 4890
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302520 302521 302522 302523 302524 302525 302526 302527 302528 302529 302530 302531 302532 302533 302534 302535 302536 302537 302538 302539 302540 302541 302542 302543",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4649 4606",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、星光·魔焰猩猩、加爾魯特",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302544",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302545",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262368,
+            0,
+            0,
+            262369,
+            0,
+            0,
+            262370
+          ]
+        },
+        "ID": 240
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 10
+        },
+        "Configure": {
+          "ExchangeID": [
+            14731,
+            14732,
+            14733
+          ],
+          "ExchangeProductID": [
+            262374,
+            262379,
+            262375
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302572,
+          "needmon": 0,
+          "ProgressValue": 302574,
+          "Times": 3,
+          "TimeValue": 302575
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4842,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4763,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4870,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4885,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4894,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4842,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4763,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4870,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4894,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4842,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4763,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4870,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4894,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126159,
+          "ItemID": 2400568,
+          "MintMarkID": 0,
+          "MonsterID": 4894
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302548 302549 302550 302551 302552 302553 302554 302555 302556 302557 302558 302559 302560 302561 302562 302563 302564 302565 302566 302567 302568 302569 302570 302571",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 3866 4344",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、月照星魂、潘克多斯",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302572",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302573",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262376,
+            0,
+            0,
+            262377,
+            0,
+            0,
+            262378
+          ]
+        },
+        "ID": 241
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14734,
+            14735,
+            14736
+          ],
+          "ExchangeProductID": [
+            262399,
+            262404,
+            262400
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302600,
+          "needmon": 0,
+          "ProgressValue": 302602,
+          "Times": 3,
+          "TimeValue": 302603
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4848,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4495,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4875,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4617,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4897,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4848,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4495,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4875,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4617,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4897,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4848,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4495,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4875,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4617,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4897,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126160,
+          "ItemID": 2400570,
+          "MintMarkID": 0,
+          "MonsterID": 4897
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302576 302577 302578 302579 302580 302581 302582 302583 302584 302585 302586 302587 302588 302589 302590 302591 302592 302593 302594 302595 302596 302597 302598 302599",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3894 3291 4732",
+              "CheckTips": "本關卡不可使用精靈：千裳、瀚宇星皇、閃光皮神",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302600",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302601",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262401,
+            0,
+            0,
+            262402,
+            0,
+            0,
+            262403
+          ]
+        },
+        "ID": 242
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14739,
+            14740,
+            14741
+          ],
+          "ExchangeProductID": [
+            262420,
+            262425,
+            262421
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302628,
+          "needmon": 0,
+          "ProgressValue": 302630,
+          "Times": 3,
+          "TimeValue": 302631
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4658,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4728,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4709,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4897,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4901,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4658,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4728,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4709,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4897,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4901,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4658,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4728,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4709,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4897,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4901,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126161,
+          "ItemID": 2400574,
+          "MintMarkID": 0,
+          "MonsterID": 4901
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302604 302605 302606 302607 302608 302609 302610 302611 302612 302613 302614 302615 302616 302617 302618 302619 302620 302621 302622 302623 302624 302625 302626 302627",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3894 3711 4606",
+              "CheckTips": "本關卡不可使用精靈：千裳、聖光莫妮卡、加爾魯特",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302628",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302629",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262422,
+            0,
+            0,
+            262423,
+            0,
+            0,
+            262424
+          ]
+        },
+        "ID": 243
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 11
+        },
+        "Configure": {
+          "ExchangeID": [
+            14742,
+            14743,
+            14744
+          ],
+          "ExchangeProductID": [
+            262429,
+            262434,
+            262430
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302656,
+          "needmon": 0,
+          "ProgressValue": 302658,
+          "Times": 3,
+          "TimeValue": 302659
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4893,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4889,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4863,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4894,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4902,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4893,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4889,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4863,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4894,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4902,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4893,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4889,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4863,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4894,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4902,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126162,
+          "ItemID": 2400575,
+          "MintMarkID": 0,
+          "MonsterID": 4902
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302632 302633 302634 302635 302636 302637 302638 302639 302640 302641 302642 302643 302644 302645 302646 302647 302648 302649 302650 302651 302652 302653 302654 302655",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 3517 4001",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、霍夫曼、無上·萬魔天尊",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302656",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302657",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262431,
+            0,
+            0,
+            262432,
+            0,
+            0,
+            262433
+          ]
+        },
+        "ID": 244
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14745,
+            14746,
+            14747
+          ],
+          "ExchangeProductID": [
+            262438,
+            262443,
+            262439
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302684,
+          "needmon": 0,
+          "ProgressValue": 302686,
+          "Times": 3,
+          "TimeValue": 302687
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4896,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4892,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4885,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4890,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4904,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4896,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4892,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4904,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4896,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4892,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4904,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126163,
+          "ItemID": 2400576,
+          "MintMarkID": 0,
+          "MonsterID": 4904
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302660 302661 302662 302663 302664 302665 302666 302667 302668 302669 302670 302671 302672 302673 302674 302675 302676 302677 302678 302679 302680 302681 302682 302683",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4649 4648",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、星光·魔焰猩猩、星光·魯斯王",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302684",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302685",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262440,
+            0,
+            0,
+            262441,
+            0,
+            0,
+            262442
+          ]
+        },
+        "ID": 245
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 12
+        },
+        "Configure": {
+          "ExchangeID": [
+            14749,
+            14750,
+            14751
+          ],
+          "ExchangeProductID": [
+            262467,
+            262472,
+            262468
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302712,
+          "needmon": 0,
+          "ProgressValue": 302714,
+          "Times": 3,
+          "TimeValue": 302715
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4842,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4807,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 3940,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4648,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4905,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4842,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4807,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3940,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4648,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4905,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4842,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4807,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3940,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4648,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4905,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126164,
+          "ItemID": 2400577,
+          "MintMarkID": 0,
+          "MonsterID": 4905
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302688 302689 302690 302691 302692 302693 302694 302695 302696 302697 302698 302699 302700 302701 302702 302703 302704 302705 302706 302707 302708 302709 302710 302711",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4344 3894",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、潘克多斯、千裳",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302712",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302713",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262469,
+            0,
+            0,
+            262470,
+            0,
+            0,
+            262471
+          ]
+        },
+        "ID": 246
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 13
+        },
+        "Configure": {
+          "ExchangeID": [
+            14755,
+            14756,
+            14757
+          ],
+          "ExchangeProductID": [
+            262498,
+            262503,
+            262499
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302740,
+          "needmon": 0,
+          "ProgressValue": 302742,
+          "Times": 3,
+          "TimeValue": 302743
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4842,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4890,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4903,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4876,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4908,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4842,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4903,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4876,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4908,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4842,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4890,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4903,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4876,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4908,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126165,
+          "ItemID": 2400579,
+          "MintMarkID": 0,
+          "MonsterID": 4908
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302716 302717 302718 302719 302720 302721 302722 302723 302724 302725 302726 302727 302728 302729 302730 302731 302732 302733 302734 302735 302736 302737 302738 302739",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4649 3894",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、星光·魔焰猩猩、千裳",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302740",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302741",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262500,
+            0,
+            0,
+            262501,
+            0,
+            0,
+            262502
+          ]
+        },
+        "ID": 247
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 14
+        },
+        "Configure": {
+          "ExchangeID": [
+            14763,
+            14764,
+            14765
+          ],
+          "ExchangeProductID": [
+            262551,
+            262556,
+            262552
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302768,
+          "needmon": 0,
+          "ProgressValue": 302770,
+          "Times": 3,
+          "TimeValue": 302771
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4885,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3437,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4898,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4000,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4915,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4885,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3437,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4898,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4000,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4915,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4885,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3437,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4898,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4000,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4915,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126166,
+          "ItemID": 2400580,
+          "MintMarkID": 0,
+          "MonsterID": 4915
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302744 302745 302746 302747 302748 302749 302750 302751 302752 302753 302754 302755 302756 302757 302758 302759 302760 302761 302762 302763 302764 302765 302766 302767",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4648 4462",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、星光·魯斯王、月華",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302768",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302769",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262553,
+            0,
+            0,
+            262554,
+            0,
+            0,
+            262555
+          ]
+        },
+        "ID": 248
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14766,
+            14767,
+            14768
+          ],
+          "ExchangeProductID": [
+            262566,
+            262571,
+            262567
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302796,
+          "needmon": 0,
+          "ProgressValue": 302798,
+          "Times": 3,
+          "TimeValue": 302799
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4352,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3973,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4834,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4708,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4916,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4352,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3973,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4834,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4708,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4916,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4352,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3973,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4834,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4708,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4916,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126167,
+          "ItemID": 2400581,
+          "MintMarkID": 0,
+          "MonsterID": 4916
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302772 302773 302774 302775 302776 302777 302778 302779 302780 302781 302782 302783 302784 302785 302786 302787 302788 302789 302790 302791 302792 302793 302794 302795",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "4647 4649 4648",
+              "CheckTips": "本關卡不可使用精靈：星光·麗莎布布、星光·魔焰猩猩、星光·魯斯王",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302796",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302797",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262568,
+            0,
+            0,
+            262569,
+            0,
+            0,
+            262570
+          ]
+        },
+        "ID": 249
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14769,
+            14770,
+            14771
+          ],
+          "ExchangeProductID": [
+            262575,
+            262580,
+            262576
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302824,
+          "needmon": 0,
+          "ProgressValue": 302826,
+          "Times": 3,
+          "TimeValue": 302827
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4687,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4675,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4713,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 3308,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4917,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4687,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4675,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4713,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 3308,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4917,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4687,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4675,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4713,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3308,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4917,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126168,
+          "ItemID": 2400584,
+          "MintMarkID": 0,
+          "MonsterID": 4917
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302800 302801 302802 302803 302804 302805 302806 302807 302808 302809 302810 302811 302812 302813 302814 302815 302816 302817 302818 302819 302820 302821 302822 302823",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 3894 3221",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、千裳、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302824",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302825",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262577,
+            0,
+            0,
+            262578,
+            0,
+            0,
+            262579
+          ]
+        },
+        "ID": 250
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 15
+        },
+        "Configure": {
+          "ExchangeID": [
+            14772,
+            14773,
+            14774
+          ],
+          "ExchangeProductID": [
+            262592,
+            262597,
+            262593
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302852,
+          "needmon": 0,
+          "ProgressValue": 302854,
+          "Times": 3,
+          "TimeValue": 302855
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4080,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3142,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4716,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4709,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4919,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4080,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3142,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4716,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4709,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4919,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4080,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3142,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4716,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4709,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4919,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126169,
+          "ItemID": 2400585,
+          "MintMarkID": 0,
+          "MonsterID": 4919
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302828 302829 302830 302831 302832 302833 302834 302835 302836 302837 302838 302839 302840 302841 302842 302843 302844 302845 302846 302847 302848 302849 302850 302851",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 4649 4344",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、星光·魔焰猩猩、潘克多斯",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302852",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302853",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262594,
+            0,
+            0,
+            262595,
+            0,
+            0,
+            262596
+          ]
+        },
+        "ID": 251
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14776,
+            14777,
+            14778
+          ],
+          "ExchangeProductID": [
+            262603,
+            262608,
+            262604
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302880,
+          "needmon": 0,
+          "ProgressValue": 302882,
+          "Times": 3,
+          "TimeValue": 302883
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 2892,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3653,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4034,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4037,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4922,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 2892,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3653,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4034,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4037,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4922,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 2892,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3653,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4034,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4037,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4922,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126170,
+          "ItemID": 2400587,
+          "MintMarkID": 0,
+          "MonsterID": 4922
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302856 302857 302858 302859 302860 302861 302862 302863 302864 302865 302866 302867 302868 302869 302870 302871 302872 302873 302874 302875 302876 302877 302878 302879",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "3022 3414 4463",
+              "CheckTips": "本關卡不可使用精靈：王之哈莫、混沌魔君索倫森、斯克魯恩",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302880",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302881",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262605,
+            0,
+            0,
+            262606,
+            0,
+            0,
+            262607
+          ]
+        },
+        "ID": 252
+      },
+      {
+        "Achievement": {
+          "BranchID": 172,
+          "RuleID": 16
+        },
+        "Configure": {
+          "ExchangeID": [
+            14780,
+            14781,
+            14782
+          ],
+          "ExchangeProductID": [
+            262613,
+            262618,
+            262614
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302908,
+          "needmon": 0,
+          "ProgressValue": 302910,
+          "Times": 3,
+          "TimeValue": 302911
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4047,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 4146,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 4648,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手能力提升狀態，每回合隨機弱化對手能力值】",
+              "BattleBoss": 4356,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4925,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4047,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4146,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4648,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4356,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4925,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4047,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 4146,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4648,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4356,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4925,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126171,
+          "ItemID": 2400590,
+          "MintMarkID": 0,
+          "MonsterID": 4925
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302884 302885 302886 302887 302888 302889 302890 302891 302892 302893 302894 302895 302896 302897 302898 302899 302900 302901 302902 302903 302904 302905 302906 302907",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "4377 4463 3221",
+              "CheckTips": "本關卡不可使用精靈：蒂朵、斯克魯恩、四九聖尊（特訓）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302908",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302909",
+              "ID": 6,
+              "MouldID": 6
+            },
+            {
+              "Args": "",
+              "CheckTips": "通關地獄難度則發放成就",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 7,
+              "MouldID": 7
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262615,
+            0,
+            0,
+            262616,
+            0,
+            0,
+            262617
+          ]
+        },
+        "ID": 253
+      },
+      {
+        "Achievement": {
+          "BranchID": 0,
+          "RuleID": 0
+        },
+        "Configure": {
+          "ExchangeID": [
+            14783,
+            14784,
+            14785
+          ],
+          "ExchangeProductID": [
+            262623,
+            262628,
+            262624
+          ],
+          "Exchange_mintmark": 0,
+          "FailTimes": 302936,
+          "needmon": 0,
+          "ProgressValue": 302938,
+          "Times": 3,
+          "TimeValue": 302939
+        },
+        "EasyBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "Task": [
+            {
+              "Desc": "【簡單的敵人，先制+1】",
+              "BattleBoss": 4286,
+              "Battlelevel": 1,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【普通的敵人，先制+1，每回合附加一定固定傷害】",
+              "BattleBoss": 3455,
+              "Battlelevel": 2,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【普通的敵人，先制+2，每回合附加一定固定傷害，每回合必定打出致命一擊】",
+              "BattleBoss": 3631,
+              "Battlelevel": 2,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【普通的敵人，先制+3，每回合附加一定固定傷害，每回合消除對手回合類效果，每回合消除對手能力提升狀態】",
+              "BattleBoss": 4686,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【有點難的敵人，先制+3，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4927,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 12,
+          "TaskStyle": 1
+        },
+        "HardBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "1 3 4 5",
+          "Task": [
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 4286,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，必定先手，免疫瞬殺，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3455,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，每回合附加一定固定傷害，無法探知其他能力】",
+              "BattleBoss": 3631,
+              "Battlelevel": 5,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4686,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【極難的敵人，無法探知能力】",
+              "BattleBoss": 4927,
+              "Battlelevel": 6,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 36,
+          "TaskStyle": 1
+        },
+        "NormalBattle": {
+          "Desc": "依次戰勝Battle1-5即可通關",
+          "RuleID": "2 1",
+          "Task": [
+            {
+              "Desc": "【有點難的敵人，先制+3，閃避率提升了許多，每回合提升自身全部能力值，每回合必定打出致命一擊】",
+              "BattleBoss": 4286,
+              "Battlelevel": 3,
+              "BattleType": 2,
+              "ID": 1
+            },
+            {
+              "Desc": "【較難的敵人，先制+3，每回合附加一定固定傷害，每回合提升自身全部能力值，體力過低時恢復所有體力】",
+              "BattleBoss": 3455,
+              "Battlelevel": 4,
+              "BattleType": 2,
+              "ID": 2
+            },
+            {
+              "Desc": "【較難的敵人，先制+6，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 3631,
+              "Battlelevel": 4,
+              "BattleType": 1,
+              "ID": 3
+            },
+            {
+              "Desc": "【十分困難的敵人，每回合附加一定固定傷害，每回合消除對手回合類效果，無法探知其他能力】",
+              "BattleBoss": 4686,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 4
+            },
+            {
+              "Desc": "【十分困難的敵人，對手無法使用屬性技能，無法探知其他能力】",
+              "BattleBoss": 4927,
+              "Battlelevel": 5,
+              "BattleType": 2,
+              "ID": 5
+            }
+          ],
+          "BattleCnt": 5,
+          "Out": 18,
+          "TaskStyle": 1
+        },
+        "Reward": {
+          "GainValue": 126172,
+          "ItemID": 2400593,
+          "MintMarkID": 0,
+          "MonsterID": 4927
+        },
+        "Rules": {
+          "Rule": [
+            {
+              "Args": "",
+              "CheckTips": "本關卡在挑戰中，不可重複上陣（出戰背包派出過的）精靈",
+              "FailTips": "",
+              "RepeatTips": "背包內以下精靈放入過出戰背包，不可重複出戰：\\n{0}",
+              "UserInfo": "302912 302913 302914 302915 302916 302917 302918 302919 302920 302921 302922 302923 302924 302925 302926 302927 302928 302929 302930 302931 302932 302933 302934 302935",
+              "ID": 1,
+              "MouldID": 1
+            },
+            {
+              "Args": "6",
+              "CheckTips": "每場battle需要在6回合內擊敗BOSS，否則battle按失敗結算",
+              "FailTips": "很抱歉，戰鬥未在6回合內結束，結算為失敗！",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 2,
+              "MouldID": 2
+            },
+            {
+              "Args": "4649 4463 4344",
+              "CheckTips": "本關卡不可使用精靈：星光·魔焰猩猩、斯克魯恩、潘克多斯",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 3,
+              "MouldID": 3
+            },
+            {
+              "Args": "100",
+              "CheckTips": "出戰精靈需等於100級",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "",
+              "ID": 4,
+              "MouldID": 4
+            },
+            {
+              "Args": "3",
+              "CheckTips": "關卡挑戰中的對戰累計失敗次數＞3次，則本輪關卡挑戰自動放棄",
+              "FailTips": "很抱歉，本關卡中對戰累計失敗次數已大於3次，挑戰失敗！",
+              "RepeatTips": "",
+              "UserInfo": "302936",
+              "ID": 5,
+              "MouldID": 5
+            },
+            {
+              "Args": "3",
+              "CheckTips": "一天之內連續勝利此難度關卡3次，即可解鎖本關卡掃蕩功能（需要連續勝利，不可中斷）",
+              "FailTips": "",
+              "RepeatTips": "",
+              "UserInfo": "302937",
+              "ID": 6,
+              "MouldID": 6
+            }
+          ]
+        },
+        "Sweep": {
+          "ProductID": [
+            0,
+            0,
+            262625,
+            0,
+            0,
+            262626,
+            0,
+            0,
+            262627
+          ]
+        },
+        "ID": 254
       }
     ]
   }

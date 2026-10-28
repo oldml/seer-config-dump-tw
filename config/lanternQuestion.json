@@ -1,0 +1,1004 @@
+{
+  "data": [
+    {
+      "Achoose": "蘇摩",
+      "Bchoose": "霍光",
+      "Cchoose": "魯斯王",
+      "Dchoose": "怒濤·滄嵐",
+      "describe": "會使用千裡擊濤的精靈是？",
+      "answer": 1,
+      "id": 1,
+      "title": 0
+    },
+    {
+      "Achoose": "3",
+      "Bchoose": "4",
+      "Cchoose": "5",
+      "Dchoose": "6",
+      "describe": "賽爾號的飛船載入動畫中一共有幾位小賽爾？",
+      "answer": 2,
+      "id": 2,
+      "title": 0
+    },
+    {
+      "Achoose": "琉夢",
+      "Bchoose": "閃光皮神",
+      "Cchoose": "逐界蒼星",
+      "Dchoose": "怒濤·滄嵐",
+      "describe": "賽爾號唯一擁有神話皮膚的雌性精靈是？",
+      "answer": 2,
+      "id": 3,
+      "title": 0
+    },
+    {
+      "Achoose": "花燈娃娃",
+      "Bchoose": "跳跳獅",
+      "Cchoose": "阿謎",
+      "Dchoose": "甜蜜宵宵",
+      "describe": "賽爾號2023年元宵精靈是？",
+      "answer": 2,
+      "id": 4,
+      "title": 0
+    },
+    {
+      "Achoose": "薩芙凱特",
+      "Bchoose": "蒂朵",
+      "Cchoose": "斯布林蒂",
+      "Dchoose": "海瑟薇",
+      "describe": "以下四位精靈中唯一沒有春節服裝的是？",
+      "answer": 1,
+      "id": 5,
+      "title": 0
+    },
+    {
+      "Achoose": "潘多拉",
+      "Bchoose": "斯克魯恩",
+      "Cchoose": "加爾魯特",
+      "Dchoose": "潘克多斯",
+      "describe": "「三潘」中不包括哪只精靈？",
+      "answer": 0,
+      "id": 6,
+      "title": 0
+    },
+    {
+      "Achoose": "不滅·艾恩斯",
+      "Bchoose": "聖光·斯嘉麗",
+      "Cchoose": "神覺·米斯蒂克",
+      "Dchoose": "原始黑洞·尤納斯",
+      "describe": "以下精靈中不屬於精靈王的精靈是？",
+      "answer": 3,
+      "id": 7,
+      "title": 0
+    },
+    {
+      "Achoose": "奧朗星系",
+      "Bchoose": "帕諾星系",
+      "Cchoose": "卡蘭星系",
+      "Dchoose": "羅格星系",
+      "describe": "索倫森星位於哪個星系？",
+      "answer": 2,
+      "id": 8,
+      "title": 0
+    },
+    {
+      "Achoose": "星際擂臺",
+      "Bchoose": "精靈王之戰",
+      "Cchoose": "精靈大亂鬥",
+      "Dchoose": "精靈養成",
+      "describe": "以下哪個功能區域無法直接從精靈太空站前往？",
+      "answer": 3,
+      "id": 9,
+      "title": 0
+    },
+    {
+      "Achoose": "船長室",
+      "Bchoose": "精靈中心",
+      "Cchoose": "瞭望艙",
+      "Dchoose": "榮譽大廳",
+      "describe": "博士派特位於飛船內的哪個場景內？",
+      "answer": 1,
+      "id": 10,
+      "title": 0
+    },
+    {
+      "Achoose": "只能擁有兩隻",
+      "Bchoose": "只能購買兩隻",
+      "Cchoose": "同樣精靈只能上陣兩隻",
+      "Dchoose": "限制池內只能上陣兩隻",
+      "describe": "小賽爾們經常提及的\"限二\"精靈是什麼意思？",
+      "answer": 3,
+      "id": 11,
+      "title": 0
+    },
+    {
+      "Achoose": "茜茜",
+      "Bchoose": "派特博士",
+      "Cchoose": "斯卡·肖恩",
+      "Dchoose": "費得·蘇克",
+      "describe": "NoNo的發明者是誰？",
+      "answer": 2,
+      "id": 12,
+      "title": 0
+    },
+    {
+      "Achoose": "無極聖武",
+      "Bchoose": "克雷弗德",
+      "Cchoose": "伊芙",
+      "Dchoose": "超維·瑞澤",
+      "describe": "以下哪只精靈不攜帶機械屬性？",
+      "answer": 3,
+      "id": 13,
+      "title": 0
+    },
+    {
+      "Achoose": "恢復",
+      "Bchoose": "永恆",
+      "Cchoose": "聖潔",
+      "Dchoose": "元素",
+      "describe": "聖靈譜尼不具備有以下哪個特性？",
+      "answer": 0,
+      "id": 14,
+      "title": 0
+    },
+    {
+      "Achoose": "啟靈元神",
+      "Bchoose": "帝皇之御",
+      "Cchoose": "至序聖華",
+      "Dchoose": "逐界蒼星",
+      "describe": "\"表姐\"是指以下哪個精靈？",
+      "answer": 1,
+      "id": 15,
+      "title": 0
+    },
+    {
+      "Achoose": "野外捕捉",
+      "Bchoose": "因子合成",
+      "Cchoose": "精靈進化",
+      "Dchoose": "精靈繁殖",
+      "describe": "精靈的免費獲得方式不包括以下哪種？",
+      "answer": 3,
+      "id": 16,
+      "title": 0
+    },
+    {
+      "Achoose": "千年赫爾卡",
+      "Bchoose": "敵月神",
+      "Cchoose": "調律者",
+      "Dchoose": "魔王降臨",
+      "describe": "以下哪個稱號與年費精靈無關？",
+      "answer": 3,
+      "id": 17,
+      "title": 0
+    },
+    {
+      "Achoose": "超進化",
+      "Bchoose": "精靈王的傳承",
+      "Cchoose": "分支進化",
+      "Dchoose": "超越進化",
+      "describe": "精靈的進化方式不包括以下哪種？",
+      "answer": 3,
+      "id": 18,
+      "title": 0
+    },
+    {
+      "Achoose": "混元天尊",
+      "Bchoose": "幻境界皇",
+      "Cchoose": "聖光靈神",
+      "Dchoose": "重生之翼",
+      "describe": "以下哪個精靈不屬於英雄聖殿？",
+      "answer": 1,
+      "id": 19,
+      "title": 0
+    },
+    {
+      "Achoose": " 唐",
+      "Bchoose": "隋",
+      "Cchoose": "漢 ",
+      "Dchoose": "宋",
+      "describe": "開創三省六部制的朝代是？",
+      "answer": 1,
+      "id": 20,
+      "title": 1
+    },
+    {
+      "Achoose": "明太祖",
+      "Bchoose": "宋太祖",
+      "Cchoose": "唐太祖",
+      "Dchoose": "清太祖",
+      "describe": "廢除丞相制度的皇帝是？",
+      "answer": 0,
+      "id": 21,
+      "title": 1
+    },
+    {
+      "Achoose": "1894 年",
+      "Bchoose": "1898 年",
+      "Cchoose": "1900 年",
+      "Dchoose": "1911 年",
+      "describe": "戊戌變法發生在哪一年？",
+      "answer": 1,
+      "id": 22,
+      "title": 1
+    },
+    {
+      "Achoose": "《馬關條約》",
+      "Bchoose": "《辛丑條約》",
+      "Cchoose": "《南京條約》",
+      "Dchoose": "《天津條約》",
+      "describe": "中國近代第一個不平等條約是？",
+      "answer": 2,
+      "id": 23,
+      "title": 1
+    },
+    {
+      "Achoose": "1931 年",
+      "Bchoose": "1931 年",
+      "Cchoose": "1945 年",
+      "Dchoose": "1949 年",
+      "describe": "抗日戰爭勝利是哪一年？",
+      "answer": 2,
+      "id": 24,
+      "title": 1
+    },
+    {
+      "Achoose": "雅典 ",
+      "Bchoose": "巴比倫",
+      "Cchoose": "斯巴達",
+      "Dchoose": " 科林斯",
+      "describe": "古希臘文明的核心城邦不包括？",
+      "answer": 1,
+      "id": 25,
+      "title": 1
+    },
+    {
+      "Achoose": "義大利",
+      "Bchoose": "法國",
+      "Cchoose": "英國",
+      "Dchoose": " 德國",
+      "describe": "文藝復興最先興起於？",
+      "answer": 0,
+      "id": 26,
+      "title": 1
+    },
+    {
+      "Achoose": "聯合國成立",
+      "Bchoose": "北約成立",
+      "Cchoose": "歐盟成立",
+      "Dchoose": "世界貿易組織成立",
+      "describe": "經濟全球化的重要表現是？",
+      "answer": 3,
+      "id": 27,
+      "title": 1
+    },
+    {
+      "Achoose": "中途島海戰",
+      "Bchoose": "史達林格勒戰役",
+      "Cchoose": "阿拉曼戰役",
+      "Dchoose": "柏林戰役",
+      "describe": "二戰轉折點戰役是？",
+      "answer": 1,
+      "id": 28,
+      "title": 1
+    },
+    {
+      "Achoose": "攻佔巴士底獄",
+      "Bchoose": "處死路易十六",
+      "Cchoose": "雅各賓派專政",
+      "Dchoose": "拿破崙稱帝",
+      "describe": "法國大革命爆發標誌是？",
+      "answer": 0,
+      "id": 29,
+      "title": 1
+    },
+    {
+      "Achoose": "冶金業",
+      "Bchoose": "採礦業",
+      "Cchoose": "棉紡織業",
+      "Dchoose": "交通運輸業",
+      "describe": "工業革命最先開始於哪個行業？",
+      "answer": 2,
+      "id": 30,
+      "title": 1
+    },
+    {
+      "Achoose": "但丁",
+      "Bchoose": "達文西",
+      "Cchoose": "莎士比亞",
+      "Dchoose": "米開朗基羅",
+      "describe": "文藝復興先驅，被譽為舊時代最後一位詩人的是？",
+      "answer": 0,
+      "id": 31,
+      "title": 1
+    },
+    {
+      "Achoose": "《停戰協定》",
+      "Bchoose": "《共同綱領》",
+      "Cchoose": "《憲法草案》",
+      "Dchoose": "《雙十協定》",
+      "describe": "重慶談判籤訂的文件是？",
+      "answer": 3,
+      "id": 32,
+      "title": 1
+    },
+    {
+      "Achoose": "北上抗日",
+      "Bchoose": "開闢根據地 ",
+      "Cchoose": "第五次反圍剿失敗",
+      "Dchoose": "戰略轉移",
+      "describe": "紅軍長徵的直接原因是？",
+      "answer": 2,
+      "id": 33,
+      "title": 1
+    },
+    {
+      "Achoose": "南京 ",
+      "Bchoose": "建康",
+      "Cchoose": "金陵",
+      "Dchoose": "西安",
+      "describe": "下列哪個城市不是六朝古都？",
+      "answer": 3,
+      "id": 34,
+      "title": 1
+    },
+    {
+      "Achoose": "武則天",
+      "Bchoose": "隋文帝",
+      "Cchoose": "隋煬帝",
+      "Dchoose": "唐太宗",
+      "describe": "開創科舉殿試製度的皇帝是？",
+      "answer": 0,
+      "id": 35,
+      "title": 1
+    },
+    {
+      "Achoose": "扶清滅洋",
+      "Bchoose": " 師夷長技",
+      "Cchoose": "變法圖強",
+      "Dchoose": "民主科學",
+      "describe": "義和團運動的口號是？",
+      "answer": 0,
+      "id": 36,
+      "title": 1
+    },
+    {
+      "Achoose": "1919",
+      "Bchoose": "1921",
+      "Cchoose": "1924",
+      "Dchoose": "1927",
+      "describe": "中國共產黨第一次全國代表大會召開於哪一年？",
+      "answer": 1,
+      "id": 37,
+      "title": 1
+    },
+    {
+      "Achoose": "雅典 ",
+      "Bchoose": "巴比倫 ",
+      "Cchoose": "馬其頓",
+      "Dchoose": "埃及",
+      "describe": "亞歷山大帝國定都於？",
+      "answer": 1,
+      "id": 38,
+      "title": 1
+    },
+    {
+      "Achoose": " 屋大維",
+      "Bchoose": " 凱撒",
+      "Cchoose": "漢尼拔",
+      "Dchoose": "君士坦丁",
+      "describe": "羅馬帝國第一位皇帝是？",
+      "answer": 0,
+      "id": 39,
+      "title": 1
+    },
+    {
+      "Achoose": "阿拉伯半島 ",
+      "Bchoose": "羅馬",
+      "Cchoose": "希臘",
+      "Dchoose": "巴勒斯坦",
+      "describe": "基督教誕生於哪裡？",
+      "answer": 3,
+      "id": 40,
+      "title": 1
+    },
+    {
+      "Achoose": "龍",
+      "Bchoose": " 馬 ",
+      "Cchoose": "羊",
+      "Dchoose": "兔",
+      "describe": "地支第七位，生肖稱俊才，日行千裡遠，迎春送福來（打一生肖）",
+      "answer": 1,
+      "id": 41,
+      "title": 2
+    },
+    {
+      "Achoose": "永樂",
+      "Bchoose": "開元",
+      "Cchoose": "慶元",
+      "Dchoose": "元和",
+      "describe": "恭賀新年(打一歷史年號)",
+      "answer": 2,
+      "id": 42,
+      "title": 2
+    },
+    {
+      "Achoose": "日 ",
+      "Bchoose": "月 ",
+      "Cchoose": "星",
+      "Dchoose": "陽",
+      "describe": "畫時圓，寫時方，冬時短，夏時長（打一字）",
+      "answer": 0,
+      "id": 43,
+      "title": 2
+    },
+    {
+      "Achoose": " 汁",
+      "Bchoose": "汗",
+      "Cchoose": "油",
+      "Dchoose": "泊",
+      "describe": "一字十三點，難在如何點（打一字）",
+      "answer": 0,
+      "id": 44,
+      "title": 2
+    },
+    {
+      "Achoose": "缺衣少食",
+      "Bchoose": "丟三落四",
+      "Cchoose": "不三不四",
+      "Dchoose": "一無所有",
+      "describe": "二三四五六七八九（打一成語）",
+      "answer": 0,
+      "id": 45,
+      "title": 2
+    },
+    {
+      "Achoose": "水稻",
+      "Bchoose": "小麥",
+      "Cchoose": "穀子",
+      "Dchoose": "玉米",
+      "describe": "小時青，老來黃，金色屋裡小姑藏（打一植物）",
+      "answer": 2,
+      "id": 46,
+      "title": 2
+    },
+    {
+      "Achoose": "柚子",
+      "Bchoose": "橘子",
+      "Cchoose": "椰子",
+      "Dchoose": "西瓜",
+      "describe": "青樹結青瓜，青瓜包棉花，棉花包梳子，梳子包豆芽（打一水果）",
+      "answer": 1,
+      "id": 47,
+      "title": 2
+    },
+    {
+      "Achoose": "桌子",
+      "Bchoose": "椅子",
+      "Cchoose": "柜子",
+      "Dchoose": "床",
+      "describe": "有面沒有口，有腳沒有手，雖有四隻腳，自己不會走（打一家居用品）",
+      "answer": 0,
+      "id": 48,
+      "title": 2
+    },
+    {
+      "Achoose": "核桃",
+      "Bchoose": "花生",
+      "Cchoose": "杏仁",
+      "Dchoose": "腰果",
+      "describe": "麻屋子，紅帳子，裡面睡個白胖子（打一食品）",
+      "answer": 1,
+      "id": 49,
+      "title": 2
+    },
+    {
+      "Achoose": "照片",
+      "Bchoose": "鏡子",
+      "Cchoose": "屏風",
+      "Dchoose": "畫",
+      "describe": "遠看山有色，近聽水無聲，春去花還在，人來鳥不驚（打一物）",
+      "answer": 3,
+      "id": 50,
+      "title": 2
+    },
+    {
+      "Achoose": "秒",
+      "Bchoose": "秋",
+      "Cchoose": "明",
+      "Dchoose": "晴",
+      "describe": "左邊是綠，右邊是紅，右邊怕水，左邊怕蟲（打一字）",
+      "answer": 1,
+      "id": 51,
+      "title": 2
+    },
+    {
+      "Achoose": "大",
+      "Bchoose": "一",
+      "Cchoose": "天",
+      "Dchoose": "人",
+      "describe": "人有它大，天無它大（打一字）",
+      "answer": 1,
+      "id": 52,
+      "title": 2
+    },
+    {
+      "Achoose": "需",
+      "Bchoose": "留",
+      "Cchoose": "雨",
+      "Dchoose": "雷",
+      "describe": "需要一半，留下一半（打一字）",
+      "answer": 3,
+      "id": 53,
+      "title": 2
+    },
+    {
+      "Achoose": "胖",
+      "Bchoose": "半",
+      "Cchoose": "月",
+      "Dchoose": "旬",
+      "describe": "十五天（打一字）",
+      "answer": 0,
+      "id": 54,
+      "title": 2
+    },
+    {
+      "Achoose": "由",
+      "Bchoose": "田",
+      "Cchoose": "申",
+      "Dchoose": "甲",
+      "describe": "四張嘴，有頭有尾（打一字）",
+      "answer": 2,
+      "id": 55,
+      "title": 2
+    },
+    {
+      "Achoose": "蝦",
+      "Bchoose": "魚",
+      "Cchoose": "蟹",
+      "Dchoose": "陜瑚坎",
+      "describe": "一把刀，順水漂，有眼睛，沒眉毛（打一動物）",
+      "answer": 1,
+      "id": 56,
+      "title": 2
+    },
+    {
+      "Achoose": "橘子",
+      "Bchoose": "橙子",
+      "Cchoose": "柚子",
+      "Dchoose": "檸檬",
+      "describe": "小小金罈子，裝著金餃子（打一水果）",
+      "answer": 0,
+      "id": 57,
+      "title": 2
+    },
+    {
+      "Achoose": "先\u00A0",
+      "Bchoose": "告\u00A0",
+      "Cchoose": "舌",
+      "Dchoose": "生",
+      "describe": "一口咬掉牛尾巴（打一字）",
+      "answer": 1,
+      "id": 58,
+      "title": 2
+    },
+    {
+      "Achoose": "吉",
+      "Bchoose": "喜",
+      "Cchoose": "周",
+      "Dchoose": " 商",
+      "describe": "一家十一口（打一字）",
+      "answer": 0,
+      "id": 59,
+      "title": 2
+    },
+    {
+      "Achoose": "高",
+      "Bchoose": "廣",
+      "Cchoose": "店",
+      "Dchoose": " 府",
+      "describe": "一點一橫長，一撇到南洋\u00A0",
+      "answer": 1,
+      "id": 60,
+      "title": 2
+    },
+    {
+      "Achoose": "李白",
+      "Bchoose": "孟浩然",
+      "Cchoose": "杜甫",
+      "Dchoose": "王維",
+      "describe": "「春眠不覺曉」 的作者是？",
+      "answer": 1,
+      "id": 61,
+      "title": 3
+    },
+    {
+      "Achoose": "蘇軾",
+      "Bchoose": "李清照",
+      "Cchoose": "辛棄疾",
+      "Dchoose": "陸遊",
+      "describe": "「生當作人傑」 的作者是？",
+      "answer": 1,
+      "id": 62,
+      "title": 3
+    },
+    {
+      "Achoose": "梅",
+      "Bchoose": " 蘭",
+      "Cchoose": " 竹",
+      "Dchoose": "菊",
+      "describe": "「遙知不是雪，為有暗香來」 詠的是？",
+      "answer": 0,
+      "id": 63,
+      "title": 3
+    },
+    {
+      "Achoose": "杜牧",
+      "Bchoose": "杜甫",
+      "Cchoose": "杜審言",
+      "Dchoose": "杜荀",
+      "describe": "被稱為 「小李杜」 的是李商隱和？",
+      "answer": 0,
+      "id": 64,
+      "title": 3
+    },
+    {
+      "Achoose": "王勃",
+      "Bchoose": "楊炯",
+      "Cchoose": "盧照鄰",
+      "Dchoose": "李白",
+      "describe": "初唐四傑不包括？",
+      "answer": 3,
+      "id": 65,
+      "title": 3
+    },
+    {
+      "Achoose": "薛寶釵",
+      "Bchoose": "史湘雲",
+      "Cchoose": " 林黛玉",
+      "Dchoose": "賈探春",
+      "describe": "《紅樓夢》中 「瀟湘妃子」 指？",
+      "answer": 2,
+      "id": 66,
+      "title": 3
+    },
+    {
+      "Achoose": "王羲之",
+      "Bchoose": "顏真卿",
+      "Cchoose": "柳公權",
+      "Dchoose": "歐陽詢",
+      "describe": "「入木三分」 形容書法好，說的是？",
+      "answer": 0,
+      "id": 67,
+      "title": 3
+    },
+    {
+      "Achoose": "孫康",
+      "Bchoose": "車胤 ",
+      "Cchoose": "匡衡",
+      "Dchoose": "李密",
+      "describe": "「囊螢映雪」 中 「囊螢」 指？",
+      "answer": 1,
+      "id": 68,
+      "title": 3
+    },
+    {
+      "Achoose": "尊師重道",
+      "Bchoose": "刻苦學習",
+      "Cchoose": "孝順父母",
+      "Dchoose": "誠實守信",
+      "describe": "「程門立雪」 是形容？",
+      "answer": 0,
+      "id": 69,
+      "title": 3
+    },
+    {
+      "Achoose": "顧愷之",
+      "Bchoose": " 吳道子",
+      "Cchoose": " 閻立本",
+      "Dchoose": "張僧繇",
+      "describe": "「畫龍點睛」 的作者是？",
+      "answer": 3,
+      "id": 70,
+      "title": 3
+    },
+    {
+      "Achoose": "文與可",
+      "Bchoose": "鄭板橋",
+      "Cchoose": "唐寅",
+      "Dchoose": " 徐渭",
+      "describe": "「胸有成竹」 說的是畫家？",
+      "answer": 0,
+      "id": 71,
+      "title": 3
+    },
+    {
+      "Achoose": "法國 ",
+      "Bchoose": "德國",
+      "Cchoose": "英國",
+      "Dchoose": "義大利",
+      "describe": "《格林童話》來自哪個國家？",
+      "answer": 1,
+      "id": 72,
+      "title": 3
+    },
+    {
+      "Achoose": "《陌上桑》",
+      "Bchoose": "《長歌行》",
+      "Cchoose": "《秦婦吟》",
+      "Dchoose": "《木蘭詩》",
+      "describe": "被稱為 「樂府雙璧」 的是《孔雀東南飛》和？",
+      "answer": 3,
+      "id": 73,
+      "title": 3
+    },
+    {
+      "Achoose": " 隋朝",
+      "Bchoose": "漢朝",
+      "Cchoose": "陳朝 ",
+      "Dchoose": "唐朝",
+      "describe": "「商女不知亡國恨」 中 「國」 指？",
+      "answer": 2,
+      "id": 74,
+      "title": 3
+    },
+    {
+      "Achoose": "林黛玉",
+      "Bchoose": "薛寶釵",
+      "Cchoose": "史湘雲",
+      "Dchoose": "妙玉",
+      "describe": "《紅樓夢》中 「金玉良緣」 指寶玉和？",
+      "answer": 1,
+      "id": 75,
+      "title": 3
+    },
+    {
+      "Achoose": "龐統",
+      "Bchoose": "徐庶",
+      "Cchoose": "郭嘉",
+      "Dchoose": "賈詡",
+      "describe": "《三國演義》中 「鳳雛」 是？",
+      "answer": 0,
+      "id": 76,
+      "title": 3
+    },
+    {
+      "Achoose": "老子",
+      "Bchoose": "莊子",
+      "Cchoose": "孟子 ",
+      "Dchoose": "孔子",
+      "describe": "「韋編三絕」 說的是誰讀書勤奮？",
+      "answer": 3,
+      "id": 77,
+      "title": 3
+    },
+    {
+      "Achoose": "《詩經》",
+      "Bchoose": "《楚辭》",
+      "Cchoose": "《玉臺新詠》",
+      "Dchoose": "《樂府詩集》",
+      "describe": "我國第一部浪漫主義詩歌總集是？",
+      "answer": 1,
+      "id": 78,
+      "title": 3
+    },
+    {
+      "Achoose": " 郭沫若",
+      "Bchoose": "茅盾",
+      "Cchoose": " 魯迅",
+      "Dchoose": "巴金",
+      "describe": "中國現代文學奠基人是？",
+      "answer": 2,
+      "id": 79,
+      "title": 3
+    },
+    {
+      "Achoose": "《羅密歐與朱麗葉》",
+      "Bchoose": "《哈姆雷特》",
+      "Cchoose": "《李爾王》",
+      "Dchoose": "《麥克白》",
+      "describe": "莎士比亞四大悲劇不包括？",
+      "answer": 0,
+      "id": 80,
+      "title": 3
+    },
+    {
+      "Achoose": "川菜",
+      "Bchoose": "粵菜",
+      "Cchoose": "魯菜",
+      "Dchoose": "京菜",
+      "describe": "下列哪種不是中國傳統 「八大菜系」 之一？",
+      "answer": 3,
+      "id": 81,
+      "title": 4
+    },
+    {
+      "Achoose": "蜀繡",
+      "Bchoose": "蘇繡",
+      "Cchoose": "粵繡",
+      "Dchoose": "浙繡",
+      "describe": "下列哪種不是中國傳統 「四大名繡」 之一？",
+      "answer": 3,
+      "id": 82,
+      "title": 4
+    },
+    {
+      "Achoose": "氫氣 ",
+      "Bchoose": "氧氣",
+      "Cchoose": "二氧化碳",
+      "Dchoose": "氮氣",
+      "describe": "饅頭、麵包發酵後會膨脹，主要是因為產生了哪種氣體？",
+      "answer": 2,
+      "id": 83,
+      "title": 4
+    },
+    {
+      "Achoose": "聲波抵消",
+      "Bchoose": "物理阻擋",
+      "Cchoose": "減小音量",
+      "Dchoose": "優化音質",
+      "describe": "耳機的降噪功能主要是通過哪種技術實現？",
+      "answer": 0,
+      "id": 84,
+      "title": 4
+    },
+    {
+      "Achoose": "凹透鏡",
+      "Bchoose": "凸透鏡",
+      "Cchoose": "平面鏡",
+      "Dchoose": "柱面鏡",
+      "describe": "近視眼鏡的鏡片屬於哪種透鏡？",
+      "answer": 0,
+      "id": 85,
+      "title": 4
+    },
+    {
+      "Achoose": " 糖分含量 ",
+      "Bchoose": "發酵程度",
+      "Cchoose": "酒精體積百分比",
+      "Dchoose": "酒精質量百分比",
+      "describe": "白酒的 「度數」 指的是？",
+      "answer": 2,
+      "id": 86,
+      "title": 4
+    },
+    {
+      "Achoose": "氯化鈉",
+      "Bchoose": "穀氨酸鈉",
+      "Cchoose": "蔗糖 ",
+      "Dchoose": "醋酸",
+      "describe": "醬油的鮮味主要來自哪種物質？",
+      "answer": 1,
+      "id": 87,
+      "title": 4
+    },
+    {
+      "Achoose": "微波使水分子振動產生熱量",
+      "Bchoose": "紅外線輻射",
+      "Cchoose": " 電磁感應 ",
+      "Dchoose": "電流熱效應",
+      "describe": "微波爐加熱食物的核心原理是？",
+      "answer": 0,
+      "id": 88,
+      "title": 4
+    },
+    {
+      "Achoose": " 銅",
+      "Bchoose": "金 ",
+      "Cchoose": "鋁",
+      "Dchoose": "銀",
+      "describe": "下列哪種金屬的導電性最強？",
+      "answer": 3,
+      "id": 89,
+      "title": 4
+    },
+    {
+      "Achoose": "巖漿",
+      "Bchoose": "氫氦",
+      "Cchoose": " 鐵鎳合金",
+      "Dchoose": "矽鋁酸鹽",
+      "describe": "地球內核的主要成分是？",
+      "answer": 2,
+      "id": 90,
+      "title": 4
+    },
+    {
+      "Achoose": "加熱管損壞",
+      "Bchoose": "溫度設置太低",
+      "Cchoose": "水壓不穩定",
+      "Dchoose": "水量太少",
+      "describe": "家裡的熱水器，使用時水溫忽冷忽熱，可能的原因是？",
+      "answer": 2,
+      "id": 91,
+      "title": 4
+    },
+    {
+      "Achoose": "大於等於 20mg/100ml",
+      "Bchoose": "大於等於 80mg/100ml",
+      "Cchoose": "大於等於 100mg/100ml",
+      "Dchoose": "大於等於 50mg/100ml",
+      "describe": "開車時，酒精含量達到多少屬於酒駕？",
+      "answer": 0,
+      "id": 92,
+      "title": 4
+    },
+    {
+      "Achoose": "棉質窗簾 ",
+      "Bchoose": "真絲窗簾",
+      "Cchoose": "滌綸窗簾",
+      "Dchoose": "亞麻窗簾",
+      "describe": "家裡的窗簾髒了，哪種材質不宜機洗？",
+      "answer": 1,
+      "id": 93,
+      "title": 4
+    },
+    {
+      "Achoose": "茶皂素",
+      "Bchoose": "茶紅素",
+      "Cchoose": "茶褐素",
+      "Dchoose": "茶黃素",
+      "describe": "紅茶的顏色與以下哪個物質無關？",
+      "answer": 0,
+      "id": 94,
+      "title": 4
+    },
+    {
+      "Achoose": "光照過強",
+      "Bchoose": "施肥過多",
+      "Cchoose": "溫度過高",
+      "Dchoose": "澆水過多或過少",
+      "describe": "家裡的綠蘿葉子發黃，最可能的原因是？",
+      "answer": 3,
+      "id": 95,
+      "title": 4
+    },
+    {
+      "Achoose": "金屬容器",
+      "Bchoose": "陶瓷碗",
+      "Cchoose": " 玻璃碗",
+      "Dchoose": "微波爐專用塑料盒",
+      "describe": "下列哪種物品不宜放入微波爐加熱？",
+      "answer": 0,
+      "id": 96,
+      "title": 4
+    },
+    {
+      "Achoose": "羊毛衫",
+      "Bchoose": "白色棉質衣物",
+      "Cchoose": "絲綢裙",
+      "Dchoose": "羽絨服",
+      "describe": "家裡的洗衣機，清洗哪種衣物時適合用熱水？",
+      "answer": 1,
+      "id": 97,
+      "title": 4
+    },
+    {
+      "Achoose": "84 消毒液和潔廁靈",
+      "Bchoose": "洗潔精和水",
+      "Cchoose": "洗衣液和柔順劑",
+      "Dchoose": "肥皂和水",
+      "describe": "下列哪種清潔用品不能混合使用，否則可能產生有毒氣體？",
+      "answer": 0,
+      "id": 98,
+      "title": 4
+    },
+    {
+      "Achoose": " 菠菜",
+      "Bchoose": "黃瓜",
+      "Cchoose": "番茄",
+      "Dchoose": " 生菜",
+      "describe": "下列哪種蔬菜不宜生吃？",
+      "answer": 0,
+      "id": 99,
+      "title": 4
+    },
+    {
+      "Achoose": "胡蘿蔔",
+      "Bchoose": "橘子",
+      "Cchoose": "獼猴桃",
+      "Dchoose": "蘋果",
+      "describe": "下列哪種水果的維生素 C 含量相對最高？",
+      "answer": 2,
+      "id": 100,
+      "title": 4
+    }
+  ]
+}

@@ -1177,7 +1177,7 @@
       "petid": 3668
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>觸發效果：\r\n<indent=16><sprite=3><indent=32>自身每處於1種能力提升狀態則造成的<b>攻擊傷害</b><color=#64F9FA>提升</color>20%\r\n<indent=16><sprite=3><indent=32>自身不處於能力提升狀態則必定<color=#64F9FA>打出致命一擊</color>且使用技能時<color=#64F9FA>全屬性+1</color>\r\n\r\n<indent=0><sprite=0><indent=16>戰階結束效果：\r\n<indent=16><sprite=3><indent=32>戰鬥階段結束時<color=#64F9FA>吸取</color>對手250點<b>體力</b>\r\n<indent=32><sprite=4><indent=48>若對手未受到固定傷害則對手下回合<b>屬性技能</b><color=#64F9FA>命中效果失效</color>\r\n<indent=32><sprite=4><indent=48>自身體力低於對手時吸取效果提升100點\r\n<indent=32><sprite=4><sprite=4><indent=64>若對手未受到固定傷害則下回合<b>先制</b>+1 \r\n",
+      "Desc": "<indent=0><sprite=0><indent=16>觸發效果：\r\n<indent=16><sprite=3><indent=32>自身使用技能時：\r\n<indent=32><sprite=4><indent=48>若自身處於能力提升狀態則每有1種能力提升狀態則造成的<b>攻擊傷害</b><color=#64F9FA>提升</color>20%\r\n<indent=16><sprite=3><indent=32>若自身不處於能力提升狀態則必定<color=#64F9FA>打出致命一擊</color>且戰鬥階段結束時<color=#64F9FA>全屬性+1</color>\r\n\r\n<indent=0><sprite=0><indent=16>戰階結束效果：\r\n<indent=16><sprite=3><indent=32>戰鬥階段結束時<color=#64F9FA>吸取</color>對手250點<b>體力</b>\r\n<indent=32><sprite=4><indent=48>若對手未受到固定傷害則對手下回合<b>屬性技能</b><color=#64F9FA>命中效果失效</color>\r\n<indent=32><sprite=4><indent=48>自身體力低於對手時吸取效果提升100點\r\n<indent=32><sprite=4><sprite=4><indent=64>若對手未受到固定傷害則下回合<b>先制</b>+1 \r\n",
       "affectedBoss": 0,
       "effecticonid": 1937,
       "id": 148,
@@ -2721,7 +2721,7 @@
       "petid": 3864
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>觸發效果：\r\n<indent=16><sprite=3><indent=32>若對手連續使用同一技能則：\r\n<indent=32><sprite=4><indent=48>當回合戰鬥階段結束時<color=#64F9FA>吸取</color>對手250點<b>體力</b>\r\n<indent=32><sprite=4><indent=48>25%令所使用技能<color=#64F9FA>無效</color>\r\n\r\n<indent=0><sprite=0><indent=16>常駐效果：\r\n<indent=16><sprite=3><indent=32>自身每擊敗一隻精靈本場戰鬥10%<color=#64F9FA>打出致命一擊</color>、10%<color=#64F9FA>閃避</color>受到的<b>攻擊</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合開始效果：\r\n<indent=16><sprite=3><indent=32>回合開始時，若自身體力高於對手則令對手<color=#64F9FA>全屬性-1</color>且當回合自身所有技能<b>先制</b>+1",
+      "Desc": "<indent=0><sprite=0><indent=16>觸發效果：\r\n<indent=16><sprite=3><indent=32>若對手連續使用同一技能則：\r\n<indent=32><sprite=4><indent=48>當回合戰鬥階段結束時<color=#64F9FA>吸取</color>對手300點<b>體力</b>\r\n<indent=32><sprite=4><indent=48>30%令所使用技能<color=#64F9FA>無效</color>\r\n\r\n<indent=0><sprite=0><indent=16>常駐效果：\r\n<indent=16><sprite=3><indent=32>自身每擊敗一隻精靈本場戰鬥10%<color=#64F9FA>打出致命一擊</color>、10%<color=#64F9FA>閃避</color>受到的<b>攻擊</b>\r\n\r\n<indent=0><sprite=0><indent=16>回合開始效果：\r\n<indent=16><sprite=3><indent=32>回合開始時，若自身體力高於對手則令對手<color=#64F9FA>全屬性-1</color>且當回合自身所有技能<b>先制</b>+1",
       "affectedBoss": 0,
       "effecticonid": 1137,
       "id": 341,
@@ -4201,7 +4201,7 @@
       "petid": 4048
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每場戰鬥限1次）：\r\n<indent=16><sprite=3><indent=32>自身受到的固定傷害或百分比傷害≥自身當前體力值時觸發群星逆轉：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>本次受到的傷害並將其150%<color=#64F9FA>轉化</color>為自身<b>體力</b>值\r\n<indent=32><sprite=4><indent=48>下3回合自身<b>致命一擊率</b>提升至100%\r\n\r\n<indent=0><sprite=0><indent=16>技能額外效果：\r\n<indent=16><sprite=3><indent=32>自身攻擊技能命中後<color=#64F9FA>吸取</color>對手最大體力的25%\r\n<indent=32><sprite=4><indent=48>每次使用攻擊技能後本場戰鬥中上述效果提升5%，最高40%",
+      "Desc": "<indent=0><sprite=0><indent=16>限定效果（每場戰鬥限1次）：\r\n<indent=16><sprite=3><indent=32>自身受到的固定傷害或百分比傷害≥自身當前體力值時觸發群星逆轉：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>免疫</color>本次受到的傷害並將其150%<color=#64F9FA>轉化</color>為自身<b>體力</b>值\r\n<indent=32><sprite=4><indent=48>下3回合自身<b>致命一擊率</b>提升至100%\r\n\r\n<indent=0><sprite=0><indent=16>技能額外效果：\r\n<indent=16><sprite=3><indent=32>自身攻擊技能命中後<color=#64F9FA>吸取</color>對手最大體力的25%\r\n<indent=32><sprite=4><indent=48>每次使用攻擊技能後本場戰鬥中上述效果提升5%，最高40%\r\n<indent=16><sprite=3><indent=32>自身屬性技能命中後下回合受到的<b>攻擊傷害</b><color=#64F9FA>減少</color>25%\r\n<indent=32><sprite=4><indent=48>每次使用屬性技能後本場戰鬥中上述效果提升5%，最高40%",
       "affectedBoss": 0,
       "effecticonid": 1542,
       "id": 526,
@@ -7553,7 +7553,7 @@
       "petid": 4534
     },
     {
-      "Desc": "<indent=0><sprite=0><indent=16>登場效果：\r\n<indent=16><sprite=3><indent=32>每次登場時：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>消除</color>對手<b>能力提升狀態</b>，消除成功則<color=#64F9FA>令對手害怕</color>\r\n<indent=32><sprite=4><sprite=4><indent=64>未觸發則<color=#64F9FA>令對手束縛</color>\r\n<indent=32><sprite=4><indent=48>若當回合對方選擇主動切換精靈則戰鬥階段結束時為對手施加1道<color=#FFF779>詭符</color>\r\n\r\n<indent=0><sprite=0><indent=16>回合開始效果：\r\n<indent=16><sprite=3><indent=32>回合開始時若自身不處於能力提升狀態則當回合受到的<b>攻擊傷害</b><color=#64F9FA>減少</color>50%\r\n\r\n<indent=0><sprite=0><indent=16>戰階結束效果：\r\n<indent=16><sprite=3><indent=32>戰鬥階段結束時若自身處於能力提升狀態則<color=#64F9FA>恢復</color>自身最大體力的1/3\r\n\r\n<indent=0><sprite=5><indent=15>詭符（上限4道，下場保留）：\r\n<indent=16><sprite=6><indent=32>每持有1道：\r\n<indent=32><sprite=4><indent=48>受到的<b>致命一擊傷害</b>都<color=#64F9FA>提升</color>25%\r\n<indent=32><sprite=4><indent=48>主動切換下場前都<color=#64F9FA>直接扣除</color>50點<b>體力</b>，造成致命傷害時<color=#64F9FA>保留</color>1點<b>體力</b>",
+      "Desc": "<indent=0><sprite=0><indent=16>登場效果：\r\n<indent=16><sprite=3><indent=32>每次登場時：\r\n<indent=32><sprite=4><indent=48><color=#64F9FA>消除</color>對手<b>能力提升狀態</b>，消除成功則<color=#64F9FA>令對手害怕</color>\r\n<indent=32><sprite=4><sprite=4><indent=64>未觸發則<color=#64F9FA>令對手束縛</color>\r\n<indent=32><sprite=4><indent=48>若當回合對方選擇主動切換精靈則戰鬥階段結束時為對手施加1道<color=#FFF779>詭符</color>\r\n\r\n<indent=0><sprite=0><indent=16>回合開始效果：\r\n<indent=16><sprite=3><indent=32>回合開始時若自身不處於能力提升狀態則當回合受到的<b>攻擊傷害</b><color=#64F9FA>減少</color>50%\r\n\r\n<indent=0><sprite=0><indent=16>戰階結束效果：\r\n<indent=16><sprite=3><indent=32>戰鬥階段結束時若自身處於能力提升狀態則<color=#64F9FA>恢復</color>自身最大體力的1/3\r\n\r\n<indent=0><sprite=5><indent=15>詭符（上限4道，下場保留）：\r\n<indent=16><sprite=6><indent=32>每持有1道：\r\n<indent=32><sprite=4><indent=48>受到的<b>致命一擊傷害</b>都<color=#64F9FA>提升</color>15%\r\n<indent=32><sprite=4><indent=48>主動切換下場前都<color=#64F9FA>直接扣除</color>50點<b>體力</b>，造成致命傷害時<color=#64F9FA>保留</color>1點<b>體力</b>",
       "affectedBoss": 0,
       "effecticonid": 1747,
       "id": 945,

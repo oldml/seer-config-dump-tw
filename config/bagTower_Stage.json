@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "name": "小災",
+      "bg": 1,
+      "id": 1,
+      "initialcoin": 0,
+      "lockequip": 5,
+      "stagetype": 1,
+      "time": 1770948000,
+      "unlock": 0,
+      "wavenum": 10
+    },
+    {
+      "name": "大災",
+      "bg": 1,
+      "id": 2,
+      "initialcoin": 0,
+      "lockequip": 6,
+      "stagetype": 1,
+      "time": 1770948000,
+      "unlock": 1,
+      "wavenum": 15
+    },
+    {
+      "name": "兇災",
+      "bg": 1,
+      "id": 3,
+      "initialcoin": 0,
+      "lockequip": 7,
+      "stagetype": 1,
+      "time": 1770948000,
+      "unlock": 2,
+      "wavenum": 20
+    },
+    {
+      "name": "地災",
+      "bg": 1,
+      "id": 4,
+      "initialcoin": 0,
+      "lockequip": 8,
+      "stagetype": 1,
+      "time": 1771516800,
+      "unlock": 3,
+      "wavenum": 20
+    },
+    {
+      "name": "天災",
+      "bg": 1,
+      "id": 5,
+      "initialcoin": 0,
+      "lockequip": 0,
+      "stagetype": 1,
+      "time": 1771516800,
+      "unlock": 4,
+      "wavenum": 20
+    },
+    {
+      "name": "歲業",
+      "bg": 1,
+      "id": 6,
+      "initialcoin": 15,
+      "lockequip": 0,
+      "stagetype": 2,
+      "time": 1771516800,
+      "unlock": 5,
+      "wavenum": 30
+    }
+  ]
+}

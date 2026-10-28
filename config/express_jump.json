@@ -2,7 +2,7 @@
   "data": [
     {
       "dest": "170000",
-      "image": "sixteenyears1panel_bg",
+      "image": "expressJumpNew_story",
       "name": "劇情任務",
       "statlog": "",
       "clickLock": 0,
@@ -69,6 +69,18 @@
       "closeother": 0,
       "id": 6,
       "iosLock": 0,
+      "priority": 2,
+      "reddotid": 0
+    },
+    {
+      "dest": "420000",
+      "image": "expressJumpNew_petTour",
+      "name": "扭蛋機",
+      "statlog": "2026運營活動,0116傳奇扭蛋機,點擊集合功能區域【扭蛋機】",
+      "clickLock": 1,
+      "closeother": 0,
+      "id": 7,
+      "iosLock": 1,
       "priority": 2,
       "reddotid": 0
     },

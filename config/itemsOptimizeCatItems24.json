@@ -1,6 +1,416 @@
 {
   "items": [
     {
+      "Name": "超級噗紐因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400593,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "環·聖芒因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400592,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "環·龍裔因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400591,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "米羅博士因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400590,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "鮮血女王·蔻緹雅因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400589,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "哀傷公爵·阿洛希爾因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400588,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "墟婆因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400587,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "弗勒克斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400586,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "卡魯維德因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400585,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "影行者因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400584,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "環·迴響因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400583,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "環·木心因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400582,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "若蘭因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400581,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西曼德妮因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400580,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "蕊沃爾因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400579,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "月冕因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400578,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西西弗因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400577,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "小珍妮因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400576,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "萊布緹因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400575,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "特維耶因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400574,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "榮光之薇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400573,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "月牙之刃因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400572,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "暮月之弦因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400571,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "西蒙妮因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400570,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "鬼面閻羅因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400569,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "安瑟倫因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400568,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "B-12因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400567,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "阿特洛波斯因子",
+      "catID": 24,
+      "Hide": 1,
+      "ID": 2400566,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "初誕之薇因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400565,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "託勒斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400564,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "阿華華因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400563,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "灰蛾因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400562,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "阿波波因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400561,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "克洛托因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400560,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "浩瀚崑崙因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400559,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "阿塔塔因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400558,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "錮魂鐵犀因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400557,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "方術·悠悠因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400556,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "瓏首因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400555,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "拉克希斯因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400554,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
+      "Name": "康迪亞克因子",
+      "catID": 24,
+      "Hide": 0,
+      "ID": 2400553,
+      "Max": 9999,
+      "purpose": 0,
+      "Sort": 32,
+      "wd": 1
+    },
+    {
       "Name": "埃斯賓諾因子",
       "catID": 24,
       "Hide": 0,

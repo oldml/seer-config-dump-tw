@@ -2284,7 +2284,7 @@
         1
       ],
       "enterMap": 0,
-      "GroupID": 20115,
+      "GroupID": 20113,
       "id": 3050,
       "MapRatio": 0,
       "pic": 1278
@@ -16858,17 +16858,17 @@
       "Ename": "Destination Reached",
       "name": "傳送艙",
       "notes": "新春版本",
-      "sound": "",
+      "sound": "BGM_158A",
       "NPCID": [
         304
       ],
       "NPCXYZ": [
-        350,
-        430
+        214,
+        369
       ],
       "PlayerXYZ": [
-        250,
-        270
+        608,
+        408
       ],
       "WildBossID": null,
       "WildBossPoint": null,
@@ -16925,6 +16925,406 @@
       "id": 2167,
       "MapRatio": 1,
       "pic": 2167
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "化樂天林海",
+      "notes": "",
+      "sound": "2026wil_01",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        400,
+        900
+      ],
+      "WildBossID": [
+        4893
+      ],
+      "WildBossPoint": [
+        108,
+        880,
+        470,
+        880,
+        1020,
+        720,
+        960,
+        900,
+        230,
+        380,
+        500,
+        320,
+        850,
+        310,
+        1320,
+        340,
+        670,
+        610
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22003,
+      "id": 2168,
+      "MapRatio": 1,
+      "pic": 2168
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "自在天飛船",
+      "notes": "",
+      "sound": "2026wil_04",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        340,
+        430
+      ],
+      "WildBossID": [
+        4884
+      ],
+      "WildBossPoint": [
+        60,
+        370,
+        190,
+        420,
+        220,
+        320,
+        330,
+        430,
+        500,
+        450,
+        650,
+        410,
+        820,
+        420,
+        960,
+        360,
+        720,
+        310
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22003,
+      "id": 2169,
+      "MapRatio": 1,
+      "pic": 2169
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "波盧卡星地表",
+      "notes": "",
+      "sound": "boruca01_bgm",
+      "NPCID": [
+        305
+      ],
+      "NPCXYZ": [
+        1120,
+        200
+      ],
+      "PlayerXYZ": [
+        220,
+        290
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2170,
+      "MapRatio": 1,
+      "pic": 2170
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "宗座宮內廷",
+      "notes": "",
+      "sound": "boruca02_bgm",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        150,
+        390
+      ],
+      "WildBossID": [
+        4896
+      ],
+      "WildBossPoint": [
+        320,
+        360,
+        500,
+        440,
+        820,
+        360,
+        1290,
+        360,
+        1530,
+        440,
+        1760,
+        360,
+        2240,
+        360,
+        2510,
+        440,
+        2700,
+        360
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2171,
+      "MapRatio": 1,
+      "pic": 2171
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "波盧卡星礦坑",
+      "notes": "",
+      "sound": "boruca01_bgm",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        320
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22004,
+      "id": 2172,
+      "MapRatio": 1,
+      "pic": 2172
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "至日廣場",
+      "notes": "",
+      "sound": "APL_story3",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        260
+      ],
+      "WildBossID": [
+        4910
+      ],
+      "WildBossPoint": [
+        90,
+        380,
+        290,
+        270,
+        520,
+        400,
+        720,
+        380,
+        890,
+        280,
+        1070,
+        330,
+        1210,
+        380,
+        1570,
+        290,
+        1370,
+        210
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 22005,
+      "id": 2173,
+      "MapRatio": 1,
+      "pic": 2173
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "眾星博物館",
+      "notes": "",
+      "sound": "APL_story3",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        240,
+        880
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 22005,
+      "id": 2174,
+      "MapRatio": 1,
+      "pic": 2174
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "傳送艙",
+      "notes": "17周年慶",
+      "sound": "BGM_151A",
+      "NPCID": [
+        28
+      ],
+      "NPCXYZ": [
+        145,
+        404
+      ],
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 10103,
+      "id": 2175,
+      "MapRatio": 1,
+      "pic": 2175
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "凱旋殿堂",
+      "notes": "劇情場景",
+      "sound": "1",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        780,
+        431
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2176,
+      "MapRatio": 1,
+      "pic": 2176
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "0807場景佔位",
+      "notes": "",
+      "sound": "1",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        650,
+        440
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2177,
+      "MapRatio": 1,
+      "pic": 2177
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "β場景佔位",
+      "notes": "",
+      "sound": "1",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        467,
+        404
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2178,
+      "MapRatio": 1,
+      "pic": 2178
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "大墟澤",
+      "notes": "劇情場景",
+      "sound": "BGM_438",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        820,
+        370
+      ],
+      "WildBossID": null,
+      "WildBossPoint": null,
+      "WildBossWeight": null,
+      "enterMap": 0,
+      "GroupID": 0,
+      "id": 2179,
+      "MapRatio": 1,
+      "pic": 2179
+    },
+    {
+      "DeviceID": "",
+      "Ename": "Destination Reached",
+      "name": "大墟澤",
+      "notes": "真實場景",
+      "sound": "BGM_438",
+      "NPCID": null,
+      "NPCXYZ": null,
+      "PlayerXYZ": [
+        820,
+        370
+      ],
+      "WildBossID": [
+        3598
+      ],
+      "WildBossPoint": [
+        60,
+        410,
+        130,
+        390,
+        170,
+        430,
+        230,
+        400,
+        360,
+        380,
+        450,
+        430,
+        560,
+        400,
+        650,
+        390,
+        770,
+        410,
+        830,
+        400
+      ],
+      "WildBossWeight": [
+        1
+      ],
+      "enterMap": 0,
+      "GroupID": 20113,
+      "id": 2180,
+      "MapRatio": 1,
+      "pic": 2180
     }
   ]
 }

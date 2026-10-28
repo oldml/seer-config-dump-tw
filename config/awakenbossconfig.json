@@ -175,6 +175,18 @@
     {
       "id": 44,
       "monsterId": 4186
+    },
+    {
+      "id": 45,
+      "monsterId": 3686
+    },
+    {
+      "id": 46,
+      "monsterId": 3382
+    },
+    {
+      "id": 47,
+      "monsterId": 3999
     }
   ]
 }

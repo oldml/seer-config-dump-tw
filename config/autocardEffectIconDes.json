@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "des": "在場時會在達成觸發條件時反覆生效對應的效果",
+      "name": "持續生效",
+      "resourceName": "effectIcon_1",
+      "id": 1
+    },
+    {
+      "des": "該精靈在戰鬥中陣亡時觸發對應的效果",
+      "name": "陣亡",
+      "resourceName": "effectIcon_2",
+      "id": 2
+    },
+    {
+      "des": "可以連續進行兩次攻擊",
+      "name": "連擊",
+      "resourceName": "effectIcon_3",
+      "id": 3
+    },
+    {
+      "des": "首次受到其傷害的精靈將被直接消滅",
+      "name": "強毒",
+      "resourceName": "effectIcon_4",
+      "id": 4
+    },
+    {
+      "des": "該精靈陣亡後以特定狀態回到場上",
+      "name": "復活",
+      "resourceName": "effectIcon_5",
+      "id": 5
+    },
+    {
+      "des": "對方精靈必須優先攻擊帶有嘲諷的精靈",
+      "name": "嘲諷",
+      "resourceName": "effectIcon_11",
+      "id": 11
+    },
+    {
+      "des": "可以抵消受到的首次傷害",
+      "name": "護盾",
+      "resourceName": "effectIcon_12",
+      "id": 12
+    },
+    {
+      "des": "放置於機械系精靈左側時將屬性值和特效附加給該精靈",
+      "name": "吸附",
+      "resourceName": "",
+      "id": 13
+    }
+  ]
+}

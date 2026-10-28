@@ -4310,6 +4310,87 @@
       "id": 540098,
       "type": 2,
       "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "新春聚寶盆",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 540099,
+      "type": 2,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·萊布緹",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500912,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·西曼德妮",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500913,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·埃斯賓諾",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500914,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·安瑟倫",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500915,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·託勒斯",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500916,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·康迪亞克",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500917,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·蕊沃爾",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500918,
+      "type": 1,
+      "vipOnly": 0
+    },
+    {
+      "funcParam": "",
+      "name": "黃金教廷勳章·西西弗",
+      "func": 0,
+      "funcIdentity": 0,
+      "id": 500919,
+      "type": 1,
+      "vipOnly": 0
     }
   ]
 }

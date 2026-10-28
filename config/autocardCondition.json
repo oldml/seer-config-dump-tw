@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "param": "",
+      "paramDes": "位於戰場上",
+      "id": 1
+    },
+    {
+      "param": "a",
+      "paramDes": "出售卡牌判斷",
+      "id": 2
+    },
+    {
+      "param": "a",
+      "paramDes": "購買a類卡牌",
+      "id": 3
+    },
+    {
+      "param": "",
+      "paramDes": "精靈牌打出手牌到場上",
+      "id": 4
+    },
+    {
+      "param": "",
+      "paramDes": "法術牌打出選擇精靈牌",
+      "id": 5
+    },
+    {
+      "param": "",
+      "paramDes": "進擊（精靈牌攻擊前）",
+      "id": 6
+    },
+    {
+      "param": "",
+      "paramDes": "退場（戰鬥時）",
+      "id": 7
+    },
+    {
+      "param": "",
+      "paramDes": "出售完後其它卡牌判斷",
+      "id": 8
+    },
+    {
+      "param": "",
+      "paramDes": "觸發入場效果條件點",
+      "id": 9
+    },
+    {
+      "param": "",
+      "paramDes": "觸發攻擊前效果條件點",
+      "id": 10
+    },
+    {
+      "param": "",
+      "paramDes": "商店結束條件點",
+      "id": 11
+    },
+    {
+      "param": "",
+      "paramDes": "戰鬥開始條件點",
+      "id": 12
+    }
+  ]
+}

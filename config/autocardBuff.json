@@ -1,0 +1,3019 @@
+{
+  "data": [
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "攻擊時(被攻擊者位置哪個範圍(a_b))是否永久(c)獲得+d/+e，是否(f)獲得護盾",
+      "id": 10001,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "出售時隨機獲得a張b系精靈牌(是否當前商店等級及以下(c))",
+      "id": 10002,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "入場時隨機獲得a張等級b(0:任意等級\\>0指定等級)的c(0:所有系)系精靈牌(是否當前商店等級及以下(d))",
+      "id": 10003,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場時使是否(a:0:否、1:是)包含自身同排己方b系精靈獲得+c/+d",
+      "id": 10004,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "入場時召喚a只b/c的精靈牌d",
+      "id": 10005,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "每召喚一隻a系精靈，是否永久(b)獲得+c/+d",
+      "id": 10006,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "攻擊時變更造成傷害a%,變更受到傷害b%;攻擊後變更造成傷害c%,變更受到傷害d%",
+      "id": 10007,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "入場時使是否(a:0:否、1:是)包含自身己方所有b系精靈獲得+c/+d",
+      "id": 10008,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "陣亡：使己方隨機a只b系精靈獲得+c/+d",
+      "id": 10009,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場：本局遊戲內，使商店中的a系(0:所有,>0某一系)精靈獲得+b/+c",
+      "id": 10010,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場：己方場上每有一隻a系精靈，獲得+b/+c",
+      "id": 10011,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "出售本隨從時，獲得a張b/c的精靈牌d",
+      "id": 10012,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "入場：本局遊戲內，在刷新商店後，使商店最左側的精靈牌獲得+a/+b",
+      "id": 10013,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "擊敗對手時，使自身和同列的己方精靈獲得+a/+b",
+      "id": 10014,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：刷新商店，本次刷新的卡牌全部為a系精靈牌",
+      "id": 10015,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "陣亡時召喚a只b/c的精靈牌d",
+      "id": 10016,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "受到傷害時召喚a只b/c的精靈牌d",
+      "id": 10017,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "入場：使同列的另一個精靈獲得+a/+b",
+      "id": 10018,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時獲得a張b魔法卡",
+      "id": 10019,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "3",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "連擊",
+      "id": 10020,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "商店結束時，使同列的另一個精靈永久獲得+a/+b",
+      "id": 10021,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "攻擊時使己方隨機a個b系精靈永久獲得+c/+d",
+      "id": 10022,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店結束時，與a系精靈相鄰則永久獲得+b/+c",
+      "id": 10023,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "戰鬥開始時，與a系精靈則使同排b系精靈獲得+c/+d",
+      "id": 10024,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "攻擊時使是否(a:0:否、1:是)包含自身同排己方b系精靈c(0:非永久、1:永久)獲得+d/+e",
+      "id": 10025,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡時召喚隨機a只等級b的精靈牌",
+      "id": 10026,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "11",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "嘲諷",
+      "id": 10027,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "無法攻擊",
+      "id": 10028,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "入場時，本局遊戲內，精靈卡牌(a)在場時，使用b系精靈牌後，使商店中的c系精靈牌在本局遊戲中獲得+d/+e",
+      "id": 10029,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡時隨機獲得a張b系精靈牌(是否當前商店等級及以下(c))",
+      "id": 10030,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，對a只隨機對方精靈造成b點傷害",
+      "id": 10032,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "入場：己方同列精靈為a系精靈時，招募b張c系精靈牌(是否當前商店等級及以下(d))",
+      "id": 10033,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店結束時，每有1隻其他a系精靈相鄰則自身永久獲得+b/+c",
+      "id": 10034,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方a(所有系)系精靈陣亡時，對b只隨機對方精靈造成c點傷害",
+      "id": 10035,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場時若自身與a系精靈相鄰則獲得b張魔法卡(c)",
+      "id": 10036,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e_f",
+      "paramDes": "入場：選擇一隻a(0:所有系)系精靈，使其是否(b)獲得嘲諷，使其是否(c)獲得連擊，使其是否(d)獲得強毒，使其獲得+e/+f",
+      "id": 10038,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方a系精靈陣亡時，永久獲得+b/+c",
+      "id": 10039,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "攻擊前若自身與a系精靈相鄰則對隨機b個對方精靈造成c點傷害",
+      "id": 10040,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時若同列精靈為a系精靈則對攻擊目標同列的精靈造成等同於自身攻擊值的b倍傷害",
+      "id": 10041,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "受到攻擊時獲得+a/+b",
+      "id": 10042,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "相鄰的a系精靈攻擊時，使對象(b:0自身、b:1攻擊者)是否永久(c:1攻擊永久、2:血量永久、3:全部永久)獲得+d/+e",
+      "id": 10043,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡時使隨機a只己方b系精靈獲得自身當前的屬性值",
+      "id": 10044,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "12",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "護盾",
+      "id": 10045,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "4",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "強毒",
+      "id": 10046,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場時己方同排精靈均為a精靈時，獲得強毒",
+      "id": 10047,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "擊敗對方精靈時獲得強毒",
+      "id": 10048,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "每入場一隻a系精靈牌，對己方賽爾造成b點傷害並獲得+c/+d",
+      "id": 10049,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "同排a系精靈攻擊時，獲得b張隨機c系精靈牌",
+      "id": 10050,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "每次商店階段己方賽爾受到傷害時，是否回溯(a)受到的傷害值，並且是否永久(b)獲得+c/+d",
+      "id": 10052,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "每有一隻己方精靈觸發陣亡效果，是否永久(a:1攻擊永久、2:血量永久、3:全部永久)獲得+b/+c",
+      "id": 10053,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "每有一隻己方精靈觸發陣亡效果，對隨機a只對方精靈造成b點傷害，每次觸發時傷害增加c點（當前傷害：X）",
+      "id": 10054,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "攻擊時同時對攻擊目標左右相鄰的精靈發動攻擊",
+      "id": 10056,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "己方a系精靈觸發強毒時，使己方b系精靈永久獲得+c/+d",
+      "id": 10058,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "商店階段結束時，觸發一隻相鄰a系精靈的入場效果",
+      "id": 10059,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "入場：獲得a個刷新BUFF(ID(b)，BUFFParam(c,d,e))",
+      "id": 10061,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "每出售一隻a系精靈時，獲得其b倍屬性值",
+      "id": 10062,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "攻擊時若自身與a系精靈相鄰使自身和符合要求的精靈是否永久獲得(b:1攻擊永久、2:血量永久、3:全部永久)+c/+d",
+      "id": 10063,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "入場：使己方每個系別的各一隻精靈獲得+a/+b",
+      "id": 10064,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "a(0:任意、1:同排、2:相鄰、3:同列)位置己方b(0:任意)系精靈攻擊後，使其獲得護盾",
+      "id": 10065,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "陣亡：使同排的己方a(0:任意)系精靈獲得+b/+c",
+      "id": 10066,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：對全場所有精靈造成a點傷害",
+      "id": 10067,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡：使隨機a(0:全部)只b系己方精靈獲得護盾",
+      "id": 10068,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "每回合商店階段，前a次刷新會消耗己方刷新價格的賽爾生命值",
+      "id": 10069,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡：使相鄰的a系精靈獲得b倍自身攻擊值",
+      "id": 10070,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "已方a系精靈造成傷害後，是否永久(b)獲得+c/+d",
+      "id": 10071,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方a系精靈造成傷害後，使其他己方精靈獲得+b/+c",
+      "id": 10072,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "5",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "復活(陣亡時召喚指定精靈牌a到原來位置)",
+      "id": 10073,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，對對方前排精靈中生命值最高的精靈造成a點傷害",
+      "id": 10074,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "使用法術牌時，使己方每個系別的各一隻精靈獲得+a/+b",
+      "id": 10075,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "攻擊時移除攻擊目標的BUFF效果(a)",
+      "id": 10076,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在場時，己方入場效果觸發a次",
+      "id": 10077,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "入場：招募a張b系精靈牌(是否當前商店等級及以下(c))，並給招募卡牌賦予BUFF(ID(d)，BUFFParam(e))",
+      "id": 10078,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "招募後，對己方賽爾造成等同於所招募卡牌等級的傷害",
+      "id": 10079,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "入場：若自身與a系精靈相鄰時，招募b張c系精靈牌(是否當前商店等級及以下(d))",
+      "id": 10080,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "被視為擁有所有系別",
+      "id": 10081,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "己方精靈的連擊效果額外觸發a次",
+      "id": 10082,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "受到攻擊後對攻擊自身的精靈造成a點傷害，每次觸發時傷害永久增加b點",
+      "id": 10083,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "相鄰的a系精靈受到攻擊後使其獲得護盾",
+      "id": 10084,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在場時，己方陣亡效果額外觸發a次",
+      "id": 10085,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "攻擊時觸發a次最靠前的己方其他精靈的陣亡效果",
+      "id": 10086,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "攻擊時對攻擊目標同列的精靈造成等同於自身攻擊值a倍的傷害",
+      "id": 10087,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：選擇1隻己方精靈，使商店刷新1次，這1次刷出的卡牌全部為該系別的精靈牌",
+      "id": 10088,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "這張精靈牌在手牌中時，每回合會隨機變為1張其他精靈牌",
+      "id": 10089,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，對場上除a系精靈外的所有精靈造成b點傷害",
+      "id": 10090,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡：對場上除a系精靈外的所有精靈造成b點傷害",
+      "id": 10091,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "永久保留戰鬥階段獲得的屬性和關鍵詞效果",
+      "id": 10092,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場：選擇1隻己方(覺醒狀態a(0:未覺醒、1:已覺醒、2:所有))可複製精靈，獲得BUFF(ID(b)，BUFFParam(c))",
+      "id": 10093,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "回合開始時，變形為該精靈a複製",
+      "id": 10094,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場：選擇1隻己方等級a以下的b系精靈，變成該精靈覺醒狀態c(0:原始、1:已覺醒)的複製",
+      "id": 10095,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，立刻發動1次攻擊",
+      "id": 10096,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，隨機選擇對方1隻後排精靈立刻發動1次攻擊",
+      "id": 10097,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，對生命值最少的對方精靈發起1次攻擊",
+      "id": 10098,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "戰鬥開始前，擊敗對方精靈時獲得a(0:無)回合BUFF(ID(b)，BUFFParam(c))",
+      "id": 10099,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "免疫除攻擊傷害之外的所有傷害",
+      "id": 10100,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方精靈受到攻擊時，是否永久(a)獲得+b/+c",
+      "id": 10101,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：觸發除擁有同BUFF卡外己方所有陣亡效果a次",
+      "id": 10102,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "本場戰鬥中陣亡效果額外觸發a次",
+      "id": 10103,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：賦予己方玩家偷取卡牌BUFF(ID(10105)，BUFFParam(b(隨機一個對方精靈ID)))",
+      "id": 10104,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "玩家",
+      "param": "a",
+      "paramDes": "商店開始時，獲得1張對方指定精靈卡(a)原始複製，只能有效1次",
+      "id": 10105,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "同列己方精靈受到攻擊時為其承擔攻擊",
+      "id": 10106,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：如果是援護防禦導致死亡，則對同列己方精靈造成溢出部分的幾(a)分之1傷害",
+      "id": 10107,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "卡牌 每次商店階段己方賽爾受到傷害時，是否回溯(a)受到的傷害值，並使商店中的b系精靈牌在本回合遊戲中獲得+c/+d",
+      "id": 10108,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "玩家",
+      "param": "a_b_c",
+      "paramDes": "本回合在刷新商店後，使商店中的a系(0:所有系)精靈牌精靈牌獲得+b/+c",
+      "id": 10109,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方精靈攻擊時，此時處於戰鬥開始時，隨機獲得a張b系精靈牌，使獲得的這張精靈牌獲得連擊效果",
+      "id": 10110,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "己方a(所有系)系精靈陣亡時和攻擊時，對b只隨機對方精靈造成c點傷害，本場戰鬥每陣亡1隻d(所有系)系精靈造成的傷害提高e點",
+      "id": 10111,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時對對方前排所有精靈造成a點傷害，以上效果每次觸發時增加b點傷害",
+      "id": 10112,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡：對隨機對方a只精靈造成b點傷害",
+      "id": 10113,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "觸發連擊效果時對對方後排所有精靈造成a點傷害，以上效果每次觸發時增加b點傷害",
+      "id": 10114,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "3",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "連擊，回合開始時，連擊效果去除",
+      "id": 10115,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "玩家",
+      "param": "a_b_c_d_e",
+      "paramDes": "刷新卡牌時，使商店中的a系精靈牌在本局遊戲中獲得+b/+c（來源卡牌ID:d、來源技能ID:e）",
+      "id": 10116,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：己方每存在一種系別的精靈，在嘲諷、連擊、護盾、強毒和+2/+2中選擇1次",
+      "id": 10117,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "選擇五選一Buff效果後, 在嘲諷、連擊、護盾、強毒和+2/+2中選擇1次",
+      "id": 10118,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "每有一隻己方精靈觸發陣亡效果，使自身和同列a系精靈獲得是否永久(b:1攻擊永久、2:血量永久、3:全部永久)獲得+c/+d",
+      "id": 10119,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "陣亡：使同排a系精靈賦予BUFF(ID(b)，BUFFParam(c))",
+      "id": 10120,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "11",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "同排嘲諷",
+      "id": 10121,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "入場：刷新1次商店，刷新的精靈牌獲得+a/+b",
+      "id": 10122,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "攻擊時若自身與a系精靈相鄰則是否永久(b:1攻擊永久、2:血量永久、3:全部永久)+b/+c",
+      "id": 10123,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可放置",
+      "id": 10124,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可出售",
+      "id": 10125,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可合金",
+      "id": 10126,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "陣亡：隨機獲得a張等級b(0:任意等級\\>0指定等級)的c(0:所有系)系精靈牌(是否當前商店等級及以下(d))",
+      "id": 10127,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店結束時，使己方所有a系精靈獲得+b/+c",
+      "id": 10128,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "11",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：觸發除擁有同BUFF卡外己方a個精靈陣亡效果",
+      "id": 10129,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "保留戰鬥階段獲得的屬性",
+      "id": 10130,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方其他精靈觸發連擊效果時，使其永久獲得+a/+b",
+      "id": 10131,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "己方精靈攻擊時，此時處於戰鬥開始時，己方a系精靈是否永久(b)獲得+c/+d",
+      "id": 10132,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "自身攻擊時，此時處於戰鬥開始時，己方a系精靈永久獲得+b/+c",
+      "id": 10133,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "選擇一隻己方a系精靈，使其獲得b(0:無)回合BUFF(ID(c)，BUFFParam(d))",
+      "id": 10134,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方a系精靈觸發強毒時，自身永久獲得+b/+c",
+      "id": 10135,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時自身攻擊值上升等同於己方同列其他a系精靈攻擊值b倍的數值",
+      "id": 10136,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "出售a系精靈牌時永久獲得+b/+c",
+      "id": 10137,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：刷新1次商店，將商店最左側的1張精靈牌變為商店等級+1的a屬性精靈牌",
+      "id": 10138,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "每次商店階段己方賽爾受到傷害時，是否回溯(a)受到的傷害值，並且使己方生命值最高的b系精靈永久獲得+c/+d",
+      "id": 10139,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：根據己方賽爾已損失的生命值獲得a倍永久攻擊、永久血量",
+      "id": 10140,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，獲得商店所有a系精靈b/2的永久攻擊、永久血量",
+      "id": 10141,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "入場：若己方同列精靈為a系精靈，則將其移除",
+      "id": 10142,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "戰鬥開始時，若相鄰精靈均為a系，則獲得b張法術牌c",
+      "id": 10143,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "戰鬥開始時，若相鄰精靈均為a系，則獲得獲得b(0:無)回合BUFF(ID(c)，BUFFParam(d))",
+      "id": 10144,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方無法攻擊的精靈受到攻擊時，使其獲得+a/+b",
+      "id": 10145,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方無法攻擊的精靈受到攻擊時，自身永久獲得+a/+b",
+      "id": 10146,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，觸發自身陣亡效果a次",
+      "id": 10147,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：選擇商店中1張a系精靈牌，獲得該卡牌並使其獲得連擊",
+      "id": 10148,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，使己方攻擊值最高的a只b(0:所有系)系精靈牌精靈獲得c效果(護盾,連擊)",
+      "id": 10149,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "[攻擊時]本場戰鬥每陣亡1隻[系a:0所有|>0指定]精靈，自身永久獲得+b/+c",
+      "id": 10150,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "[入場]獲得a張法術牌b",
+      "id": 10151,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "13",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "[入場]若右側精靈為a系，則為其附加自身buff和屬性值，並移除自身",
+      "id": 10152,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "[商店結束]獲得a張法術牌b",
+      "id": 10153,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "[死亡]獲得a張法術牌b",
+      "id": 10154,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "[出售]獲得a張法術牌b",
+      "id": 10155,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "[商店結束]隨機獲得a張商店法術牌",
+      "id": 10156,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "[屬性提升]使己方a系精靈獲得+b/+c，排除同名卡(d)",
+      "id": 10157,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "a(0:任意、1:同排、2:相鄰、3:同列)位置己方b(0:任意)系精靈觸發強毒時，自身獲得+c/+d",
+      "id": 10158,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "a(0:任意、1:同排、2:相鄰、3:同列)位置己方b(0:任意)系精靈觸發強毒時，自身獲得c效果(護盾,連擊)",
+      "id": 10159,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "己方a系精靈累計觸發b次入場效果觸發時，獲得c張精靈卡d",
+      "id": 10160,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "攻擊時對對方所有精靈造成a點傷害，若己方無其他精靈，每使用1張b系精靈牌，傷害+c，否則使用該系精靈牌傷害+d",
+      "id": 10161,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "每刷新a次商店，最左側精靈必為b系精靈,商店結束階段清空計數",
+      "id": 10162,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "額外攻擊",
+      "id": 10163,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "戰鬥開始時，若自身與a系精靈相鄰，則獲得b效果(額外攻擊)",
+      "id": 10164,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "陣亡：隨機召喚不超過當期商店等級具有陣亡效果的a只b系精靈，召喚時同名的精靈最多召喚1隻，使其具有原始屬性",
+      "id": 10165,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "己方精靈攻擊時，觸發其陣亡效果",
+      "id": 10166,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方精靈失去護盾後，獲得a張法術牌b",
+      "id": 10167,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "己方精靈失去護盾後，自身獲得+a/+b",
+      "id": 10168,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方a(0:任意)系精靈攻擊時，對b只隨機對方精靈造成c點傷害",
+      "id": 10169,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "己方入場效果觸發時，使位置a(0:任意、1:同排、2:相鄰、3:同列)己方其他b系精靈獲得+c/+d",
+      "id": 10170,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "出售自身時，額外獲得a枚金幣",
+      "id": 10171,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方其他a系精靈攻擊時，使其獲得+b/+c",
+      "id": 10172,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "入場：若己方a系精靈達到b只，招募c張d系精靈牌，(是否當前商店等級及以下(e))",
+      "id": 10173,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店結束時，己方每有1隻a系精靈，則自身永久獲得+b/+c",
+      "id": 10174,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "使用a系精靈牌時，獲得b枚金幣，最多獲得c枚，商店結束階段清空計數",
+      "id": 10175,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "陣亡：使己方隨機a(0:全部)只b系精靈永久獲得+c/+d",
+      "id": 10176,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：招募a張商店法術牌",
+      "id": 10177,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "每消耗a枚金幣，隨機獲得b張c系精靈牌",
+      "id": 10178,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "若上一輪戰鬥a(1勝利 2失敗 3平局)，出售自身可額外獲得b枚金幣",
+      "id": 10179,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "自身屬性提升時，若來自手牌(a)，使同排b系精靈生效核心升級",
+      "id": 10180,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "入場：本局遊戲內己方核心升級效果提升a倍",
+      "id": 10181,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 1
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "受到攻擊時對相鄰的a系精靈使用1張核心升級",
+      "id": 10182,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在場時，從己方手牌中使用的核心升級會額外釋放a次",
+      "id": 10183,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "己方其他精靈屬性提升時，若來自卡牌a，自身獲得+b/+c",
+      "id": 10184,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時，本局遊戲內己方核心升級效果提升a倍，每回合最多提升b次",
+      "id": 10185,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "商店階段結束時，對己方所有a系精靈生效核心升級，自身每有一個關鍵詞，額外生效一次",
+      "id": 10186,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "被視為擁有電系",
+      "id": 10187,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "自身在場時，與其相鄰的精靈均被視為a系精靈",
+      "id": 10188,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：消滅擊敗自身的精靈",
+      "id": 10189,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "商店階段中每消耗a枚金幣，自身永久獲得+b/+c",
+      "id": 10190,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d",
+      "paramDes": "商店階段中每消耗a枚金幣，使己方其他b系精靈永久獲得+c/+d",
+      "id": 10191,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "攻擊時，自身攻擊值變為a倍，自身血量變為b倍",
+      "id": 10192,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "寄生",
+      "id": 10193,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可被偷取",
+      "id": 10194,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "不可被複製",
+      "id": 10195,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "商店階段開始時，額外獲得a枚金幣",
+      "id": 10196,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，若自身與a系精靈相鄰，則自身額外攻擊次數增加b次",
+      "id": 10197,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "召喚a系精靈後，自身獲得效果b",
+      "id": 10198,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "技能和法術牌不可被選中",
+      "id": 10199,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：使同排a(0:任意)系己方精靈獲得護盾",
+      "id": 10200,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "擊敗對手時，使自身永久獲得+a/+b",
+      "id": 10201,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "被視為擁有所有系別(可移除)",
+      "id": 10202,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "自身受到攻擊後使己方a系精靈永久獲得+b/+c",
+      "id": 10203,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c",
+      "paramDes": "戰鬥階段開始時偷取對位精靈的強毒，連擊，護盾，嘲諷中的a個，每偷取一個關鍵詞永久獲得+b/+c",
+      "id": 10204,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "2",
+      "object": "卡牌",
+      "param": "a",
+      "paramDes": "陣亡：對敵方對位精靈造成致死攻擊溢出部分1/a的傷害",
+      "id": 10205,
+      "IsDeathEffect": 1,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b",
+      "paramDes": "自身在場時，己方a系精靈每回合前b次失去強毒時獲得1次強毒",
+      "id": 10206,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "1",
+      "object": "卡牌",
+      "param": "a_b_c_d_e",
+      "paramDes": "卡牌a在場時，使用b系精靈牌後，使己方場上的c系精靈永久獲得+d/+e",
+      "id": 10207,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "獲得a枚金幣",
+      "id": 20001,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "下回合額外獲得a枚金幣",
+      "id": 20002,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "招募一隻等級a的精靈",
+      "id": 20003,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "將一隻精靈屬性值變為a/b",
+      "id": 20004,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "選擇一隻己方精靈，使其獲得+a/+b",
+      "id": 20005,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "招募一隻帶有陣亡效果的精靈",
+      "id": 20006,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "招募一隻帶有入場效果的精靈",
+      "id": 20007,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "隨機獲得a個商店中的精靈",
+      "id": 20008,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c",
+      "paramDes": "隨機使一隻精靈獲得+a/+b，重複c次",
+      "id": 20009,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "使每個系別的各一隻己方精靈獲得+a/+b",
+      "id": 20010,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "隨機使商店中的一隻精靈變為金色",
+      "id": 20011,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "刷新商店，使刷新的卡牌全部變為法術牌",
+      "id": 20012,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "這張法術在手牌中時，每回合會隨機變為一張其他法術牌，法術的等級不超過當前商店等級",
+      "id": 20013,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c",
+      "paramDes": "選擇一隻己方a系精靈，若擁有連擊效果，賦予其b(0:無)回合BUFF(ID(c)，BUFFParam(d))",
+      "id": 20014,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "使商店的精靈在本局遊戲中獲得+a/+b",
+      "id": 20015,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c_d_e",
+      "paramDes": "使己方a系精靈獲得回合屬性+b/+c，每使用一次效果永久+d/+e",
+      "id": 20016,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈將其移除，獲得a枚金幣並隨機使一隻己方精靈獲得其屬性值",
+      "id": 20017,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c_d_e",
+      "paramDes": "獲得a個刷新BUFF(ID(b)，BUFFParam(c,d,e))",
+      "id": 20018,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "選擇1隻己方精靈，使商店刷新1次，這1次刷出的卡牌全部為該系別的精靈牌",
+      "id": 20019,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c_d_e_f",
+      "paramDes": "選擇一隻a(0:所有系)系精靈，使其是否(b)獲得嘲諷，使其是否(c)獲得連擊，使其是否(d)獲得強毒，使其獲得+e/+f",
+      "id": 20020,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "本局遊戲中金幣基準值提高a",
+      "id": 20021,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "商店開始階段，若上一輪戰鬥a(1勝利 2失敗 3平局)，獲得b枚金幣",
+      "id": 20022,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "招募a只己方場上最多存活精靈數系別的精靈",
+      "id": 20023,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c",
+      "paramDes": "選擇一隻己方精靈，對效果a(嘲諷)取反，並使其獲得+b/+c",
+      "id": 20024,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b_c",
+      "paramDes": "【核心升級】選擇一隻己方a系精靈，使其獲得+b/+c",
+      "id": 20025,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a_b",
+      "paramDes": "選擇一隻a系精靈，對其生效b次核心升級後，將與其相鄰的a系精靈的核心升級效果轉移到該精靈上",
+      "id": 20026,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "魔法",
+      "param": "a",
+      "paramDes": "直接獲取商店中所有卡牌（視同購買）",
+      "id": 20027,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，使其獲得護盾",
+      "id": 30001,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "獲得一隻比當前商店等級高1級的精靈",
+      "id": 30002,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，使其變為金色，每局遊戲僅限1次",
+      "id": 30003,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，將其替換為同等級的隨機精靈，每回合限1次",
+      "id": 30004,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "商店階段結束時，使己方每個系別的各一隻精靈獲得等同於其等級的攻擊值和生命值",
+      "id": 30005,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "開局時擁有一隻a/b的精靈牌c",
+      "id": 30006,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "商店階段開始時，第a回合招募b張等級c的精靈牌",
+      "id": 30007,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "商店階段開始時，上回合結束時未使用的金幣進行積累，達到a枚時招募一張等級b的精靈牌，並重置積累金幣數",
+      "id": 30008,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e_f_g_h",
+      "paramDes": "商店階段結束時，使己方隨機a只精靈獲得+b/+c，重複d次，每e回合額外增加+f/+g和額外增加重複h次數",
+      "id": 30009,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e_f",
+      "paramDes": "使用a系精靈時，使其獲得+b/+c，使用d次後額外增加+e/+f",
+      "id": 30010,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e_f",
+      "paramDes": "使用a系精靈時，累計使用達到b張時，賦予己方玩家BUFF(ID(c)，BUFFParam(d,e,f)，並重置累計次數",
+      "id": 30011,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "招募兩張不高於當前商店等級的卡牌，若均為精靈牌，選擇後己方隨機a只精靈獲得+b/+c，若均為法術牌，選擇後商店升級消耗的金幣數量-d",
+      "id": 30012,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "每回合開始時，從兩個新賽爾技能中選擇一個(排除技能a)",
+      "id": 30013,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "每回合開始時，從技能a、技能b、技能c中選擇一個",
+      "id": 30014,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "技能選擇後使己方隨機a只精靈獲得+b/+c，每選擇1次額外獲得+d/+e",
+      "id": 30015,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "戰鬥開始時，隨機使對方a只精靈攻擊值變為b生命值變為c",
+      "id": 30016,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，己方所有精靈獲得+a/+b",
+      "id": 30017,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "每當一個賽爾被擊敗時，偷取招募其陣容中的一隻精靈，保留所有附加效果",
+      "id": 30018,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "消滅對方a只精靈後，獲得技能b",
+      "id": 30019,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，後排最左側和最右側的精靈獲得+a/+b",
+      "id": 30020,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "隨機獲得a張精靈牌，(是否當前商店等級及以下(b))",
+      "id": 30021,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "隨機獲得a張法術牌，(是否當前商店等級及以下(b))",
+      "id": 30022,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "下回合額外獲得a枚金幣",
+      "id": 30023,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "獲得a張魔法牌b",
+      "id": 30024,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "選擇1張商店的精靈牌獲得，將其屬性值變為a/b且c回合內禁止放置、出售、合金",
+      "id": 30025,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "己方必定先手",
+      "id": 30026,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c",
+      "paramDes": "戰鬥開始時，己方最靠a(0:前，1:後)的己方b(0:任意)系精靈獲得c效果(護盾,連擊)",
+      "id": 30027,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "使用a張b系精靈牌後，隨機獲得c張不超過當前商店等級的d系精靈牌（距離觸發：{0}）",
+      "id": 30028,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，使其陣亡效果在下次戰鬥開始時觸發a次",
+      "id": 30029,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "購買精靈牌等級累計達到a級之後，獲得技能b",
+      "id": 30030,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "商店階段開始時，移除場上此技能招募的精靈牌，招募一張非上次選擇的4神獸精靈牌到場上，並為其附加不可合金效果",
+      "id": 30031,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "戰鬥開始a回合後，商店階段開始時，偷取招募一張精靈牌，其中存在一張上一次對戰的對手陣容精靈牌的普通原始複製，選擇正確則獲得該精靈牌，選擇錯誤則無法獲得",
+      "id": 30032,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "購買a張精靈牌後，使己方b{0:所有,非0:隨機}精靈獲得+c/+d（距離觸發：{0}）",
+      "id": 30033,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "刷新1次商店，使商店包含a只比當前商店等級高1級的精靈",
+      "id": 30034,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "戰鬥開始時，己方最靠a(0:前，1:後)的己方b(0:任意)系精靈獲得+c/+d",
+      "id": 30035,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "戰鬥開始時，己方最靠a(0:前，1:後)的己方b(0:任意)系精靈立即發動1次攻擊",
+      "id": 30036,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "放置精靈卡牌入場時，若為a系且位於手牌中位置b(0:最左側，1:最右側)，為其附加BUFF(ID(c)，BUFFParam(d,e,f)",
+      "id": 30037,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "本局遊戲內，刷新商店時，最右側精靈牌為a系精靈牌",
+      "id": 30038,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "免疫致死傷害後獲得a枚金幣",
+      "id": 30039,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "選擇一隻己方精靈，使其獲得+a/+b，每購買c張卡牌後額外獲得+d/+e",
+      "id": 30040,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "受到致死傷害時，免疫該次傷害，全局生效a次",
+      "id": 30041,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，將其出售並獲得其普通原始複製（遊戲開始2回合後可使用）",
+      "id": 30042,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，觸發其入場效果",
+      "id": 30043,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一張商店的精靈牌，獲得該精靈牌並使其屬性值翻倍",
+      "id": 30044,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "第一回合商店階段，招募一張等級a的精靈牌並將其鎖定，無法使用和出售，也不參與任何覺醒，累計消耗b枚金幣後解除鎖定",
+      "id": 30045,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d",
+      "paramDes": "戰鬥開始時，使己方隨機a只精靈從嘲諷、護盾、連擊、強毒中獲得1個隨機關鍵詞，每b回合額外增加c個生效精靈，最高d只",
+      "id": 30046,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "額外擁有a點生命值",
+      "id": 30047,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b",
+      "paramDes": "每累計使用a次技能後，獲得b張不超過當前商店等級覺醒狀態的精靈牌（距離觸發：{0}）",
+      "id": 30048,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a_b_c_d_e",
+      "paramDes": "商店中的精靈牌獲得+a/+b，每購買c張牌，額外增加+d/+e",
+      "id": 30049,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "使用技能時記錄選擇的下一次戰鬥勝者，商店開始階段，若選擇正確，獲得a枚金幣",
+      "id": 30050,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，使其獲得等同於商店等級的攻擊值",
+      "id": 30051,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "選擇一隻己方精靈，使其獲得等同於商店等級的生命值",
+      "id": 30052,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "技能",
+      "param": "a",
+      "paramDes": "非首回合商店開始階段，將當前技能切換為技能a",
+      "id": 30053,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "商店",
+      "param": "a_b_c",
+      "paramDes": "本次刷新次數消耗a，刷新效果：商店刷新出的隨從獲得+b/+c",
+      "id": 40001,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "選擇賽季效果後，商店等級升級至a級，刷新牌的數量固定為5張",
+      "id": 50001,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "選擇賽季效果後，變更指定BUFF(a)的參數個數(b)的多個變化訊息(變化位置_變化類型(1:設置、2:增加、3:加倍)_變化數字)並刪除本效果",
+      "id": 50041,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，被鎖定在商店中的精靈牌獲得+a/+b",
+      "id": 50042,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "商店階段結束時，若商店中有被鎖定的精靈牌，己方場上隨機a只精靈獲得+b/+c",
+      "id": 50043,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "每個商店階段前a次購買被鎖定的精靈牌價格減少b枚金幣",
+      "id": 50044,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "商店階段開始時，根據你當前的連勝或連敗場數獲得金幣：連勝/連敗至少a次，最大b次，獲得連勝/連敗數+c枚金幣",
+      "id": 50045,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "商店階段開始時，若上場戰鬥連勝或連敗被終結時達到a場，則隨機獲得b張當前商店等級的c(0:所有系)系精靈牌",
+      "id": 50046,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，己方場上每有一種不同等級的精靈牌，己方場上所有精靈獲得+a/+b",
+      "id": 50047,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d_e_f",
+      "paramDes": "商店階段結束時，己方場上等級1的精靈獲得+a/+b，等級2的精靈獲得+c/+d，等級3的精靈獲得+e/+f",
+      "id": 50048,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "選擇賽季效果後，立刻獲得a張魔法牌b",
+      "id": 50049,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "出售時，等級低於當前商店等級的精靈牌時，額外獲得a枚金幣，每次商店階段最多觸發b次",
+      "id": 50050,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，你每使用1枚金幣，你場上隨機1隻精靈獲得+a/+b",
+      "id": 50051,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "商店階段開始時，第a回合獲得b張魔法牌c",
+      "id": 50052,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "出售時，所出售的精靈牌帶有Buff(a)，獲得b張魔法牌c",
+      "id": 50053,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d",
+      "paramDes": "戰鬥開始時，帶有Buff(a)標記的己方精靈，會抽取其鏡像對稱位置的敵方精靈b%的當前屬性（是否永久保留c）是否移除（d）被抽取的敵方精靈持有的嘲諷、護盾、連擊、強毒效果",
+      "id": 50054,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "選擇賽季效果後，已獲得BuffID(a)的精靈立刻獲得BuffID(b)BuffParam(c)(無法重複獲得)",
+      "id": 50055,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d",
+      "paramDes": "使用法術牌時，所使用的是法術牌a，則對應卡牌獲得BuffID(b)BuffParam(c),並且是否獲得強毒(d)",
+      "id": 50056,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "商店階段結束時，被鎖定在商店中的精靈牌從嘲諷、護盾、連擊、強毒中獲得a個隨機關鍵詞",
+      "id": 50057,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "擊敗對方精靈時，如果精靈牌帶有Buff(a)並首次擊敗對方精靈，獲得b張魔法牌c",
+      "id": 50058,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "購買後，如果所購買的精靈牌被鎖定，則把這張牌上通過BUFF(a)獲得的額外屬性值附加給己方場上的隨機(b)只精靈",
+      "id": 50059,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "刷新商店時，消耗a點生命值",
+      "id": 50060,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "遊戲開始時，賽爾的初始生命值額外增加a點",
+      "id": 50061,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d_e",
+      "paramDes": "選擇賽季效果後，降低a點生命值，最多降低至1點，每降低1點生命值獲得b枚金幣，使己方場上所有精靈獲得+c/+d，並且刪除賽季BUFF(e)",
+      "id": 50062,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "刷新商店後，使己方場上所有精靈獲得+a/+b",
+      "id": 50063,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "刷新卡牌時，商店中的所有精靈在本局遊戲中獲得+a/+b",
+      "id": 50064,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "戰鬥開始前，玩家遊戲開始時生命值與當前生命值的差值，除以a獲得的次數，使己方場上精靈獲得這個次數的+a/+b",
+      "id": 50065,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "戰鬥開始前，對對方場上所有精靈造成己方本局遊戲累計刷新商店次數的傷害",
+      "id": 50066,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "購買後，如果是前a次購買，則額外獲得b張該牌的未覺醒卡牌",
+      "id": 50067,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "購買後，永久觸發a次額外獲得b張該牌的未覺醒卡牌",
+      "id": 50068,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "商店階段結束時，若己方手牌和場上存在同樣的精靈卡，則己方場上所有精靈獲得+a/+b",
+      "id": 50069,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "出售時，若所出售的精靈牌在手牌和場上沒有與該牌同名的精靈牌(覺醒和非覺醒)，則額外獲得a枚金幣，每次商店階段最多觸發b次",
+      "id": 50070,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "使用法術牌時，若使用卡牌是覺醒獎勵法術牌，則當前商店升級需要的金幣數量減少a枚",
+      "id": 50071,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "使用法術牌時，若使用卡牌是覺醒獎勵法術牌，則己方場上所有精靈獲得+a/+b",
+      "id": 50072,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "遊戲開始時，前排最左側和最右側位置變為【沃土】，初始養分計數為1",
+      "id": 50073,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "商店階段結束時，位於【沃土】的精靈永久獲得等同於養分層數的屬性",
+      "id": 50074,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d_e",
+      "paramDes": "戰鬥結束時，戰鬥中是否包含己方(a)和是否包含對方(b)的總數量，按c倍計算後，每d只，養分計數+e",
+      "id": 50075,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "商店階段結束時，與【沃土】相鄰的普通位置的精靈，也會吸收養分並獲得a%的屬性加成(向下取整，最低為1)",
+      "id": 50076,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "商店階段開始時，場上每有1種不同系別的精靈，養分計數+a",
+      "id": 50077,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "選擇賽季效果後，後排最左側和最右側位置也變為【沃土】",
+      "id": 50078,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "戰鬥開始前，位於【沃土】上的精靈，被視為擁有所有系別，免疫除攻擊傷害之外的所有傷害",
+      "id": 50079,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "精靈陣亡時，所陣亡的精靈是己方等級a及以下的，將其額外屬性值附加給己方場上等級最高的精靈",
+      "id": 50080,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "刷新卡牌時，下a次刷新的精靈牌等級必定各不相同的精靈牌",
+      "id": 50081,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "精靈陣亡時，所陣亡的精靈是己方前排精靈，若其等級低於己方場上等級最高的精靈，則使該最高等級精靈立刻發動1次攻擊",
+      "id": 50082,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a",
+      "paramDes": "選擇賽季效果後，本局遊戲升級商店的金幣數量減少a枚，最低降為0",
+      "id": 50083,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "遊戲開始時，棋盤上有a張精靈牌b",
+      "id": 50084,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "升級商店時，精靈卡牌a獲得+b/+c",
+      "id": 50085,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "商店階段開始時，精靈卡牌a獲得+b/+c",
+      "id": 50086,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "商店階段開始時，若精靈卡牌a在場上，獲得b枚金幣",
+      "id": 50087,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d",
+      "paramDes": "商店階段結束時，若己方沒有精靈卡牌a，則己方隨機b只精靈獲得+c/+d",
+      "id": 50088,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "選擇賽季效果後，如果棋盤上有精靈卡牌a，則刪除該卡牌，並召喚1張精靈卡牌b，屬性值是精靈卡牌a的屬性的c%",
+      "id": 50089,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c_d_e_f_g_h",
+      "paramDes": "刷新商店時，使商店中隨機a張精靈牌永久獲得+b/+c，其中d張為場上精靈最多的系別，每刷新e次，獲得的屬性值額外增加+f/+g，每刷新h次，所有精靈牌均獲得加成",
+      "id": 50090,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b_c",
+      "paramDes": "購買精靈牌時，若卡牌有來自BuffID(a)的額外屬性值，則獲得b枚金幣，每回合最多觸發c次",
+      "id": 50091,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    },
+    {
+      "effectIcon": "",
+      "object": "賽季效果",
+      "param": "a_b",
+      "paramDes": "購買精靈牌後，將牌上通過BUFF(a)獲得的額外屬性值附加給己方場上的隨機(b)只精靈",
+      "id": 50092,
+      "IsDeathEffect": 0,
+      "IsPlaceEffect": 0
+    }
+  ]
+}

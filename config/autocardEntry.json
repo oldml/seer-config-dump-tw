@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "entrycontent": "高分陣容",
+      "type": "1",
+      "id": 1
+    },
+    {
+      "entrycontent": "適合新手",
+      "type": "2",
+      "id": 2
+    },
+    {
+      "entrycontent": "高手進階",
+      "type": "2",
+      "id": 3
+    },
+    {
+      "entrycontent": "趣味娛樂",
+      "type": "2",
+      "id": 4
+    }
+  ]
+}

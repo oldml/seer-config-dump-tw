@@ -1362,11 +1362,311 @@
     },
     {
       "emoji": "",
+      "initialposition": "-87.5,-113.4",
+      "name": "春節紐斯",
+      "portrait": "news_spring_fg",
+      "CharacterID": 10002,
+      "id": 137,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
       "initialposition": "",
-      "name": "小蕃薯呀米",
-      "portrait": "fsbbym_fg",
-      "CharacterID": 9000,
-      "id": 1000,
+      "name": "利牙魚玩偶",
+      "portrait": "gangyasha_liyayu_fg",
+      "CharacterID": 10010,
+      "id": 138,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "利利玩偶",
+      "portrait": "cscjingling8_fg",
+      "CharacterID": 10011,
+      "id": 139,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "依依玩偶",
+      "portrait": "cscjingling1_fg",
+      "CharacterID": 10012,
+      "id": 140,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "果凍鴨玩偶",
+      "portrait": "cscjingling9_fg",
+      "CharacterID": 10013,
+      "id": 141,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "凱拉利玩偶",
+      "portrait": "cscjingling6_fg",
+      "CharacterID": 10014,
+      "id": 142,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "瑞克玩偶",
+      "portrait": "cscjingling4_fg",
+      "CharacterID": 10015,
+      "id": 143,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "吉寶玩偶",
+      "portrait": "cscjingling2_fg",
+      "CharacterID": 10016,
+      "id": 144,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "迪達玩偶",
+      "portrait": "dida_fg",
+      "CharacterID": 10017,
+      "id": 145,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "魯克玩偶",
+      "portrait": "cscjingling7_fg",
+      "CharacterID": 10018,
+      "id": 146,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "神秘的花燈馬",
+      "portrait": "cschuadeng_fg",
+      "CharacterID": 10019,
+      "id": 147,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "阿拿拿",
+      "portrait": "ann_fg",
+      "CharacterID": 99,
+      "id": 148,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "記憶水晶",
+      "portrait": "sinnermind_fg",
+      "CharacterID": 100,
+      "id": 149,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "啟迪者S451",
+      "portrait": "qdz2_fg",
+      "CharacterID": 101,
+      "id": 150,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "b12_02",
+      "initialposition": "0,-115",
+      "name": "反抗軍線人",
+      "portrait": "b12_fg",
+      "CharacterID": 102,
+      "id": 151,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "守衛機器人",
+      "portrait": "borucanpc1_fg",
+      "CharacterID": 103,
+      "id": 152,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "聖僕",
+      "portrait": "acolyte_fg",
+      "CharacterID": 104,
+      "id": 153,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "xmn_01",
+      "initialposition": "",
+      "name": "西蒙妮",
+      "portrait": "xmn_fg",
+      "CharacterID": 105,
+      "id": 154,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "twy_01",
+      "initialposition": "",
+      "name": "特維耶",
+      "portrait": "twy_fg",
+      "CharacterID": 106,
+      "id": 155,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "servitor1_01",
+      "initialposition": "",
+      "name": "反抗軍",
+      "portrait": "servitor1_fg",
+      "CharacterID": 107,
+      "id": 156,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "勇敢的小孩",
+      "portrait": "aplstudenta_fg",
+      "CharacterID": 108,
+      "id": 157,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "aplnpcb_02",
+      "initialposition": "",
+      "name": "艾琳",
+      "portrait": "aplnpcb_fg",
+      "CharacterID": 109,
+      "id": 158,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "迪利吉",
+      "portrait": "dlj_fg",
+      "CharacterID": 4892,
+      "id": 159,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "阿西列維",
+      "portrait": "axlw_fg",
+      "CharacterID": 4906,
+      "id": 160,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "神秘的聲音",
+      "portrait": "shadow_fg",
+      "CharacterID": 110,
+      "id": 161,
+      "scale": 1,
+      "silhouette": 1
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "夏哆",
+      "portrait": "shadow_fg",
+      "CharacterID": 4913,
+      "id": 161,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "drmilo_01",
+      "initialposition": "",
+      "name": "米羅博士",
+      "portrait": "drmilo_fg",
+      "CharacterID": 4925,
+      "id": 161,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "噗紐",
+      "portrait": "puniu_fg",
+      "CharacterID": 111,
+      "id": 162,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "",
+      "name": "戈拉",
+      "portrait": "gela_fg",
+      "CharacterID": 3598,
+      "id": 165,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "-32,-131",
+      "name": "墟婆",
+      "portrait": "xupo_fg",
+      "CharacterID": 4922,
+      "id": 166,
+      "scale": 1,
+      "silhouette": 0
+    },
+    {
+      "emoji": "",
+      "initialposition": "0,-71",
+      "name": "若蘭",
+      "portrait": "ruolan_fg",
+      "CharacterID": 4916,
+      "id": 167,
       "scale": 1,
       "silhouette": 0
     }

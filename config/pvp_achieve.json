@@ -1,33 +1,33 @@
 {
   "data": [
     {
-      "describe": "玩家在S9賽季競技/狂野模式中首次達到猛將段位",
-      "rewardinfo": "1460_165_33",
-      "title": "S9賽季猛將",
+      "describe": "玩家在S11賽季競技/狂野模式中首次達到猛將段位",
+      "rewardinfo": "1506_174_9",
+      "title": "S11賽季猛將",
       "foreverType": 1,
       "id": 1,
       "value": 1
     },
     {
-      "describe": "玩家在S9賽季競技/狂野模式中首次達到天驕段位",
-      "rewardinfo": "1461_165_34",
-      "title": "S9賽季天驕",
+      "describe": "玩家在S11賽季競技/狂野模式中首次達到天驕段位",
+      "rewardinfo": "1507_174_10",
+      "title": "S11賽季天驕",
       "foreverType": 1,
       "id": 2,
       "value": 2
     },
     {
-      "describe": "玩家在S9賽季競技/狂野模式中首次達到王者段位",
-      "rewardinfo": "1462_165_35",
-      "title": "S9賽季王者",
+      "describe": "玩家在S11賽季競技/狂野模式中首次達到王者段位",
+      "rewardinfo": "1508_174_11",
+      "title": "S11賽季王者",
       "foreverType": 1,
       "id": 3,
       "value": 3
     },
     {
-      "describe": "玩家在S9賽季競技/狂野模式中首次達到聖皇段位",
-      "rewardinfo": "1463_165_36",
-      "title": "S9賽季聖皇",
+      "describe": "玩家在S11賽季競技/狂野模式中首次達到聖皇段位",
+      "rewardinfo": "1509_174_12",
+      "title": "S11賽季聖皇",
       "foreverType": 1,
       "id": 4,
       "value": 4

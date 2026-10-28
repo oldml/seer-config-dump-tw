@@ -750,6 +750,126 @@
         "monster": 3524,
         "moves": 38076,
         "movetype": 1
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "酣膽素心",
+        "id": 10077,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 28910,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "穹貫",
+        "id": 10078,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37691,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "囂塵兩袖卻",
+        "id": 10079,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37692,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "浩瀚一竿憑",
+        "id": 10080,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3729,
+        "moves": 37693,
+        "movetype": 1
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "繁囂此寂",
+        "id": 10081,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 29299,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "萬籟悅性",
+        "id": 10082,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38317,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "王·鸞歌餘音",
+        "id": 10083,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38318,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "王·聖語空心",
+        "id": 10084,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3711,
+        "moves": 38319,
+        "movetype": 1
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "雷之脈動",
+        "id": 10085,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3407,
+        "moves": 29361,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "雲燁竭天",
+        "id": 10086,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3407,
+        "moves": 38407,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "王·祭煉昭灼",
+        "id": 10087,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3407,
+        "moves": 38408,
+        "movetype": 2
+      },
+      {
+        "itemname": "完成精靈覺醒",
+        "movesname": "王·焚罡九虺",
+        "id": 10088,
+        "item": 0,
+        "itemnumber": 0,
+        "monster": 3407,
+        "moves": 38409,
+        "movetype": 1
       }
     ],
     "SpMoves": [
@@ -1745,7 +1865,7 @@
       },
       {
         "itemname": "墮妖面",
-        "movesname": "逝面真唁",
+        "movesname": "萬妖挽",
         "id": 99,
         "item": 1727668,
         "itemnumber": 1,
@@ -1802,6 +1922,276 @@
         "monster": 4863,
         "moves": 38261,
         "movetype": 1
+      },
+      {
+        "itemname": "斑駁之骨",
+        "movesname": "神威浩蕩",
+        "id": 105,
+        "item": 1727839,
+        "itemnumber": 1,
+        "monster": 3442,
+        "moves": 29283,
+        "movetype": 2
+      },
+      {
+        "itemname": "無面之疚",
+        "movesname": "神諭淨世",
+        "id": 106,
+        "item": 1727840,
+        "itemnumber": 1,
+        "monster": 3446,
+        "moves": 29284,
+        "movetype": 2
+      },
+      {
+        "itemname": "霜焱之諦",
+        "movesname": "日月輪·著天",
+        "id": 107,
+        "item": 1727841,
+        "itemnumber": 1,
+        "monster": 4657,
+        "moves": 38296,
+        "movetype": 1
+      },
+      {
+        "itemname": "死海之錮",
+        "movesname": "煉·死鏡冥啼",
+        "id": 108,
+        "item": 1727842,
+        "itemnumber": 1,
+        "monster": 3907,
+        "moves": 38295,
+        "movetype": 1
+      },
+      {
+        "itemname": "地葬神頌",
+        "movesname": "蒼籠塵井",
+        "id": 109,
+        "item": 1727843,
+        "itemnumber": 1,
+        "monster": 4024,
+        "moves": 38294,
+        "movetype": 2
+      },
+      {
+        "itemname": "丹心影",
+        "movesname": "天駁百洲禁",
+        "id": 110,
+        "item": 1727966,
+        "itemnumber": 1,
+        "monster": 4354,
+        "moves": 38348,
+        "movetype": 1
+      },
+      {
+        "itemname": "平衡裝置",
+        "movesname": "極影繪風嵐",
+        "id": 111,
+        "item": 1727994,
+        "itemnumber": 1,
+        "monster": 4358,
+        "moves": 38358,
+        "movetype": 1
+      },
+      {
+        "itemname": "燃火手指",
+        "movesname": "霆輝燼天野",
+        "id": 112,
+        "item": 1727995,
+        "itemnumber": 1,
+        "monster": 4332,
+        "moves": 38357,
+        "movetype": 1
+      },
+      {
+        "itemname": "奧法魔刃",
+        "movesname": "朧月黑甜",
+        "id": 113,
+        "item": 1727996,
+        "itemnumber": 1,
+        "monster": 3870,
+        "moves": 29329,
+        "movetype": 2
+      },
+      {
+        "itemname": "狂蠻之角",
+        "movesname": "古神長嚎",
+        "id": 114,
+        "item": 1727997,
+        "itemnumber": 1,
+        "monster": 3971,
+        "moves": 38356,
+        "movetype": 2
+      },
+      {
+        "itemname": "夜囈之鏡",
+        "movesname": "零時誑語",
+        "id": 115,
+        "item": 1727998,
+        "itemnumber": 1,
+        "monster": 3491,
+        "moves": 29330,
+        "movetype": 2
+      },
+      {
+        "itemname": "不逝狂念",
+        "movesname": "夜·天魔逆相",
+        "id": 116,
+        "item": 1728013,
+        "itemnumber": 1,
+        "monster": 3541,
+        "moves": 38372,
+        "movetype": 1
+      },
+      {
+        "itemname": "滅神魔石",
+        "movesname": "混沌邪魂祭",
+        "id": 117,
+        "item": 1728014,
+        "itemnumber": 1,
+        "monster": 3791,
+        "moves": 38370,
+        "movetype": 1
+      },
+      {
+        "itemname": "朽念龍鱗",
+        "movesname": "禍龑煌啼",
+        "id": 118,
+        "item": 1728015,
+        "itemnumber": 1,
+        "monster": 3575,
+        "moves": 29338,
+        "movetype": 2
+      },
+      {
+        "itemname": "撕雷之牙",
+        "movesname": "寂·妖朧天鳴",
+        "id": 119,
+        "item": 1728016,
+        "itemnumber": 1,
+        "monster": 3924,
+        "moves": 38371,
+        "movetype": 1
+      },
+      {
+        "itemname": "瀚海神頌",
+        "movesname": "逆浪分洲",
+        "id": 120,
+        "item": 1728017,
+        "itemnumber": 1,
+        "monster": 4030,
+        "moves": 29337,
+        "movetype": 2
+      },
+      {
+        "itemname": "月鬼面",
+        "movesname": "月·天囚影",
+        "id": 121,
+        "item": 1728246,
+        "itemnumber": 1,
+        "monster": 4147,
+        "moves": 38437,
+        "movetype": 1
+      },
+      {
+        "itemname": "御世八芒",
+        "movesname": "繁蒼解道",
+        "id": 122,
+        "item": 1728275,
+        "itemnumber": 1,
+        "monster": 3549,
+        "moves": 29392,
+        "movetype": 2
+      },
+      {
+        "itemname": "月淬之墜",
+        "movesname": "隱華截生",
+        "id": 123,
+        "item": 1728276,
+        "itemnumber": 1,
+        "monster": 4114,
+        "moves": 38453,
+        "movetype": 2
+      },
+      {
+        "itemname": "咎者焚卷",
+        "movesname": "魂·罪惡支骸",
+        "id": 124,
+        "item": 1728277,
+        "itemnumber": 1,
+        "monster": 3847,
+        "moves": 38455,
+        "movetype": 1
+      },
+      {
+        "itemname": "熔碑之淚",
+        "movesname": "邪·天壤殘火",
+        "id": 125,
+        "item": 1728278,
+        "itemnumber": 1,
+        "monster": 3979,
+        "moves": 38456,
+        "movetype": 1
+      },
+      {
+        "itemname": "燃輝之冠",
+        "movesname": "天破百戰",
+        "id": 126,
+        "item": 1728279,
+        "itemnumber": 1,
+        "monster": 4216,
+        "moves": 38454,
+        "movetype": 2
+      },
+      {
+        "itemname": "英靈之鏡",
+        "movesname": "流弧幻跡",
+        "id": 127,
+        "item": 1728292,
+        "itemnumber": 1,
+        "monster": 4184,
+        "moves": 38461,
+        "movetype": 2
+      },
+      {
+        "itemname": "星佔之眼",
+        "movesname": "魂源噓古",
+        "id": 128,
+        "item": 1728293,
+        "itemnumber": 1,
+        "monster": 4187,
+        "moves": 29399,
+        "movetype": 2
+      },
+      {
+        "itemname": "壞世歧角",
+        "movesname": "八歧壞世",
+        "id": 129,
+        "item": 1728294,
+        "itemnumber": 1,
+        "monster": 3814,
+        "moves": 29400,
+        "movetype": 2
+      },
+      {
+        "itemname": "煥生之痴",
+        "movesname": "神恩永懷",
+        "id": 130,
+        "item": 1728295,
+        "itemnumber": 1,
+        "monster": 3455,
+        "moves": 29401,
+        "movetype": 2
+      },
+      {
+        "itemname": "雙源魂蒂",
+        "movesname": "黃泉妖偈",
+        "id": 131,
+        "item": 1728296,
+        "itemnumber": 1,
+        "monster": 3488,
+        "moves": 29402,
+        "movetype": 2
       }
     ]
   }

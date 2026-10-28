@@ -468,6 +468,51 @@
       {
         "MintMark": [
           {
+            "Des": "古堡記憶·獵魔",
+            "exchangeId": 0,
+            "ID": 42458,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡記憶·蝶語",
+            "exchangeId": 0,
+            "ID": 42459,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡記憶·入夢",
+            "exchangeId": 0,
+            "ID": 42460,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡記憶·煉獄",
+            "exchangeId": 0,
+            "ID": 42461,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
+            "Des": "古堡記憶·幻獸",
+            "exchangeId": 0,
+            "ID": 42462,
+            "Level": 4,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 3
+          },
+          {
             "Des": "焰火·萬木蒼翠",
             "exchangeId": 0,
             "ID": 42153,
@@ -618,7 +663,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "異元之銘·陣",
@@ -627,7 +672,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "異元之銘·極",
@@ -636,7 +681,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "異元之銘·破",
@@ -645,7 +690,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "異元之銘·墮",
@@ -654,7 +699,7 @@
             "Level": 4,
             "maxNum": 0,
             "price": 0,
-            "puton": 2
+            "puton": 3
           },
           {
             "Des": "聖·虛無",
@@ -2154,6 +2199,96 @@
             "maxNum": 0,
             "price": 0,
             "puton": 0
+          },
+          {
+            "Des": "月光·靈羽風暴",
+            "exchangeId": 0,
+            "ID": 42269,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月光·閃耀祝福",
+            "exchangeId": 0,
+            "ID": 42270,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月影·幽冥疾行",
+            "exchangeId": 0,
+            "ID": 42271,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "月影·暗魂詛咒",
+            "exchangeId": 0,
+            "ID": 42272,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "地葬印記",
+            "exchangeId": 0,
+            "ID": 41959,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "瀚海印記",
+            "exchangeId": 0,
+            "ID": 41960,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "天玄印記",
+            "exchangeId": 0,
+            "ID": 41961,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "幻境印記",
+            "exchangeId": 0,
+            "ID": 41962,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "時空印記",
+            "exchangeId": 0,
+            "ID": 41963,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
+          },
+          {
+            "Des": "混沌印記",
+            "exchangeId": 0,
+            "ID": 41964,
+            "Level": 3,
+            "maxNum": 0,
+            "price": 0,
+            "puton": 0
           }
         ],
         "Level": 3
@@ -3178,78 +3313,6 @@
           "maxNum": 2,
           "price": 300,
           "puton": 1
-        },
-        {
-          "Des": "窮奇之邪",
-          "exchangeId": 13268,
-          "ID": 42046,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "窮奇之魅",
-          "exchangeId": 13269,
-          "ID": 42047,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "檮杌之狂",
-          "exchangeId": 13270,
-          "ID": 42048,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "檮杌之傲",
-          "exchangeId": 13271,
-          "ID": 42049,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "饕餮之吞",
-          "exchangeId": 13272,
-          "ID": 42050,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "饕餮之噬",
-          "exchangeId": 13273,
-          "ID": 42051,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "混沌之隱",
-          "exchangeId": 13274,
-          "ID": 42052,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
-        },
-        {
-          "Des": "混沌之匿",
-          "exchangeId": 13275,
-          "ID": 42053,
-          "Level": 5,
-          "maxNum": 1,
-          "price": 500,
-          "puton": 2
         }
       ],
       "name": "商店",

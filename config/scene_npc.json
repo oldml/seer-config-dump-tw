@@ -4940,10 +4940,10 @@
     },
     {
       "name": "春節紐斯",
-      "pic": "10001",
-      "triggerinfo": "",
+      "pic": "10002",
+      "triggerinfo": "npc_springnews",
       "FuncParam": [
-        629
+        767
       ],
       "bit": 0,
       "FuncParamSpecial": 0,
@@ -4956,21 +4956,21 @@
       "scaleY": 0.7
     },
     {
-      "name": "小蕃薯呀米",
-      "pic": "20000",
+      "name": "B-12",
+      "pic": "4890",
       "triggerinfo": "",
       "FuncParam": [
-        10000
+        834
       ],
       "bit": 0,
       "FuncParamSpecial": 0,
       "FuncType": 3,
-      "id": 9000,
+      "id": 305,
       "modelType": 0,
       "offsetX": 0,
       "offsetY": 0,
-      "scaleX": 0.3,
-      "scaleY": 0.3
+      "scaleX": 0.7,
+      "scaleY": 0.7
     }
   ]
 }

@@ -1,6 +1,138 @@
 {
   "items": [
     {
+      "Name": "金輝魚糧袋",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400174,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "紫晶魚糧袋",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400173,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "藍海魚糧袋",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400172,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "綠潮魚糧袋",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400171,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "海風魚糧袋",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400170,
+      "Max": 9999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "書籤",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400169,
+      "Max": 1000,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "金幣",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400168,
+      "Max": 999999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "螺絲",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400167,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "彈簧",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400166,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "齒輪",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400165,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
+      "Name": "木板",
+      "Bean": 0,
+      "catID": 14,
+      "Hide": 1,
+      "ID": 1400164,
+      "Max": 999,
+      "purpose": 0,
+      "Rarity": 2,
+      "Sort": 31,
+      "wd": 1
+    },
+    {
       "Name": "賽爾豆高仿版",
       "Bean": 0,
       "catID": 14,
@@ -8,7 +140,7 @@
       "ID": 1400163,
       "Max": 99999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -20,7 +152,7 @@
       "ID": 1400162,
       "Max": 99999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -32,7 +164,7 @@
       "ID": 1400161,
       "Max": 9999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -44,7 +176,7 @@
       "ID": 1400160,
       "Max": 999,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -56,7 +188,7 @@
       "ID": 1400159,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -68,7 +200,7 @@
       "ID": 1400158,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },
@@ -80,7 +212,7 @@
       "ID": 1400157,
       "Max": 99,
       "purpose": 0,
-      "Rarity": 1,
+      "Rarity": 2,
       "Sort": 31,
       "wd": 1
     },

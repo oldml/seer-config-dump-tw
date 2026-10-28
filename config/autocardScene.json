@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "bookresouce": "map2",
+      "des": "默認獲取",
+      "name": "群星之弈",
+      "resource": "DefaultCombatBoard",
+      "tag": "1_經典場景",
+      "id": 1,
+      "rarity": 1,
+      "stat": -1214218279
+    },
+    {
+      "bookresouce": "map1",
+      "des": "活動獲取",
+      "name": "蒂朵來襲",
+      "resource": "Didoscene",
+      "tag": "2_活動限定",
+      "id": 2,
+      "rarity": 2,
+      "stat": -1214218278
+    }
+  ]
+}

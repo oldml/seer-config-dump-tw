@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "describe": "登錄遊戲",
+      "exp": 100,
+      "id": 1,
+      "rewardbit": 1,
+      "rewarduserinfo": 203320,
+      "time": 1,
+      "userinfo": 203311,
+      "value": 1
+    },
+    {
+      "describe": "完成1場群星牌對局",
+      "exp": 100,
+      "id": 2,
+      "rewardbit": 2,
+      "rewarduserinfo": 203320,
+      "time": 1,
+      "userinfo": 203312,
+      "value": 1
+    },
+    {
+      "describe": "完成2場群星牌對局",
+      "exp": 100,
+      "id": 3,
+      "rewardbit": 3,
+      "rewarduserinfo": 203320,
+      "time": 1,
+      "userinfo": 203312,
+      "value": 2
+    },
+    {
+      "describe": "完成3場群星牌對局",
+      "exp": 200,
+      "id": 4,
+      "rewardbit": 4,
+      "rewarduserinfo": 203320,
+      "time": 1,
+      "userinfo": 203312,
+      "value": 3
+    },
+    {
+      "describe": "完成10場群星牌對局",
+      "exp": 1000,
+      "id": 101,
+      "rewardbit": 1,
+      "rewarduserinfo": 20739,
+      "time": 2,
+      "userinfo": 20731,
+      "value": 10
+    },
+    {
+      "describe": "以前四名的成績完成5場群星牌",
+      "exp": 500,
+      "id": 102,
+      "rewardbit": 2,
+      "rewarduserinfo": 20739,
+      "time": 2,
+      "userinfo": 20732,
+      "value": 5
+    },
+    {
+      "describe": "以前四名的成績完成10場群星牌",
+      "exp": 1000,
+      "id": 103,
+      "rewardbit": 3,
+      "rewarduserinfo": 20739,
+      "time": 2,
+      "userinfo": 20732,
+      "value": 10
+    },
+    {
+      "describe": "淘汰10名對手",
+      "exp": 500,
+      "id": 104,
+      "rewardbit": 4,
+      "rewarduserinfo": 20739,
+      "time": 2,
+      "userinfo": 20733,
+      "value": 10
+    },
+    {
+      "describe": "覺醒卡牌達到50次",
+      "exp": 500,
+      "id": 105,
+      "rewardbit": 5,
+      "rewarduserinfo": 20739,
+      "time": 2,
+      "userinfo": 20734,
+      "value": 50
+    },
+    {
+      "describe": "領取30次集卡冊升級獎勵",
+      "exp": 1000,
+      "id": 1001,
+      "rewardbit": 1,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401381,
+      "value": 30
+    },
+    {
+      "describe": "領取60次集卡冊升級獎勵",
+      "exp": 1000,
+      "id": 1002,
+      "rewardbit": 2,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401381,
+      "value": 60
+    },
+    {
+      "describe": "領取90次集卡冊升級獎勵",
+      "exp": 2000,
+      "id": 1003,
+      "rewardbit": 3,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401381,
+      "value": 90
+    },
+    {
+      "describe": "新獲得1款卡牌皮膚",
+      "exp": 1000,
+      "id": 1004,
+      "rewardbit": 4,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401382,
+      "value": 1
+    },
+    {
+      "describe": "新獲得1個小小精靈",
+      "exp": 1000,
+      "id": 1005,
+      "rewardbit": 5,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401383,
+      "value": 1
+    },
+    {
+      "describe": "完成1次三連勝",
+      "exp": 1000,
+      "id": 1006,
+      "rewardbit": 6,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401384,
+      "value": 1
+    },
+    {
+      "describe": "精靈卡牌屬性最大值高於200",
+      "exp": 1000,
+      "id": 1007,
+      "rewardbit": 7,
+      "rewarduserinfo": 401390,
+      "time": 4,
+      "userinfo": 401385,
+      "value": 1
+    }
+  ]
+}
