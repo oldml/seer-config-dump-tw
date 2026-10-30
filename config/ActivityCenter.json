@@ -2093,8 +2093,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_08_08 10:00:00",
-      "ending": "2025_08_15 10:00:00",
+      "beginning": "2026_10_14 14:00:00",
+      "ending": "2026_11_04 14:00:00",
       "labelName": "豪行江湖",
       "name": "jiangHuSkinSell",
       "channel": 0,
@@ -2105,7 +2105,7 @@
       "isShow": 1,
       "redbadge": 80,
       "signType": 1,
-      "sorting": 1,
+      "sorting": 2,
       "type": 1
     },
     {

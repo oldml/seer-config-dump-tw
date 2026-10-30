@@ -9976,42 +9976,6 @@
       {
         "Go": "",
         "GoType": "",
-        "Name": "齊天大聖·孫悟空",
-        "SkinKind": [
-          {
-            "ID": 1,
-            "LifeTime": 0,
-            "SkinType": 0,
-            "Type": 2,
-            "Year": 0
-          }
-        ],
-        "ID": 556,
-        "Jumptarget": 0,
-        "MonID": 4524,
-        "Type": 3
-      },
-      {
-        "Go": "",
-        "GoType": "",
-        "Name": "降魔神君·二郎神",
-        "SkinKind": [
-          {
-            "ID": 1,
-            "LifeTime": 0,
-            "SkinType": 0,
-            "Type": 2,
-            "Year": 0
-          }
-        ],
-        "ID": 557,
-        "Jumptarget": 0,
-        "MonID": 4525,
-        "Type": 3
-      },
-      {
-        "Go": "",
-        "GoType": "",
         "Name": "徘徊之碑·邪惡魔神",
         "SkinKind": [
           {
