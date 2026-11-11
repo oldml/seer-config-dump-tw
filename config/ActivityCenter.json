@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_11_04 14:00:00",
-      "ending": "2026_11_11 14:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_11_18 14:00:00",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -2603,8 +2603,8 @@
     },
     {
       "args": "Assets/Game/UI/PeakAssemblySaleEnterPanel/PeakAssemblySaleEnterPanel.prefab",
-      "beginning": "2025_09_05 10:00:00",
-      "ending": "2025_09_12 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_11_25 14:00:00",
       "labelName": "往期巔峰精靈",
       "name": "PeakAssemblySale",
       "channel": 0,
@@ -2671,8 +2671,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_12 10:00:00",
-      "ending": "2025_09_26 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_11_25 14:00:00",
       "labelName": "決戰終焉之章",
       "name": "shenluoShenghuaSkin1",
       "channel": 0,
@@ -2739,8 +2739,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_19 10:00:00",
-      "ending": "2025_09_26 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_11_18 14:00:00",
       "labelName": "朔星慶典",
       "name": "shuoxingceremonyEntryPanel",
       "channel": 0,
@@ -2752,12 +2752,12 @@
       "redbadge": 106,
       "signType": 2,
       "sorting": 2,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_09_19 10:00:00",
-      "ending": "2025_09_26 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_11_18 14:00:00",
       "labelName": "安檢日誌",
       "name": "SecurityCheckEnter",
       "channel": 0,
@@ -2769,12 +2769,12 @@
       "redbadge": 107,
       "signType": 2,
       "sorting": 1,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/luckyrocketGameEntry/prefabs/luckyrocketGameEntry.prefab",
-      "beginning": "",
-      "ending": "",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "第二深空計劃",
       "name": "luckyrocketGameEntry",
       "channel": 0,
@@ -2782,11 +2782,11 @@
       "helptips": 0,
       "id": 178,
       "iOSreviewshow": 1,
-      "isShow": 0,
+      "isShow": 1,
       "redbadge": 0,
       "signType": 0,
       "sorting": 3,
-      "type": 7
+      "type": 1
     },
     {
       "args": "",
@@ -2824,8 +2824,8 @@
     },
     {
       "args": "Assets/Game/UI/xitalunActivity/xitalunActivity.prefab",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "絨絨菊大作戰",
       "name": "XitalunGame",
       "channel": 0,
@@ -2837,7 +2837,7 @@
       "redbadge": 109,
       "signType": 2,
       "sorting": 2,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -2943,8 +2943,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_11 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "浮星繪夢",
       "name": "xitalunAstronautSkinSell",
       "channel": 0,
@@ -2956,7 +2956,7 @@
       "redbadge": 115,
       "signType": 1,
       "sorting": 6,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
