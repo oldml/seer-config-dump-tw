@@ -28,7 +28,7 @@
       "bosshp": 30,
       "bosspicscale": 0.75,
       "id": 1,
-      "opentime": 1760666400,
+      "opentime": 1794967200,
       "playerattack": 3,
       "playerhp": 15
     },
@@ -60,7 +60,7 @@
       "bosshp": 35,
       "bosspicscale": 0.5,
       "id": 2,
-      "opentime": 1760716800,
+      "opentime": 1795017600,
       "playerattack": 3,
       "playerhp": 18
     },
@@ -92,7 +92,7 @@
       "bosshp": 40,
       "bosspicscale": 0.55,
       "id": 3,
-      "opentime": 1760803200,
+      "opentime": 1795104000,
       "playerattack": 4,
       "playerhp": 20
     },
@@ -124,7 +124,7 @@
       "bosshp": 55,
       "bosspicscale": 0.35,
       "id": 4,
-      "opentime": 1760889600,
+      "opentime": 1795190400,
       "playerattack": 5,
       "playerhp": 25
     },
@@ -156,7 +156,7 @@
       "bosshp": 60,
       "bosspicscale": 0.6,
       "id": 5,
-      "opentime": 1760976000,
+      "opentime": 1795276800,
       "playerattack": 5,
       "playerhp": 30
     }

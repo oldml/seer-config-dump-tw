@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_11_11 14:00:00",
-      "ending": "2026_11_18 14:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_11_25 14:00:00",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -393,8 +393,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_03_28 10:00:00",
-      "ending": "2025_04_11 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "暴躁迪爾克",
       "name": "angerDilke",
       "channel": 0,
@@ -2807,8 +2807,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_10 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_11_25 14:00:00",
       "labelName": "殘局整理計劃",
       "name": "OrganizeEndgameActivity",
       "channel": 0,
@@ -2819,8 +2819,8 @@
       "isShow": 1,
       "redbadge": 114,
       "signType": 2,
-      "sorting": 11,
-      "type": 6
+      "sorting": 3,
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/xitalunActivity/xitalunActivity.prefab",
@@ -2858,8 +2858,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_09 14:00:00",
       "labelName": "蓓麗安特",
       "name": "gearAndStarBrilliant",
       "channel": 0,
@@ -2871,12 +2871,12 @@
       "redbadge": 122,
       "signType": 1,
       "sorting": 3,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_09 14:00:00",
       "labelName": "克雷弗德",
       "name": "gearAndStarKrefeld",
       "channel": 0,
@@ -2888,7 +2888,7 @@
       "redbadge": 121,
       "signType": 1,
       "sorting": 4,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -2926,8 +2926,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_09 14:00:00",
       "labelName": "時尚風華",
       "name": "keleibeiliOldSkin",
       "channel": 0,
@@ -2939,7 +2939,7 @@
       "redbadge": 120,
       "signType": 1,
       "sorting": 7,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
@@ -2960,8 +2960,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_09 14:00:00",
       "labelName": "領銜·朔星",
       "name": "keleibeiliSkinPanel",
       "channel": 0,
@@ -2973,12 +2973,12 @@
       "redbadge": 119,
       "signType": 1,
       "sorting": 7,
-      "type": 6
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_09_26 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "深空局長",
       "name": "yifuPveLevel",
       "channel": 0,
@@ -2989,13 +2989,13 @@
       "isShow": 1,
       "redbadge": 116,
       "signType": 1,
-      "sorting": 8,
-      "type": 8
+      "sorting": 3,
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_10_03 00:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "群星漫遊",
       "name": "qunxingSkinSellPanel",
       "channel": 0,
@@ -3007,7 +3007,7 @@
       "redbadge": 113,
       "signType": 1,
       "sorting": 6,
-      "type": 6
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/gotoTapTap_4/gotoTapTap_4.prefab",
@@ -3028,8 +3028,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_10 10:00:00",
-      "ending": "2025_10_17 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_11_25 14:00:00",
       "labelName": "死黑能量灌注",
       "name": "DeathBlackEnergy",
       "channel": 0,
@@ -3045,8 +3045,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_10_10 10:00:00",
-      "ending": "2025_10_24 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "巴姆的寶藏",
       "name": "treasureOfBamPanel",
       "channel": 0,
@@ -3164,8 +3164,8 @@
     },
     {
       "args": "Assets/Game/UI/ExploringVolcanicStars/ExploringVolcanicStars.prefab",
-      "beginning": "2025_10_10 10:00:00",
-      "ending": "2025_10_24 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "探索火山星",
       "name": "ExploringVolcanicStars",
       "channel": 0,
@@ -3181,8 +3181,8 @@
     },
     {
       "args": "Assets/Game/UI/blazeMonopolyGame/blazeMonopolyGame.prefab",
-      "beginning": "2025_10_17 10:00:00",
-      "ending": "2025_10_24 10:00:00",
+      "beginning": "2026_11_18 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "烈焰徵途",
       "name": "BlazeMonopolyGame",
       "channel": 0,
