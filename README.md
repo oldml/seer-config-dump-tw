@@ -1,11 +1,11 @@
-![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20261118104648-blue?style=flat-square&logo=unity&logoColor=white)
+![ConfigPackage](https://img.shields.io/badge/ConfigPackage-20261118165649-blue?style=flat-square&logo=unity&logoColor=white)
 ![DefaultPackage](https://img.shields.io/badge/DefaultPackage-20261118120342-brightgreen?style=flat-square&logo=unity&logoColor=white)
-![Updated](https://img.shields.io/badge/-2026--11--18%2015%3A43%3A25%20UTC%2B8-lightgrey?style=flat-square&logo=uptimekuma&logoColor=white)
+![Updated](https://img.shields.io/badge/-2026--11--18%2017%3A33%3A35%20UTC%2B8-lightgrey?style=flat-square&logo=uptimekuma&logoColor=white)
 
 ```diff
-! 48 files changed
-+ 550 insertions(+)
-- 408 deletions(-)
+! 42 files changed
++ 346 insertions(+)
+- 346 deletions(-)
 ```
 
 ### 新增
@@ -16,10 +16,8 @@
 ### 更新
 | Path | Diff (+/-) |
 | :--- | :--- |
-|  [new_monster_level.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/new_monster_level.json) | `136+` |
 |  [archivesStory.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/archivesStory.json) | `64+ 64-` |
 |  [talk.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/talk.json) | `35+ 35-` |
-|  [ActivityCenter.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/ActivityCenter.json) | `35+ 35-` |
 |  [story_1018.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1018.json) | `26+ 26-` |
 |  [story_1025.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1025.json) | `23+ 23-` |
 |  [story_1009.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1009.json) | `20+ 20-` |
@@ -28,27 +26,22 @@
 |  [story_3002.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_3002.json) | `17+ 17-` |
 |  [story_1010.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1010.json) | `13+ 13-` |
 |  [story_1017.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1017.json) | `12+ 12-` |
-|  [product_diamond.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/product_diamond.json) | `12+ 12-` |
 |  [story_1022.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1022.json) | `11+ 11-` |
 |  [story_1020.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1020.json) | `10+ 10-` |
 |  [story_1013.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1013.json) | `9+ 9-` |
 |  [story_1021.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1021.json) | `8+ 8-` |
-|  [rebate.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/rebate.json) | `11+ 5-` |
 |  [story_1026.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1026.json) | `7+ 7-` |
 |  [story_1019.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1019.json) | `5+ 5-` |
-|  [petbook.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/petbook.json) | `5+ 5-` |
-|  [blazeMonopolyGame.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/blazeMonopolyGame.json) | `5+ 5-` |
 |  [story_4001.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_4001.json) | `4+ 4-` |
 |  [story_2005.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_2005.json) | `4+ 4-` |
 |  [storyAnniversary2026ChatTalk.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/storyAnniversary2026ChatTalk.json) | `4+ 4-` |
+|  [product_diamond.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/product_diamond.json) | `4+ 4-` |
 |  [story_1024.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1024.json) | `3+ 3-` |
-|  [help_tips.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/help_tips.json) | `3+ 3-` |
 |  [story_3001.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_3001.json) | `2+ 2-` |
 |  [story_2007.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_2007.json) | `2+ 2-` |
 |  [story_1015.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1015.json) | `2+ 2-` |
 |  [story_1008.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/story_1008.json) | `2+ 2-` |
 |  [starmap.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/starmap.json) | `2+ 2-` |
-|  [pvp_vote.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/pvp_vote.json) | `2+ 2-` |
 |  [deepSeaCollectBook.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/deepSeaCollectBook.json) | `2+ 2-` |
 |  [dangoGuide.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/dangoGuide.json) | `2+ 2-` |
 |  [OriginRecall_Main.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/OriginRecall_Main.json) | `2+ 2-` |
@@ -59,6 +52,7 @@
 |  [natolesJourneyOfRevivalEventConfig.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/natolesJourneyOfRevivalEventConfig.json) | `1+ 1-` |
 |  [map_temp.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/map_temp.json) | `1+ 1-` |
 |  [map.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/map.json) | `1+ 1-` |
+|  [help_tips.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/help_tips.json) | `1+ 1-` |
 |  [fireworkQuestActivityStage.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/fireworkQuestActivityStage.json) | `1+ 1-` |
 |  [dayDreamStoryConfig.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/dayDreamStoryConfig.json) | `1+ 1-` |
 |  [colourmatchGame.json](https://github.com/oldml/seer-config-dump-tw/blob/main/config/colourmatchGame.json) | `1+ 1-` |
