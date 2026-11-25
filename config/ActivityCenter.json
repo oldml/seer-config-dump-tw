@@ -274,8 +274,8 @@
     },
     {
       "args": "",
-      "beginning": "2026_11_18 14:00:00",
-      "ending": "2026_11_25 14:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_01 14:00:00",
       "labelName": "兌鑽獎勵",
       "name": "ExchangeDiamond",
       "channel": 0,
@@ -3538,8 +3538,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "慶典商店",
       "name": "starDiamondShopEntryPanel",
       "channel": 0,
@@ -3551,12 +3551,12 @@
       "redbadge": 151,
       "signType": 1,
       "sorting": 5,
-      "type": 8
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/dangoSlotMain/dangoSlotCenter.prefab",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "精靈扭蛋機",
       "name": "dangoSolt",
       "channel": 0,
@@ -3568,12 +3568,12 @@
       "redbadge": 342006,
       "signType": 0,
       "sorting": 8,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "煙火大會",
       "name": "dangoFire",
       "channel": 0,
@@ -3585,12 +3585,12 @@
       "redbadge": 342005,
       "signType": 0,
       "sorting": 9,
-      "type": 8
+      "type": 1
     },
     {
       "args": "Assets/Game/UI/omniCoetusActivity/prefab/omniCoetusActivityEntry.prefab",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "全民集結",
       "name": "omniCoetusActivityEntry",
       "channel": 0,
@@ -3602,12 +3602,12 @@
       "redbadge": 150261,
       "signType": 0,
       "sorting": 4,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "航行櫥窗",
       "name": "sixthousandSkinSell",
       "channel": 0,
@@ -3619,12 +3619,12 @@
       "redbadge": 153,
       "signType": 0,
       "sorting": 3,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "永恆星圖",
       "name": "sixthousandReturn",
       "channel": 0,
@@ -3636,12 +3636,12 @@
       "redbadge": 154,
       "signType": 0,
       "sorting": 7,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_11_14 10:00:00",
-      "ending": "2025_12_12 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_23 14:00:00",
       "labelName": "慶典獻禮",
       "name": "CommemorativeGift",
       "channel": 0,
@@ -3653,7 +3653,7 @@
       "redbadge": 152,
       "signType": 0,
       "sorting": 10,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
@@ -3759,8 +3759,8 @@
     },
     {
       "args": "",
-      "beginning": "2025_11_21 10:00:00",
-      "ending": "2025_11_28 10:00:00",
+      "beginning": "2026_11_25 14:00:00",
+      "ending": "2026_12_02 14:00:00",
       "labelName": "慶典生日會",
       "name": "AnniversaryBirthdayPanel",
       "channel": 0,
@@ -3772,13 +3772,13 @@
       "redbadge": 159,
       "signType": 0,
       "sorting": 1,
-      "type": 8
+      "type": 1
     },
     {
       "args": "",
-      "beginning": "2025_11_21 10:00:00",
-      "ending": "2025_11_28 10:00:00",
-      "labelName": "遙遠的荒漠星球",
+      "beginning": "2025_11_25 14:00:00",
+      "ending": "2025_12_02 14:00:00",
+      "labelName": "遙遠的寒冰星球",
       "name": "newPlanetPreview",
       "channel": 0,
       "Go": 716,
